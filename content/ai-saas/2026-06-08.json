@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "오픈AI “챗봇 시대 끝”…‘슈퍼앱’ 변신 승부수",
+    "url": "https://n.news.naver.com/mnews/article/011/0004628499",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "오픈AI가 IPO를 앞두고 챗봇 챗GPT 대신 AI 코딩 에이전트 '코덱스'에 힘을 실으며 '슈퍼앱' 변신을 예고했다. 챗봇 시대의 종언과 실행형 에이전트 중심으로의 전략 전환을 시사한다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "클라비, 예지보전에 생성형 AI 입힌다…스마트팩토리 공략 시동",
+    "url": "https://n.news.naver.com/mnews/article/092/0002425567",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "클라비가 생성형 AI를 설비 예지보전에 접목해 스마트팩토리 AX 시장 공략에 나섰다. 제조 현장의 운영 효율과 유지보수 자동화 수요를 겨냥한 버티컬 B2B AI 서비스다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 3,
+    "title": "Claude's next enterprise battle is not models: it's the agent control plane",
+    "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+    "source": "VentureBeat",
+    "publishedDate": "2026-06-06",
+    "summary": "앤트로픽 클로드가 모델 성능 경쟁을 넘어 엔터프라이즈 에이전트 오케스트레이션과 제어(control plane)로 전장을 옮기고 있다. 에이전트 운영·통제 역량이 다음 핵심 경쟁력으로 부상하고 있다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 4,
+    "title": "미토스 발표이후 AI가 찾아낸 취약점만 월 900건…구글·AWS도 예외 없었다",
+    "url": "https://n.news.naver.com/mnews/article/018/0006300153",
+    "source": "네이버",
+    "publishedDate": "2026-06-07",
+    "summary": "AI가 스스로 소스코드를 분석해 구글·AWS 등 빅테크에서도 월 900건의 고위험 취약점을 찾아내고 있다. AI 자동 취약점 탐지가 보안 지형을 빠르게 바꾸고 있다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "일본 기업에 '귀이개'로 영업한 한국 스타트업…11년뒤 벌어진 일",
+    "url": "https://n.news.naver.com/mnews/article/008/0005368177",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "CS 솔루션 채널톡이 11년 전 일본 시장에 '귀이개' 영업으로 진출해 현지에서 의미 있는 성과를 거뒀다. 국내 B2B SaaS의 해외 시장 개척 성공 사례다.",
+    "scorePct": 0
+  }
+]

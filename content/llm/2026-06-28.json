@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "OpenAI wants AI to fix vulnerabilities, not just find them",
+    "url": "https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/",
+    "source": "Help Net Security",
+    "publishedDate": "2026-06-23",
+    "summary": "OpenAI가 Daybreak 보안 이니셔티브를 확장하며 GPT-5.5-Cyber를 공개했고, 이 모델은 CyberGym 벤치마크에서 85.6%를 기록해 일반 GPT-5.5(81.8%)를 앞섰다. 취약점 탐지를 넘어 자동 패치까지 목표로 한다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI Kills GPT-4.5 on June 27 — Migration Guide for API Users",
+    "url": "https://witho2.com/news/openai-gpt-4-5-retirement-june-2026-migration-guide",
+    "source": "WithO2",
+    "publishedDate": "2026-06-27",
+    "summary": "OpenAI가 30일 유예 기간을 거쳐 6월 27일 ChatGPT에서 GPT-4.5를 완전히 퇴역시켰다. GPT-4 세대의 마지막 모델로, API 사용자를 위한 마이그레이션 가이드가 함께 제공됐다.",
+    "scorePct": 75
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic cleared to release Claude Mythos 5 to over 100 US institutions",
+    "url": "https://9to5mac.com/2026/06/26/anthropic-cleared-to-release-claude-mythos-5-to-over-100-us-institutions/",
+    "source": "9to5Mac",
+    "publishedDate": "2026-06-26",
+    "summary": "미국 정부가 Anthropic의 Claude Mythos 5 모델 접근을 100개 이상의 미국 기관에 한해 복원하도록 승인했다. 6월 수출통제 지침으로 중단됐던 최상위 모델이 신뢰 파트너 대상으로 제한적으로 재개된다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 4,
+    "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon",
+    "url": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+    "source": "Axios",
+    "publishedDate": "2026-06-27",
+    "summary": "Mythos 5와 함께 6월 12일 중단됐던 앤트로픽의 고성능 모델 Fable 5가 곧 복귀할 예정이라고 Axios가 보도했다. 일정대로 진행되면 가장 강력한 Claude 계열 모델을 다시 사용할 수 있게 된다.",
+    "scorePct": 0
+  }
+]

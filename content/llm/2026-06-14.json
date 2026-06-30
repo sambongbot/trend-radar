@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Initial impressions of Claude Fable 5",
+    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+    "source": "Simon Willison's blog",
+    "publishedDate": "2026-06-09",
+    "summary": "Simon Willison이 앤트로픽 최초의 공개 Mythos급 모델 Claude Fable 5에 대한 첫 사용 인상을 공유했다. 실제 사용 관점에서 모델의 강점과 특징을 짚었다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "앤트로픽, 미국 정부 지침에 '페이블 5' 서비스 전면 중단",
+    "url": "https://n.news.naver.com/mnews/article/092/0002426483",
+    "source": "네이버",
+    "publishedDate": "2026-06-13",
+    "summary": "미국 행정부가 앤트로픽의 최상위 모델 'Fable 5'와 'Mythos 5'에 대해 외국인의 접근을 전면 금지하는 수출통제를 내렸다. 이에 따라 해당 모델 서비스가 전면 중단됐다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 3,
+    "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+    "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+    "source": "Anthropic (Claude Blog)",
+    "publishedDate": "2026-06-09",
+    "summary": "Claude Managed Agents가 cron 스케줄 기반 자동 실행과 vault를 통한 환경변수 보안 저장을 지원하기 시작했다. CLI 도구에 안전하게 접근하는 기능도 함께 추가됐다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI to Acquire Cloud Platform Ona to Support AI Agents",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents",
+    "source": "Bloomberg",
+    "publishedDate": "2026-06-11",
+    "summary": "OpenAI가 AI 에이전트용 보안 실행환경을 제공하는 클라우드 플랫폼 Ona를 인수한다고 발표했다. 코딩 도구 Codex의 역량 확장이 목적으로 알려졌다.",
+    "scorePct": 0
+  }
+]

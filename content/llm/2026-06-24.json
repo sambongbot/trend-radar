@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic says Claude may want to see your ID",
+    "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-22",
+    "summary": "Anthropic이 일부 Claude 사용자에게 정부 발급 신분증을 업로드해 나이와 신원을 인증하도록 요청할 수 있다고 밝혔다. 규제 대응과 안전성 강화를 위한 계정 정책 변화다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "Is Fable 5 Back? No — Status & Alternatives (June 23, 2026)",
+    "url": "https://explainx.ai/blog/is-fable-5-back-2026",
+    "source": "ExplainX.ai",
+    "publishedDate": "2026-06-23",
+    "summary": "Anthropic이 6월 23일 Fable 5 모델을 Pro·Max·Team 및 좌석 기반 Enterprise 플랜에서 제거했다. 모델은 복귀하지 않았으며, 기사에서는 대체 모델 선택지를 안내한다.",
+    "scorePct": 83
+  },
+  {
+    "rank": 3,
+    "title": "‘오픈AI 올인 끝’ 멀티 모델 전략 본격화...사티아 나델라 “中 딥시크 탑재 검토”",
+    "url": "https://n.news.naver.com/mnews/article/025/0003532542",
+    "source": "네이버",
+    "publishedDate": "2026-06-23",
+    "summary": "빅테크 하이퍼스케일러들이 AI 에이전트 확산에 따른 비용 부담을 줄이려 가성비 높은 중국산 모델까지 채택하는 멀티 모델 전략을 본격화하고 있다. 마이크로소프트 사티아 나델라는 딥시크 모델 탑재까지 검토하는 것으로 전해졌다.",
+    "scorePct": 17
+  },
+  {
+    "rank": 4,
+    "title": "스패로우, AI 코드 보안 어시스턴트 'Sparrow MCP' 출시",
+    "url": "https://n.news.naver.com/mnews/article/293/0000086692",
+    "source": "네이버",
+    "publishedDate": "2026-06-24",
+    "summary": "파수AI의 보안 자회사 스패로우가 6월 23일 AI가 안전한 코드를 생성하도록 돕는 보안 어시스턴트 'Sparrow MCP'를 출시했다. MCP 방식으로 AI 코딩 도구에 코드 보안 검증을 연동하는 제품이다.",
+    "scorePct": 17
+  },
+  {
+    "rank": 5,
+    "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+    "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+    "source": "VentureBeat",
+    "publishedDate": "2026-06-19",
+    "summary": "알리바바 클라우드가 엔터프라이즈 API를 갖춘 AI 비디오 모델 HappyHorse 1.1을 출시하며 글로벌 랭킹 2위로 올라섰다. OpenAI의 Sora와 ByteDance의 Seedance가 밀려난 자리를 빠르게 차지했다.",
+    "scorePct": 0
+  }
+]

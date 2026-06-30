@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-16",
+    "summary": "스타트업 Probably가 a16z로부터 900만 달러 시드 투자를 유치해 LLM 환각(hallucination)을 줄이는 더 신뢰할 수 있는 AI를 개발한다. LLM 신뢰성 문제 해결에 자본이 집중되고 있음을 보여준다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "Z.ai's open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+    "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+    "source": "VentureBeat",
+    "publishedDate": "2026-06-17",
+    "summary": "Z.ai가 7530억 파라미터 오픈웨이트 모델 GLM-5.2를 공개했는데, 다수의 장기 호흡(long-horizon) 코딩 벤치마크에서 GPT-5.5를 1/6 비용으로 능가했다. 자율 코딩 작업에 최적화된 고성능 오픈소스 대안으로 주목된다.",
+    "scorePct": 75
+  },
+  {
+    "rank": 3,
+    "title": "The US government's Anthropic models ban was never about an AI jailbreak",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-15",
+    "summary": "미국 정부가 앤트로픽에 Fable 5·Mythos 5 최신 모델의 접근 차단을 명령했으나, 공식 명분인 '탈옥(jailbreak) 위험'과 달리 실제 배경은 수출통제 정책에 있다고 테크크런치가 보도했다. 모델 접근 제한의 진짜 이유와 향후 해제 가능성을 분석한 기사다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
+    "url": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-06-16",
+    "summary": "오픈AI가 과거 대화를 새 후보 모델에 시뮬레이션 도구 호출로 재생해 배포 전 위험을 평가하는 'Deployment Simulation' 기법을 공개했다. 에이전트형 코딩 영역까지 사전 위험 평가를 확장한 것이 핵심이다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 5,
+    "title": "수출통제 논란 속 서울 오피스 연 앤트로픽 “최신 모델, 한국도 곧 이용 가능할 것” [팩플]",
+    "url": "https://n.news.naver.com/mnews/article/025/0003531260",
+    "source": "네이버",
+    "publishedDate": "2026-06-18",
+    "summary": "앤트로픽이 서울 오피스를 열고 한국 시장 공략을 본격화했다. 수출통제로 제한됐던 최신 모델도 한국에서 곧 이용 가능할 것이라고 밝혀, 국내 Claude 사용 환경 확대가 예상된다.",
+    "scorePct": 0
+  }
+]

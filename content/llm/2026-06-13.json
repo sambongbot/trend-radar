@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "\"제미나이 제치고 챗GPT 맹추격\"…韓 시장 무서운 질주",
+    "url": "https://n.news.naver.com/mnews/article/215/0001255241",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "앤트로픽의 클로드가 한국 생성형 AI 앱 시장에서 구글 제미나이를 제치고 매출 2위에 올랐다. 센서타워에 따르면 한국은 미국 다음가는 클로드의 핵심 수익 시장으로 부상했으며, 챗GPT를 빠르게 추격 중이다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "삼성·SK \"온디바이스 AI, PIM으로 뚫는다\"…메모리 연산 시대 본격화",
+    "url": "https://n.news.naver.com/mnews/article/092/0002426440",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "온디바이스 AI 시장이 급성장하면서 메모리에서 직접 연산하는 PIM(프로세싱 인 메모리) 기술이 부상하고 있다. 삼성·SK가 LLM 구동에 최적화된 하드웨어로 메모리 연산 시대를 본격화하고 있다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 3,
+    "title": "로봇 만들려면 결국 中 거쳐야…휴머노이드 공급망 사실상 장악",
+    "url": "https://n.news.naver.com/mnews/article/584/0000038028",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "AI 시대 휴머노이드 로봇 경쟁이 본격화되는 가운데 중국이 센서·관절·배터리 등 핵심 부품부터 생산까지 공급망 전반을 장악했다는 분석이 나왔다. AI를 탑재한 물리 로봇 산업의 공급망 의존도가 부각되고 있다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 4,
+    "title": "샘 올트먼 방한 돌연 연기…삼성-네카오 회동 무산",
+    "url": "https://n.news.naver.com/mnews/article/020/0003726451",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "샘 올트먼 오픈AI CEO가 14일로 예정됐던 방한을 포함한 아시아 순방 일정을 돌연 연기했다. 이에 삼성전자·네이버·카카오 등 국내 주요 IT 기업 경영진과의 회동도 무산됐다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "연세대 연구팀, 구글 주최 AI 시스템 최적화 대회 1위",
+    "url": "https://n.news.naver.com/mnews/article/448/0000619133",
+    "source": "네이버",
+    "publishedDate": "2026-06-13",
+    "summary": "연세대 전기전자공학부 연구팀이 구글이 주최한 국제 AI 시스템 최적화 대회에서 1위를 차지했다. 지난 5월 미국에서 열린 대회에서 거둔 성과로 국내 연구진의 AI 인프라 최적화 역량을 입증했다.",
+    "scorePct": 0
+  }
+]

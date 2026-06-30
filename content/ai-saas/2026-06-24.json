@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Agentic AI News — June 2026 Launches, Models & Research",
+    "url": "https://agentic.ai/news",
+    "source": "Agentic AI",
+    "publishedDate": "2026-06-23",
+    "summary": "6월 23일부터 앤스로픽 클로드 Fable 5 사용에 소비 크레딧(입력 100만 토큰당 10달러, 출력 50달러)이 적용되기 시작했다. AI 서비스 운영 원가에 직접 영향을 주는 과금 정책 변경이다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls/",
+    "source": "OpenAI",
+    "publishedDate": "2026-06-21",
+    "summary": "오픈AI가 챗GPT 엔터프라이즈에 크레딧 사용량 분석과 지출 관리 기능을 새로 도입했다. 기업이 부서·팀별 AI 사용 비용을 추적하고 예산 한도를 설정할 수 있게 됐다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 3,
+    "title": "Gemini 2.5 Deep Think is now rolling out",
+    "url": "https://blog.google/products/gemini/gemini-2-5-deep-think/",
+    "source": "Google Blog",
+    "publishedDate": "2026-06-22",
+    "summary": "구글이 6월 22일 딥 싱크(Deep Think)를 탑재한 제미나이 2.5 프로를 출시했다. 200만 토큰의 컨텍스트 윈도우와 향상된 추론 능력을 제공한다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 4,
+    "title": "Venture Capital & Startup Funding Roundup, June 22, 2026",
+    "url": "https://techstartups.com/2026/06/22/venture-capital-startup-funding-roundup-june-22-2026/",
+    "source": "Tech Startups",
+    "publishedDate": "2026-06-22",
+    "summary": "6월 22일 하루에만 10건의 펀딩 라운드에서 약 33.7억 달러의 신규 자본이 공개됐다. AI 인프라 기업 베이스텐(Baseten)이 15억 달러 규모의 시리즈 투자를 유치하는 등 대형 AI 딜이 이어졌다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 5,
+    "title": "삼성SDS·LG CNS·카카오 등 총출동…공공 행정도 '에이전틱 AI' 시대",
+    "url": "https://n.news.naver.com/mnews/article/092/0002427767",
+    "source": "네이버",
+    "publishedDate": "2026-06-23",
+    "summary": "삼성SDS, LG CNS, 카카오, NHN두레이 등 국내 주요 SW 기업이 공공 AI 시장 주도권 경쟁에 본격 나섰다. 생성형 AI 도입을 넘어 행정 업무를 자율 수행하는 '에이전틱 AI' 단계로 경쟁의 축이 옮겨가고 있다.",
+    "scorePct": 0
+  }
+]

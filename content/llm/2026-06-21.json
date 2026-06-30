@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "올마이투어, 국내 최초 앤트로픽 해커톤서 준우승 차지",
+    "url": "https://n.news.naver.com/mnews/article/144/0001121714",
+    "source": "네이버",
+    "publishedDate": "2026-06-21",
+    "summary": "“AI 멀티에이전트로 호텔 운영 현장 난제 풀었다” 올마이투어가 국내 첫 개최돈 앤트로픽(Anthropic)의 해커톤 ‘푸시 투 프로드 서울(Push to Prod SEOUL)’에서 40여 개 참여 기업 중 2위가 ",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "한국서도 챗GPT에 광고 붙는다... 시험대 오른 AI 중립성·객관성",
+    "url": "https://n.news.naver.com/mnews/article/469/0000937428",
+    "source": "네이버",
+    "publishedDate": "2026-06-21",
+    "summary": "오픈AI가 인공지능(AI) 챗봇 ‘챗GPT’에 광고를 붙이는 정책을 한국에도 적용하기 시작하면서 답변의 객관성과 개인정보 보호를 둘러싼 우려가 나온다. 오픈AI는 광고가 답변의 독립성과 객관성에 영향을 주지 않는다고",
+    "scorePct": 0
+  },
+  {
+    "rank": 3,
+    "title": "챗GPT에 광고 표출 시작...내 대화는 괜찮을까?",
+    "url": "https://n.news.naver.com/mnews/article/052/0002369056",
+    "source": "네이버",
+    "publishedDate": "2026-06-20",
+    "summary": "오픈AI가 미국과 영국, 캐나다 등에 이어 국내에서도 챗GPT에 광고 서비스를 시범적으로 시작했습니다. 사적 대화를 광고에 이용하지 않고 미성년자에게도 노출시키지 않기로 했지만, 우려의 목소리도 나오고 있습니다. 김",
+    "scorePct": 0
+  },
+  {
+    "rank": 4,
+    "title": "“중국에 AI 밀렸다”...머스크가 자율코딩 앱 사들인 속사정 [김기혁의 테슬라월드]",
+    "url": "https://n.news.naver.com/mnews/article/011/0004633187",
+    "source": "네이버",
+    "publishedDate": "2026-06-20",
+    "summary": "“현재 1위는 앤쓰로픽, 2위는 오픈AI, 3위는 구글, 4위는 중국 오픈소스 모델입니다. xAI는 5위 정도에 불과하죠.” 일론 머스크 스페이스X 겸 테슬라 최고경영자(CEO)가 최근 오픈AI를 상대로 제기한 민사",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "챗GPT는 ‘대중형’, 클로드는 ‘업무형’, 제미나이는 ‘크리에이터형’…AI 비서 시장 3강 구도",
+    "url": "https://n.news.naver.com/mnews/article/018/0006310680",
+    "source": "네이버",
+    "publishedDate": "2026-06-20",
+    "summary": "생성형 AI 시장이 급격한 확장기를 지나 사용자 층이 명확히 분화되는 구조적 전환 국면에 들어섰다. 챗GPT는 대중형 플랫폼으로, 클로드는 업무·개발 중심 도구로, 구글 제미나이는 크리에이터 생태계 중심으로 자리 잡",
+    "scorePct": 0
+  }
+]

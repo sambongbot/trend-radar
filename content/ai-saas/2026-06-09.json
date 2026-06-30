@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "한국에 5년간 550조 AI 투자 일어난다…\"AI팩토리 6GW 구축\"",
+    "url": "https://n.news.naver.com/mnews/article/421/0008992436",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "젠슨 황 엔비디아 CEO가 향후 5년간 한국에 3600억 달러(약 550조원) 규모의 AI 투자를 예고하며 6GW급 'AI 팩토리' 구축 협력을 약속했다. SK·네이버 등 주요 기업과 칩부터 데이터센터까지 아우르는 풀스택 AI 인프라 동맹이 형성됐다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "클랩(CLAP), AI 통합 성과관리 플랫폼 '클랩 넥서스' 출시",
+    "url": "https://n.news.naver.com/mnews/article/015/0005296210",
+    "source": "네이버",
+    "publishedDate": "2026-06-09",
+    "summary": "성과관리 SaaS 기업 클랩(CLAP)이 자사 AI 기능을 통합 관장하는 AI 플랫폼 '클랩 넥서스'를 출시했다. 분산된 AI 기능을 하나의 플랫폼에서 운영·관리하는 구조로, B2B 성과관리 영역의 AI 통합 흐름을 보여준다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "KT ‘AX판 숨고’ 도전…스타트업·전문가 모은다",
+    "url": "https://n.news.naver.com/mnews/article/011/0004628906",
+    "source": "네이버",
+    "publishedDate": "2026-06-09",
+    "summary": "KT가 기업 AI 전환(AX) 시장 공략을 위해 국내 스타트업과 산업별 전문가가 참여하는 'AX 얼라이언스'를 만든다. 데이터 정제, 보안 등 AX 전환에 필요한 핵심 역량을 모은 일종의 'AX판 숨고' 생태계를 지향한다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 4,
+    "title": "2조원 규모 정부 GPU 구축 사업자에 삼성SDS·네이버클라우드·엘리스그룹",
+    "url": "https://n.news.naver.com/mnews/article/011/0004628870",
+    "source": "네이버",
+    "publishedDate": "2026-06-09",
+    "summary": "정부가 2조800억원 규모의 GPU 구축 사업자로 네이버클라우드, 삼성SDS, 엘리스그룹을 선정했다. 민간 클라우드 기업과 함께 독자 AI 파운데이션 모델 기반의 국가 AI 인프라를 구축한다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "SK AX·머서 AI 전환 플랫폼 구축 MOU",
+    "url": "https://n.news.naver.com/mnews/article/025/0003528944",
+    "source": "네이버",
+    "publishedDate": "2026-06-09",
+    "summary": "SK AX가 글로벌 HR 컨설팅 기업 머서와 손잡고 기업의 AI 전환을 위한 조직 운영 설계와 에이전틱 AI 플랫폼 구축에 나선다. 양사는 MOU를 맺고 조직 운영과 결합된 에이전틱 AI 도입 모델을 함께 만든다.",
+    "scorePct": 0
+  }
+]

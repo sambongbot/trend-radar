@@ -1,0 +1,56 @@
+[
+  {
+    "rank": 1,
+    "title": "Microsoft and Google are late to AI coding, but 'absolutely critical' they compete for growth",
+    "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+    "source": "CNBC",
+    "publishedDate": "2026-06-01",
+    "summary": "마이크로소프트와 구글이 AI 코딩 모델 경쟁에 뒤늦게 뛰어들었으나 성장에 필수적이라는 평가다. 앤트로픽의 Claude Code가 이 분야에서 앞서나가는 가운데 오픈AI는 초점을 옮겼다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination",
+    "url": "https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/",
+    "source": "InfoQ",
+    "publishedDate": "2026-06-04",
+    "summary": "앤트로픽이 Claude Code에 Dynamic Workflows를 도입해 하나의 오케스트레이터 세션이 여러 에이전트를 병렬로 스폰하고 조율할 수 있게 됐다. 단일 세션의 순차 작업 한계를 넘어 복잡한 멀티스텝 작업을 동시 처리하는 구조다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 3,
+    "title": "Microsoft Build 2026: Be yourself at work",
+    "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+    "source": "Microsoft Blog",
+    "publishedDate": "2026-06-02",
+    "summary": "Microsoft Build 2026 announcement centers on AI agents: Microsoft IQ going GA, sweeping Microsoft Foundry updates with Hosted Agents GA, Microsoft Agent Framework 1.0 GA, Agent Control Specification preview, Copilot Credits as consumption meter, and Agent 365 SDK going GA.",
+    "scorePct": 60
+  },
+  {
+    "rank": 4,
+    "title": "xAI Launches Grok Composer 2.5 Inside Grok Build",
+    "url": "https://www.basenor.com/blogs/news/xai-launches-grok-composer-2-5-inside-grok-build",
+    "source": "Basenor",
+    "publishedDate": "2026-06-01",
+    "summary": "xAI가 에이전트형 코딩 모델 Composer 2.5를 Grok Build 내부에 출시했다. 자율적으로 코드 작업을 수행하는 에이전틱 코딩 역량 강화에 초점을 맞췄다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 5,
+    "title": "Claude AI Experiences Widespread Outage on June 2 Disrupting Users Across Platforms",
+    "url": "https://www.ibtimes.com.au/claude-ai-outage-disrupts-users-1869945",
+    "source": "IBTimes Australia",
+    "publishedDate": "2026-06-02",
+    "summary": "6월 2일 Claude AI가 웹·모바일 등 전 플랫폼에 걸쳐 광범위한 장애를 겪으며 사용자 작업이 중단됐다. 이후 서비스가 복구됐으나 단일 AI 벤더 의존의 리스크를 드러냈다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 6,
+    "title": "GitHub Copilot Usage-Based Billing Takes Effect, Drawing Developer Backlash Over Rapid Credit Depletion",
+    "url": "https://www.ghacks.net/2026/06/02/github-copilot-usage-based-billing-takes-effect-drawing-developer-backlash-over-rapid-credit-depletion/",
+    "source": "gHacks Tech News",
+    "publishedDate": "2026-06-02",
+    "summary": "GitHub Copilot이 6월 1일부터 전 요금제를 토큰(AI Credits) 사용량 기반 과금으로 전환했다. 크레딧이 빠르게 소진된다는 개발자 반발이 잇따르며 비용 예측 가능성 우려가 제기됐다.",
+    "scorePct": 0
+  }
+]

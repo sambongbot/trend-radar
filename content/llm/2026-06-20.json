@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "AI News Today - June 17, 2026: 16 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-17-2026",
+    "source": "BuildFastWithAI",
+    "publishedDate": "2026-06-17",
+    "summary": "6월 17일자 AI 주요 뉴스 16건을 정리한 데일리 라운드업으로, Cohere의 무료 코딩 모델 North Mini Code 등이 포함됐다. 하루치 LLM 생태계 변화를 빠르게 훑기 좋은 요약이다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
+    "url": "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
+    "source": "TechTimes",
+    "publishedDate": "2026-06-16",
+    "summary": "OpenAI 수석과학자 야쿱 파호츠키가 GPT-5.6을 GPT-5.5 대비 의미 있는 도약이라 평하며 6월 출시가 임박했다고 밝혔다. OpenAI와 Anthropic 간 성능·가격 경쟁이 가속되는 신호다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
+    "url": "https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change/",
+    "source": "The New Stack",
+    "publishedDate": "2026-06-15",
+    "summary": "Anthropic이 6월 15일 시행 예정이던 Claude Agent SDK 과금 개편을 당일 전격 보류했다. Agent SDK, claude -p, 서드파티 사용분을 별도 API 요율로 청구하려던 변경이 사용자 반발로 멈춘 것이다.",
+    "scorePct": 0
+  }
+]
