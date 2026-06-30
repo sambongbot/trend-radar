@@ -1,57 +1,47 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-01",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "Anthropic Releases Claude Opus 4.8 With Effort Controls and Dynamic Workflows for Claude Code",
-      "url": "https://www.ghacks.net/2026/05/30/anthropic-releases-claude-opus-4-8-with-effort-controls-and-dynamic-workflows-for-claude-code/",
-      "source": "gHacks Tech News",
-      "sourceLabel": "gHacks Tech News",
-      "publishedDate": "2026-05-30",
-      "summary": "Anthropic이 Claude Opus 4.7의 후속작인 Claude Opus 4.8을 공개했다. 코딩 성능 강화, effort controls, Claude Code용 dynamic workflows가 핵심으로, 사용자가 추론 강도를 조절하고 스크립트 기반 자동화를 구성할 수 있다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 2,
-      "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
-      "url": "https://n.news.naver.com/mnews/article/031/0001032005",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-01",
-      "summary": "삼성전자와 SK하이닉스가 Anthropic에 조 단위 투자를 단행한 것으로 확인됐다. HBM 공급 확대를 넘어 차세대 AI 칩 공동 개발까지 협력 범위를 넓힐 전망이다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 3,
-      "title": "에이전틱 AI가 불붙인 PC 하드웨어 경쟁 … K메모리에 새 기회",
-      "url": "https://n.news.naver.com/mnews/article/009/0005687445",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-01",
-      "summary": "엔비디아가 '새로운 PC의 시대'를 선언하며 에이전틱 AI 구동을 위한 고사양 온디바이스 환경을 강조했다. 전문가용 모델 구동에 128GB 수준 메모리가 필요해 K메모리 수요가 급증할 전망이다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 4,
-      "title": "네이버 '국방 AI' 사업 진출한다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005293333",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-01",
-      "summary": "네이버가 자체 초거대 AI와 클라우드를 기반으로 '한국형 국방 AI 플랫폼' 사업에 진출한다. 소버린 AI 전략을 앞세워 군사 데이터 통합·분석 영역을 새 성장축으로 키운다.",
-      "scorePct": 0
-    },
-    {
-      "rank": 5,
-      "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
-      "url": "https://n.news.naver.com/mnews/article/023/0003979447",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-05-31",
-      "summary": "엔비디아가 6월 초 PC용 SoC를 공개하며 CPU·소비자 시장 진입을 본격화한다. GPU 독점에 이어 AI PC 칩까지 수직 통합을 노리는 전략이다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "Anthropic Releases Claude Opus 4.8 With Effort Controls and Dynamic Workflows for Claude Code",
+    "url": "https://www.ghacks.net/2026/05/30/anthropic-releases-claude-opus-4-8-with-effort-controls-and-dynamic-workflows-for-claude-code/",
+    "source": "gHacks Tech News",
+    "publishedDate": "2026-05-30",
+    "summary": "Anthropic이 Claude Opus 4.7의 후속작인 Claude Opus 4.8을 공개했다. 코딩 성능 강화, effort controls, Claude Code용 dynamic workflows가 핵심으로, 사용자가 추론 강도를 조절하고 스크립트 기반 자동화를 구성할 수 있다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "삼성·SK, 美앤트로픽에 조단위 투자…HBM 이어 AI칩 협력",
+    "url": "https://n.news.naver.com/mnews/article/031/0001032005",
+    "source": "네이버",
+    "publishedDate": "2026-06-01",
+    "summary": "삼성전자와 SK하이닉스가 Anthropic에 조 단위 투자를 단행한 것으로 확인됐다. HBM 공급 확대를 넘어 차세대 AI 칩 공동 개발까지 협력 범위를 넓힐 전망이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "에이전틱 AI가 불붙인 PC 하드웨어 경쟁 … K메모리에 새 기회",
+    "url": "https://n.news.naver.com/mnews/article/009/0005687445",
+    "source": "네이버",
+    "publishedDate": "2026-06-01",
+    "summary": "엔비디아가 '새로운 PC의 시대'를 선언하며 에이전틱 AI 구동을 위한 고사양 온디바이스 환경을 강조했다. 전문가용 모델 구동에 128GB 수준 메모리가 필요해 K메모리 수요가 급증할 전망이다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "네이버 '국방 AI' 사업 진출한다",
+    "url": "https://n.news.naver.com/mnews/article/015/0005293333",
+    "source": "네이버",
+    "publishedDate": "2026-06-01",
+    "summary": "네이버가 자체 초거대 AI와 클라우드를 기반으로 '한국형 국방 AI 플랫폼' 사업에 진출한다. 소버린 AI 전략을 앞세워 군사 데이터 통합·분석 영역을 새 성장축으로 키운다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "엔비디아, PC 칩까지...GPU뿐 아니라 CPU·소비자 시장까지 독식 야심",
+    "url": "https://n.news.naver.com/mnews/article/023/0003979447",
+    "source": "네이버",
+    "publishedDate": "2026-05-31",
+    "summary": "엔비디아가 6월 초 PC용 SoC를 공개하며 CPU·소비자 시장 진입을 본격화한다. GPU 독점에 이어 AI PC 칩까지 수직 통합을 노리는 전략이다.",
+    "scorePct": 0
+  }
+]

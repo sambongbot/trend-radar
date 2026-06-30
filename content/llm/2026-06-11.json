@@ -1,57 +1,47 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-11",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "Claude Fable 5 is generally available for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-09-claude-fable-5-is-generally-available-for-github-copilot/",
-      "source": "GitHub Changelog",
-      "sourceLabel": "GitHub Changelog",
-      "publishedDate": "2026-06-09",
-      "summary": "앤트로픽의 첫 공개 Mythos급 모델인 Claude Fable 5가 GitHub Copilot에서 정식 사용 가능해졌다. Copilot 사용자도 이제 최상위 코딩 모델을 선택할 수 있다.",
-      "scorePct": 80
-    },
-    {
-      "rank": 2,
-      "title": "Claude Code v2.1.169 Major Updates",
-      "url": "https://dev.classmethod.jp/en/articles/20260609-cc-updates-v2-1-169/",
-      "source": "DevelopersIO (Classmethod)",
-      "sourceLabel": "DevelopersIO (Classmethod)",
-      "publishedDate": "2026-06-09",
-      "summary": "Claude Code v2.1.169가 6월 8일 릴리스됐다. 모든 커스텀 설정을 비활성화한 채 시작하는 --safe-mode 플래그가 추가되어 디버깅과 격리 실행이 쉬워졌다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 3,
-      "title": "Claude Fable 5 & Mythos 5: The Frontier, Split in Two",
-      "url": "https://www.digitalapplied.com/blog/claude-fable-5-mythos-5-release-benchmarks-2026",
-      "source": "Digital Applied",
-      "sourceLabel": "Digital Applied",
-      "publishedDate": "2026-06-09",
-      "summary": "앤트로픽이 프론티어 모델을 Fable 5와 Mythos 5로 이원화해 공개했다. Fable 5는 SWE-bench에서 95%를 기록하며 코딩 능력이 크게 향상됐고, 아키텍처와 벤치마크가 상세히 공개됐다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 4,
-      "title": "Anthropic's Claude Code creator says there are days he manages tens of thousands of AI agents at once",
-      "url": "https://fortune.com/2026/06/08/anthropics-boris-cherny-creator-of-claude-code-says-there-are-days-he-manages-tens-of-thousands-of-ai-agents-at-once/",
-      "source": "Fortune",
-      "sourceLabel": "Fortune",
-      "publishedDate": "2026-06-08",
-      "summary": "포춘이 Claude Code 창시자 보리스 체르니를 인터뷰했다. 그는 하루에 수만 개의 AI 에이전트를 동시에 관리하는 날도 있다며 대규모 에이전트 오케스트레이션의 현실을 설명했다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic releases Claude Fable, a version of Mythos, days after warning AI is becoming too dangerous",
-      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "publishedDate": "2026-06-09",
-      "summary": "앤트로픽이 새로운 Mythos 클래스의 첫 공개 모델인 'Claude Fable 5'를 출시했다. 'AI가 너무 위험해지고 있다'는 자체 경고 며칠 만에 나온 역대 최강 성능 모델로, 일반 사용에 안전하다고 강조했다.",
-      "scorePct": 20
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "Claude Fable 5 is generally available for GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-06-09-claude-fable-5-is-generally-available-for-github-copilot/",
+    "source": "GitHub Changelog",
+    "publishedDate": "2026-06-09",
+    "summary": "앤트로픽의 첫 공개 Mythos급 모델인 Claude Fable 5가 GitHub Copilot에서 정식 사용 가능해졌다. Copilot 사용자도 이제 최상위 코딩 모델을 선택할 수 있다.",
+    "scorePct": 80
+  },
+  {
+    "rank": 2,
+    "title": "Claude Code v2.1.169 Major Updates",
+    "url": "https://dev.classmethod.jp/en/articles/20260609-cc-updates-v2-1-169/",
+    "source": "DevelopersIO (Classmethod)",
+    "publishedDate": "2026-06-09",
+    "summary": "Claude Code v2.1.169가 6월 8일 릴리스됐다. 모든 커스텀 설정을 비활성화한 채 시작하는 --safe-mode 플래그가 추가되어 디버깅과 격리 실행이 쉬워졌다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 3,
+    "title": "Claude Fable 5 & Mythos 5: The Frontier, Split in Two",
+    "url": "https://www.digitalapplied.com/blog/claude-fable-5-mythos-5-release-benchmarks-2026",
+    "source": "Digital Applied",
+    "publishedDate": "2026-06-09",
+    "summary": "앤트로픽이 프론티어 모델을 Fable 5와 Mythos 5로 이원화해 공개했다. Fable 5는 SWE-bench에서 95%를 기록하며 코딩 능력이 크게 향상됐고, 아키텍처와 벤치마크가 상세히 공개됐다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic's Claude Code creator says there are days he manages tens of thousands of AI agents at once",
+    "url": "https://fortune.com/2026/06/08/anthropics-boris-cherny-creator-of-claude-code-says-there-are-days-he-manages-tens-of-thousands-of-ai-agents-at-once/",
+    "source": "Fortune",
+    "publishedDate": "2026-06-08",
+    "summary": "포춘이 Claude Code 창시자 보리스 체르니를 인터뷰했다. 그는 하루에 수만 개의 AI 에이전트를 동시에 관리하는 날도 있다며 대규모 에이전트 오케스트레이션의 현실을 설명했다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic releases Claude Fable, a version of Mythos, days after warning AI is becoming too dangerous",
+    "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-09",
+    "summary": "앤트로픽이 새로운 Mythos 클래스의 첫 공개 모델인 'Claude Fable 5'를 출시했다. 'AI가 너무 위험해지고 있다'는 자체 경고 며칠 만에 나온 역대 최강 성능 모델로, 일반 사용에 안전하다고 강조했다.",
+    "scorePct": 20
+  }
+]

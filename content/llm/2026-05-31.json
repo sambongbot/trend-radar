@@ -1,47 +1,38 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-05-31",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "Introducing Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "source": "Anthropic",
-      "sourceLabel": "Anthropic",
-      "publishedDate": "2026-05-28",
-      "summary": "Anthropic이 Claude Opus 4.8을 공식 출시했다. 벤치마크 성능 강화, 협업 능력 개선, 장기 추론 안정성이 핵심 업데이트다. Claude Code 사용자는 즉시 새 모델로 전환 가능하다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 2,
-      "title": "SWE-bench Verified Benchmark 2026: 48 LLM scores",
-      "url": "https://benchlm.ai/benchmarks/sweVerified",
-      "source": "BenchLM.ai",
-      "sourceLabel": "BenchLM.ai",
-      "publishedDate": "2026-05-28",
-      "summary": "2026년 6월9일 기준 SWE-bench Verified 리더보드에서 클로드 미토스5가 95.5%로 1위를 차지했다. 53개 LLM의 코딩 실력을 비교한 이 벤치마크는 실제 소프트웨어 이슈 해결 능력을 측정한다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 3,
-      "title": "20분의 1 가격…중국판 오픈AI, 에이전트 시장 공략 개시",
-      "url": "https://www.ajunews.com/view/20260529103009771",
-      "source": "아주경제",
-      "sourceLabel": "아주경제",
-      "publishedDate": "2026-05-29",
-      "summary": "중국산 프론티어급 LLM이 미국 모델 대비 최대 20분의 1 가격으로 국내 AI 에이전트 시장을 잠식 중이다. DeepSeek·Qwen 등이 한국 기업의 비용 부담을 노리고 공격적 진입을 시작했다. 가격 경쟁이 본격화되는 신호다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 4,
-      "title": "Claude Code Dynamic Workflows: Scripts Replace Context Windows, Ultracode Automates Orchestration",
-      "url": "https://www.techtimes.com/articles/317363/20260529/claude-code-dynamic-workflows-scripts-replace-context-windows-ultracode-automates-orchestration.htm",
-      "source": "TechTimes",
-      "sourceLabel": "TechTimes",
-      "publishedDate": "2026-05-29",
-      "summary": "Claude Code의 새 Dynamic Workflows 기능이 컨텍스트 윈도우 한계를 오케스트레이션 스크립트로 대체한다. Ultracode가 자동 오케스트레이션을 처리해 대규모 프로젝트도 컨텍스트 단절 없이 진행 가능하다. 리서치 프리뷰로 공개됐다.",
-      "scorePct": 20
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "Introducing Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "source": "Anthropic",
+    "publishedDate": "2026-05-28",
+    "summary": "Anthropic이 Claude Opus 4.8을 공식 출시했다. 벤치마크 성능 강화, 협업 능력 개선, 장기 추론 안정성이 핵심 업데이트다. Claude Code 사용자는 즉시 새 모델로 전환 가능하다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 2,
+    "title": "SWE-bench Verified Benchmark 2026: 48 LLM scores",
+    "url": "https://benchlm.ai/benchmarks/sweVerified",
+    "source": "BenchLM.ai",
+    "publishedDate": "2026-05-28",
+    "summary": "2026년 6월9일 기준 SWE-bench Verified 리더보드에서 클로드 미토스5가 95.5%로 1위를 차지했다. 53개 LLM의 코딩 실력을 비교한 이 벤치마크는 실제 소프트웨어 이슈 해결 능력을 측정한다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 3,
+    "title": "20분의 1 가격…중국판 오픈AI, 에이전트 시장 공략 개시",
+    "url": "https://www.ajunews.com/view/20260529103009771",
+    "source": "아주경제",
+    "publishedDate": "2026-05-29",
+    "summary": "중국산 프론티어급 LLM이 미국 모델 대비 최대 20분의 1 가격으로 국내 AI 에이전트 시장을 잠식 중이다. DeepSeek·Qwen 등이 한국 기업의 비용 부담을 노리고 공격적 진입을 시작했다. 가격 경쟁이 본격화되는 신호다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 4,
+    "title": "Claude Code Dynamic Workflows: Scripts Replace Context Windows, Ultracode Automates Orchestration",
+    "url": "https://www.techtimes.com/articles/317363/20260529/claude-code-dynamic-workflows-scripts-replace-context-windows-ultracode-automates-orchestration.htm",
+    "source": "TechTimes",
+    "publishedDate": "2026-05-29",
+    "summary": "Claude Code의 새 Dynamic Workflows 기능이 컨텍스트 윈도우 한계를 오케스트레이션 스크립트로 대체한다. Ultracode가 자동 오케스트레이션을 처리해 대규모 프로젝트도 컨텍스트 단절 없이 진행 가능하다. 리서치 프리뷰로 공개됐다.",
+    "scorePct": 20
+  }
+]

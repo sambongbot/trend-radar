@@ -1,57 +1,47 @@
-{
-  "category": "ai-saas",
-  "label": "AI SaaS",
-  "date": "2026-06-21",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "“챗GPT 창 하나에 회사가 통째로”…시스코 ‘AI 시대의 윈도’ 야심 [MTR]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005696479",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-20",
-      "summary": "시스코 라이브 2026 AI 에이전트 시대 겨냥한 ‘시스코 클라우드 컨트롤’ 네트워크·보안·관측·협업 대화창 하나로 통합 관리 시스코, 플랫폼 기업 전환 화면 하나가 거대한 기업 네트워크를 통째로 빨아들였다. 미국",
-      "scorePct": 50
-    },
-    {
-      "rank": 2,
-      "title": "[KTL 소식] ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 外",
-      "url": "https://n.news.naver.com/mnews/article/082/0001386239",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-21",
-      "summary": "◆KTL, ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 국내 산업 AX 서비스 모델의 글로별 표준화 기반 마련 한국산업기술시험원(KTL)이 산업 현장에서 인공지능(AI) 에이전트 활용이 빠르게 확산되는 흐",
-      "scorePct": 30
-    },
-    {
-      "rank": 3,
-      "title": "이제 ‘챗GPT’에도 광고 단다…오픈AI, 광고 파일럿 시작",
-      "url": "https://n.news.naver.com/mnews/article/022/0004136767",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-21",
-      "summary": "‘챗GPT’ 무료와 ‘고(Go) 요금제’ 이용자 대상 노출 오픈AI는 생성형 인공지능(AI) ‘챗GPT’에 광고를 도입하고 한국 서비스를 시작했다고 19일 밝혔다. 오픈AI. 로이터연합뉴스 광고는 이전까지 미국·영국",
-      "scorePct": 20
-    },
-    {
-      "rank": 4,
-      "title": "구글, 자체 AI칩 사업 확대…엔비디아식 전략 구사",
-      "url": "https://n.news.naver.com/mnews/article/022/0004136912",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-20",
-      "summary": "데이터센터 투자·금융보증…AI 컴퓨팅 시장 공략에 박차 앤트로픽 앞세워 고객 확보…자체 AI 칩 TPU 직접 판매 구글 로고. 연합뉴스 구글이 자체 인공지능(AI) 칩인 TPU 사업을 확대하며 AI 인프라 시장 공략",
-      "scorePct": 20
-    },
-    {
-      "rank": 5,
-      "title": "中 지푸AI, 차세대 모델 ‘GLM-5.2’ 공개…오픈모델 경쟁력 입증",
-      "url": "https://n.news.naver.com/mnews/article/018/0006310784",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-20",
-      "summary": "중국 인공지능(AI) 기업 지푸AI(Zhipu AI)가 차세대 대규모언어모델(LLM) ‘GLM-5.2’를 공개했다. GLM-5.2는 최근 주요 AI 평가에서 공개 가중치(Open Weights) 모델 가운데 최고 수",
-      "scorePct": 20
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "“챗GPT 창 하나에 회사가 통째로”…시스코 ‘AI 시대의 윈도’ 야심 [MTR]",
+    "url": "https://n.news.naver.com/mnews/article/009/0005696479",
+    "source": "네이버",
+    "publishedDate": "2026-06-20",
+    "summary": "시스코 라이브 2026 AI 에이전트 시대 겨냥한 ‘시스코 클라우드 컨트롤’ 네트워크·보안·관측·협업 대화창 하나로 통합 관리 시스코, 플랫폼 기업 전환 화면 하나가 거대한 기업 네트워크를 통째로 빨아들였다. 미국",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "[KTL 소식] ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 外",
+    "url": "https://n.news.naver.com/mnews/article/082/0001386239",
+    "source": "네이버",
+    "publishedDate": "2026-06-21",
+    "summary": "◆KTL, ‘AI 에이전트 기반 산업서비스 국제표준화’ 제안 왜? 국내 산업 AX 서비스 모델의 글로별 표준화 기반 마련 한국산업기술시험원(KTL)이 산업 현장에서 인공지능(AI) 에이전트 활용이 빠르게 확산되는 흐",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "이제 ‘챗GPT’에도 광고 단다…오픈AI, 광고 파일럿 시작",
+    "url": "https://n.news.naver.com/mnews/article/022/0004136767",
+    "source": "네이버",
+    "publishedDate": "2026-06-21",
+    "summary": "‘챗GPT’ 무료와 ‘고(Go) 요금제’ 이용자 대상 노출 오픈AI는 생성형 인공지능(AI) ‘챗GPT’에 광고를 도입하고 한국 서비스를 시작했다고 19일 밝혔다. 오픈AI. 로이터연합뉴스 광고는 이전까지 미국·영국",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "구글, 자체 AI칩 사업 확대…엔비디아식 전략 구사",
+    "url": "https://n.news.naver.com/mnews/article/022/0004136912",
+    "source": "네이버",
+    "publishedDate": "2026-06-20",
+    "summary": "데이터센터 투자·금융보증…AI 컴퓨팅 시장 공략에 박차 앤트로픽 앞세워 고객 확보…자체 AI 칩 TPU 직접 판매 구글 로고. 연합뉴스 구글이 자체 인공지능(AI) 칩인 TPU 사업을 확대하며 AI 인프라 시장 공략",
+    "scorePct": 20
+  },
+  {
+    "rank": 5,
+    "title": "中 지푸AI, 차세대 모델 ‘GLM-5.2’ 공개…오픈모델 경쟁력 입증",
+    "url": "https://n.news.naver.com/mnews/article/018/0006310784",
+    "source": "네이버",
+    "publishedDate": "2026-06-20",
+    "summary": "중국 인공지능(AI) 기업 지푸AI(Zhipu AI)가 차세대 대규모언어모델(LLM) ‘GLM-5.2’를 공개했다. GLM-5.2는 최근 주요 AI 평가에서 공개 가중치(Open Weights) 모델 가운데 최고 수",
+    "scorePct": 20
+  }
+]

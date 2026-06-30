@@ -1,57 +1,47 @@
-{
-  "category": "ecommerce",
-  "label": "이커머스",
-  "date": "2026-06-26",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "일본몰 열었을 뿐인데 5일 만에 첫 주문…글로벌 직판의 새 공식 뜬다",
-      "url": "https://n.news.naver.com/mnews/article/138/0002232133",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-25",
-      "summary": "여성 컨템퍼러리 브랜드 수아마르가 일본 온라인몰을 연 지 닷새 만에 광고나 공식 론칭 없이 첫 주문을 받았다. 자사몰 기반 글로벌 직판이 큰 비용을 들이지 않고도 해외 수요를 끌어낼 수 있는 새로운 성장 공식으로 주목받고 있다.",
-      "scorePct": 50
-    },
-    {
-      "rank": 2,
-      "title": "카페24, 동대문 사입 서비스 '이지픽' 활용 교육 진행",
-      "url": "https://n.news.naver.com/mnews/article/050/0000107814",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-26",
-      "summary": "카페24가 동대문 사입 서비스 '이지픽' 활용 교육을 진행한다. 새벽 도매시장 방문과 거래명세서 정리에 드는 시간을 줄여, 의류 쇼핑몰 운영자가 상품과 고객 응대에 집중할 수 있도록 사입 과정을 자동화·간소화하는 것이 핵심이다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 3,
-      "title": "“릴스에 나온 이 제품 어딨어요?”... 숏폼 광고로 청년층 인기 끄는 SPA 브랜드",
-      "url": "https://n.news.naver.com/mnews/article/032/0003454238",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-26",
-      "summary": "SPA 브랜드들이 SNS 숏폼 콘텐츠를 활용해 청년 소비자의 주목을 끌고 있다. 서포터즈를 디지털 홍보·체험 채널로 운영하며 '릴스에서 본 제품'을 곧바로 구매로 연결하는 흐름이 확산되고 있다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 4,
-      "title": "네이버, AI 해외직구 스타트업 사줘에 투자…글로벌 커머스 인프라 확보 시동",
-      "url": "https://n.news.naver.com/mnews/article/028/0002811383",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-26",
-      "summary": "네이버가 에이전틱 AI 기반 크로스보더 커머스 스타트업 '사줘'(SAZO)에 신규 투자했다. 해외 직구의 복잡한 과정을 AI로 자동화해 소비자와 판매자의 국경 간 거래를 간소화하며 글로벌 커머스 인프라를 강화하려는 행보다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 5,
-      "title": "K뷰티 전장, 매대에서 플랫폼·AI로",
-      "url": "https://n.news.naver.com/mnews/article/024/0000106472",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-26",
-      "summary": "'글로벌 K뷰티 콘퍼런스 2026'에서 K뷰티 경쟁의 무대가 오프라인 매대에서 플랫폼·AI로 옮겨가고 있다는 진단이 나왔다. 제품력만으로는 부족하며, 해외 소비자의 발견·신뢰·구매로 이어지는 경로 설계가 매출 승부를 가른다는 분석이다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "일본몰 열었을 뿐인데 5일 만에 첫 주문…글로벌 직판의 새 공식 뜬다",
+    "url": "https://n.news.naver.com/mnews/article/138/0002232133",
+    "source": "네이버",
+    "publishedDate": "2026-06-25",
+    "summary": "여성 컨템퍼러리 브랜드 수아마르가 일본 온라인몰을 연 지 닷새 만에 광고나 공식 론칭 없이 첫 주문을 받았다. 자사몰 기반 글로벌 직판이 큰 비용을 들이지 않고도 해외 수요를 끌어낼 수 있는 새로운 성장 공식으로 주목받고 있다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "카페24, 동대문 사입 서비스 '이지픽' 활용 교육 진행",
+    "url": "https://n.news.naver.com/mnews/article/050/0000107814",
+    "source": "네이버",
+    "publishedDate": "2026-06-26",
+    "summary": "카페24가 동대문 사입 서비스 '이지픽' 활용 교육을 진행한다. 새벽 도매시장 방문과 거래명세서 정리에 드는 시간을 줄여, 의류 쇼핑몰 운영자가 상품과 고객 응대에 집중할 수 있도록 사입 과정을 자동화·간소화하는 것이 핵심이다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "“릴스에 나온 이 제품 어딨어요?”... 숏폼 광고로 청년층 인기 끄는 SPA 브랜드",
+    "url": "https://n.news.naver.com/mnews/article/032/0003454238",
+    "source": "네이버",
+    "publishedDate": "2026-06-26",
+    "summary": "SPA 브랜드들이 SNS 숏폼 콘텐츠를 활용해 청년 소비자의 주목을 끌고 있다. 서포터즈를 디지털 홍보·체험 채널로 운영하며 '릴스에서 본 제품'을 곧바로 구매로 연결하는 흐름이 확산되고 있다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 4,
+    "title": "네이버, AI 해외직구 스타트업 사줘에 투자…글로벌 커머스 인프라 확보 시동",
+    "url": "https://n.news.naver.com/mnews/article/028/0002811383",
+    "source": "네이버",
+    "publishedDate": "2026-06-26",
+    "summary": "네이버가 에이전틱 AI 기반 크로스보더 커머스 스타트업 '사줘'(SAZO)에 신규 투자했다. 해외 직구의 복잡한 과정을 AI로 자동화해 소비자와 판매자의 국경 간 거래를 간소화하며 글로벌 커머스 인프라를 강화하려는 행보다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 5,
+    "title": "K뷰티 전장, 매대에서 플랫폼·AI로",
+    "url": "https://n.news.naver.com/mnews/article/024/0000106472",
+    "source": "네이버",
+    "publishedDate": "2026-06-26",
+    "summary": "'글로벌 K뷰티 콘퍼런스 2026'에서 K뷰티 경쟁의 무대가 오프라인 매대에서 플랫폼·AI로 옮겨가고 있다는 진단이 나왔다. 제품력만으로는 부족하며, 해외 소비자의 발견·신뢰·구매로 이어지는 경로 설계가 매출 승부를 가른다는 분석이다.",
+    "scorePct": 0
+  }
+]

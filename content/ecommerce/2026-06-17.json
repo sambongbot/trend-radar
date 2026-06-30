@@ -1,57 +1,47 @@
-{
-  "category": "ecommerce",
-  "label": "이커머스",
-  "date": "2026-06-17",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "카페24 PRO, 이용 고객 대상 '브랜드 맞춤 자동 답변' 기능 선보여",
-      "url": "https://n.news.naver.com/mnews/article/215/0001255578",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-17",
-      "summary": "카페24가 PRO 고객 대상으로 쇼핑몰의 브랜드 톤을 분석해 리뷰에 자동 답변을 달아주는 '브랜드 맞춤 자동 답변' 기능을 선보였다. 브랜드 특성에 맞춘 응대를 자동화해 리뷰 관리 부담을 덜어준다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 2,
-      "title": "배민·이마트, 퀵커머스 협력 강화...노브랜드 추가 단독 입점",
-      "url": "https://n.news.naver.com/mnews/article/243/0000099216",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-16",
-      "summary": "배달의민족과 이마트의 퀵커머스 협력이 강화되며 PB 노브랜드까지 배민에 단독 입점했다. 양사가 즉시배송 기반 장보기 시장 경쟁력을 키우고 있다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 3,
-      "title": "하나에 3만원인데 \"죽기 전에 꼭 먹어야\"…2030 푹 빠졌다 [트렌드+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005299505",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-16",
-      "summary": "2030세대를 중심으로 제철 식재료를 즐기는 '제철코어'가 식음 트렌드로 자리잡으며 올여름 멜론이 SNS에서 화제가 됐다. 주황빛 과육과 높은 당도가 인증샷 소비를 자극하고 있다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 4,
-      "title": "[2026 유통포럼] AI가 바꾸는 소비자 선택… “데이터·경험·콘텐츠가 히트상품 만든다”(종합)",
-      "url": "https://n.news.naver.com/mnews/article/366/0001172247",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-17",
-      "summary": "조선비즈 유통산업포럼에서 'AI가 고르고 사는 시대'를 주제로 상품 정보 재구축의 필요성이 강조됐다. 데이터·경험·콘텐츠가 히트상품을 만드는 핵심 요소로 제시됐다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 5,
-      "title": "'죄책감 없이 즐기려고…' MZ들 몰려든 '뜻밖의 핫플' 정체 [트렌드+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005299511",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-16",
-      "summary": "무인 제로 편의점에 MZ세대가 몰리며 '죄책감 없는 군것질'을 내세운 제로·헬시플레저 상품이 인기를 끌고 있다. 일반 채널에서 보기 힘든 차별화 제품이 집객 포인트로 작동한다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "카페24 PRO, 이용 고객 대상 '브랜드 맞춤 자동 답변' 기능 선보여",
+    "url": "https://n.news.naver.com/mnews/article/215/0001255578",
+    "source": "네이버",
+    "publishedDate": "2026-06-17",
+    "summary": "카페24가 PRO 고객 대상으로 쇼핑몰의 브랜드 톤을 분석해 리뷰에 자동 답변을 달아주는 '브랜드 맞춤 자동 답변' 기능을 선보였다. 브랜드 특성에 맞춘 응대를 자동화해 리뷰 관리 부담을 덜어준다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "배민·이마트, 퀵커머스 협력 강화...노브랜드 추가 단독 입점",
+    "url": "https://n.news.naver.com/mnews/article/243/0000099216",
+    "source": "네이버",
+    "publishedDate": "2026-06-16",
+    "summary": "배달의민족과 이마트의 퀵커머스 협력이 강화되며 PB 노브랜드까지 배민에 단독 입점했다. 양사가 즉시배송 기반 장보기 시장 경쟁력을 키우고 있다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "하나에 3만원인데 \"죽기 전에 꼭 먹어야\"…2030 푹 빠졌다 [트렌드+]",
+    "url": "https://n.news.naver.com/mnews/article/015/0005299505",
+    "source": "네이버",
+    "publishedDate": "2026-06-16",
+    "summary": "2030세대를 중심으로 제철 식재료를 즐기는 '제철코어'가 식음 트렌드로 자리잡으며 올여름 멜론이 SNS에서 화제가 됐다. 주황빛 과육과 높은 당도가 인증샷 소비를 자극하고 있다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "[2026 유통포럼] AI가 바꾸는 소비자 선택… “데이터·경험·콘텐츠가 히트상품 만든다”(종합)",
+    "url": "https://n.news.naver.com/mnews/article/366/0001172247",
+    "source": "네이버",
+    "publishedDate": "2026-06-17",
+    "summary": "조선비즈 유통산업포럼에서 'AI가 고르고 사는 시대'를 주제로 상품 정보 재구축의 필요성이 강조됐다. 데이터·경험·콘텐츠가 히트상품을 만드는 핵심 요소로 제시됐다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 5,
+    "title": "'죄책감 없이 즐기려고…' MZ들 몰려든 '뜻밖의 핫플' 정체 [트렌드+]",
+    "url": "https://n.news.naver.com/mnews/article/015/0005299511",
+    "source": "네이버",
+    "publishedDate": "2026-06-16",
+    "summary": "무인 제로 편의점에 MZ세대가 몰리며 '죄책감 없는 군것질'을 내세운 제로·헬시플레저 상품이 인기를 끌고 있다. 일반 채널에서 보기 힘든 차별화 제품이 집객 포인트로 작동한다.",
+    "scorePct": 0
+  }
+]

@@ -1,57 +1,47 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-04",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "'반도체 보안전쟁' 뛰어든 AI…삼성·SK하이닉스, 미토스 활용",
-      "url": "https://n.news.naver.com/mnews/article/277/0005771229",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-04",
-      "summary": "삼성전자와 SK하이닉스 등 한국 핵심 반도체 기업이 앤트로픽의 사이버보안 특화 AI '클로드 미토스'를 실제 방어망에 도입하기 시작했다. 미토스는 공격 탐지와 대응을 자동화하는 고성능 보안 모델로, 반도체 영업기밀 보호 같은 고위험 영역에 적용된다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 2,
-      "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005294561",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-04",
-      "summary": "LLM과 에이전트 AI가 고도화될수록 데이터 처리 병목이 커지며 추론 특화 칩인 언어처리장치(LPU)의 중요성이 부각되고 있다. GPU 중심 인프라의 추론 비용·지연 문제를 풀 대안으로 LPU가 주목받는다는 분석이다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 3,
-      "title": "MS, 자체 AI모델 7종 ‘투하’… 오픈AI 그늘 벗어나 경쟁자로",
-      "url": "https://n.news.naver.com/mnews/article/005/0001852879",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-04",
-      "summary": "마이크로소프트가 자체 AI 모델 7종을 한꺼번에 공개하며 오픈AI 의존도를 낮추고 직접 경쟁에 뛰어들었다. 일부 기업 업무 평가에서 자체 모델이 GPT-5.5를 앞섰다고 주장했다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 4,
-      "title": "MS “AI가 직접 일한다”…‘에이전트 플랫폼’ 승부수",
-      "url": "https://n.news.naver.com/mnews/article/081/0003649286",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-04",
-      "summary": "MS가 챗봇을 넘어 '행동하는 AI' 경쟁으로 무게중심을 옮기며 에이전트 플랫폼과 종합관리도구를 승부수로 내놨다. 사람을 대신해 업무를 자동 수행하는 에이전트의 배포·관리·거버넌스를 한곳에서 다루는 것이 핵심이다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 5,
-      "title": "수학자들 “AI 능력 과신하지 말라... 냉정하게 평가해야”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005688823",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-03",
-      "summary": "전 세계 수백 명의 수학자가 AI 능력에 대한 과대 홍보를 믿지 말라며 학문적 검증 이전의 마케팅을 경계했다. 벤치마크 수치만으로 모델 역량을 단정하지 말고 전문가 평가에 귀 기울여야 한다는 취지다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "'반도체 보안전쟁' 뛰어든 AI…삼성·SK하이닉스, 미토스 활용",
+    "url": "https://n.news.naver.com/mnews/article/277/0005771229",
+    "source": "네이버",
+    "publishedDate": "2026-06-04",
+    "summary": "삼성전자와 SK하이닉스 등 한국 핵심 반도체 기업이 앤트로픽의 사이버보안 특화 AI '클로드 미토스'를 실제 방어망에 도입하기 시작했다. 미토스는 공격 탐지와 대응을 자동화하는 고성능 보안 모델로, 반도체 영업기밀 보호 같은 고위험 영역에 적용된다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "\"AI 시대의 데이터 병목…추론 특화 칩이 해결사\"",
+    "url": "https://n.news.naver.com/mnews/article/015/0005294561",
+    "source": "네이버",
+    "publishedDate": "2026-06-04",
+    "summary": "LLM과 에이전트 AI가 고도화될수록 데이터 처리 병목이 커지며 추론 특화 칩인 언어처리장치(LPU)의 중요성이 부각되고 있다. GPU 중심 인프라의 추론 비용·지연 문제를 풀 대안으로 LPU가 주목받는다는 분석이다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
+    "title": "MS, 자체 AI모델 7종 ‘투하’… 오픈AI 그늘 벗어나 경쟁자로",
+    "url": "https://n.news.naver.com/mnews/article/005/0001852879",
+    "source": "네이버",
+    "publishedDate": "2026-06-04",
+    "summary": "마이크로소프트가 자체 AI 모델 7종을 한꺼번에 공개하며 오픈AI 의존도를 낮추고 직접 경쟁에 뛰어들었다. 일부 기업 업무 평가에서 자체 모델이 GPT-5.5를 앞섰다고 주장했다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 4,
+    "title": "MS “AI가 직접 일한다”…‘에이전트 플랫폼’ 승부수",
+    "url": "https://n.news.naver.com/mnews/article/081/0003649286",
+    "source": "네이버",
+    "publishedDate": "2026-06-04",
+    "summary": "MS가 챗봇을 넘어 '행동하는 AI' 경쟁으로 무게중심을 옮기며 에이전트 플랫폼과 종합관리도구를 승부수로 내놨다. 사람을 대신해 업무를 자동 수행하는 에이전트의 배포·관리·거버넌스를 한곳에서 다루는 것이 핵심이다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 5,
+    "title": "수학자들 “AI 능력 과신하지 말라... 냉정하게 평가해야”",
+    "url": "https://n.news.naver.com/mnews/article/009/0005688823",
+    "source": "네이버",
+    "publishedDate": "2026-06-03",
+    "summary": "전 세계 수백 명의 수학자가 AI 능력에 대한 과대 홍보를 믿지 말라며 학문적 검증 이전의 마케팅을 경계했다. 벤치마크 수치만으로 모델 역량을 단정하지 말고 전문가 평가에 귀 기울여야 한다는 취지다.",
+    "scorePct": 0
+  }
+]

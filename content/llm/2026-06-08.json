@@ -1,37 +1,29 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-08",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "오픈AI, IPO 앞두고 챗GPT 대수술…\"코딩·AI에이전트 합친 '슈퍼앱' 선보여\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0013992088",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-08",
-      "summary": "오픈AI가 IPO를 앞두고 챗GPT를 출시 이후 최대 규모로 개편한다. 단순 챗봇을 넘어 코딩과 AI 에이전트 기능을 결합한 '슈퍼앱'으로 진화할 계획이다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 2,
-      "title": "‘야후 vs 구글’ 경쟁 닮은 오픈AI와 앤트로픽의 AI 각축전",
-      "url": "https://n.news.naver.com/mnews/article/037/0000038293",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-08",
-      "summary": "한때 챗GPT가 독점하던 생성형 AI 시장에서 앤트로픽이 기업용 클로드 서비스로 영리하게 시장을 장악하고 있다. 오픈AI와 앤트로픽의 구도를 과거 '야후 vs 구글' 경쟁에 빗대어 분석한다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 3,
-      "title": "“AI가 알아서 다 해줬어요”…‘바이브 코딩’의 두 얼굴",
-      "url": "https://n.news.naver.com/mnews/article/056/0012195221",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-08",
-      "summary": "AI에게 작업을 맡기면 알아서 처리하는 '바이브 코딩'이 직장인·대학생 사이에서 확산되고 있다. 편의성과 함께 검증·의존성 측면의 우려라는 양면을 짚는다.",
-      "scorePct": 10
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "오픈AI, IPO 앞두고 챗GPT 대수술…\"코딩·AI에이전트 합친 '슈퍼앱' 선보여\"",
+    "url": "https://n.news.naver.com/mnews/article/003/0013992088",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "오픈AI가 IPO를 앞두고 챗GPT를 출시 이후 최대 규모로 개편한다. 단순 챗봇을 넘어 코딩과 AI 에이전트 기능을 결합한 '슈퍼앱'으로 진화할 계획이다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "‘야후 vs 구글’ 경쟁 닮은 오픈AI와 앤트로픽의 AI 각축전",
+    "url": "https://n.news.naver.com/mnews/article/037/0000038293",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "한때 챗GPT가 독점하던 생성형 AI 시장에서 앤트로픽이 기업용 클로드 서비스로 영리하게 시장을 장악하고 있다. 오픈AI와 앤트로픽의 구도를 과거 '야후 vs 구글' 경쟁에 빗대어 분석한다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "“AI가 알아서 다 해줬어요”…‘바이브 코딩’의 두 얼굴",
+    "url": "https://n.news.naver.com/mnews/article/056/0012195221",
+    "source": "네이버",
+    "publishedDate": "2026-06-08",
+    "summary": "AI에게 작업을 맡기면 알아서 처리하는 '바이브 코딩'이 직장인·대학생 사이에서 확산되고 있다. 편의성과 함께 검증·의존성 측면의 우려라는 양면을 짚는다.",
+    "scorePct": 10
+  }
+]

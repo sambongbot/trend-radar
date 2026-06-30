@@ -1,57 +1,47 @@
-{
-  "category": "ecommerce",
-  "label": "이커머스",
-  "date": "2026-06-13",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "hy, 자체 배송 인프라 활용한 ‘아리’ 참여형 프로모션 진행",
-      "url": "https://n.news.naver.com/mnews/article/366/0001171493",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-12",
-      "summary": "hy가 식음료 브랜드 '아리(ARIH)'를 대상으로 자체 배송 인프라인 탑승형 냉장카트 코코(COCO)와 프레시 매니저를 활용한 소비자 참여형 프로모션을 진행한다. 보유한 물류 자원을 마케팅 접점으로 전환하는 방식이다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 2,
-      "title": "네이버 노크잇 “입점 브랜드 거래액 60%↑”… 블프로 성장세 이어간다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003726459",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-13",
-      "summary": "네이버가 선보인 컨템포러리 패션 브랜드 서비스 '노크잇'이 출시 후 입점 브랜드 거래액 60% 증가를 기록하며 2030 세대 중심으로 성장하고 있다. 블랙프라이데이 등 프로모션 효과로 성장세를 이어가는 중이다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 3,
-      "title": "“드라마 보려 틀었는데 광고만?”…30분만 넘어도 중간광고 허용",
-      "url": "https://n.news.naver.com/mnews/article/016/0002655805",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-13",
-      "summary": "방송법 시행령 개정으로 TV광고 일 총량이 17%에서 20%로 확대되고, 30분만 넘어도 중간광고를 허용하는 등 방송광고 규제가 완화됐다. 광고 노출 기회와 횟수가 늘어나는 방향이다.",
-      "scorePct": 0
-    },
-    {
-      "rank": 4,
-      "title": "젠슨황에 한턱 쏜 네이버 페이스사인…7000명 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009000802",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-13",
-      "summary": "네이버페이 오프라인 통합 단말기 'Npay 커넥트'의 얼굴인식 결제 '페이스사인'에 7000명이 몰리며 화제가 됐다. 지갑·휴대폰 없이 얼굴만으로 결제가 완료되는 방식을 선보였다.",
-      "scorePct": 0
-    },
-    {
-      "rank": 5,
-      "title": "뜯자마자 대놓고 \"교환합니다\"…2030 롯데월드 몰려간 이유 [덕질경제학]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005298264",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-12",
-      "summary": "롯데월드몰 메이플스토리 팝업스토어에 2030 소비자가 몰려 굿즈 교환이 활발히 이뤄지는 '덕질경제' 현상이 나타났다. IP·굿즈를 매개로 한 2030 세대의 능동적 소비 행태가 두드러졌다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "hy, 자체 배송 인프라 활용한 ‘아리’ 참여형 프로모션 진행",
+    "url": "https://n.news.naver.com/mnews/article/366/0001171493",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "hy가 식음료 브랜드 '아리(ARIH)'를 대상으로 자체 배송 인프라인 탑승형 냉장카트 코코(COCO)와 프레시 매니저를 활용한 소비자 참여형 프로모션을 진행한다. 보유한 물류 자원을 마케팅 접점으로 전환하는 방식이다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 2,
+    "title": "네이버 노크잇 “입점 브랜드 거래액 60%↑”… 블프로 성장세 이어간다",
+    "url": "https://n.news.naver.com/mnews/article/020/0003726459",
+    "source": "네이버",
+    "publishedDate": "2026-06-13",
+    "summary": "네이버가 선보인 컨템포러리 패션 브랜드 서비스 '노크잇'이 출시 후 입점 브랜드 거래액 60% 증가를 기록하며 2030 세대 중심으로 성장하고 있다. 블랙프라이데이 등 프로모션 효과로 성장세를 이어가는 중이다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 3,
+    "title": "“드라마 보려 틀었는데 광고만?”…30분만 넘어도 중간광고 허용",
+    "url": "https://n.news.naver.com/mnews/article/016/0002655805",
+    "source": "네이버",
+    "publishedDate": "2026-06-13",
+    "summary": "방송법 시행령 개정으로 TV광고 일 총량이 17%에서 20%로 확대되고, 30분만 넘어도 중간광고를 허용하는 등 방송광고 규제가 완화됐다. 광고 노출 기회와 횟수가 늘어나는 방향이다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 4,
+    "title": "젠슨황에 한턱 쏜 네이버 페이스사인…7000명 몰렸다",
+    "url": "https://n.news.naver.com/mnews/article/421/0009000802",
+    "source": "네이버",
+    "publishedDate": "2026-06-13",
+    "summary": "네이버페이 오프라인 통합 단말기 'Npay 커넥트'의 얼굴인식 결제 '페이스사인'에 7000명이 몰리며 화제가 됐다. 지갑·휴대폰 없이 얼굴만으로 결제가 완료되는 방식을 선보였다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "뜯자마자 대놓고 \"교환합니다\"…2030 롯데월드 몰려간 이유 [덕질경제학]",
+    "url": "https://n.news.naver.com/mnews/article/015/0005298264",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "롯데월드몰 메이플스토리 팝업스토어에 2030 소비자가 몰려 굿즈 교환이 활발히 이뤄지는 '덕질경제' 현상이 나타났다. IP·굿즈를 매개로 한 2030 세대의 능동적 소비 행태가 두드러졌다.",
+    "scorePct": 0
+  }
+]

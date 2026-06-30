@@ -1,57 +1,47 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-19",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "The June 15 Claude Billing Change Explained",
-      "url": "https://www.pravinkumar.co/blog/claude-june-15-billing-change-explained-2026",
-      "source": "Pravin Kumar Blog",
-      "sourceLabel": "Pravin Kumar Blog",
-      "publishedDate": "2026-06-15",
-      "summary": "2026년 6월 15일부터 앤트로픽이 Claude Agent SDK, 헤드리스 Claude Code, Claude Code GitHub Actions에 대한 과금 체계를 변경했다. 자동화·CI 파이프라인에서 Claude를 호출하는 방식과 비용 구조가 바뀌어 기존 통합 환경의 재점검이 필요하다.",
-      "scorePct": 100
-    },
-    {
-      "rank": 2,
-      "title": "[HBR 인사이트]AI 검색 시대, 밀지 말고 당겨라",
-      "url": "https://n.news.naver.com/mnews/article/020/0003727853",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-19",
-      "summary": "챗GPT 같은 거대언어모델이 온라인 검색을 재편하면서 소비자 마찰은 줄지만 기업 마찰은 오히려 커진다는 분석이다. '밀기'보다 '당기기' 전략으로 AI 검색 환경에 대응해야 한다는 점을 짚는다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 3,
-      "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-      "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-      "source": "VentureBeat",
-      "sourceLabel": "VentureBeat",
-      "publishedDate": "2026-06-17",
-      "summary": "Claude Design이 GitHub 리포지토리·디자인 파일·업로드에서 디자인 시스템을 가져와 브랜드 가이드라인에 맞춘 결과물을 생성하도록 개편됐다. 코드 왕복(round-trip) 기능과 토큰 과소비 문제 해결도 함께 포함됐다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 4,
-      "title": "Claude Outage: Tenth Disruption in 12 Days Exposes Anthropic Infrastructure Strain",
-      "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm",
-      "source": "TechTimes",
-      "sourceLabel": "TechTimes",
-      "publishedDate": "2026-06-16",
-      "summary": "6월 16일 장애는 6월 5일 이후 10번째 주요 서비스 중단으로, 앤트로픽 인프라의 구조적 부담이 드러났다. 12일이라는 짧은 기간에 반복된 장애는 운영 안정성에 대한 우려를 키우고 있다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 5,
-      "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
-      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "source": "Google Developers Blog",
-      "sourceLabel": "Google Developers Blog",
-      "publishedDate": "2026-06-18",
-      "summary": "2026년 6월 18일부터 Gemini CLI와 Gemini Code Assist IDE 확장이 기존 요청 처리를 중단하고 Antigravity CLI로 전환됐다. 구글의 AI 코딩 도구 브랜드와 워크플로우가 재편되는 신호다.",
-      "scorePct": 20
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "The June 15 Claude Billing Change Explained",
+    "url": "https://www.pravinkumar.co/blog/claude-june-15-billing-change-explained-2026",
+    "source": "Pravin Kumar Blog",
+    "publishedDate": "2026-06-15",
+    "summary": "2026년 6월 15일부터 앤트로픽이 Claude Agent SDK, 헤드리스 Claude Code, Claude Code GitHub Actions에 대한 과금 체계를 변경했다. 자동화·CI 파이프라인에서 Claude를 호출하는 방식과 비용 구조가 바뀌어 기존 통합 환경의 재점검이 필요하다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "[HBR 인사이트]AI 검색 시대, 밀지 말고 당겨라",
+    "url": "https://n.news.naver.com/mnews/article/020/0003727853",
+    "source": "네이버",
+    "publishedDate": "2026-06-19",
+    "summary": "챗GPT 같은 거대언어모델이 온라인 검색을 재편하면서 소비자 마찰은 줄지만 기업 마찰은 오히려 커진다는 분석이다. '밀기'보다 '당기기' 전략으로 AI 검색 환경에 대응해야 한다는 점을 짚는다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
+    "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+    "source": "VentureBeat",
+    "publishedDate": "2026-06-17",
+    "summary": "Claude Design이 GitHub 리포지토리·디자인 파일·업로드에서 디자인 시스템을 가져와 브랜드 가이드라인에 맞춘 결과물을 생성하도록 개편됐다. 코드 왕복(round-trip) 기능과 토큰 과소비 문제 해결도 함께 포함됐다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 4,
+    "title": "Claude Outage: Tenth Disruption in 12 Days Exposes Anthropic Infrastructure Strain",
+    "url": "https://www.techtimes.com/articles/318514/20260616/claude-outage-tenth-disruption-12-days-exposes-anthropic-infrastructure-strain.htm",
+    "source": "TechTimes",
+    "publishedDate": "2026-06-16",
+    "summary": "6월 16일 장애는 6월 5일 이후 10번째 주요 서비스 중단으로, 앤트로픽 인프라의 구조적 부담이 드러났다. 12일이라는 짧은 기간에 반복된 장애는 운영 안정성에 대한 우려를 키우고 있다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 5,
+    "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
+    "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+    "source": "Google Developers Blog",
+    "publishedDate": "2026-06-18",
+    "summary": "2026년 6월 18일부터 Gemini CLI와 Gemini Code Assist IDE 확장이 기존 요청 처리를 중단하고 Antigravity CLI로 전환됐다. 구글의 AI 코딩 도구 브랜드와 워크플로우가 재편되는 신호다.",
+    "scorePct": 20
+  }
+]

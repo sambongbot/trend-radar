@@ -1,47 +1,38 @@
-{
-  "category": "ecommerce",
-  "label": "이커머스",
-  "date": "2026-06-24",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "사방넷, 와이즈트래커 인수...\"이커머스 통합 플랫폼으로 진화\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002427755",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-24",
-      "summary": "다우기술이 AI 개인화 마케팅 솔루션 기업 와이즈트래커를 인수해 쇼핑몰 통합관리 서비스 '사방넷'의 이커머스 플랫폼 사업을 확장한다. 주문·재고 통합관리에 AI 기반 개인화 마케팅 기능이 결합될 전망이다.",
-      "scorePct": 80
-    },
-    {
-      "rank": 2,
-      "title": "1000번의 테스트로 시작된 브랜드, ESAC의 자사몰 성장기",
-      "url": "https://n.news.naver.com/mnews/article/030/0003440547",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-24",
-      "summary": "광고대행 경험을 가진 김동언 대표가 스마트폰 액세서리 브랜드 ESAC를 직접 만들어 자사몰을 키운 과정을 소개한다. 1000번의 테스트를 거쳐 광고주 상품 판매와는 다른 직접 브랜드 운영의 노하우를 풀어낸다.",
-      "scorePct": 40
-    },
-    {
-      "rank": 3,
-      "title": "플래티어, ‘젤라또’ 모바일 앱 출시…일본 커머스 시장 공략 확대",
-      "url": "https://n.news.naver.com/mnews/article/138/0002231829",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-24",
-      "summary": "이커머스 솔루션 기업 플래티어가 에이전틱 디스커버리 플랫폼 '젤라또' 모바일 앱을 출시하고 한국·일본 시장 공략에 나선다. 기업용 솔루션 기술을 일반 소비자 대상 AI 쇼핑 탐색 서비스로 확장하는 시도다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 4,
-      "title": "와이즈버즈, 클리오와 북미 ‘챗GPT 광고’ 집행,,,AI 마케팅 시장 정조준",
-      "url": "https://n.news.naver.com/mnews/article/018/0006313171",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-24",
-      "summary": "디지털 마케팅 기업 와이즈버즈가 K뷰티 브랜드 클리오와 손잡고 오픈AI 생성형 AI 플랫폼을 활용한 챗GPT 광고를 북미에서 집행한다. 생성형 AI를 새로운 광고 채널로 활용하는 초기 사례다.",
-      "scorePct": 30
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "사방넷, 와이즈트래커 인수...\"이커머스 통합 플랫폼으로 진화\"",
+    "url": "https://n.news.naver.com/mnews/article/092/0002427755",
+    "source": "네이버",
+    "publishedDate": "2026-06-24",
+    "summary": "다우기술이 AI 개인화 마케팅 솔루션 기업 와이즈트래커를 인수해 쇼핑몰 통합관리 서비스 '사방넷'의 이커머스 플랫폼 사업을 확장한다. 주문·재고 통합관리에 AI 기반 개인화 마케팅 기능이 결합될 전망이다.",
+    "scorePct": 80
+  },
+  {
+    "rank": 2,
+    "title": "1000번의 테스트로 시작된 브랜드, ESAC의 자사몰 성장기",
+    "url": "https://n.news.naver.com/mnews/article/030/0003440547",
+    "source": "네이버",
+    "publishedDate": "2026-06-24",
+    "summary": "광고대행 경험을 가진 김동언 대표가 스마트폰 액세서리 브랜드 ESAC를 직접 만들어 자사몰을 키운 과정을 소개한다. 1000번의 테스트를 거쳐 광고주 상품 판매와는 다른 직접 브랜드 운영의 노하우를 풀어낸다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
+    "title": "플래티어, ‘젤라또’ 모바일 앱 출시…일본 커머스 시장 공략 확대",
+    "url": "https://n.news.naver.com/mnews/article/138/0002231829",
+    "source": "네이버",
+    "publishedDate": "2026-06-24",
+    "summary": "이커머스 솔루션 기업 플래티어가 에이전틱 디스커버리 플랫폼 '젤라또' 모바일 앱을 출시하고 한국·일본 시장 공략에 나선다. 기업용 솔루션 기술을 일반 소비자 대상 AI 쇼핑 탐색 서비스로 확장하는 시도다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 4,
+    "title": "와이즈버즈, 클리오와 북미 ‘챗GPT 광고’ 집행,,,AI 마케팅 시장 정조준",
+    "url": "https://n.news.naver.com/mnews/article/018/0006313171",
+    "source": "네이버",
+    "publishedDate": "2026-06-24",
+    "summary": "디지털 마케팅 기업 와이즈버즈가 K뷰티 브랜드 클리오와 손잡고 오픈AI 생성형 AI 플랫폼을 활용한 챗GPT 광고를 북미에서 집행한다. 생성형 AI를 새로운 광고 채널로 활용하는 초기 사례다.",
+    "scorePct": 30
+  }
+]

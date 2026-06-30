@@ -1,67 +1,56 @@
-{
-  "category": "ai-saas",
-  "label": "AI SaaS",
-  "date": "2026-06-12",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "“챗GPT에 일자리 뺏길 걱정할 시간에” … 맥킨지의 ‘AI시대 생존법’ [더테크웨이브]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005692721",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-11",
-      "summary": "맥킨지 파트너는 클로드 코드(Claude Code)로 직접 앱을 만들고 업무에 AI 에이전트를 활용하며 AI 시대 생존법을 제시한다. 도구를 쓰는 사람과 못 쓰는 사람의 격차가 핵심이라고 강조한다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 2,
-      "title": "[GAM] 100년 유전 서비스 SLB의 변신 ① AI·데이터가 만드는 새로운 해자",
-      "url": "https://www.newspim.com/news/view/20260610000742",
-      "source": "뉴스핌",
-      "sourceLabel": "뉴스핌",
-      "publishedDate": "2026-06-10",
-      "summary": "100년 역사의 에너지 기업 SLB가 AI 플랫폼 '루미(Lumi)'를 앞세워 엔터프라이즈 AI 솔루션 기업으로 변신하고 있다. 인도 국영 석유기업 ONGC가 2026년 1분기 전사 도입을 추진 중이다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 3,
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "publishedDate": "2026-06-09",
-      "summary": "AI 법률 스타트업 산드스톤이 라이트스피드 주도로 3,000만 달러 규모 시리즈A를 유치했다. 사내 법무팀을 위한 AI 솔루션에 집중하는 B2B 버티컬 SaaS다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 4,
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "publishedDate": "2026-06-09",
-      "summary": "Google이 Google AI Plus 월 구독료를 7.99달러에서 4.99달러로 낮추고 저장 용량은 두 배로 늘렸다. AI 구독 시장의 가격 경쟁에 본격 불을 붙였다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 5,
-      "title": "'AI-pilled' firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "publishedDate": "2026-06-10",
-      "summary": "AI 도입에 적극적인 상위 1% 기업은 직원 1인당 월 7,500달러를 AI에 지출하는 것으로 나타났다. 기업 간 AI 활용 격차가 빠르게 벌어지고 있다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 6,
-      "title": "[AI 워크 서밋] \"2026년 이후 경쟁력은 AI가 결정\"... 기업 실무 패러다임 바꾸는 'AI 에이전트'",
-      "url": "https://www.etnews.com/20260611000335",
-      "source": "전자신문",
-      "sourceLabel": "전자신문",
-      "publishedDate": "2026-06-11",
-      "summary": "전자신문이 개최한 '제6회 AI 워크 서밋'에서 기업 실무를 바꾸는 AI 에이전트가 핵심 주제로 다뤄졌다. 스스로 목표를 세우고 실행까지 해내는 AI 에이전트가 2026년 이후 기업 경쟁력을 좌우할 것이라는 전망이 제시됐다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "“챗GPT에 일자리 뺏길 걱정할 시간에” … 맥킨지의 ‘AI시대 생존법’ [더테크웨이브]",
+    "url": "https://n.news.naver.com/mnews/article/009/0005692721",
+    "source": "네이버",
+    "publishedDate": "2026-06-11",
+    "summary": "맥킨지 파트너는 클로드 코드(Claude Code)로 직접 앱을 만들고 업무에 AI 에이전트를 활용하며 AI 시대 생존법을 제시한다. 도구를 쓰는 사람과 못 쓰는 사람의 격차가 핵심이라고 강조한다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 2,
+    "title": "[GAM] 100년 유전 서비스 SLB의 변신 ① AI·데이터가 만드는 새로운 해자",
+    "url": "https://www.newspim.com/news/view/20260610000742",
+    "source": "뉴스핌",
+    "publishedDate": "2026-06-10",
+    "summary": "100년 역사의 에너지 기업 SLB가 AI 플랫폼 '루미(Lumi)'를 앞세워 엔터프라이즈 AI 솔루션 기업으로 변신하고 있다. 인도 국영 석유기업 ONGC가 2026년 1분기 전사 도입을 추진 중이다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-09",
+    "summary": "AI 법률 스타트업 산드스톤이 라이트스피드 주도로 3,000만 달러 규모 시리즈A를 유치했다. 사내 법무팀을 위한 AI 솔루션에 집중하는 B2B 버티컬 SaaS다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-09",
+    "summary": "Google이 Google AI Plus 월 구독료를 7.99달러에서 4.99달러로 낮추고 저장 용량은 두 배로 늘렸다. AI 구독 시장의 가격 경쟁에 본격 불을 붙였다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 5,
+    "title": "'AI-pilled' firms spend $7,500 per employee each month on AI",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-10",
+    "summary": "AI 도입에 적극적인 상위 1% 기업은 직원 1인당 월 7,500달러를 AI에 지출하는 것으로 나타났다. 기업 간 AI 활용 격차가 빠르게 벌어지고 있다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 6,
+    "title": "[AI 워크 서밋] \"2026년 이후 경쟁력은 AI가 결정\"... 기업 실무 패러다임 바꾸는 'AI 에이전트'",
+    "url": "https://www.etnews.com/20260611000335",
+    "source": "전자신문",
+    "publishedDate": "2026-06-11",
+    "summary": "전자신문이 개최한 '제6회 AI 워크 서밋'에서 기업 실무를 바꾸는 AI 에이전트가 핵심 주제로 다뤄졌다. 스스로 목표를 세우고 실행까지 해내는 AI 에이전트가 2026년 이후 기업 경쟁력을 좌우할 것이라는 전망이 제시됐다.",
+    "scorePct": 0
+  }
+]

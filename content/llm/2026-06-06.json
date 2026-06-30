@@ -1,47 +1,38 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-06",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "Claude is down for many — here's what we know about the outage",
-      "url": "https://www.techradar.com/news/live/claude-outage-june-2026",
-      "source": "TechRadar",
-      "sourceLabel": "TechRadar",
-      "publishedDate": "2026-06-02",
-      "summary": "Claude experienced a significant global service disruption on June 2 affecting users across the web interface, mobile app, API, and developer tools including Claude Code. Anthropic first flagged the issue at 06:04 UTC, identified the root cause at 06:39 UTC, and resolved the incident later that day.",
-      "scorePct": 70
-    },
-    {
-      "rank": 2,
-      "title": "Anthropic files to go public",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "publishedDate": "2026-06-01",
-      "summary": "Anthropic, maker of the chatbot Claude, filed confidential paperwork with federal regulators on June 1, 2026 in preparation for selling its stock to the public. The company raised $65 billion in a recent funding round, bringing its valuation to $965 billion, and is now booking annualized revenue of $47 billion.",
-      "scorePct": 60
-    },
-    {
-      "rank": 3,
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "source": "Anthropic",
-      "sourceLabel": "Anthropic",
-      "publishedDate": "2026-06-02",
-      "summary": "Anthropic이 Project Glasswing을 확대해 Claude Mythos 프리뷰를 15개국 이상 약 150개 신규 조직에 개방했다. 중요 인프라 영역까지 적용 범위가 넓어졌다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 4,
-      "title": "Claude AI Down for Users as Anthropic Confirms Outage",
-      "url": "https://sqmagazine.co.uk/claude-ai-down-outage-june-2026/",
-      "source": "SQ Magazine",
-      "sourceLabel": "SQ Magazine",
-      "publishedDate": "2026-06-02",
-      "summary": "Claude AI experienced a service disruption on June 2, 2026, with Anthropic confirming elevated error rates across multiple Claude services while engineers worked on a fix. Starting early morning users worldwide reported failed prompts, slow loading times, and blank responses.",
-      "scorePct": 60
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "Claude is down for many — here's what we know about the outage",
+    "url": "https://www.techradar.com/news/live/claude-outage-june-2026",
+    "source": "TechRadar",
+    "publishedDate": "2026-06-02",
+    "summary": "Claude experienced a significant global service disruption on June 2 affecting users across the web interface, mobile app, API, and developer tools including Claude Code. Anthropic first flagged the issue at 06:04 UTC, identified the root cause at 06:39 UTC, and resolved the incident later that day.",
+    "scorePct": 70
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic files to go public",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-01",
+    "summary": "Anthropic, maker of the chatbot Claude, filed confidential paperwork with federal regulators on June 1, 2026 in preparation for selling its stock to the public. The company raised $65 billion in a recent funding round, bringing its valuation to $965 billion, and is now booking annualized revenue of $47 billion.",
+    "scorePct": 60
+  },
+  {
+    "rank": 3,
+    "title": "Expanding Project Glasswing",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "source": "Anthropic",
+    "publishedDate": "2026-06-02",
+    "summary": "Anthropic이 Project Glasswing을 확대해 Claude Mythos 프리뷰를 15개국 이상 약 150개 신규 조직에 개방했다. 중요 인프라 영역까지 적용 범위가 넓어졌다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 4,
+    "title": "Claude AI Down for Users as Anthropic Confirms Outage",
+    "url": "https://sqmagazine.co.uk/claude-ai-down-outage-june-2026/",
+    "source": "SQ Magazine",
+    "publishedDate": "2026-06-02",
+    "summary": "Claude AI experienced a service disruption on June 2, 2026, with Anthropic confirming elevated error rates across multiple Claude services while engineers worked on a fix. Starting early morning users worldwide reported failed prompts, slow loading times, and blank responses.",
+    "scorePct": 60
+  }
+]

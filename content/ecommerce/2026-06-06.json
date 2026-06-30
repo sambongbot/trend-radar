@@ -1,57 +1,47 @@
-{
-  "category": "ecommerce",
-  "label": "이커머스",
-  "date": "2026-06-06",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "“미국서 뜨자 한국이 알아봤다”…K브랜드 성장 공식 바뀌었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005690003",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-05",
-      "summary": "르셉템버·티르티르·조선미녀 등 K브랜드가 국내 인지도 없이 미국 등 해외 SNS에서 먼저 화제가 된 뒤 그 성과를 국내로 역수입하는 성장 공식이 자리 잡았다. 과거 '국내 검증 후 해외 진출' 순서가 완전히 뒤집힌 것이다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 2,
-      "title": "\"이러면 안 사곤 못 배길걸\"…생존 위기에 업계 1위도 '대변신'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005295213",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-06",
-      "summary": "광고업계에서 인지-고려-전환 전 과정을 하나로 묶는 풀퍼널 마케팅이 생존 전략으로 부상하고 있다. 단편적 광고 집행이 아니라 구매 여정 전체를 설계하는 방식으로 업계 1위까지 전략을 바꾸고 있다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 3,
-      "title": "무신사 성수에 뜬 '오클리 메타'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005295486",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-05",
-      "summary": "이커머스 플랫폼 무신사가 성수에서 메타·오클리의 AI 스마트글라스를 직접 체험하는 공간을 마련했다. 온라인 플랫폼이 오프라인 체험형 마케팅으로 고객 접점을 확장하는 흐름을 보여준다.",
-      "scorePct": 0
-    },
-    {
-      "rank": 4,
-      "title": "\"100 대 100으로 달렸다\"…카스 라이트, 러닝 크루 대항전 개최",
-      "url": "https://n.news.naver.com/mnews/article/243/0000098751",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-05",
-      "summary": "카스 라이트가 러닝 크루 대항전을 열며 마케팅의 무게중심을 단순 제품 노출에서 '커뮤니티형 활동'으로 옮기고 있다. 소비자를 브랜드 팬으로 묶어 지속적 관계를 만드는 방식이다.",
-      "scorePct": 0
-    },
-    {
-      "rank": 5,
-      "title": "“두쫀쿠 아직도 잘 팔려” 이 말 믿었는데…유행 지난 메뉴 덜컥 팔았다간 ‘큰 낭패’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002652725",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-05",
-      "summary": "AI가 자영업·소상공인의 가게 운영, 메뉴·상품 구성 컨설팅 역할까지 맡으며 매출 상승과 직결되는 시대가 됐다. 유행이 지난 상품을 데이터 없이 판단해 들이는 실수를 AI가 사전에 걸러준다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "“미국서 뜨자 한국이 알아봤다”…K브랜드 성장 공식 바뀌었다",
+    "url": "https://n.news.naver.com/mnews/article/009/0005690003",
+    "source": "네이버",
+    "publishedDate": "2026-06-05",
+    "summary": "르셉템버·티르티르·조선미녀 등 K브랜드가 국내 인지도 없이 미국 등 해외 SNS에서 먼저 화제가 된 뒤 그 성과를 국내로 역수입하는 성장 공식이 자리 잡았다. 과거 '국내 검증 후 해외 진출' 순서가 완전히 뒤집힌 것이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 2,
+    "title": "\"이러면 안 사곤 못 배길걸\"…생존 위기에 업계 1위도 '대변신'",
+    "url": "https://n.news.naver.com/mnews/article/015/0005295213",
+    "source": "네이버",
+    "publishedDate": "2026-06-06",
+    "summary": "광고업계에서 인지-고려-전환 전 과정을 하나로 묶는 풀퍼널 마케팅이 생존 전략으로 부상하고 있다. 단편적 광고 집행이 아니라 구매 여정 전체를 설계하는 방식으로 업계 1위까지 전략을 바꾸고 있다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "무신사 성수에 뜬 '오클리 메타'",
+    "url": "https://n.news.naver.com/mnews/article/015/0005295486",
+    "source": "네이버",
+    "publishedDate": "2026-06-05",
+    "summary": "이커머스 플랫폼 무신사가 성수에서 메타·오클리의 AI 스마트글라스를 직접 체험하는 공간을 마련했다. 온라인 플랫폼이 오프라인 체험형 마케팅으로 고객 접점을 확장하는 흐름을 보여준다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 4,
+    "title": "\"100 대 100으로 달렸다\"…카스 라이트, 러닝 크루 대항전 개최",
+    "url": "https://n.news.naver.com/mnews/article/243/0000098751",
+    "source": "네이버",
+    "publishedDate": "2026-06-05",
+    "summary": "카스 라이트가 러닝 크루 대항전을 열며 마케팅의 무게중심을 단순 제품 노출에서 '커뮤니티형 활동'으로 옮기고 있다. 소비자를 브랜드 팬으로 묶어 지속적 관계를 만드는 방식이다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "“두쫀쿠 아직도 잘 팔려” 이 말 믿었는데…유행 지난 메뉴 덜컥 팔았다간 ‘큰 낭패’",
+    "url": "https://n.news.naver.com/mnews/article/016/0002652725",
+    "source": "네이버",
+    "publishedDate": "2026-06-05",
+    "summary": "AI가 자영업·소상공인의 가게 운영, 메뉴·상품 구성 컨설팅 역할까지 맡으며 매출 상승과 직결되는 시대가 됐다. 유행이 지난 상품을 데이터 없이 판단해 들이는 실수를 AI가 사전에 걸러준다.",
+    "scorePct": 0
+  }
+]

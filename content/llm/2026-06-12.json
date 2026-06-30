@@ -1,27 +1,20 @@
-{
-  "category": "llm",
-  "label": "LLM·모델",
-  "date": "2026-06-12",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "June 2026 AI Model Flood: GPT-5.6, Gemini 3.5 Pro & Claude 4.8",
-      "url": "https://www.essamamdani.com/blog/june-2026-ai-model-flood-gpt-gemini-claude",
-      "source": "Essa Mamdani",
-      "sourceLabel": "Essa Mamdani",
-      "publishedDate": "2026-06-09",
-      "summary": "2026년 6월은 GPT-5.6, 제미나이 3.5 프로, 클로드 4.8 계열이 한꺼번에 출시된 올해 가장 활발한 모델 출시 달로 분석됐다. 주요 프런티어 모델들의 동시 업데이트가 경쟁 구도를 재편하고 있다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 2,
-      "title": "ChatGPT drops to 52.7% as Claude triples its AI traffic share",
-      "url": "https://ppc.land/chatgpt-drops-to-52-7-as-claude-triples-its-ai-traffic-share/",
-      "source": "PPC Land",
-      "sourceLabel": "PPC Land",
-      "publishedDate": "2026-06-09",
-      "summary": "클로드 페이블5 출시 이후 챗GPT의 AI 트래픽 점유율이 52.7%로 하락한 반면 클로드는 점유율을 3배로 끌어올렸다. 시장 데이터는 모델 경쟁 구도의 빠른 이동을 보여준다.",
-      "scorePct": 40
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "June 2026 AI Model Flood: GPT-5.6, Gemini 3.5 Pro & Claude 4.8",
+    "url": "https://www.essamamdani.com/blog/june-2026-ai-model-flood-gpt-gemini-claude",
+    "source": "Essa Mamdani",
+    "publishedDate": "2026-06-09",
+    "summary": "2026년 6월은 GPT-5.6, 제미나이 3.5 프로, 클로드 4.8 계열이 한꺼번에 출시된 올해 가장 활발한 모델 출시 달로 분석됐다. 주요 프런티어 모델들의 동시 업데이트가 경쟁 구도를 재편하고 있다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 2,
+    "title": "ChatGPT drops to 52.7% as Claude triples its AI traffic share",
+    "url": "https://ppc.land/chatgpt-drops-to-52-7-as-claude-triples-its-ai-traffic-share/",
+    "source": "PPC Land",
+    "publishedDate": "2026-06-09",
+    "summary": "클로드 페이블5 출시 이후 챗GPT의 AI 트래픽 점유율이 52.7%로 하락한 반면 클로드는 점유율을 3배로 끌어올렸다. 시장 데이터는 모델 경쟁 구도의 빠른 이동을 보여준다.",
+    "scorePct": 40
+  }
+]

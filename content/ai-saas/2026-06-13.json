@@ -1,57 +1,47 @@
-{
-  "category": "ai-saas",
-  "label": "AI SaaS",
-  "date": "2026-06-13",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "“챗봇 넘었다”…STK서 기업 업무 대신하는 AI 에이전트 총출동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005693160",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-12",
-      "summary": "스마트테크 코리아 2026에서 삼성SDS·클레비·일레븐랩스 등이 단순 챗봇을 넘어 실제 업무를 수행하는 AI 에이전트를 대거 선보였다. 상담·문서작성·회의 자동화 등 챗봇이 아닌 '업무 대행' 단계로 진입한 제품들이 전면에 나섰다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 2,
-      "title": "\"싼 모델로 95% 절감\"…쏟아지는 중국산 AI에 선두주자 '고심'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001255238",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-12",
-      "summary": "저가 중국산 AI 모델이 빠르게 확산되며 AI 업계 전반에 가격 전쟁이 불붙었고, 오픈AI와 앤트로픽 등 선두 주자들도 요금 인하 압박에 직면했다. 일부 중국 모델은 최대 95% 비용 절감을 내세우고 있다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 3,
-      "title": "써드웍스, 씨엔티테크서 추가 투자…무역 AI 고도화",
-      "url": "https://n.news.naver.com/mnews/article/030/0003437203",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-13",
-      "summary": "무역 데이터 솔루션 스타트업 써드웍스가 액셀러레이터 씨엔티테크로부터 추가 투자를 유치하며 무역 특화 AI를 고도화한다. 범용 LLM이 아닌 버티컬 도메인에 특화된 AI SaaS의 투자 유치 사례다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 4,
-      "title": "The Next Phase of Enterprise AI",
-      "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
-      "source": "OpenAI",
-      "sourceLabel": "OpenAI",
-      "publishedDate": "2026-06-11",
-      "summary": "오픈AI가 기업 고객이 자사 시스템 내에서 프런티어 모델과 코딩 에이전트 Codex에 직접 접근할 수 있는 '엔터프라이즈 AI의 다음 단계'를 발표했다. 모델을 기업 워크플로우와 데이터에 더 깊이 통합하는 방향으로, B2B 도입 장벽을 낮추는 데 초점을 맞췄다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 5,
-      "title": "제미나이 밀어낸 '클로드'…국내 AI 시장 2위 격변, 비결은?",
-      "url": "https://n.news.naver.com/mnews/article/092/0002426443",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-12",
-      "summary": "앤트로픽의 클로드가 구글 제미나이를 제치고 한국 생성형 AI 앱 시장 매출 2위에 올랐다. 센서타워에 따르면 한국은 미국에 이은 핵심 수익 시장으로 부상했으며, 클로드의 성장세가 두드러진다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "“챗봇 넘었다”…STK서 기업 업무 대신하는 AI 에이전트 총출동",
+    "url": "https://n.news.naver.com/mnews/article/009/0005693160",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "스마트테크 코리아 2026에서 삼성SDS·클레비·일레븐랩스 등이 단순 챗봇을 넘어 실제 업무를 수행하는 AI 에이전트를 대거 선보였다. 상담·문서작성·회의 자동화 등 챗봇이 아닌 '업무 대행' 단계로 진입한 제품들이 전면에 나섰다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 2,
+    "title": "\"싼 모델로 95% 절감\"…쏟아지는 중국산 AI에 선두주자 '고심'",
+    "url": "https://n.news.naver.com/mnews/article/215/0001255238",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "저가 중국산 AI 모델이 빠르게 확산되며 AI 업계 전반에 가격 전쟁이 불붙었고, 오픈AI와 앤트로픽 등 선두 주자들도 요금 인하 압박에 직면했다. 일부 중국 모델은 최대 95% 비용 절감을 내세우고 있다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "써드웍스, 씨엔티테크서 추가 투자…무역 AI 고도화",
+    "url": "https://n.news.naver.com/mnews/article/030/0003437203",
+    "source": "네이버",
+    "publishedDate": "2026-06-13",
+    "summary": "무역 데이터 솔루션 스타트업 써드웍스가 액셀러레이터 씨엔티테크로부터 추가 투자를 유치하며 무역 특화 AI를 고도화한다. 범용 LLM이 아닌 버티컬 도메인에 특화된 AI SaaS의 투자 유치 사례다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "The Next Phase of Enterprise AI",
+    "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+    "source": "OpenAI",
+    "publishedDate": "2026-06-11",
+    "summary": "오픈AI가 기업 고객이 자사 시스템 내에서 프런티어 모델과 코딩 에이전트 Codex에 직접 접근할 수 있는 '엔터프라이즈 AI의 다음 단계'를 발표했다. 모델을 기업 워크플로우와 데이터에 더 깊이 통합하는 방향으로, B2B 도입 장벽을 낮추는 데 초점을 맞췄다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 5,
+    "title": "제미나이 밀어낸 '클로드'…국내 AI 시장 2위 격변, 비결은?",
+    "url": "https://n.news.naver.com/mnews/article/092/0002426443",
+    "source": "네이버",
+    "publishedDate": "2026-06-12",
+    "summary": "앤트로픽의 클로드가 구글 제미나이를 제치고 한국 생성형 AI 앱 시장 매출 2위에 올랐다. 센서타워에 따르면 한국은 미국에 이은 핵심 수익 시장으로 부상했으며, 클로드의 성장세가 두드러진다.",
+    "scorePct": 0
+  }
+]

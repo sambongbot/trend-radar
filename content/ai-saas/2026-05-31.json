@@ -1,57 +1,47 @@
-{
-  "category": "ai-saas",
-  "label": "AI SaaS",
-  "date": "2026-05-31",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "\"작지만 강했다\" 240억 몰린 AI 스타트업, 다음 승부처는?",
-      "url": "https://www.mt.co.kr/future/2026/05/30/2026052909253520420",
-      "source": "머니투데이",
-      "sourceLabel": "머니투데이",
-      "publishedDate": "2026-05-30",
-      "summary": "AI 스타트업 모티프테크놀로지스가 240억원 규모 시리즈B 투자를 유치했다. 나이스투자파트너스, 디토인베스트먼트 등이 참여하며 후속 성장 시나리오에 시장 관심이 쏠리고 있다.",
-      "scorePct": 50
-    },
-    {
-      "rank": 2,
-      "title": "'AI 에이전트' 출현에 공포 덮친 SaaS 시장…SW업계 위기극복 전략은?",
-      "url": "https://n.news.naver.com/mnews/article/138/0002229390",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-05-31",
-      "summary": "AI 에이전트 등장으로 기존 SaaS 시장 지형이 재편되고 있으며, 2030년까지 글로벌 SaaS 시장은 1269조원으로 성장할 전망이다. 기업용 SW 업계는 에이전트 시대 생존 전략 수립이 시급한 상황이다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 3,
-      "title": "Introducing OpenAI Frontier",
-      "url": "https://openai.com/index/introducing-openai-frontier/",
-      "source": "OpenAI",
-      "sourceLabel": "OpenAI",
-      "publishedDate": "2026-05-29",
-      "summary": "OpenAI가 2026년 5월 29일 Frontier Governance Framework를 발표하며 첨단 AI 모델 거버넌스 체계를 공식화했다. 안전한 AI 활용을 위한 새로운 산업 표준이 될 가능성이 높다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 4,
-      "title": "일본도 AI 도입 본격화…후지쯔, 앤트로픽과 맞손",
-      "url": "https://n.news.naver.com/mnews/article/092/0002424758",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-05-30",
-      "summary": "후지쯔가 앤트로픽과 전략적 파트너십을 체결하고 내부 업무 혁신과 고객사 AX 사업을 본격화한다. 일본 산업계와 공공 인프라 영역에서 AI 전환이 가속화되는 신호탄이다.",
-      "scorePct": 0
-    },
-    {
-      "rank": 5,
-      "title": "김주호 스킬벤치 창업자 “AI 활용도 따라 직원 생산성 3.5배 차이”",
-      "url": "https://n.news.naver.com/mnews/article/469/0000933560",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-05-30",
-      "summary": "스킬벤치 김주호 창업자는 AI 활용 역량에 따라 직원 생산성이 최대 3.5배까지 차이 난다고 밝혔다. AI 도입 인프라와 교육이 갖춰지지 않으면 도구만 들여놓는 격이라는 진단이다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "\"작지만 강했다\" 240억 몰린 AI 스타트업, 다음 승부처는?",
+    "url": "https://www.mt.co.kr/future/2026/05/30/2026052909253520420",
+    "source": "머니투데이",
+    "publishedDate": "2026-05-30",
+    "summary": "AI 스타트업 모티프테크놀로지스가 240억원 규모 시리즈B 투자를 유치했다. 나이스투자파트너스, 디토인베스트먼트 등이 참여하며 후속 성장 시나리오에 시장 관심이 쏠리고 있다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "'AI 에이전트' 출현에 공포 덮친 SaaS 시장…SW업계 위기극복 전략은?",
+    "url": "https://n.news.naver.com/mnews/article/138/0002229390",
+    "source": "네이버",
+    "publishedDate": "2026-05-31",
+    "summary": "AI 에이전트 등장으로 기존 SaaS 시장 지형이 재편되고 있으며, 2030년까지 글로벌 SaaS 시장은 1269조원으로 성장할 전망이다. 기업용 SW 업계는 에이전트 시대 생존 전략 수립이 시급한 상황이다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "Introducing OpenAI Frontier",
+    "url": "https://openai.com/index/introducing-openai-frontier/",
+    "source": "OpenAI",
+    "publishedDate": "2026-05-29",
+    "summary": "OpenAI가 2026년 5월 29일 Frontier Governance Framework를 발표하며 첨단 AI 모델 거버넌스 체계를 공식화했다. 안전한 AI 활용을 위한 새로운 산업 표준이 될 가능성이 높다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "일본도 AI 도입 본격화…후지쯔, 앤트로픽과 맞손",
+    "url": "https://n.news.naver.com/mnews/article/092/0002424758",
+    "source": "네이버",
+    "publishedDate": "2026-05-30",
+    "summary": "후지쯔가 앤트로픽과 전략적 파트너십을 체결하고 내부 업무 혁신과 고객사 AX 사업을 본격화한다. 일본 산업계와 공공 인프라 영역에서 AI 전환이 가속화되는 신호탄이다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "김주호 스킬벤치 창업자 “AI 활용도 따라 직원 생산성 3.5배 차이”",
+    "url": "https://n.news.naver.com/mnews/article/469/0000933560",
+    "source": "네이버",
+    "publishedDate": "2026-05-30",
+    "summary": "스킬벤치 김주호 창업자는 AI 활용 역량에 따라 직원 생산성이 최대 3.5배까지 차이 난다고 밝혔다. AI 도입 인프라와 교육이 갖춰지지 않으면 도구만 들여놓는 격이라는 진단이다.",
+    "scorePct": 0
+  }
+]

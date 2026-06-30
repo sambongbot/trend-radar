@@ -1,57 +1,47 @@
-{
-  "category": "ai-saas",
-  "label": "AI SaaS",
-  "date": "2026-06-05",
-  "cards": [
-    {
-      "rank": 1,
-      "title": "[HBR 인사이트]경영진과 중간관리자의 AI 동상이몽",
-      "url": "https://n.news.naver.com/mnews/article/020/0003724568",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-05",
-      "summary": "챗GPT 출시 이후 대기업 AI 도입은 공식 과제가 됐지만, 경영진과 중간관리자 사이에 AI에 대한 기대와 성과 인식의 간극이 크다는 분석이다. 투자 성과를 둘러싼 조직 내 동상이몽이 도입의 실질적 걸림돌로 지목된다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 2,
-      "title": "[GAM] 옥타 ② AI 에이전트 시대 신원 보안 수요 증가",
-      "url": "https://www.newspim.com/news/view/20260604000009",
-      "source": "뉴스핌",
-      "sourceLabel": "뉴스핌",
-      "publishedDate": "2026-06-04",
-      "summary": "AI 에이전트 시대가 본격화하면서 옥타 등 신원 보안(Identity Security) 솔루션 수요가 급증하고 있다. 사람뿐 아니라 AI 에이전트의 신원·접근 관리가 새로운 기업 보안 과제로 떠올랐다.",
-      "scorePct": 20
-    },
-    {
-      "rank": 3,
-      "title": "[단독] 오치영, 지란지교 재편 속도…지란지교데이터, 6년 만에 소프트로 흡수합병",
-      "url": "https://n.news.naver.com/mnews/article/092/0002425351",
-      "source": "naver",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-04",
-      "summary": "오치영 지란지교그룹 창업자가 흩어진 AI·데이터 보호 역량을 지란지교소프트로 재결집하기 위해 지란지교데이터를 6년 만에 흡수합병한다. AI 혁신과 계열사 시너지를 노린 사업 재편 행보다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 4,
-      "title": "유아이패스, 기업 자동화에 '코딩 에이전트' 통합",
-      "url": "https://n.news.naver.com/mnews/article/092/0002425378",
-      "source": "naver-search",
-      "sourceLabel": "네이버",
-      "publishedDate": "2026-06-05",
-      "summary": "유아이패스가 '유아이패스 포 코딩 에이전트'를 발표하며 클로드 코드 등 코딩 에이전트를 기업 자동화 환경에 통합했다. 개발 자동화와 RPA를 결합해 엔터프라이즈 워크플로우를 한층 확장하려는 시도다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 5,
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "publishedDate": "2026-06-02",
-      "summary": "AI 기반 데이터 보안 기업 Cyera가 3억 달러를 추가 유치하며 ARR의 80배에 달하는 120억 달러 기업가치를 인정받았다. 영업손실에도 불구하고 AI 보안 분야에 투자가 집중되고 있음을 보여준다.",
-      "scorePct": 0
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "[HBR 인사이트]경영진과 중간관리자의 AI 동상이몽",
+    "url": "https://n.news.naver.com/mnews/article/020/0003724568",
+    "source": "네이버",
+    "publishedDate": "2026-06-05",
+    "summary": "챗GPT 출시 이후 대기업 AI 도입은 공식 과제가 됐지만, 경영진과 중간관리자 사이에 AI에 대한 기대와 성과 인식의 간극이 크다는 분석이다. 투자 성과를 둘러싼 조직 내 동상이몽이 도입의 실질적 걸림돌로 지목된다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 2,
+    "title": "[GAM] 옥타 ② AI 에이전트 시대 신원 보안 수요 증가",
+    "url": "https://www.newspim.com/news/view/20260604000009",
+    "source": "뉴스핌",
+    "publishedDate": "2026-06-04",
+    "summary": "AI 에이전트 시대가 본격화하면서 옥타 등 신원 보안(Identity Security) 솔루션 수요가 급증하고 있다. 사람뿐 아니라 AI 에이전트의 신원·접근 관리가 새로운 기업 보안 과제로 떠올랐다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "[단독] 오치영, 지란지교 재편 속도…지란지교데이터, 6년 만에 소프트로 흡수합병",
+    "url": "https://n.news.naver.com/mnews/article/092/0002425351",
+    "source": "네이버",
+    "publishedDate": "2026-06-04",
+    "summary": "오치영 지란지교그룹 창업자가 흩어진 AI·데이터 보호 역량을 지란지교소프트로 재결집하기 위해 지란지교데이터를 6년 만에 흡수합병한다. AI 혁신과 계열사 시너지를 노린 사업 재편 행보다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "유아이패스, 기업 자동화에 '코딩 에이전트' 통합",
+    "url": "https://n.news.naver.com/mnews/article/092/0002425378",
+    "source": "네이버",
+    "publishedDate": "2026-06-05",
+    "summary": "유아이패스가 '유아이패스 포 코딩 에이전트'를 발표하며 클로드 코드 등 코딩 에이전트를 기업 자동화 환경에 통합했다. 개발 자동화와 RPA를 결합해 엔터프라이즈 워크플로우를 한층 확장하려는 시도다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 5,
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-02",
+    "summary": "AI 기반 데이터 보안 기업 Cyera가 3억 달러를 추가 유치하며 ARR의 80배에 달하는 120억 달러 기업가치를 인정받았다. 영업손실에도 불구하고 AI 보안 분야에 투자가 집중되고 있음을 보여준다.",
+    "scorePct": 0
+  }
+]
