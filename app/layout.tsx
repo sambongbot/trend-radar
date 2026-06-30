@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "트렌드레이더 — AI·SaaS·커머스 트렌드 큐레이션",
   description:
-    "AI SaaS, LLM·모델, 이커머스 분야의 주요 뉴스를 매일 선별해 제공합니다. 트렌드레이더(TrendRadar)는 링크디가 운영하는 큐레이션 서비스입니다.",
+    "AI SaaS, LLM·모델, 이커머스 분야의 주요 뉴스를 매일 선별해 제공합니다. 트렌드레이더(TrendRadar)는 오세용닷컴(ohseyong.com)이 운영하는 큐레이션 서비스입니다.",
   openGraph: {
     title: "트렌드레이더 — AI·SaaS·커머스 트렌드 큐레이션",
     description:
@@ -71,12 +71,12 @@ export default function RootLayout({
           <p>
             © TrendRadar &nbsp;·&nbsp; powered by{" "}
             <a
-              href="https://linkdi.kr"
+              href="https://ohseyong.com"
               target="_blank"
               rel="noopener noreferrer"
               className="underline underline-offset-2 hover:text-foreground transition-colors"
             >
-              링크디(linkdi.kr)
+              오세용닷컴(ohseyong.com)
             </a>
           </p>
         </footer>
