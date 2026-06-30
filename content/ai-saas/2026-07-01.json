@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "OpenAI becomes latest AI firm to delay model rollout",
+    "url": "https://local12.com/news/nation-world/openai-becomes-latest-ai-firm-to-delay-model-rollout-gpt-56-anthropic-cybersecurity-china",
+    "source": "Local 12 News",
+    "publishedDate": "2026-06-28",
+    "summary": "OpenAI가 앤트로픽에 이어 미국 정부의 사이버보안 검토 절차에 따라 신규 AI 모델(GPT-5.6 계열) 출시를 연기했다. 주요 LLM 기업들이 정부 규제·보안 심사로 모델 배포 일정을 늦추는 흐름이 나타나고 있다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 2,
+    "title": "지용구 더존비즈온 공동대표 “미래 ERP, 기업 OS로 진화할 것”",
+    "url": "https://n.news.naver.com/mnews/article/030/0003442980",
+    "source": "네이버",
+    "publishedDate": "2026-07-01",
+    "summary": "더존비즈온 지용구 공동대표가 AI 확산으로 ERP가 단순 기록 시스템을 넘어 데이터를 스스로 이해하고 실행하는 기업의 기본 운용체계(OS)로 진화할 것이라고 전망했다. AI가 결합된 차세대 ERP는 데이터 해석부터 실행까지 담당하는 방향으로 발전한다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 3,
+    "title": "Enterprise AI Agents 2026: Adoption & Funding",
+    "url": "https://www.syncsoft.ai/en/blog/enterprise-ai-agents-mainstream-2026",
+    "source": "SyncSoft AI",
+    "publishedDate": "2026-06-30",
+    "summary": "2026년 6월 들어 엔터프라이즈 AI 에이전트가 시범 도입 단계를 넘어 기업의 핵심 인프라로 자리 잡았다. 도입 확대와 함께 관련 투자도 본격화되며 AI 에이전트가 업무 시스템의 기본 구성요소로 부상하고 있다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "한컴, 공공·민간 빗장 다 열었다…AX사업 속도",
+    "url": "https://n.news.naver.com/mnews/article/215/0001257127",
+    "source": "네이버",
+    "publishedDate": "2026-07-01",
+    "summary": "한컴이 한국서부발전 등 공기업과 정부기관에 AI 문서작성 솔루션을 잇따라 공급하며 AX(AI 전환) 솔루션 기업으로 빠르게 전환하고 있다. 공공과 민간 양쪽에서 동시에 AI 솔루션 공급 계약을 확대하는 모습이다.",
+    "scorePct": 0
+  }
+]

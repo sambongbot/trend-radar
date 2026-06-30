@@ -1,51 +1,42 @@
 {
-  "date": "2026-06-30",
-  "headline": "> 오늘의 주요 뉴스 5건을 선별했습니다.",
+  "date": "2026-07-01",
+  "headline": "> 더존비즈온·한컴 등 국내 SW 강자들이 AI 기반 '기업 OS'·AX 솔루션으로 B2B 시장 재편에 속도.\n엔터프라이즈 AI 에이전트가 파일럿을 넘어 핵심 인프라로 자리잡고, 리걸테크 등 버티컬에 대형 투자 집중.\nOpenAI·앤트로픽이 정부 보안 심사로 신규 LLM 출시를 연기하며 모델 공급 일정에 변수 부상.",
   "items": [
     {
       "rank": 1,
-      "title": "마인드로직, 생성형 AI 플랫폼 ‘팩트챗’ 데이터 첫 공개",
-      "url": "https://n.news.naver.com/mnews/article/144/0001123477",
-      "source": "네이버",
-      "publishedDate": "2026-06-30",
-      "summary": "멀티 AI 에이전트 플랫폼 ‘팩트챗’가 국내 이용자 약 50만명의 생성형 AI 활용 패턴을 분석한 데이터를 공개했다. 지난 5월 클로드(36%)가 GPT(34.8%) 점유율 첫 역전했고 제미나이까지 3강 구도가 본격",
-      "scorePct": 70
+      "title": "OpenAI becomes latest AI firm to delay model rollout",
+      "url": "https://local12.com/news/nation-world/openai-becomes-latest-ai-firm-to-delay-model-rollout-gpt-56-anthropic-cybersecurity-china",
+      "source": "Local 12 News",
+      "publishedDate": "2026-06-28",
+      "summary": "OpenAI가 앤트로픽에 이어 미국 정부의 사이버보안 검토 절차에 따라 신규 AI 모델(GPT-5.6 계열) 출시를 연기했다. 주요 LLM 기업들이 정부 규제·보안 심사로 모델 배포 일정을 늦추는 흐름이 나타나고 있다.",
+      "scorePct": 30
     },
     {
       "rank": 2,
-      "title": "[공공 AI-SaaS 컨퍼런스] AI 에이전트 시대 SaaS 재편…“AI와 SaaS는 상호보완”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003442458",
+      "title": "지용구 더존비즈온 공동대표 “미래 ERP, 기업 OS로 진화할 것”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003442980",
       "source": "네이버",
-      "publishedDate": "2026-06-30",
-      "summary": "인공지능(AI) 에이전트 확산으로 서비스형 소프트웨어(SaaS)가 화면 중심 서비스에서 벗어나, AI가 필요한 기능을 연결해 업무를 수행하는 구조로 재편되고 있다. 정부도 AI 시대 클라우드 생태계 기반을 강화하기 ",
-      "scorePct": 50
+      "publishedDate": "2026-07-01",
+      "summary": "더존비즈온 지용구 공동대표가 AI 확산으로 ERP가 단순 기록 시스템을 넘어 데이터를 스스로 이해하고 실행하는 기업의 기본 운용체계(OS)로 진화할 것이라고 전망했다. AI가 결합된 차세대 ERP는 데이터 해석부터 실행까지 담당하는 방향으로 발전한다.",
+      "scorePct": 10
     },
     {
       "rank": 3,
-      "title": "인간 개입없이 스스로 알고리즘·코드 수정 … AI가 AI 만든다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005700334",
-      "source": "네이버",
-      "publishedDate": "2026-06-29",
-      "summary": "인간의 마지막 발명품 '인공지능 RSI' 시대 눈앞 AI 작업능력, 7개월마다 2배로 에이전트끼리 협업 무한 반복 데이터 학습중심 LLM과 달리 RSI는 AI가 설계 직접 수정해 완전한 RSI 단계에 들어서면 암치료",
-      "scorePct": 40
+      "title": "Enterprise AI Agents 2026: Adoption & Funding",
+      "url": "https://www.syncsoft.ai/en/blog/enterprise-ai-agents-mainstream-2026",
+      "source": "SyncSoft AI",
+      "publishedDate": "2026-06-30",
+      "summary": "2026년 6월 들어 엔터프라이즈 AI 에이전트가 시범 도입 단계를 넘어 기업의 핵심 인프라로 자리 잡았다. 도입 확대와 함께 관련 투자도 본격화되며 AI 에이전트가 업무 시스템의 기본 구성요소로 부상하고 있다.",
+      "scorePct": 10
     },
     {
       "rank": 4,
-      "title": "총 18GW 규모 'AI의 심장' 장착... \"토큰 이코노미 시대 만들 것\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939337",
+      "title": "한컴, 공공·민간 빗장 다 열었다…AX사업 속도",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257127",
       "source": "네이버",
-      "publishedDate": "2026-06-29",
-      "summary": "정부와 민간이 손잡고 국내에 2035년까지 총 18.4기가와트(GW) 규모의 인공지능(AI) 데이터센터(DC)를 구축한다. 투자액은 1,000조 원에 이른다. 데이터센터를 단순한 데이터 저장소가 아닌 초거대 'AI",
-      "scorePct": 20
-    },
-    {
-      "rank": 5,
-      "title": "[공공 AI-SaaS 컨퍼런스] 공공 SaaS의 미래 제시…“AI가 읽고 판단해 일 처리”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003442456",
-      "source": "네이버",
-      "publishedDate": "2026-06-30",
-      "summary": "인공지능(AI)이 업무 데이터를 이해하고 다음 일을 처리하는 '에이전틱 SaaS'가 공공 서비스형 소프트웨어(SaaS)의 다음 단계로 제시됐다. 기존 SaaS가 정보를 수집해 화면으로 보여주는 데 머물렀다면 앞으로는",
-      "scorePct": 20
+      "publishedDate": "2026-07-01",
+      "summary": "한컴이 한국서부발전 등 공기업과 정부기관에 AI 문서작성 솔루션을 잇따라 공급하며 AX(AI 전환) 솔루션 기업으로 빠르게 전환하고 있다. 공공과 민간 양쪽에서 동시에 AI 솔루션 공급 계약을 확대하는 모습이다.",
+      "scorePct": 0
     }
   ]
 }
