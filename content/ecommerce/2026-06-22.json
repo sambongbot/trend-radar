@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "서울시, G마켓·롯데ON과 맞손…소상공인 매출 증대 지원",
-    "url": "https://n.news.naver.com/mnews/article/629/0000509204",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "서울시가 G마켓·롯데ON에 소상공인 전용관 'e서울사랑샵'을 열고 온라인 매출 증대를 지원한다. 기존 우체국쇼핑 전용관을 민간 대형 쇼핑몰로 확대하며 최대 20% 할인 프로모션도 함께 진행한다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "[비즈톡톡] 광고 화제성 발판 삼아 성장 꾀하는 G마켓",
-    "url": "https://n.news.naver.com/mnews/article/366/0001173228",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "신세계그룹 G마켓이 화제성 광고와 물류·셀러 투자 확대를 앞세워 분위기 반전에 나섰다. 2028년 본격 수익화를 목표로 셀러 지원과 인프라에 힘을 싣고 있다.",
-    "scorePct": 67
-  },
-  {
-    "rank": 3,
-    "title": "“나루토·미피 굿즈 사러 오픈런”…IP 매출 1년새 50% 쑥",
-    "url": "https://n.news.naver.com/mnews/article/011/0004633356",
-    "source": "네이버",
-    "publishedDate": "2026-06-21",
-    "summary": "캐릭터·게임·아티스트 등 지식재산권(IP) 협업이 패션·외식업계의 핵심 성장 전략으로 자리잡고 있다. 단순 화제성 한정판을 넘어 실제 고객 유입과 구매 전환을 이끌며, 관련 IP 매출은 1년 새 50% 늘었다.",
-    "scorePct": 11
-  },
-  {
-    "rank": 4,
-    "title": "호르무즈 불확실성에…물류 운임, 종전 합의 전보다 더 올라",
-    "url": "https://n.news.naver.com/mnews/article/020/0003728242",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "미국과 이란의 종전 합의에도 호르무즈 해협 정상화가 지연되면서 해상·항공 물류 운임이 떨어지지 않고 있다. 운임은 종전 합의 이전보다 오히려 더 오른 상태가 이어지고 있다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "네이버, AI 검색 강화에 점유율 껑충…한때 80% 돌파",
-    "url": "https://n.news.naver.com/mnews/article/366/0001173250",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "네이버의 평균 검색 점유율이 AI 검색 서비스 강화 이후 상승세를 타며 한때 80%를 돌파했다. AI탭 베타 도입 이후 이용자 체류와 검색량이 늘어난 결과로 분석된다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ecommerce",
+  "label": "이커머스",
+  "date": "2026-06-22",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "서울시, G마켓·롯데ON과 맞손…소상공인 매출 증대 지원",
+      "url": "https://n.news.naver.com/mnews/article/629/0000509204",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "서울시가 G마켓·롯데ON에 소상공인 전용관 'e서울사랑샵'을 열고 온라인 매출 증대를 지원한다. 기존 우체국쇼핑 전용관을 민간 대형 쇼핑몰로 확대하며 최대 20% 할인 프로모션도 함께 진행한다.",
+      "scorePct": 90
+    },
+    {
+      "rank": 2,
+      "title": "[비즈톡톡] 광고 화제성 발판 삼아 성장 꾀하는 G마켓",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173228",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "신세계그룹 G마켓이 화제성 광고와 물류·셀러 투자 확대를 앞세워 분위기 반전에 나섰다. 2028년 본격 수익화를 목표로 셀러 지원과 인프라에 힘을 싣고 있다.",
+      "scorePct": 60
+    },
+    {
+      "rank": 3,
+      "title": "“나루토·미피 굿즈 사러 오픈런”…IP 매출 1년새 50% 쑥",
+      "url": "https://n.news.naver.com/mnews/article/011/0004633356",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-21",
+      "summary": "캐릭터·게임·아티스트 등 지식재산권(IP) 협업이 패션·외식업계의 핵심 성장 전략으로 자리잡고 있다. 단순 화제성 한정판을 넘어 실제 고객 유입과 구매 전환을 이끌며, 관련 IP 매출은 1년 새 50% 늘었다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "호르무즈 불확실성에…물류 운임, 종전 합의 전보다 더 올라",
+      "url": "https://n.news.naver.com/mnews/article/020/0003728242",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "미국과 이란의 종전 합의에도 호르무즈 해협 정상화가 지연되면서 해상·항공 물류 운임이 떨어지지 않고 있다. 운임은 종전 합의 이전보다 오히려 더 오른 상태가 이어지고 있다.",
+      "scorePct": 0
+    },
+    {
+      "rank": 5,
+      "title": "네이버, AI 검색 강화에 점유율 껑충…한때 80% 돌파",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173250",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "네이버의 평균 검색 점유율이 AI 검색 서비스 강화 이후 상승세를 타며 한때 80%를 돌파했다. AI탭 베타 도입 이후 이용자 체류와 검색량이 늘어난 결과로 분석된다.",
+      "scorePct": 0
+    }
+  ]
+}

@@ -1,38 +1,47 @@
-[
-  {
-    "rank": 1,
-    "title": "구글, 제미나이 통합 API '인터랙션스' 정식 출시…모델·에이전트를 하나로",
-    "url": "https://zdnet.co.kr/view/?no=20260626213355",
-    "source": "ZDNet Korea",
-    "publishedDate": "2026-06-26",
-    "summary": "구글이 제미나이 모델과 AI 에이전트를 단일 엔드포인트로 통합한 인터랙션스 API(Interactions API)를 정식 출시했다. 모델 ID를 넘기면 추론, 에이전트 ID를 넘기면 에이전트 실행이 한 번의 호출로 처리되어 개발 복잡도가 크게 줄어든다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "'AI가 오류 알아서 척척' 테스티파이, 경기 G스타 오디션 '대상'",
-    "url": "https://n.news.naver.com/mnews/article/008/0005377772",
-    "source": "네이버",
-    "publishedDate": "2026-06-27",
-    "summary": "생성형 AI 기반 소프트웨어 품질보증(QA) 솔루션 스타트업 테스티파이가 2026 경기창업공모 G스타 오디션 예비·초기리그에서 대상을 차지했다. AI가 코드 오류를 자동으로 잡아내는 QA 자동화 솔루션으로 경쟁력을 인정받았다.",
-    "scorePct": 33
-  },
-  {
-    "rank": 3,
-    "title": "Exclusive: Vinod Khosla wanted 'every available dollar' of Runlayer's funding round. It just raised $30 million to govern the agent workforce",
-    "url": "https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/",
-    "source": "Fortune",
-    "publishedDate": "2026-06-24",
-    "summary": "엔터프라이즈 MCP(Model Context Protocol) 플랫폼 런레이어가 펠리시스 주도, 코슬라벤처스 참여로 3000만 달러 시리즈A를 유치했다. AI 에이전트 인력을 통제·거버넌스하는 인프라를 구축하며, 비노드 코슬라가 라운드 물량을 전부 원했을 만큼 주목받았다.",
-    "scorePct": 33
-  },
-  {
-    "rank": 4,
-    "title": "[AI는 지금] 지푸AI, 코딩 특화 AI 'GLM-5.2' 공개…미국 개발자 시장 주목",
-    "url": "https://n.news.naver.com/mnews/article/092/0002428248",
-    "source": "네이버",
-    "publishedDate": "2026-06-26",
-    "summary": "중국 AI 기업 지푸AI가 코딩에 특화된 새 모델 GLM-5.2를 공개하며 미국 개발자 시장의 주목을 받았다. 저렴한 비용에 강한 코딩 성능을 앞세워 딥시크처럼 실리콘밸리에 충격을 주고 있다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-27",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "구글, 제미나이 통합 API '인터랙션스' 정식 출시…모델·에이전트를 하나로",
+      "url": "https://zdnet.co.kr/view/?no=20260626213355",
+      "source": "ZDNet Korea",
+      "sourceLabel": "ZDNet Korea",
+      "publishedDate": "2026-06-26",
+      "summary": "구글이 제미나이 모델과 AI 에이전트를 단일 엔드포인트로 통합한 인터랙션스 API(Interactions API)를 정식 출시했다. 모델 ID를 넘기면 추론, 에이전트 ID를 넘기면 에이전트 실행이 한 번의 호출로 처리되어 개발 복잡도가 크게 줄어든다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 2,
+      "title": "'AI가 오류 알아서 척척' 테스티파이, 경기 G스타 오디션 '대상'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005377772",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-27",
+      "summary": "생성형 AI 기반 소프트웨어 품질보증(QA) 솔루션 스타트업 테스티파이가 2026 경기창업공모 G스타 오디션 예비·초기리그에서 대상을 차지했다. AI가 코드 오류를 자동으로 잡아내는 QA 자동화 솔루션으로 경쟁력을 인정받았다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 3,
+      "title": "Exclusive: Vinod Khosla wanted 'every available dollar' of Runlayer's funding round. It just raised $30 million to govern the agent workforce",
+      "url": "https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/",
+      "source": "Fortune",
+      "sourceLabel": "Fortune",
+      "publishedDate": "2026-06-24",
+      "summary": "엔터프라이즈 MCP(Model Context Protocol) 플랫폼 런레이어가 펠리시스 주도, 코슬라벤처스 참여로 3000만 달러 시리즈A를 유치했다. AI 에이전트 인력을 통제·거버넌스하는 인프라를 구축하며, 비노드 코슬라가 라운드 물량을 전부 원했을 만큼 주목받았다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "[AI는 지금] 지푸AI, 코딩 특화 AI 'GLM-5.2' 공개…미국 개발자 시장 주목",
+      "url": "https://n.news.naver.com/mnews/article/092/0002428248",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-26",
+      "summary": "중국 AI 기업 지푸AI가 코딩에 특화된 새 모델 GLM-5.2를 공개하며 미국 개발자 시장의 주목을 받았다. 저렴한 비용에 강한 코딩 성능을 앞세워 딥시크처럼 실리콘밸리에 충격을 주고 있다.",
+      "scorePct": 0
+    }
+  ]
+}

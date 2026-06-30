@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "CJ온스타일, 챗GPT 쇼핑 이어 '클로드' 전사 도입…AI 네이티브 전환 가속",
-    "url": "https://www.asiae.co.kr/article/2026061708072591129",
-    "source": "아시아경제",
-    "publishedDate": "2026-06-17",
-    "summary": "CJ온스타일이 앤트로픽의 '클로드 엔터프라이즈'를 전사 공식 AI 플랫폼으로 도입해 AI 네이티브 전환을 가속한다. 고객 대상 AI 서비스와 임직원 업무 자동화를 동시에 확장하는 것이 핵심이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "실전 뛰어든 AI 에이전트…\"기업성과 열쇠는 '기술·업무 연결'\"",
-    "url": "https://n.news.naver.com/mnews/article/092/0002427043",
-    "source": "네이버",
-    "publishedDate": "2026-06-18",
-    "summary": "AI 에이전트가 단순 도입·실험 단계를 지나 실제 업무 성과를 내는 실행 체계로 진화하고 있다. 기업 성과의 열쇠는 AI 기술과 실제 업무 프로세스를 긴밀히 연결하는 데 있다는 분석이다.",
-    "scorePct": 40
-  },
-  {
-    "rank": 3,
-    "title": "Venture Capital & Startup Funding Roundup, June 15, 2026",
-    "url": "https://techstartups.com/2026/06/16/venture-capital-startup-funding-roundup-june-15-2026-2/",
-    "source": "Tech Startups",
-    "publishedDate": "2026-06-16",
-    "summary": "6월 15일자 글로벌 AI·B2B 펀딩 동향으로, Respond.io가 Camber 주도의 6,250만 달러 시리즈 B를 유치하는 등 주요 투자 거래가 정리됐다. AI 스타트업 자금 조달 흐름을 한눈에 파악할 수 있다.",
-    "scorePct": 20
-  },
-  {
-    "rank": 4,
-    "title": "[Biz & Now] 신한, 새 금융 플랫폼 ‘수퍼SOL’ 공개",
-    "url": "https://n.news.naver.com/mnews/article/025/0003531278",
-    "source": "네이버",
-    "publishedDate": "2026-06-18",
-    "summary": "신한금융그룹이 그룹사 업무와 기능을 완전 통합한 신규 금융 플랫폼 '신한 수퍼SOL'을 공개했다. AI 에이전트 기능을 핵심으로 탑재해 통합 금융 경험을 제공한다.",
-    "scorePct": 10
-  },
-  {
-    "rank": 5,
-    "title": "미토스 수출통제 후폭풍 속 앤트로픽 한국 상륙",
-    "url": "https://n.news.naver.com/mnews/article/001/0016144670",
-    "source": "네이버",
-    "publishedDate": "2026-06-18",
-    "summary": "앤트로픽이 서울 오피스를 공식 개소하고 네이버·넥슨·LG CNS·삼성SDS 등 국내 주요 기업에 클로드 도입을 확대하며 한국 시장 공략을 본격화했다. 미토스5 수출통제 논란 속에서도 B2B 엔터프라이즈와 안전성을 무기로 협력을 다지겠다는 구상이다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-18",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "CJ온스타일, 챗GPT 쇼핑 이어 '클로드' 전사 도입…AI 네이티브 전환 가속",
+      "url": "https://www.asiae.co.kr/article/2026061708072591129",
+      "source": "아시아경제",
+      "sourceLabel": "아시아경제",
+      "publishedDate": "2026-06-17",
+      "summary": "CJ온스타일이 앤트로픽의 '클로드 엔터프라이즈'를 전사 공식 AI 플랫폼으로 도입해 AI 네이티브 전환을 가속한다. 고객 대상 AI 서비스와 임직원 업무 자동화를 동시에 확장하는 것이 핵심이다.",
+      "scorePct": 100
+    },
+    {
+      "rank": 2,
+      "title": "실전 뛰어든 AI 에이전트…\"기업성과 열쇠는 '기술·업무 연결'\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002427043",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-18",
+      "summary": "AI 에이전트가 단순 도입·실험 단계를 지나 실제 업무 성과를 내는 실행 체계로 진화하고 있다. 기업 성과의 열쇠는 AI 기술과 실제 업무 프로세스를 긴밀히 연결하는 데 있다는 분석이다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 3,
+      "title": "Venture Capital & Startup Funding Roundup, June 15, 2026",
+      "url": "https://techstartups.com/2026/06/16/venture-capital-startup-funding-roundup-june-15-2026-2/",
+      "source": "Tech Startups",
+      "sourceLabel": "Tech Startups",
+      "publishedDate": "2026-06-16",
+      "summary": "6월 15일자 글로벌 AI·B2B 펀딩 동향으로, Respond.io가 Camber 주도의 6,250만 달러 시리즈 B를 유치하는 등 주요 투자 거래가 정리됐다. AI 스타트업 자금 조달 흐름을 한눈에 파악할 수 있다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 4,
+      "title": "[Biz & Now] 신한, 새 금융 플랫폼 ‘수퍼SOL’ 공개",
+      "url": "https://n.news.naver.com/mnews/article/025/0003531278",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-18",
+      "summary": "신한금융그룹이 그룹사 업무와 기능을 완전 통합한 신규 금융 플랫폼 '신한 수퍼SOL'을 공개했다. AI 에이전트 기능을 핵심으로 탑재해 통합 금융 경험을 제공한다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "미토스 수출통제 후폭풍 속 앤트로픽 한국 상륙",
+      "url": "https://n.news.naver.com/mnews/article/001/0016144670",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-18",
+      "summary": "앤트로픽이 서울 오피스를 공식 개소하고 네이버·넥슨·LG CNS·삼성SDS 등 국내 주요 기업에 클로드 도입을 확대하며 한국 시장 공략을 본격화했다. 미토스5 수출통제 논란 속에서도 B2B 엔터프라이즈와 안전성을 무기로 협력을 다지겠다는 구상이다.",
+      "scorePct": 0
+    }
+  ]
+}

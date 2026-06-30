@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "OpenAI launches new Codex tools for white-collar work",
-    "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "source": "TechCrunch",
-    "publishedDate": "2026-06-02",
-    "summary": "OpenAI가 화이트칼라 업무용 Codex를 대폭 업데이트해 도메인별 워크플로우와 기업용 웹 호스팅, 역할별 플러그인을 도입했다. Codex를 ChatGPT 앱 전반에 확산할 계획이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models",
-    "url": "https://www.ghacks.net/2026/06/03/openai-upgrades-gpt-5-5-instant-and-confirms-retirement-of-o3-and-gpt-4-5-models/",
-    "source": "gHacks Tech News",
-    "publishedDate": "2026-06-03",
-    "summary": "OpenAI가 GPT-5.5 Instant를 더 짧고 자연스러운 응답으로 업그레이드했다. 동시에 o3와 GPT-4.5 모델의 폐기를 공식 확정했다.",
-    "scorePct": 80
-  },
-  {
-    "rank": 3,
-    "title": "Anthropic probes customer data leak claims after Friday Claude outage",
-    "url": "https://cybernews.com/ai-news/claude-outage-resolved-anthropic-opus-model-errors/",
-    "source": "Cybernews",
-    "publishedDate": "2026-06-05",
-    "summary": "앤트로픽이 6월7일 클로드 모델에서 대규모 오류를 겪었고 약 1시간 만에 원인을 파악해 복구했다. 이 장애와 맞물려 고객 데이터 유출 의혹이 제기되자 앤트로픽이 사실관계 조사에 착수했다.",
-    "scorePct": 80
-  },
-  {
-    "rank": 4,
-    "title": "[안광섭 AI 진테제] 미국기업이 중국AI기업에 돈을 보내는 이유",
-    "url": "https://n.news.naver.com/mnews/article/092/0002425551",
-    "source": "네이버",
-    "publishedDate": "2026-06-07",
-    "summary": "우버가 AI 코딩 도구 예산을 4개월 만에 전부 소진했으며, 엔지니어당 월 사용료가 150달러에서 최대 수천 달러까지 치솟았다. 에이전틱 코딩 도구의 실사용 비용 구조를 보여준다.",
-    "scorePct": 20
-  },
-  {
-    "rank": 5,
-    "title": "아이폰도 이제 AI이미지 생성 되나.. 9일 새로운 시리 출시",
-    "url": "https://n.news.naver.com/mnews/article/009/0005690115",
-    "source": "네이버",
-    "publishedDate": "2026-06-07",
-    "summary": "애플이 6월 9일 구글 제미나이를 활용해 성능을 개선한 새로운 시리를 출시한다. 약점으로 지적되던 AI 이미지 생성 기능도 개선될 전망이다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-07",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "publishedDate": "2026-06-02",
+      "summary": "OpenAI가 화이트칼라 업무용 Codex를 대폭 업데이트해 도메인별 워크플로우와 기업용 웹 호스팅, 역할별 플러그인을 도입했다. Codex를 ChatGPT 앱 전반에 확산할 계획이다.",
+      "scorePct": 50
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models",
+      "url": "https://www.ghacks.net/2026/06/03/openai-upgrades-gpt-5-5-instant-and-confirms-retirement-of-o3-and-gpt-4-5-models/",
+      "source": "gHacks Tech News",
+      "sourceLabel": "gHacks Tech News",
+      "publishedDate": "2026-06-03",
+      "summary": "OpenAI가 GPT-5.5 Instant를 더 짧고 자연스러운 응답으로 업그레이드했다. 동시에 o3와 GPT-4.5 모델의 폐기를 공식 확정했다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic probes customer data leak claims after Friday Claude outage",
+      "url": "https://cybernews.com/ai-news/claude-outage-resolved-anthropic-opus-model-errors/",
+      "source": "Cybernews",
+      "sourceLabel": "Cybernews",
+      "publishedDate": "2026-06-05",
+      "summary": "앤트로픽이 6월7일 클로드 모델에서 대규모 오류를 겪었고 약 1시간 만에 원인을 파악해 복구했다. 이 장애와 맞물려 고객 데이터 유출 의혹이 제기되자 앤트로픽이 사실관계 조사에 착수했다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 4,
+      "title": "[안광섭 AI 진테제] 미국기업이 중국AI기업에 돈을 보내는 이유",
+      "url": "https://n.news.naver.com/mnews/article/092/0002425551",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-07",
+      "summary": "우버가 AI 코딩 도구 예산을 4개월 만에 전부 소진했으며, 엔지니어당 월 사용료가 150달러에서 최대 수천 달러까지 치솟았다. 에이전틱 코딩 도구의 실사용 비용 구조를 보여준다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "아이폰도 이제 AI이미지 생성 되나.. 9일 새로운 시리 출시",
+      "url": "https://n.news.naver.com/mnews/article/009/0005690115",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-07",
+      "summary": "애플이 6월 9일 구글 제미나이를 활용해 성능을 개선한 새로운 시리를 출시한다. 약점으로 지적되던 AI 이미지 생성 기능도 개선될 전망이다.",
+      "scorePct": 0
+    }
+  ]
+}

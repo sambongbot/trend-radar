@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "[기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 '진화'하는 것",
-    "url": "https://n.news.naver.com/mnews/article/030/0003434046",
-    "source": "네이버",
-    "publishedDate": "2026-06-04",
-    "summary": "앤스로픽의 '클로드 코워크' 등장 이후 AI 에이전트가 SaaS를 잠식한다는 '사스포칼립스' 신조어가 확산되고 있다. 기고는 BI(비즈니스 인텔리전스)가 대체되는 것이 아니라 에이전트와 결합해 진화하는 방향으로 가야 한다고 진단한다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "돈은 ‘AI 네이티브’로…챗GPT 前 유니콘들, 몸값 평균 52% 증발",
-    "url": "https://n.news.naver.com/mnews/article/023/0003979942",
-    "source": "네이버",
-    "publishedDate": "2026-06-04",
-    "summary": "챗GPT 출시 이후 유니콘 지위에서 탈락한 스타트업이 220여 개에 달하며, 이들의 몸값이 평균 52% 증발한 것으로 나타났다. 투자 자금이 빠르게 'AI 네이티브' 기업으로 쏠리고 있다는 분석이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 3,
-    "title": "“1조원 광고 데이터가 무기…글로벌 마케팅 AI 에이전트 될 것”[IPO 출사표]",
-    "url": "https://n.news.naver.com/mnews/article/018/0006296587",
-    "source": "네이버",
-    "publishedDate": "2026-06-04",
-    "summary": "1조원 규모 광고 데이터를 보유한 한 기업이 글로벌 마케팅 AI 에이전트로 도약하겠다며 IPO 출사표를 던졌다. AI 시대에는 데이터를 많이 가진 기업이 시장을 가져간다는 전략을 내세웠다.",
-    "scorePct": 75
-  },
-  {
-    "rank": 4,
-    "title": "[르포] 'NAS 강자'에서 'AI 스토리지' 강자 된 시놀로지…'온프레미스 AI 생태계' 구축 승부수",
-    "url": "https://n.news.naver.com/mnews/article/014/0005530056",
-    "source": "네이버",
-    "publishedDate": "2026-06-04",
-    "summary": "시놀로지가 NAS 강자라는 기존 이미지를 벗고 데이터가 있는 자리에서 AI를 구동하는 온프레미스 '프라이빗 AI 풀스택'을 공개했다. 엔터프라이즈 스토리지·소프트웨어·AI·보안을 묶은 기업용 AI 생태계로 시장 공략에 나섰다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 5,
-    "title": "15國 판 커진 앤스로픽 ‘미토스’ 보안 실험… 삼성·SK·KISA 합류",
-    "url": "https://n.news.naver.com/mnews/article/014/0005530078",
-    "source": "네이버",
-    "publishedDate": "2026-06-03",
-    "summary": "삼성전자·SK하이닉스·SK텔레콤이 앤스로픽의 글로벌 사이버 보안 협력 '프로젝트 글래스윙'에 참여하며 한국도 글로벌 보안 공급망에 합류했다. KISA도 포함돼 국가 차원의 AI 보안 협력 체계가 형성되고 있다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-04",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "[기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 '진화'하는 것",
+      "url": "https://n.news.naver.com/mnews/article/030/0003434046",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-04",
+      "summary": "앤스로픽의 '클로드 코워크' 등장 이후 AI 에이전트가 SaaS를 잠식한다는 '사스포칼립스' 신조어가 확산되고 있다. 기고는 BI(비즈니스 인텔리전스)가 대체되는 것이 아니라 에이전트와 결합해 진화하는 방향으로 가야 한다고 진단한다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 2,
+      "title": "돈은 ‘AI 네이티브’로…챗GPT 前 유니콘들, 몸값 평균 52% 증발",
+      "url": "https://n.news.naver.com/mnews/article/023/0003979942",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-04",
+      "summary": "챗GPT 출시 이후 유니콘 지위에서 탈락한 스타트업이 220여 개에 달하며, 이들의 몸값이 평균 52% 증발한 것으로 나타났다. 투자 자금이 빠르게 'AI 네이티브' 기업으로 쏠리고 있다는 분석이다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 3,
+      "title": "“1조원 광고 데이터가 무기…글로벌 마케팅 AI 에이전트 될 것”[IPO 출사표]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006296587",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-04",
+      "summary": "1조원 규모 광고 데이터를 보유한 한 기업이 글로벌 마케팅 AI 에이전트로 도약하겠다며 IPO 출사표를 던졌다. AI 시대에는 데이터를 많이 가진 기업이 시장을 가져간다는 전략을 내세웠다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 4,
+      "title": "[르포] 'NAS 강자'에서 'AI 스토리지' 강자 된 시놀로지…'온프레미스 AI 생태계' 구축 승부수",
+      "url": "https://n.news.naver.com/mnews/article/014/0005530056",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-04",
+      "summary": "시놀로지가 NAS 강자라는 기존 이미지를 벗고 데이터가 있는 자리에서 AI를 구동하는 온프레미스 '프라이빗 AI 풀스택'을 공개했다. 엔터프라이즈 스토리지·소프트웨어·AI·보안을 묶은 기업용 AI 생태계로 시장 공략에 나섰다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 5,
+      "title": "15國 판 커진 앤스로픽 ‘미토스’ 보안 실험… 삼성·SK·KISA 합류",
+      "url": "https://n.news.naver.com/mnews/article/014/0005530078",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-03",
+      "summary": "삼성전자·SK하이닉스·SK텔레콤이 앤스로픽의 글로벌 사이버 보안 협력 '프로젝트 글래스윙'에 참여하며 한국도 글로벌 보안 공급망에 합류했다. KISA도 포함돼 국가 차원의 AI 보안 협력 체계가 형성되고 있다.",
+      "scorePct": 0
+    }
+  ]
+}

@@ -1,38 +1,47 @@
-[
-  {
-    "rank": 1,
-    "title": "Anthropic's Claude AI Back Online After 90-Minute Global Outage",
-    "url": "https://cybersecuritynews.com/anthropic-claude-ai-outage/",
-    "source": "Cyber Security News",
-    "publishedDate": "2026-06-22",
-    "summary": "2026년 6월 22일 00:37 UTC부터 약 90분간 Claude AI에 글로벌 장애가 발생해 5개 서비스가 영향을 받았다. 오류율 급증으로 다수 모델 접근이 중단됐다가 복구됐다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls/",
-    "source": "OpenAI",
-    "publishedDate": "2026-06-21",
-    "summary": "오픈AI가 ChatGPT Enterprise에 크레딧 사용 분석과 지출 통제 기능을 도입했다. Global Admin Console에서 관리자가 조직 단위로 사용량을 모니터링하고 한도를 설정할 수 있다.",
-    "scorePct": 60
-  },
-  {
-    "rank": 3,
-    "title": "[AI픽] 오픈AI, 삼성전자 품고 기업용 AI 시장 공략(종합)",
-    "url": "https://n.news.naver.com/mnews/article/001/0016152414",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "오픈AI가 삼성전자 국내 임직원과 디바이스경험(DX) 부문 전 세계 임직원을 대상으로 ChatGPT 엔터프라이즈와 코딩 에이전트 코덱스를 대규모 공급한다. 대기업 차원의 AI 협업 플랫폼 구축 사례다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 4,
-    "title": "Claude Mythos 5 Benchmarks 2026: Scores, Rankings & Performance",
-    "url": "https://benchlm.ai/models/claude-mythos-5",
-    "source": "BenchLM.ai",
-    "publishedDate": "2026-06-18",
-    "summary": "Claude Mythos 5가 BenchLM 잠정 리더보드에서 124개 모델 중 종합 1위를 차지했다. 최상위 점수로 현행 프런티어 모델 대비 성능 우위를 입증했다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-23",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "Anthropic's Claude AI Back Online After 90-Minute Global Outage",
+      "url": "https://cybersecuritynews.com/anthropic-claude-ai-outage/",
+      "source": "Cyber Security News",
+      "sourceLabel": "Cyber Security News",
+      "publishedDate": "2026-06-22",
+      "summary": "2026년 6월 22일 00:37 UTC부터 약 90분간 Claude AI에 글로벌 장애가 발생해 5개 서비스가 영향을 받았다. 오류율 급증으로 다수 모델 접근이 중단됐다가 복구됐다.",
+      "scorePct": 70
+    },
+    {
+      "rank": 2,
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls/",
+      "source": "OpenAI",
+      "sourceLabel": "OpenAI",
+      "publishedDate": "2026-06-21",
+      "summary": "오픈AI가 ChatGPT Enterprise에 크레딧 사용 분석과 지출 통제 기능을 도입했다. Global Admin Console에서 관리자가 조직 단위로 사용량을 모니터링하고 한도를 설정할 수 있다.",
+      "scorePct": 50
+    },
+    {
+      "rank": 3,
+      "title": "[AI픽] 오픈AI, 삼성전자 품고 기업용 AI 시장 공략(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016152414",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "오픈AI가 삼성전자 국내 임직원과 디바이스경험(DX) 부문 전 세계 임직원을 대상으로 ChatGPT 엔터프라이즈와 코딩 에이전트 코덱스를 대규모 공급한다. 대기업 차원의 AI 협업 플랫폼 구축 사례다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 4,
+      "title": "Claude Mythos 5 Benchmarks 2026: Scores, Rankings & Performance",
+      "url": "https://benchlm.ai/models/claude-mythos-5",
+      "source": "BenchLM.ai",
+      "sourceLabel": "BenchLM.ai",
+      "publishedDate": "2026-06-18",
+      "summary": "Claude Mythos 5가 BenchLM 잠정 리더보드에서 124개 모델 중 종합 1위를 차지했다. 최상위 점수로 현행 프런티어 모델 대비 성능 우위를 입증했다.",
+      "scorePct": 20
+    }
+  ]
+}

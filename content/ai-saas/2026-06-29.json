@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "데이터이쿠 ‘코빌드AI’, “기업이 목표 입력하면 결과물 즉시 적용가능”",
-    "url": "https://n.news.naver.com/mnews/article/658/0000147944",
-    "source": "네이버",
-    "publishedDate": "2026-06-29",
-    "summary": "기업용 AI 통합 관리 플랫폼 데이터이쿠가 사용자가 업무 목표를 자연어로 입력하면 실제 적용 가능한 결과물을 산출하는 AI 에이전트 '코빌드AI'를 공개했다. 별도 개발 과정 없이 목표 기반으로 비즈니스 결과물을 즉시 만들어내는 것이 핵심이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "“검색이 아니라 AI가 산다”…쇼핑 판 뒤집는 AI 에이전트",
-    "url": "https://n.news.naver.com/mnews/article/018/0006317251",
-    "source": "네이버",
-    "publishedDate": "2026-06-28",
-    "summary": "소비자가 검색창에 키워드를 입력하는 대신 AI 에이전트에게 구매를 맡기는 '에이전트 커머스'가 글로벌 유통업계의 새로운 경쟁 축으로 떠오르고 있다. 구매 여정 자체가 검색에서 AI로 이동하면서 유통 구조가 빠르게 재편되고 있다.",
-    "scorePct": 67
-  },
-  {
-    "rank": 3,
-    "title": "연쇄창업가 이승윤, 이번엔 'AI 승부수'…토스와 손잡았다",
-    "url": "https://n.news.naver.com/mnews/article/015/0005303659",
-    "source": "네이버",
-    "publishedDate": "2026-06-28",
-    "summary": "웹소설 플랫폼 래디쉬를 카카오에 약 5000억원에 매각한 연쇄창업가 이승윤 대표가 핀테크 기업 토스와 손잡고 새로운 AI 사업에 나섰다. 검증된 창업가와 대형 플랫폼의 결합으로 국내 AI 시장에 승부수를 던졌다.",
-    "scorePct": 33
-  },
-  {
-    "rank": 4,
-    "title": "[단독] 기업용 보안시장 개척…LGU+ ‘세이프AI’ 뜬다",
-    "url": "https://n.news.naver.com/mnews/article/011/0004635780",
-    "source": "네이버",
-    "publishedDate": "2026-06-28",
-    "summary": "LG유플러스가 업무용 AI 사용 과정에서 발생하는 기밀 유출을 막는 기업용 AI 보안 솔루션 '세이프AI'를 올 하반기 중 출시한다. 기업의 AI 전환(AX) 속도가 빨라지면서 커진 보안 수요를 정조준한 단독 보도다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "[AI 클로즈업] AI 토큰값 저렴해져도 청구서 금액은 폭증한다",
-    "url": "https://n.news.naver.com/mnews/article/138/0002232353",
-    "source": "네이버",
-    "publishedDate": "2026-06-28",
-    "summary": "AI 토큰 단가는 계속 내려가지만 기업이 실제로 받아드는 AI 청구서 금액은 오히려 폭증하고 있다는 분석이 나왔다. 사용량이 빠르게 늘면서 단가 인하 효과를 비용 증가가 압도하는 역설이 벌어지고 있다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-29",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "데이터이쿠 ‘코빌드AI’, “기업이 목표 입력하면 결과물 즉시 적용가능”",
+      "url": "https://n.news.naver.com/mnews/article/658/0000147944",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-29",
+      "summary": "기업용 AI 통합 관리 플랫폼 데이터이쿠가 사용자가 업무 목표를 자연어로 입력하면 실제 적용 가능한 결과물을 산출하는 AI 에이전트 '코빌드AI'를 공개했다. 별도 개발 과정 없이 목표 기반으로 비즈니스 결과물을 즉시 만들어내는 것이 핵심이다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 2,
+      "title": "“검색이 아니라 AI가 산다”…쇼핑 판 뒤집는 AI 에이전트",
+      "url": "https://n.news.naver.com/mnews/article/018/0006317251",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-28",
+      "summary": "소비자가 검색창에 키워드를 입력하는 대신 AI 에이전트에게 구매를 맡기는 '에이전트 커머스'가 글로벌 유통업계의 새로운 경쟁 축으로 떠오르고 있다. 구매 여정 자체가 검색에서 AI로 이동하면서 유통 구조가 빠르게 재편되고 있다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 3,
+      "title": "연쇄창업가 이승윤, 이번엔 'AI 승부수'…토스와 손잡았다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303659",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-28",
+      "summary": "웹소설 플랫폼 래디쉬를 카카오에 약 5000억원에 매각한 연쇄창업가 이승윤 대표가 핀테크 기업 토스와 손잡고 새로운 AI 사업에 나섰다. 검증된 창업가와 대형 플랫폼의 결합으로 국내 AI 시장에 승부수를 던졌다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "[단독] 기업용 보안시장 개척…LGU+ ‘세이프AI’ 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635780",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-28",
+      "summary": "LG유플러스가 업무용 AI 사용 과정에서 발생하는 기밀 유출을 막는 기업용 AI 보안 솔루션 '세이프AI'를 올 하반기 중 출시한다. 기업의 AI 전환(AX) 속도가 빨라지면서 커진 보안 수요를 정조준한 단독 보도다.",
+      "scorePct": 0
+    },
+    {
+      "rank": 5,
+      "title": "[AI 클로즈업] AI 토큰값 저렴해져도 청구서 금액은 폭증한다",
+      "url": "https://n.news.naver.com/mnews/article/138/0002232353",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-28",
+      "summary": "AI 토큰 단가는 계속 내려가지만 기업이 실제로 받아드는 AI 청구서 금액은 오히려 폭증하고 있다는 분석이 나왔다. 사용량이 빠르게 늘면서 단가 인하 효과를 비용 증가가 압도하는 역설이 벌어지고 있다.",
+      "scorePct": 0
+    }
+  ]
+}

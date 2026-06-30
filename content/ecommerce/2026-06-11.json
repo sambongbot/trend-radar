@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "마르디 메크르디, 中 직진출 첫날 매출 6억원…7000명 구매",
-    "url": "https://n.news.naver.com/mnews/article/018/0006301916",
-    "source": "네이버",
-    "publishedDate": "2026-06-11",
-    "summary": "피스피스스튜디오의 대표 브랜드 마르디 메크르디가 중국 시장 직진출 첫날 약 6억원 매출과 7000명 구매를 기록했다. 국내 D2C 브랜드가 현지 플랫폼 입점 없이 직접 진출해 단기간에 성과를 낸 사례다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "쿠팡과 경쟁·단가 하락에 택배사들 '풀필먼트'서 활로",
-    "url": "https://n.news.naver.com/mnews/article/015/0005297312",
-    "source": "네이버",
-    "publishedDate": "2026-06-10",
-    "summary": "쿠팡과의 경쟁과 택배 단가 하락으로 수익성이 악화된 택배업계가 풀필먼트(통합물류) 확대로 활로를 찾고 있다. 수익성 높은 풀필먼트가 택배사들의 핵심 성장축으로 부상하고 있다.",
-    "scorePct": 83
-  },
-  {
-    "rank": 3,
-    "title": "쇼핑몰 키워서 파는 ‘엑싯 창업’",
-    "url": "https://n.news.naver.com/mnews/article/024/0000106151",
-    "source": "네이버",
-    "publishedDate": "2026-06-10",
-    "summary": "2024년 온라인 쇼핑몰(통신판매업) 신규 사업자가 19만여 명에 달하며, 처음부터 매각을 목표로 쇼핑몰을 키우는 '엑싯 창업'이 트렌드로 떠올랐다. 쇼핑몰을 자산으로 키워 되파는 새로운 창업 방식이 확산되고 있다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 4,
-    "title": "삼정KPMG \"키즈식품, 저출생 오히려 기회\"",
-    "url": "https://n.news.naver.com/mnews/article/277/0005774188",
-    "source": "네이버",
-    "publishedDate": "2026-06-11",
-    "summary": "삼정KPMG는 저출생 기조에도 국내 키즈 식품 시장이 질적 성장 국면에 진입했다고 평가했다. '골드키즈' 현상으로 프리미엄·고기능성 제품 수요가 커지며 객단가 중심 시장으로 재편되고 있다.",
-    "scorePct": 17
-  },
-  {
-    "rank": 5,
-    "title": "한은 \"소비쿠폰으로 2.8조 추가 매출 발생…GDP 0.12%↑\"",
-    "url": "https://n.news.naver.com/mnews/article/586/0000131216",
-    "source": "네이버",
-    "publishedDate": "2026-06-11",
-    "summary": "한국은행은 지난해 지급된 민생회복 소비쿠폰으로 약 2조8000억원의 추가 매출이 발생했다고 추산했다. 쿠폰 사용처 매출이 비사용처 대비 2.9% 높아 정책성 소비 진작 효과가 확인됐다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ecommerce",
+  "label": "이커머스",
+  "date": "2026-06-11",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "마르디 메크르디, 中 직진출 첫날 매출 6억원…7000명 구매",
+      "url": "https://n.news.naver.com/mnews/article/018/0006301916",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-11",
+      "summary": "피스피스스튜디오의 대표 브랜드 마르디 메크르디가 중국 시장 직진출 첫날 약 6억원 매출과 7000명 구매를 기록했다. 국내 D2C 브랜드가 현지 플랫폼 입점 없이 직접 진출해 단기간에 성과를 낸 사례다.",
+      "scorePct": 60
+    },
+    {
+      "rank": 2,
+      "title": "쿠팡과 경쟁·단가 하락에 택배사들 '풀필먼트'서 활로",
+      "url": "https://n.news.naver.com/mnews/article/015/0005297312",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-10",
+      "summary": "쿠팡과의 경쟁과 택배 단가 하락으로 수익성이 악화된 택배업계가 풀필먼트(통합물류) 확대로 활로를 찾고 있다. 수익성 높은 풀필먼트가 택배사들의 핵심 성장축으로 부상하고 있다.",
+      "scorePct": 50
+    },
+    {
+      "rank": 3,
+      "title": "쇼핑몰 키워서 파는 ‘엑싯 창업’",
+      "url": "https://n.news.naver.com/mnews/article/024/0000106151",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-10",
+      "summary": "2024년 온라인 쇼핑몰(통신판매업) 신규 사업자가 19만여 명에 달하며, 처음부터 매각을 목표로 쇼핑몰을 키우는 '엑싯 창업'이 트렌드로 떠올랐다. 쇼핑몰을 자산으로 키워 되파는 새로운 창업 방식이 확산되고 있다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 4,
+      "title": "삼정KPMG \"키즈식품, 저출생 오히려 기회\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005774188",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-11",
+      "summary": "삼정KPMG는 저출생 기조에도 국내 키즈 식품 시장이 질적 성장 국면에 진입했다고 평가했다. '골드키즈' 현상으로 프리미엄·고기능성 제품 수요가 커지며 객단가 중심 시장으로 재편되고 있다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "한은 \"소비쿠폰으로 2.8조 추가 매출 발생…GDP 0.12%↑\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000131216",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-11",
+      "summary": "한국은행은 지난해 지급된 민생회복 소비쿠폰으로 약 2조8000억원의 추가 매출이 발생했다고 추산했다. 쿠폰 사용처 매출이 비사용처 대비 2.9% 높아 정책성 소비 진작 효과가 확인됐다.",
+      "scorePct": 0
+    }
+  ]
+}

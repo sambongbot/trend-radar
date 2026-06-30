@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-06-30T09:20:37.216Z",
+  "generatedAt": "2026-06-30T10:09:53.395Z",
   "categories": [
     {
-      "slug": "ai-saas",
-      "name": "AI SaaS",
+      "key": "ai-saas",
+      "label": "AI SaaS",
+      "latest": "2026-06-30",
       "dates": [
         "2026-06-30",
         "2026-06-29",
@@ -39,8 +40,9 @@
       ]
     },
     {
-      "slug": "llm",
-      "name": "LLM·모델",
+      "key": "llm",
+      "label": "LLM·모델",
+      "latest": "2026-06-30",
       "dates": [
         "2026-06-30",
         "2026-06-29",
@@ -76,8 +78,9 @@
       ]
     },
     {
-      "slug": "ecommerce",
-      "name": "이커머스",
+      "key": "ecommerce",
+      "label": "이커머스",
+      "latest": "2026-06-30",
       "dates": [
         "2026-06-30",
         "2026-06-29",

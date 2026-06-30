@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "M&A로 살길 찾아 나선 사스기업",
-    "url": "https://n.news.naver.com/mnews/article/015/0005300769",
-    "source": "네이버",
-    "publishedDate": "2026-06-20",
-    "summary": "AI 에이전트의 위협을 받는 SaaS 기업들이 AI 스타트업 인수를 통해 AI 역량 확보에 적극 나서고 있다. 단순 기능 제공을 넘어 AI 네이티브로 전환하지 못하면 생존이 어렵다는 위기감이 M&A를 가속화하고 있다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "포시에스, AI 에이전트로 사업 확장…'AIOZ EKA' 공개",
-    "url": "https://n.news.naver.com/mnews/article/003/0014017328",
-    "source": "네이버",
-    "publishedDate": "2026-06-20",
-    "summary": "전자문서 전문기업 포시에스가 국내 전자문서 업계 최초로 완성형 AI 에이전트 플랫폼 'AIOZ EKA'를 공개했다. 기존 문서 솔루션에 AI 에이전트를 결합해 사업 영역 확장을 노린다.",
-    "scorePct": 80
-  },
-  {
-    "rank": 3,
-    "title": "\"사이버 보안도 AI 에이전트 시대\"…구글 클라우드, 서울 리전에 보안 운영 플랫폼 배치",
-    "url": "https://www.venturesquare.net/1091641",
-    "source": "벤처스퀘어",
-    "publishedDate": "2026-06-17",
-    "summary": "구글 클라우드가 서울 리전에서 AI 기반 보안 운영 플랫폼(SecOps)의 로컬 데이터 레지던시 지원을 출시했다. 제미나이 AI 적용으로 기존 30~60분 걸리던 보안 분석 시간을 대폭 단축하고 AI 에이전트가 복잡한 조사를 자동 수행한다.",
-    "scorePct": 80
-  },
-  {
-    "rank": 4,
-    "title": "[AI는 지금] 퍼플렉시티, '브레인'으로 기업 시장 정조준",
-    "url": "https://n.news.naver.com/mnews/article/092/0002427366",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "AI 검색업체 퍼플렉시티가 에이전트용 자기개선형 메모리 시스템 '브레인'을 앞세워 기업용 업무 AI 시장 공략에 나섰다. 검색을 넘어 엔터프라이즈 워크플로우로 영역을 확장하며 2028년 IPO를 준비하고 있다.",
-    "scorePct": 60
-  },
-  {
-    "rank": 5,
-    "title": "기대감 높아지는 AI 팩토리…원프레딕트, 'AI 팩토리 OS'로 시장 정조준",
-    "url": "https://n.news.naver.com/mnews/article/018/0006310114",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "원프레딕트가 제조 현장을 겨냥한 'AI 팩토리 OS'로 시장 공략에 나섰다. 엔비디아발 AI 인프라·로보틱스 협력 기대감 속에서 제조 AI 플랫폼 수요가 커지고 있다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-20",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "M&A로 살길 찾아 나선 사스기업",
+      "url": "https://n.news.naver.com/mnews/article/015/0005300769",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-20",
+      "summary": "AI 에이전트의 위협을 받는 SaaS 기업들이 AI 스타트업 인수를 통해 AI 역량 확보에 적극 나서고 있다. 단순 기능 제공을 넘어 AI 네이티브로 전환하지 못하면 생존이 어렵다는 위기감이 M&A를 가속화하고 있다.",
+      "scorePct": 50
+    },
+    {
+      "rank": 2,
+      "title": "포시에스, AI 에이전트로 사업 확장…'AIOZ EKA' 공개",
+      "url": "https://n.news.naver.com/mnews/article/003/0014017328",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-20",
+      "summary": "전자문서 전문기업 포시에스가 국내 전자문서 업계 최초로 완성형 AI 에이전트 플랫폼 'AIOZ EKA'를 공개했다. 기존 문서 솔루션에 AI 에이전트를 결합해 사업 영역 확장을 노린다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 3,
+      "title": "\"사이버 보안도 AI 에이전트 시대\"…구글 클라우드, 서울 리전에 보안 운영 플랫폼 배치",
+      "url": "https://www.venturesquare.net/1091641",
+      "source": "벤처스퀘어",
+      "sourceLabel": "벤처스퀘어",
+      "publishedDate": "2026-06-17",
+      "summary": "구글 클라우드가 서울 리전에서 AI 기반 보안 운영 플랫폼(SecOps)의 로컬 데이터 레지던시 지원을 출시했다. 제미나이 AI 적용으로 기존 30~60분 걸리던 보안 분석 시간을 대폭 단축하고 AI 에이전트가 복잡한 조사를 자동 수행한다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 4,
+      "title": "[AI는 지금] 퍼플렉시티, '브레인'으로 기업 시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/092/0002427366",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "AI 검색업체 퍼플렉시티가 에이전트용 자기개선형 메모리 시스템 '브레인'을 앞세워 기업용 업무 AI 시장 공략에 나섰다. 검색을 넘어 엔터프라이즈 워크플로우로 영역을 확장하며 2028년 IPO를 준비하고 있다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 5,
+      "title": "기대감 높아지는 AI 팩토리…원프레딕트, 'AI 팩토리 OS'로 시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/018/0006310114",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "원프레딕트가 제조 현장을 겨냥한 'AI 팩토리 OS'로 시장 공략에 나섰다. 엔비디아발 AI 인프라·로보틱스 협력 기대감 속에서 제조 AI 플랫폼 수요가 커지고 있다.",
+      "scorePct": 0
+    }
+  ]
+}

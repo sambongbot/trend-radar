@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "\"헤드헌터 수작업 공수 해소\"…스타팅, 자동화 AI 에이전트 탑재",
-    "url": "https://n.news.naver.com/mnews/article/008/0005367878",
-    "source": "네이버",
-    "publishedDate": "2026-06-06",
-    "summary": "헤드헌팅 솔루션 '스타팅'을 운영하는 스타팅파트너스가 채용 핵심 업무를 자동화하는 AI 에이전트를 제품에 탑재했다. 헤드헌터의 수작업 공수를 줄이는 것이 핵심이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "식약품 AI 안전지킴이·소상공인 AI 에이전트 나온다… 'AI 민생 10대 프로젝트' 착수",
-    "url": "https://n.news.naver.com/mnews/article/138/0002230044",
-    "source": "네이버",
-    "publishedDate": "2026-06-06",
-    "summary": "과기정통부가 식약품 AI 안전지킴이, 소상공인 AI 에이전트 등을 포함한 'AI 민생 10대 프로젝트'에 착수했다. 국민 안전과 일상 편의를 위한 AI 에이전트가 연내 개발될 예정이다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 3,
-    "title": "엑셀금융서비스, 보험영업 AI 플랫폼 ‘모홈 AI’ 도입",
-    "url": "https://n.news.naver.com/mnews/article/119/0003098238",
-    "source": "네이버",
-    "publishedDate": "2026-06-06",
-    "summary": "AI 핀테크 기업 모홈이 대형 GA 엑셀금융서비스에 보험영업 특화 AI 플랫폼 '모홈 AI'를 B2B로 공급한다. 보험설계사의 영업 업무를 AI로 혁신하려는 수요가 커지는 흐름을 보여준다.",
-    "scorePct": 25
-  },
-  {
-    "rank": 4,
-    "title": "OrcaRouter Launches Monthly Plans: Access Claude Opus 4.8 API, OpenAI GPT-5.5 Pro API, Gemini 3.5 API and More -- Now Up to 10% Cheaper",
-    "url": "https://www.prnewswire.com/news-releases/orcarouter-launches-monthly-plans-access-claude-opus-4-8-api-openai-gpt-5-5-pro-api-gemini-3-5-api-and-more--now-up-to-10-cheaper-302791007.html",
-    "source": "PR Newswire",
-    "publishedDate": "2026-06-03",
-    "summary": "OrcaRouter가 Claude Opus 4.8, OpenAI GPT-5.5 Pro, Gemini 3.5 등 주요 LLM API를 통합 제공하는 월 구독 요금제를 출시했다. 단일 모델 대비 최대 10% 저렴하게 접근할 수 있다고 밝혔다.",
-    "scorePct": 25
-  },
-  {
-    "rank": 5,
-    "title": "AI Music Startup Suno Raises Capital at $5.4 Billion Valuation",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation",
-    "source": "Bloomberg",
-    "publishedDate": "2026-06-03",
-    "summary": "AI 음악 생성 스타트업 Suno가 Bond Capital 주도로 4억 달러를 유치하며 54억 달러 밸류에이션을 인정받았다. 생성형 AI 분야로 대규모 자본이 계속 유입되는 흐름을 보여준다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-06",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "\"헤드헌터 수작업 공수 해소\"…스타팅, 자동화 AI 에이전트 탑재",
+      "url": "https://n.news.naver.com/mnews/article/008/0005367878",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-06",
+      "summary": "헤드헌팅 솔루션 '스타팅'을 운영하는 스타팅파트너스가 채용 핵심 업무를 자동화하는 AI 에이전트를 제품에 탑재했다. 헤드헌터의 수작업 공수를 줄이는 것이 핵심이다.",
+      "scorePct": 50
+    },
+    {
+      "rank": 2,
+      "title": "식약품 AI 안전지킴이·소상공인 AI 에이전트 나온다… 'AI 민생 10대 프로젝트' 착수",
+      "url": "https://n.news.naver.com/mnews/article/138/0002230044",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-06",
+      "summary": "과기정통부가 식약품 AI 안전지킴이, 소상공인 AI 에이전트 등을 포함한 'AI 민생 10대 프로젝트'에 착수했다. 국민 안전과 일상 편의를 위한 AI 에이전트가 연내 개발될 예정이다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 3,
+      "title": "엑셀금융서비스, 보험영업 AI 플랫폼 ‘모홈 AI’ 도입",
+      "url": "https://n.news.naver.com/mnews/article/119/0003098238",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-06",
+      "summary": "AI 핀테크 기업 모홈이 대형 GA 엑셀금융서비스에 보험영업 특화 AI 플랫폼 '모홈 AI'를 B2B로 공급한다. 보험설계사의 영업 업무를 AI로 혁신하려는 수요가 커지는 흐름을 보여준다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 4,
+      "title": "OrcaRouter Launches Monthly Plans: Access Claude Opus 4.8 API, OpenAI GPT-5.5 Pro API, Gemini 3.5 API and More -- Now Up to 10% Cheaper",
+      "url": "https://www.prnewswire.com/news-releases/orcarouter-launches-monthly-plans-access-claude-opus-4-8-api-openai-gpt-5-5-pro-api-gemini-3-5-api-and-more--now-up-to-10-cheaper-302791007.html",
+      "source": "PR Newswire",
+      "sourceLabel": "PR Newswire",
+      "publishedDate": "2026-06-03",
+      "summary": "OrcaRouter가 Claude Opus 4.8, OpenAI GPT-5.5 Pro, Gemini 3.5 등 주요 LLM API를 통합 제공하는 월 구독 요금제를 출시했다. 단일 모델 대비 최대 10% 저렴하게 접근할 수 있다고 밝혔다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 5,
+      "title": "AI Music Startup Suno Raises Capital at $5.4 Billion Valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation",
+      "source": "Bloomberg",
+      "sourceLabel": "Bloomberg",
+      "publishedDate": "2026-06-03",
+      "summary": "AI 음악 생성 스타트업 Suno가 Bond Capital 주도로 4억 달러를 유치하며 54억 달러 밸류에이션을 인정받았다. 생성형 AI 분야로 대규모 자본이 계속 유입되는 흐름을 보여준다.",
+      "scorePct": 10
+    }
+  ]
+}

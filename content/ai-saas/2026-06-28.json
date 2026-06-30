@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "오픈AI, GPT-5.6 출시…미국 정부 요청에 제한 배포",
-    "url": "https://n.news.naver.com/mnews/article/092/0002428273",
-    "source": "네이버",
-    "publishedDate": "2026-06-27",
-    "summary": "오픈AI가 코딩·생물학·사이버보안 전 영역에서 성능을 끌어올린 차세대 모델 GPT-5.6 시리즈를 공개했다. 다만 미국 정부 요청으로 일반 배포는 즉각 이뤄지지 않고 제한적으로 풀린다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "How agents are transforming work",
-    "url": "https://openai.com/index/how-agents-are-transforming-work/",
-    "source": "OpenAI",
-    "publishedDate": "2026-06-25",
-    "summary": "오픈AI가 리서치 분야의 에이전트 활용이 2025년 11월 대비 56배 늘었다는 데이터를 공개했다. 2026년 5월 기준 에이전트가 실제 업무 전반으로 빠르게 확산되고 있음을 보여준다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 3,
-    "title": "Mistral Unveils OCR 4 for Enterprise Search, RAG and Document Processing",
-    "url": "https://www.hpcwire.com/aiwire/2026/06/25/mistral-unveils-ocr-4-for-enterprise-search-rag-and-document-processing/",
-    "source": "HPCWire AIwire",
-    "publishedDate": "2026-06-25",
-    "summary": "미스트랄이 기업용 문서 처리에 특화된 OCR 4를 공개했다. 바운딩 박스와 타입별 블록 분류 등 구조 인식 기능을 갖춰 엔터프라이즈 검색과 RAG 파이프라인에 바로 활용할 수 있다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 4,
-    "title": "AI 비용 줄이는 美 기업들…오픈AI·앤트로픽 성장 둔화되나",
-    "url": "https://n.news.naver.com/mnews/article/293/0000086877",
-    "source": "네이버",
-    "publishedDate": "2026-06-27",
-    "summary": "미국 기업과 스타트업 사이에서 AI 지출을 줄이고 효율을 높이려는 움직임이 확산되고 있다. 이에 그동안 AI 지출 급증의 수혜를 입은 오픈AI와 앤트로픽의 성장세가 둔화될 수 있다는 전망이 나온다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "미 정부, 앤트로픽 AI 일부 허용…‘승인받은 고객만’ 개방 유지",
-    "url": "https://n.news.naver.com/mnews/article/009/0005699534",
-    "source": "네이버",
-    "publishedDate": "2026-06-27",
-    "summary": "미국 정부가 국가안보 우려로 차단했던 앤트로픽의 최상위 AI 모델 미토스5(클로드) 접근을 일부 허용했다. 다만 사이버보안 기관과 인프라 사업자 등 정부가 신뢰하는 '승인 파트너'에게만 개방된다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-28",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "오픈AI, GPT-5.6 출시…미국 정부 요청에 제한 배포",
+      "url": "https://n.news.naver.com/mnews/article/092/0002428273",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-27",
+      "summary": "오픈AI가 코딩·생물학·사이버보안 전 영역에서 성능을 끌어올린 차세대 모델 GPT-5.6 시리즈를 공개했다. 다만 미국 정부 요청으로 일반 배포는 즉각 이뤄지지 않고 제한적으로 풀린다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 2,
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work/",
+      "source": "OpenAI",
+      "sourceLabel": "OpenAI",
+      "publishedDate": "2026-06-25",
+      "summary": "오픈AI가 리서치 분야의 에이전트 활용이 2025년 11월 대비 56배 늘었다는 데이터를 공개했다. 2026년 5월 기준 에이전트가 실제 업무 전반으로 빠르게 확산되고 있음을 보여준다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 3,
+      "title": "Mistral Unveils OCR 4 for Enterprise Search, RAG and Document Processing",
+      "url": "https://www.hpcwire.com/aiwire/2026/06/25/mistral-unveils-ocr-4-for-enterprise-search-rag-and-document-processing/",
+      "source": "HPCWire AIwire",
+      "sourceLabel": "HPCWire AIwire",
+      "publishedDate": "2026-06-25",
+      "summary": "미스트랄이 기업용 문서 처리에 특화된 OCR 4를 공개했다. 바운딩 박스와 타입별 블록 분류 등 구조 인식 기능을 갖춰 엔터프라이즈 검색과 RAG 파이프라인에 바로 활용할 수 있다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "AI 비용 줄이는 美 기업들…오픈AI·앤트로픽 성장 둔화되나",
+      "url": "https://n.news.naver.com/mnews/article/293/0000086877",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-27",
+      "summary": "미국 기업과 스타트업 사이에서 AI 지출을 줄이고 효율을 높이려는 움직임이 확산되고 있다. 이에 그동안 AI 지출 급증의 수혜를 입은 오픈AI와 앤트로픽의 성장세가 둔화될 수 있다는 전망이 나온다.",
+      "scorePct": 0
+    },
+    {
+      "rank": 5,
+      "title": "미 정부, 앤트로픽 AI 일부 허용…‘승인받은 고객만’ 개방 유지",
+      "url": "https://n.news.naver.com/mnews/article/009/0005699534",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-27",
+      "summary": "미국 정부가 국가안보 우려로 차단했던 앤트로픽의 최상위 AI 모델 미토스5(클로드) 접근을 일부 허용했다. 다만 사이버보안 기관과 인프라 사업자 등 정부가 신뢰하는 '승인 파트너'에게만 개방된다.",
+      "scorePct": 0
+    }
+  ]
+}

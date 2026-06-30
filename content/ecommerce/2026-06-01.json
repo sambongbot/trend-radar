@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "\"올영 1호점 가려고 밤새웠어요\"…美 뷰티 마니아 북적",
-    "url": "https://n.news.naver.com/mnews/article/015/0005293329",
-    "source": "네이버",
-    "publishedDate": "2026-05-31",
-    "summary": "CJ올리브영이 미국 캘리포니아에 첫 해외 오프라인 매장을 열고 미국 전용 온라인몰도 동시에 론칭했다. 오픈런이 발생할 정도로 현지 반응이 뜨거우며 북미 K뷰티 시장 공략이 본격화됐다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "“팬심엔 불황 없다”…쿠팡 로켓까지 뛰어든 ‘덕후 머니’ 쟁탈전",
-    "url": "https://n.news.naver.com/mnews/article/018/0006294447",
-    "source": "네이버",
-    "publishedDate": "2026-06-01",
-    "summary": "쿠팡까지 '덕후 머니' 쟁탈전에 뛰어들며 캐릭터·아이돌·애니메이션 굿즈 시장이 유통업계 핵심 격전지가 됐다. 고물가 속에서도 팬덤 소비층의 지갑은 열려 있다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 3,
-    "title": "“원룸에 안 입는 옷이 1평 차지”…MZ ‘비우기’ 열풍[다시 사는 사람들]",
-    "url": "https://n.news.naver.com/mnews/article/009/0005687496",
-    "source": "네이버",
-    "publishedDate": "2026-05-31",
-    "summary": "2030 세대의 '비우기' 열풍이 옷장에서 가구·가전으로 확산되며 중고거래·리커머스 시장이 오프라인 플리마켓까지 번지고 있다. 사는 사람보다 비우는 사람이 많은 소비 패러다임 전환이 진행 중이다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 4,
-    "title": "K-뷰티, 日서 프랑스 누르고 '독주'…1분기 수입액 400억엔",
-    "url": "https://n.news.naver.com/mnews/article/030/0003432936",
-    "source": "네이버",
-    "publishedDate": "2026-06-01",
-    "summary": "한국 화장품이 일본 수입 시장에서 프랑스를 누르고 1분기 400억엔 규모로 1위를 굳혔다. 베이스 메이크업 등 카테고리 확장이 두드러진다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "‘4월 동행축제’ 매출 5441억원…오프라인 역대 최대",
-    "url": "https://n.news.naver.com/mnews/article/029/0003029287",
-    "source": "네이버",
-    "publishedDate": "2026-06-01",
-    "summary": "중기부 '4월 동행축제'가 직접 매출 5441억원을 기록하며 오프라인 역대 최대치를 달성했다. 하반기 '코리아 그랜드 페스티벌' 통합 소비 촉진 행사도 흥행이 예고된다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ecommerce",
+  "label": "이커머스",
+  "date": "2026-06-01",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "\"올영 1호점 가려고 밤새웠어요\"…美 뷰티 마니아 북적",
+      "url": "https://n.news.naver.com/mnews/article/015/0005293329",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-05-31",
+      "summary": "CJ올리브영이 미국 캘리포니아에 첫 해외 오프라인 매장을 열고 미국 전용 온라인몰도 동시에 론칭했다. 오픈런이 발생할 정도로 현지 반응이 뜨거우며 북미 K뷰티 시장 공략이 본격화됐다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 2,
+      "title": "“팬심엔 불황 없다”…쿠팡 로켓까지 뛰어든 ‘덕후 머니’ 쟁탈전",
+      "url": "https://n.news.naver.com/mnews/article/018/0006294447",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-01",
+      "summary": "쿠팡까지 '덕후 머니' 쟁탈전에 뛰어들며 캐릭터·아이돌·애니메이션 굿즈 시장이 유통업계 핵심 격전지가 됐다. 고물가 속에서도 팬덤 소비층의 지갑은 열려 있다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 3,
+      "title": "“원룸에 안 입는 옷이 1평 차지”…MZ ‘비우기’ 열풍[다시 사는 사람들]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005687496",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-05-31",
+      "summary": "2030 세대의 '비우기' 열풍이 옷장에서 가구·가전으로 확산되며 중고거래·리커머스 시장이 오프라인 플리마켓까지 번지고 있다. 사는 사람보다 비우는 사람이 많은 소비 패러다임 전환이 진행 중이다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "K-뷰티, 日서 프랑스 누르고 '독주'…1분기 수입액 400억엔",
+      "url": "https://n.news.naver.com/mnews/article/030/0003432936",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-01",
+      "summary": "한국 화장품이 일본 수입 시장에서 프랑스를 누르고 1분기 400억엔 규모로 1위를 굳혔다. 베이스 메이크업 등 카테고리 확장이 두드러진다.",
+      "scorePct": 0
+    },
+    {
+      "rank": 5,
+      "title": "‘4월 동행축제’ 매출 5441억원…오프라인 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/029/0003029287",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-01",
+      "summary": "중기부 '4월 동행축제'가 직접 매출 5441억원을 기록하며 오프라인 역대 최대치를 달성했다. 하반기 '코리아 그랜드 페스티벌' 통합 소비 촉진 행사도 흥행이 예고된다.",
+      "scorePct": 0
+    }
+  ]
+}

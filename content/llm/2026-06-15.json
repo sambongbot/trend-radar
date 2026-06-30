@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "Claude overtakes Gemini in Korea's AI app rankings",
-    "url": "https://n.news.naver.com/mnews/article/044/0000285427",
-    "source": "네이버",
-    "publishedDate": "2026-06-15",
-    "summary": "앤트로픽의 클로드가 한국 AI 앱 순위에서 구글 제미나이를 제치고 2위로 올라섰다. 챗GPT에 이어 클로드의 국내 사용자 기반이 빠르게 확대되고 있음을 보여준다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "화웨이, AI 에이전트 품은 하모니OS 7 공개…애플 빈틈 노린다",
-    "url": "https://n.news.naver.com/mnews/article/018/0006306043",
-    "source": "네이버",
-    "publishedDate": "2026-06-14",
-    "summary": "화웨이가 AI 에이전트 기능을 내장한 차세대 운영체제 하모니OS 7을 공개했다. OS 레벨에서 에이전트를 통합해 애플 생태계의 빈틈을 노리는 전략이다.",
-    "scorePct": 17
-  },
-  {
-    "rank": 3,
-    "title": "'AI 시대의 윈도' 노리는 시스코 … 기업 네트워크 통째로 묶었다",
-    "url": "https://n.news.naver.com/mnews/article/009/0005693510",
-    "source": "네이버",
-    "publishedDate": "2026-06-14",
-    "summary": "시스코가 네트워크·보안·관측·협업을 하나로 묶은 'AI 에이전트 시대' 통합 플랫폼 '클라우드 컨트롤'을 공개했다. 대화창 하나로 기업 인프라 전반을 관리하는 플랫폼 기업으로의 전환을 선언했다.",
-    "scorePct": 17
-  },
-  {
-    "rank": 4,
-    "title": "틸론, 서울·제주서 대규모 전력 확보...\"AI 데이터센터 추진 탄력\"",
-    "url": "https://n.news.naver.com/mnews/article/092/0002426529",
-    "source": "네이버",
-    "publishedDate": "2026-06-14",
-    "summary": "클라우드 가상화 기업 틸론이 서울 마곡 본사에 5MW 규모 전력 공급 사전검토를 완료하며 AI 데이터센터 추진에 속도를 내고 있다. AI 엣지 데이터센터 인프라 확보 경쟁이 본격화되는 모습이다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "한국은 AI의 심장인가, 엔비디아의 신체인가",
-    "url": "https://n.news.naver.com/mnews/article/053/0000059140",
-    "source": "네이버",
-    "publishedDate": "2026-06-14",
-    "summary": "젠슨 황의 방한을 계기로 한국이 AI 산업에서 '심장'인지 엔비디아 공급망의 '신체'에 그치는지를 짚는 분석 기사다. 국내 AI 생태계의 위상과 한계를 동시에 진단한다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-15",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "Claude overtakes Gemini in Korea's AI app rankings",
+      "url": "https://n.news.naver.com/mnews/article/044/0000285427",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-15",
+      "summary": "앤트로픽의 클로드가 한국 AI 앱 순위에서 구글 제미나이를 제치고 2위로 올라섰다. 챗GPT에 이어 클로드의 국내 사용자 기반이 빠르게 확대되고 있음을 보여준다.",
+      "scorePct": 60
+    },
+    {
+      "rank": 2,
+      "title": "화웨이, AI 에이전트 품은 하모니OS 7 공개…애플 빈틈 노린다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006306043",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-14",
+      "summary": "화웨이가 AI 에이전트 기능을 내장한 차세대 운영체제 하모니OS 7을 공개했다. OS 레벨에서 에이전트를 통합해 애플 생태계의 빈틈을 노리는 전략이다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 3,
+      "title": "'AI 시대의 윈도' 노리는 시스코 … 기업 네트워크 통째로 묶었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005693510",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-14",
+      "summary": "시스코가 네트워크·보안·관측·협업을 하나로 묶은 'AI 에이전트 시대' 통합 플랫폼 '클라우드 컨트롤'을 공개했다. 대화창 하나로 기업 인프라 전반을 관리하는 플랫폼 기업으로의 전환을 선언했다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "틸론, 서울·제주서 대규모 전력 확보...\"AI 데이터센터 추진 탄력\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002426529",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-14",
+      "summary": "클라우드 가상화 기업 틸론이 서울 마곡 본사에 5MW 규모 전력 공급 사전검토를 완료하며 AI 데이터센터 추진에 속도를 내고 있다. AI 엣지 데이터센터 인프라 확보 경쟁이 본격화되는 모습이다.",
+      "scorePct": 0
+    },
+    {
+      "rank": 5,
+      "title": "한국은 AI의 심장인가, 엔비디아의 신체인가",
+      "url": "https://n.news.naver.com/mnews/article/053/0000059140",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-14",
+      "summary": "젠슨 황의 방한을 계기로 한국이 AI 산업에서 '심장'인지 엔비디아 공급망의 '신체'에 그치는지를 짚는 분석 기사다. 국내 AI 생태계의 위상과 한계를 동시에 진단한다.",
+      "scorePct": 0
+    }
+  ]
+}

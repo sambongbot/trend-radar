@@ -1,38 +1,47 @@
-[
-  {
-    "rank": 1,
-    "title": "Anthropic Economic Index report: Cadences",
-    "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-    "source": "Anthropic",
-    "publishedDate": "2026-06-26",
-    "summary": "Anthropic 경제지수 보고서는 9,700명 설문에서 응답자의 86%가 AI로 생산성 향상을 경험했다고 밝혔다. AI 도입의 실질적 업무 효과를 데이터로 입증한 자료다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "AI답변 환각 심하다면 중의어 빼보세요",
-    "url": "https://n.news.naver.com/mnews/article/009/0005700310",
-    "source": "네이버",
-    "publishedDate": "2026-06-29",
-    "summary": "한국 1호 프롬프트 엔지니어 강수진 박사가 한국어 환각을 줄이는 실전 팁을 제시했다. 다의어·중의어를 피하고 미괄식 대신 구체적 맥락을 간결하게 쓰면 정확도와 토큰 효율이 함께 개선된다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
-    "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
-    "source": "VentureBeat",
-    "publishedDate": "2026-06-26",
-    "summary": "OpenAI가 GPT-5.6을 Sol·Terra·Luna 3개 티어로 공개했으며, 플래그십 Sol은 코딩 벤치마크 Terminal-Bench 2.1에서 새로운 최고 성능을 기록했다. 다만 미국 정부 방침에 따라 당분간 제한된 프리뷰 파트너만 접근할 수 있다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 4,
-    "title": "OpenAI Codex Remote Goes Live for All Plans: Phone Control Now Secured by QR Relay",
-    "url": "https://www.techtimes.com/articles/319201/20260627/openai-codex-remote-goes-live-all-plans-phone-control-now-secured-qr-relay.htm",
-    "source": "TechTimes",
-    "publishedDate": "2026-06-27",
-    "summary": "OpenAI가 Codex Remote를 Plus·Pro·Business 등 모든 유료 ChatGPT 구독자에게 정식 출시했다. QR 릴레이로 보안을 강화한 원격 폰 제어 기능도 함께 제공된다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-30",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "Anthropic Economic Index report: Cadences",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "source": "Anthropic",
+      "sourceLabel": "Anthropic",
+      "publishedDate": "2026-06-26",
+      "summary": "Anthropic 경제지수 보고서는 9,700명 설문에서 응답자의 86%가 AI로 생산성 향상을 경험했다고 밝혔다. AI 도입의 실질적 업무 효과를 데이터로 입증한 자료다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 2,
+      "title": "AI답변 환각 심하다면 중의어 빼보세요",
+      "url": "https://n.news.naver.com/mnews/article/009/0005700310",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-29",
+      "summary": "한국 1호 프롬프트 엔지니어 강수진 박사가 한국어 환각을 줄이는 실전 팁을 제시했다. 다의어·중의어를 피하고 미괄식 대신 구체적 맥락을 간결하게 쓰면 정확도와 토큰 효율이 함께 개선된다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "source": "VentureBeat",
+      "sourceLabel": "VentureBeat",
+      "publishedDate": "2026-06-26",
+      "summary": "OpenAI가 GPT-5.6을 Sol·Terra·Luna 3개 티어로 공개했으며, 플래그십 Sol은 코딩 벤치마크 Terminal-Bench 2.1에서 새로운 최고 성능을 기록했다. 다만 미국 정부 방침에 따라 당분간 제한된 프리뷰 파트너만 접근할 수 있다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI Codex Remote Goes Live for All Plans: Phone Control Now Secured by QR Relay",
+      "url": "https://www.techtimes.com/articles/319201/20260627/openai-codex-remote-goes-live-all-plans-phone-control-now-secured-qr-relay.htm",
+      "source": "TechTimes",
+      "sourceLabel": "TechTimes",
+      "publishedDate": "2026-06-27",
+      "summary": "OpenAI가 Codex Remote를 Plus·Pro·Business 등 모든 유료 ChatGPT 구독자에게 정식 출시했다. QR 릴레이로 보안을 강화한 원격 폰 제어 기능도 함께 제공된다.",
+      "scorePct": 20
+    }
+  ]
+}

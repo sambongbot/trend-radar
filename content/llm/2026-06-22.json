@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "중국AI가 미국AI를 따라잡는 시간은?",
-    "url": "https://n.news.naver.com/mnews/article/047/0002519988",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "AI 독립 연구원 Teortaxes가 중국 GLM-5.2의 현재 성능을 Claude Opus 4.7에서 4.8 사이 수준으로 평가했다. 미국과 중국 최상위 모델 간 격차가 약 7개월 정도로 좁혀졌다는 분석이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "AI, 거대 모델 경쟁 넘어 개방형 생태계로[기고]",
-    "url": "https://n.news.naver.com/mnews/article/014/0005537661",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "한국이 진정한 'AI G3' 국가로 도약하려면 거대 모델 하나를 더 잘 만드는 경쟁을 넘어 AI 기술을 산업과 사회 전반으로 빠르게 확산시키는 개방형 생태계가 중요하다는 기고다. 모델 자체보다 응용과 확산 역량이 핵심 경쟁력이라는 관점을 제시한다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 3,
-    "title": "SKT, 전사 AX 전환 가속…\"AI 보드가 과제 관리·문화 확산 주도\"",
-    "url": "https://n.news.naver.com/mnews/article/277/0005779130",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "SK텔레콤이 AI를 단순 업무 보조도구가 아니라 구성원과 함께 일하는 주체로 삼는 전사 AI 전환(AX)을 추진하고 있다. 'AI 보드'를 신설해 과제 관리와 AI 문화 확산을 주도하며 AI 에이전트 활용을 전사로 확대하고 있다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 4,
-    "title": "美정부 AI 수출 통제하는데... 장악력 키운 딥시크, 점유율 지킨 네이버",
-    "url": "https://n.news.naver.com/mnews/article/469/0000937694",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "미국 정부가 자국 최상위 AI 모델 수출 통제에 나선 사이 중국 딥시크와 한국 네이버 모델의 경쟁력이 강화되고 있다. 미국 업체들이 성능 고도화에 집중하는 동안 후발 주자들이 점유율을 넓히는 구도가 형성되고 있다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 5,
-    "title": "노벨상 수상자 존 점퍼도 구글 떠나 앤트로픽行…AI 인재전쟁 격화",
-    "url": "https://n.news.naver.com/mnews/article/008/0005374890",
-    "source": "네이버",
-    "publishedDate": "2026-06-22",
-    "summary": "알파폴드 개발을 이끈 노벨 화학상 수상자 존 점퍼 구글 딥마인드 부사장이 약 9년 만에 구글을 떠나 앤트로픽에 합류한다. AI 인재 쟁탈전이 격화되는 가운데 앤트로픽이 최상위 연구 인력을 확보한 것이다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-22",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "중국AI가 미국AI를 따라잡는 시간은?",
+      "url": "https://n.news.naver.com/mnews/article/047/0002519988",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "AI 독립 연구원 Teortaxes가 중국 GLM-5.2의 현재 성능을 Claude Opus 4.7에서 4.8 사이 수준으로 평가했다. 미국과 중국 최상위 모델 간 격차가 약 7개월 정도로 좁혀졌다는 분석이다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 2,
+      "title": "AI, 거대 모델 경쟁 넘어 개방형 생태계로[기고]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005537661",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "한국이 진정한 'AI G3' 국가로 도약하려면 거대 모델 하나를 더 잘 만드는 경쟁을 넘어 AI 기술을 산업과 사회 전반으로 빠르게 확산시키는 개방형 생태계가 중요하다는 기고다. 모델 자체보다 응용과 확산 역량이 핵심 경쟁력이라는 관점을 제시한다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 3,
+      "title": "SKT, 전사 AX 전환 가속…\"AI 보드가 과제 관리·문화 확산 주도\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005779130",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "SK텔레콤이 AI를 단순 업무 보조도구가 아니라 구성원과 함께 일하는 주체로 삼는 전사 AI 전환(AX)을 추진하고 있다. 'AI 보드'를 신설해 과제 관리와 AI 문화 확산을 주도하며 AI 에이전트 활용을 전사로 확대하고 있다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "美정부 AI 수출 통제하는데... 장악력 키운 딥시크, 점유율 지킨 네이버",
+      "url": "https://n.news.naver.com/mnews/article/469/0000937694",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "미국 정부가 자국 최상위 AI 모델 수출 통제에 나선 사이 중국 딥시크와 한국 네이버 모델의 경쟁력이 강화되고 있다. 미국 업체들이 성능 고도화에 집중하는 동안 후발 주자들이 점유율을 넓히는 구도가 형성되고 있다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "노벨상 수상자 존 점퍼도 구글 떠나 앤트로픽行…AI 인재전쟁 격화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005374890",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-22",
+      "summary": "알파폴드 개발을 이끈 노벨 화학상 수상자 존 점퍼 구글 딥마인드 부사장이 약 9년 만에 구글을 떠나 앤트로픽에 합류한다. AI 인재 쟁탈전이 격화되는 가운데 앤트로픽이 최상위 연구 인력을 확보한 것이다.",
+      "scorePct": 0
+    }
+  ]
+}

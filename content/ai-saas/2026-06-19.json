@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "Magnitude raises $10m to automate third-party risk",
-    "url": "https://fintech.global/2026/06/17/magnitude-raises-10m-to-automate-third-party-risk/",
-    "source": "Fintech Global",
-    "publishedDate": "2026-06-17",
-    "summary": "Magnitude가 AI 기반 제3자 리스크 관리 자동화를 위해 1000만 달러를 유치했다. 기업의 벤더·파트너 리스크 평가를 AI로 자동화하는 B2B SaaS 플랫폼이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "KT, 하반기 통신·IPTV 서비스에 초개인화 AI 에이전트 적용",
-    "url": "https://n.news.naver.com/mnews/article/029/0003032328",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "KT가 하반기 통신·IPTV 서비스에 초개인화 AI 에이전트를 적용한다고 밝혔다. 스스로 판단하고 업무를 수행하는 에이전틱 AI를 실제 소비자 서비스에 도입하는 사례다.",
-    "scorePct": 67
-  },
-  {
-    "rank": 3,
-    "title": "Behavox raises $175M from BlackRock's HPS for AI compliance",
-    "url": "https://thenextweb.com/news/behavox-175m-hps-blackrock-ai-compliance",
-    "source": "The Next Web",
-    "publishedDate": "2026-06-17",
-    "summary": "AI 컴플라이언스 기업 Behavox가 블랙록 산하 HPS로부터 1억7500만 달러의 우선주 투자를 유치했다. 규제 준수 자동화에 대한 대형 자본의 베팅을 보여준다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 4,
-    "title": "HSBC and Google Cloud forge multi-year AI partnership",
-    "url": "https://fintech.global/2026/06/17/hsbc-and-google-cloud-forge-multi-year-ai-partnership/",
-    "source": "Fintech Global",
-    "publishedDate": "2026-06-17",
-    "summary": "HSBC와 구글 클라우드가 다년간의 전략적 AI 파트너십을 체결하며 기존 협력을 확장했다. 대형 금융기관의 클라우드·AI 전면 도입 흐름을 보여준다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "Top announcements of the AWS Summit in New York, 2026",
-    "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
-    "source": "Amazon Web Services Blog",
-    "publishedDate": "2026-06-17",
-    "summary": "AWS가 뉴욕 서밋 2026에서 Amazon Bedrock AgentCore를 비롯한 대규모 AI 에이전트 기능을 공개했다. 엔터프라이즈가 에이전트를 안전하게 구축·배포·운영할 수 있는 인프라에 초점을 맞췄다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ai-saas",
+  "label": "AI SaaS",
+  "date": "2026-06-19",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "Magnitude raises $10m to automate third-party risk",
+      "url": "https://fintech.global/2026/06/17/magnitude-raises-10m-to-automate-third-party-risk/",
+      "source": "Fintech Global",
+      "sourceLabel": "Fintech Global",
+      "publishedDate": "2026-06-17",
+      "summary": "Magnitude가 AI 기반 제3자 리스크 관리 자동화를 위해 1000만 달러를 유치했다. 기업의 벤더·파트너 리스크 평가를 AI로 자동화하는 B2B SaaS 플랫폼이다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 2,
+      "title": "KT, 하반기 통신·IPTV 서비스에 초개인화 AI 에이전트 적용",
+      "url": "https://n.news.naver.com/mnews/article/029/0003032328",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "KT가 하반기 통신·IPTV 서비스에 초개인화 AI 에이전트를 적용한다고 밝혔다. 스스로 판단하고 업무를 수행하는 에이전틱 AI를 실제 소비자 서비스에 도입하는 사례다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 3,
+      "title": "Behavox raises $175M from BlackRock's HPS for AI compliance",
+      "url": "https://thenextweb.com/news/behavox-175m-hps-blackrock-ai-compliance",
+      "source": "The Next Web",
+      "sourceLabel": "The Next Web",
+      "publishedDate": "2026-06-17",
+      "summary": "AI 컴플라이언스 기업 Behavox가 블랙록 산하 HPS로부터 1억7500만 달러의 우선주 투자를 유치했다. 규제 준수 자동화에 대한 대형 자본의 베팅을 보여준다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "HSBC and Google Cloud forge multi-year AI partnership",
+      "url": "https://fintech.global/2026/06/17/hsbc-and-google-cloud-forge-multi-year-ai-partnership/",
+      "source": "Fintech Global",
+      "sourceLabel": "Fintech Global",
+      "publishedDate": "2026-06-17",
+      "summary": "HSBC와 구글 클라우드가 다년간의 전략적 AI 파트너십을 체결하며 기존 협력을 확장했다. 대형 금융기관의 클라우드·AI 전면 도입 흐름을 보여준다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "Top announcements of the AWS Summit in New York, 2026",
+      "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
+      "source": "Amazon Web Services Blog",
+      "sourceLabel": "Amazon Web Services Blog",
+      "publishedDate": "2026-06-17",
+      "summary": "AWS가 뉴욕 서밋 2026에서 Amazon Bedrock AgentCore를 비롯한 대규모 AI 에이전트 기능을 공개했다. 엔터프라이즈가 에이전트를 안전하게 구축·배포·운영할 수 있는 인프라에 초점을 맞췄다.",
+      "scorePct": 10
+    }
+  ]
+}

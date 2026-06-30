@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "'무쉰사'에 '지긁재긁' 응수…패션 플랫폼 대놓고 저격해도 웃는다",
-    "url": "https://n.news.naver.com/mnews/article/003/0014017338",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "무신사와 지그재그가 공식 SNS에서 서로를 직접 언급하며 '저격 마케팅' 신경전을 벌여 소비자 관심을 끌고 있다. 경쟁을 숨기던 과거와 달리 노골적인 견제를 콘텐츠화해 브랜드 화제성을 키우는 전략이다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "\"냉동면이 생면보다 낫다\"…면사랑, B2C 시장 본격 공략한다",
-    "url": "https://n.news.naver.com/mnews/article/092/0002427375",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "B2B 중심으로 2000억원대 매출을 올려온 면사랑이 냉동면을 앞세워 소비자(B2C) 시장 공략에 속도를 낸다. 소비자 매출 비중이 10%대에 그쳤던 만큼 직판 채널 확대로 성장 동력을 다변화하려는 행보다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 3,
-    "title": "식탁에서 패션까지…계절 소비 트렌드 ‘제철코어’ 열풍",
-    "url": "https://n.news.naver.com/mnews/article/050/0000107518",
-    "source": "네이버",
-    "publishedDate": "2026-06-20",
-    "summary": "특정 시기에만 가능한 음식과 경험을 적극 소비하는 '제철코어'가 새 라이프스타일 트렌드로 자리 잡고 있다. 식재료를 넘어 패션·경험 영역까지 확산되며 한정성과 시즌성을 앞세운 소비가 늘고 있다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 4,
-    "title": "'미역국 라면' 쓸어가는 외국인 관광객",
-    "url": "https://n.news.naver.com/mnews/article/015/0005300762",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "외국인 관광객이 출국 전 대형마트에서 사가는 'K식품 장바구니' 품목이 초콜릿 과자 등 선물용을 넘어 미역국라면, 김부각 등 한국 정체성이 강한 제품으로 바뀌고 있다. 소비 취향이 보편적 간식에서 로컬 색채가 짙은 상품으로 이동하는 흐름이다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 5,
-    "title": "신세계면세점, 화해와 K-뷰티 기획전…온라인몰 리뷰·숏폼 기능 강화",
-    "url": "https://n.news.naver.com/mnews/article/008/0005374539",
-    "source": "네이버",
-    "publishedDate": "2026-06-19",
-    "summary": "신세계면세점이 뷰티 플랫폼 '화해'와 함께 K-뷰티 성분 중심의 큐레이션 기획전을 진행한다. 이와 함께 온라인몰의 리뷰와 숏폼 기능을 강화해 콘텐츠 기반 쇼핑 경험을 확대했다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ecommerce",
+  "label": "이커머스",
+  "date": "2026-06-20",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "'무쉰사'에 '지긁재긁' 응수…패션 플랫폼 대놓고 저격해도 웃는다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014017338",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "무신사와 지그재그가 공식 SNS에서 서로를 직접 언급하며 '저격 마케팅' 신경전을 벌여 소비자 관심을 끌고 있다. 경쟁을 숨기던 과거와 달리 노골적인 견제를 콘텐츠화해 브랜드 화제성을 키우는 전략이다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 2,
+      "title": "\"냉동면이 생면보다 낫다\"…면사랑, B2C 시장 본격 공략한다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002427375",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "B2B 중심으로 2000억원대 매출을 올려온 면사랑이 냉동면을 앞세워 소비자(B2C) 시장 공략에 속도를 낸다. 소비자 매출 비중이 10%대에 그쳤던 만큼 직판 채널 확대로 성장 동력을 다변화하려는 행보다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 3,
+      "title": "식탁에서 패션까지…계절 소비 트렌드 ‘제철코어’ 열풍",
+      "url": "https://n.news.naver.com/mnews/article/050/0000107518",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-20",
+      "summary": "특정 시기에만 가능한 음식과 경험을 적극 소비하는 '제철코어'가 새 라이프스타일 트렌드로 자리 잡고 있다. 식재료를 넘어 패션·경험 영역까지 확산되며 한정성과 시즌성을 앞세운 소비가 늘고 있다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "'미역국 라면' 쓸어가는 외국인 관광객",
+      "url": "https://n.news.naver.com/mnews/article/015/0005300762",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "외국인 관광객이 출국 전 대형마트에서 사가는 'K식품 장바구니' 품목이 초콜릿 과자 등 선물용을 넘어 미역국라면, 김부각 등 한국 정체성이 강한 제품으로 바뀌고 있다. 소비 취향이 보편적 간식에서 로컬 색채가 짙은 상품으로 이동하는 흐름이다.",
+      "scorePct": 0
+    },
+    {
+      "rank": 5,
+      "title": "신세계면세점, 화해와 K-뷰티 기획전…온라인몰 리뷰·숏폼 기능 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005374539",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-19",
+      "summary": "신세계면세점이 뷰티 플랫폼 '화해'와 함께 K-뷰티 성분 중심의 큐레이션 기획전을 진행한다. 이와 함께 온라인몰의 리뷰와 숏폼 기능을 강화해 콘텐츠 기반 쇼핑 경험을 확대했다.",
+      "scorePct": 0
+    }
+  ]
+}

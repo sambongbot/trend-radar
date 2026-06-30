@@ -1,38 +1,47 @@
-[
-  {
-    "rank": 1,
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
-    "source": "OpenAI",
-    "publishedDate": "2026-05-29",
-    "summary": "OpenAI가 프론티어 AI 모델의 신뢰할 수 있는 제3자 평가를 위한 공통 플레이북을 발표했다. 평가 방법론과 거버넌스 표준화를 목표로 한다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
-    "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
-    "source": "Simon Willison's Weblog",
-    "publishedDate": "2026-05-28",
-    "summary": "Simon Willison이 Claude Opus 4.8을 4.7 대비 '겸손하지만 실질적인 개선'으로 평가했다. 벤치마크 마케팅을 걷어낸 실사용자 관점의 리뷰가 담겼다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 3,
-    "title": "Claude Opus 4.8 Tops GPT-5.5 With Dynamic Workflows and 4x Better Honesty",
-    "url": "https://opentools.ai/news/claude-opus-4-8-dynamic-workflows-benchmarks-2026",
-    "source": "OpenTools AI",
-    "publishedDate": "2026-05-28",
-    "summary": "Claude Opus 4.8이 GPT-5.5를 12개 벤치마크에서 앞섰으며, 특히 에이전틱 코딩 SWE-Bench Pro에서 69.2% vs 58.6%로 격차를 벌렸다. 정직성 지표도 4배 개선됐고 Dynamic Workflows가 추가됐다.",
-    "scorePct": 50
-  },
-  {
-    "rank": 4,
-    "title": "Microsoft is dropping Claude Code by June 30 after burning through its entire year's AI budget in just months",
-    "url": "https://cybernews.com/ai-news/microsoft-claude-code-burn-yearly-ai-budget/",
-    "source": "CyberNews",
-    "publishedDate": "2026-05-29",
-    "summary": "Microsoft가 6월 30일부로 Experiences and Devices 부서 내부 Claude Code 라이선스 대부분을 취소한다. 연간 AI 예산을 몇 달 만에 소진할 정도로 사용량이 폭증한 것이 원인이다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-02",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/",
+      "source": "OpenAI",
+      "sourceLabel": "OpenAI",
+      "publishedDate": "2026-05-29",
+      "summary": "OpenAI가 프론티어 AI 모델의 신뢰할 수 있는 제3자 평가를 위한 공통 플레이북을 발표했다. 평가 방법론과 거버넌스 표준화를 목표로 한다.",
+      "scorePct": 60
+    },
+    {
+      "rank": 2,
+      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+      "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
+      "source": "Simon Willison's Weblog",
+      "sourceLabel": "Simon Willison's Weblog",
+      "publishedDate": "2026-05-28",
+      "summary": "Simon Willison이 Claude Opus 4.8을 4.7 대비 '겸손하지만 실질적인 개선'으로 평가했다. 벤치마크 마케팅을 걷어낸 실사용자 관점의 리뷰가 담겼다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 3,
+      "title": "Claude Opus 4.8 Tops GPT-5.5 With Dynamic Workflows and 4x Better Honesty",
+      "url": "https://opentools.ai/news/claude-opus-4-8-dynamic-workflows-benchmarks-2026",
+      "source": "OpenTools AI",
+      "sourceLabel": "OpenTools AI",
+      "publishedDate": "2026-05-28",
+      "summary": "Claude Opus 4.8이 GPT-5.5를 12개 벤치마크에서 앞섰으며, 특히 에이전틱 코딩 SWE-Bench Pro에서 69.2% vs 58.6%로 격차를 벌렸다. 정직성 지표도 4배 개선됐고 Dynamic Workflows가 추가됐다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 4,
+      "title": "Microsoft is dropping Claude Code by June 30 after burning through its entire year's AI budget in just months",
+      "url": "https://cybernews.com/ai-news/microsoft-claude-code-burn-yearly-ai-budget/",
+      "source": "CyberNews",
+      "sourceLabel": "CyberNews",
+      "publishedDate": "2026-05-29",
+      "summary": "Microsoft가 6월 30일부로 Experiences and Devices 부서 내부 Claude Code 라이선스 대부분을 취소한다. 연간 AI 예산을 몇 달 만에 소진할 정도로 사용량이 폭증한 것이 원인이다.",
+      "scorePct": 20
+    }
+  ]
+}

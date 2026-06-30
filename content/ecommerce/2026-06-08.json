@@ -1,47 +1,57 @@
-[
-  {
-    "rank": 1,
-    "title": "“초당 3.5개씩 팔렸다”…알리·테무 공세 뚫은 국내 브랜드 플랫폼",
-    "url": "https://n.news.naver.com/mnews/article/009/0005690192",
-    "source": "네이버",
-    "publishedDate": "2026-06-08",
-    "summary": "패션·라이프스타일 플랫폼 29CM가 연중 최대 할인행사 '이구위크' 첫날 거래액 189억원을 기록하며 전년 대비 26% 성장했다. 초당 3.5개씩 팔리는 흥행으로 알리·테무 등 중국계 공세 속에서도 국내 브랜드 플랫폼의 경쟁력을 입증했다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "현대홈쇼핑, 에어컨·리조트권 ‘바캉스’ 상품 집중 편성",
-    "url": "https://n.news.naver.com/mnews/article/018/0006300154",
-    "source": "네이버",
-    "publishedDate": "2026-06-07",
-    "summary": "현대홈쇼핑이 TV 방송과 모바일 라이브커머스 '쇼라'에서 8~12일 '미리 준비하는 썸머 바캉스전'을 진행한다. 에어컨·리조트권 등 여름 시즌 상품을 집중 편성해 계절 수요를 선점한다.",
-    "scorePct": 67
-  },
-  {
-    "rank": 3,
-    "title": "요즘 소비자들, 검색 대신 AI에 물어보고 산다",
-    "url": "https://n.news.naver.com/mnews/article/014/0005531510",
-    "source": "네이버",
-    "publishedDate": "2026-06-07",
-    "summary": "온라인 쇼핑의 시작점이 포털·플랫폼 검색창에서 챗GPT 같은 대화형 AI로 옮겨가고 있다. 소비자가 상품명을 직접 검색하는 대신 상황과 목적을 설명하면 AI가 상품을 추천하는 방식으로 구매 행동이 바뀌고 있다.",
-    "scorePct": 33
-  },
-  {
-    "rank": 4,
-    "title": "[단독] 무료 반품 횟수 또 줄인 알리익스프레스 적자에 비용 효율화",
-    "url": "https://n.news.naver.com/mnews/article/082/0001384195",
-    "source": "네이버",
-    "publishedDate": "2026-06-08",
-    "summary": "알리익스프레스가 지난해 430억원대 순손실을 낸 뒤 이달부터 무료 반품 횟수를 또다시 축소한다. 공격적 혜택으로 점유율을 키우던 중국계 플랫폼이 비용 효율화 국면으로 전환하는 모습이다.",
-    "scorePct": 33
-  },
-  {
-    "rank": 5,
-    "title": "김형태 대표 “AI광고마케팅 시대…소외된 브랜드에 기회 왔다”",
-    "url": "https://n.news.naver.com/mnews/article/011/0004628366",
-    "source": "네이버",
-    "publishedDate": "2026-06-08",
-    "summary": "AI 광고 솔루션 등장으로 수개월과 억 단위 비용이 들던 영상 광고 제작·송출 장벽이 낮아지고 있다. 그동안 비용 탓에 광고에서 소외됐던 중소·신생 브랜드에 새로운 마케팅 기회가 열리고 있다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "ecommerce",
+  "label": "이커머스",
+  "date": "2026-06-08",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "“초당 3.5개씩 팔렸다”…알리·테무 공세 뚫은 국내 브랜드 플랫폼",
+      "url": "https://n.news.naver.com/mnews/article/009/0005690192",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-08",
+      "summary": "패션·라이프스타일 플랫폼 29CM가 연중 최대 할인행사 '이구위크' 첫날 거래액 189억원을 기록하며 전년 대비 26% 성장했다. 초당 3.5개씩 팔리는 흥행으로 알리·테무 등 중국계 공세 속에서도 국내 브랜드 플랫폼의 경쟁력을 입증했다.",
+      "scorePct": 50
+    },
+    {
+      "rank": 2,
+      "title": "현대홈쇼핑, 에어컨·리조트권 ‘바캉스’ 상품 집중 편성",
+      "url": "https://n.news.naver.com/mnews/article/018/0006300154",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-07",
+      "summary": "현대홈쇼핑이 TV 방송과 모바일 라이브커머스 '쇼라'에서 8~12일 '미리 준비하는 썸머 바캉스전'을 진행한다. 에어컨·리조트권 등 여름 시즌 상품을 집중 편성해 계절 수요를 선점한다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 3,
+      "title": "요즘 소비자들, 검색 대신 AI에 물어보고 산다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005531510",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-07",
+      "summary": "온라인 쇼핑의 시작점이 포털·플랫폼 검색창에서 챗GPT 같은 대화형 AI로 옮겨가고 있다. 소비자가 상품명을 직접 검색하는 대신 상황과 목적을 설명하면 AI가 상품을 추천하는 방식으로 구매 행동이 바뀌고 있다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 4,
+      "title": "[단독] 무료 반품 횟수 또 줄인 알리익스프레스 적자에 비용 효율화",
+      "url": "https://n.news.naver.com/mnews/article/082/0001384195",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-08",
+      "summary": "알리익스프레스가 지난해 430억원대 순손실을 낸 뒤 이달부터 무료 반품 횟수를 또다시 축소한다. 공격적 혜택으로 점유율을 키우던 중국계 플랫폼이 비용 효율화 국면으로 전환하는 모습이다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 5,
+      "title": "김형태 대표 “AI광고마케팅 시대…소외된 브랜드에 기회 왔다”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004628366",
+      "source": "naver-search",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-08",
+      "summary": "AI 광고 솔루션 등장으로 수개월과 억 단위 비용이 들던 영상 광고 제작·송출 장벽이 낮아지고 있다. 그동안 비용 탓에 광고에서 소외됐던 중소·신생 브랜드에 새로운 마케팅 기회가 열리고 있다.",
+      "scorePct": 20
+    }
+  ]
+}

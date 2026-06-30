@@ -1,38 +1,47 @@
-[
-  {
-    "rank": 1,
-    "title": "The AI world is getting 'loopy'",
-    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "source": "TechCrunch",
-    "publishedDate": "2026-06-22",
-    "summary": "메타의 @Scale 컨퍼런스에서 Claude Code 창시자 Boris Cherny가 AI 에이전트의 '루프' 개념을 논의했다. 에이전트가 스스로 프롬프트를 생성하며 반복 수행하는 루프 구조가 차세대 AI 워크플로우의 핵심으로 부상하고 있다.",
-    "scorePct": 100
-  },
-  {
-    "rank": 2,
-    "title": "네이버클라우드 승부수…정부 전용 AI 인프라 제안[만나보니]",
-    "url": "https://n.news.naver.com/mnews/article/001/0016157021",
-    "source": "네이버",
-    "publishedDate": "2026-06-25",
-    "summary": "네이버클라우드가 공공 데이터 보호를 위한 정부 전용 AI 인프라 구축을 제안했다. AI 모델·GPU·에이전트를 아우르는 풀스택 역량으로 데이터 주권 경쟁에 대응하겠다는 전략이다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 3,
-    "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
-    "source": "Simon Willison's Weblog",
-    "publishedDate": "2026-06-22",
-    "summary": "Simon Willison이 Claude Code를 사용해 0.2B 파라미터 이미지 인페인팅 모델(Moebius)을 브라우저에서 구동되도록 포팅한 기술 상세 가이드다. 실제 코딩 워크플로우에서 Claude Code를 어떻게 활용하는지 단계별로 보여준다.",
-    "scorePct": 0
-  },
-  {
-    "rank": 4,
-    "title": "AI News Today June 22 2026: 15 Biggest Stories",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-22-2026",
-    "source": "Build Fast with AI",
-    "publishedDate": "2026-06-22",
-    "summary": "2026년 6월 22일자 주요 AI 뉴스 15선을 정리한 데일리 라운드업이다. LLM 모델 업데이트를 포함한 하루 핵심 동향을 한 번에 파악할 수 있다.",
-    "scorePct": 0
-  }
-]
+{
+  "category": "llm",
+  "label": "LLM·모델",
+  "date": "2026-06-25",
+  "cards": [
+    {
+      "rank": 1,
+      "title": "The AI world is getting 'loopy'",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "publishedDate": "2026-06-22",
+      "summary": "메타의 @Scale 컨퍼런스에서 Claude Code 창시자 Boris Cherny가 AI 에이전트의 '루프' 개념을 논의했다. 에이전트가 스스로 프롬프트를 생성하며 반복 수행하는 루프 구조가 차세대 AI 워크플로우의 핵심으로 부상하고 있다.",
+      "scorePct": 60
+    },
+    {
+      "rank": 2,
+      "title": "네이버클라우드 승부수…정부 전용 AI 인프라 제안[만나보니]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016157021",
+      "source": "naver",
+      "sourceLabel": "네이버",
+      "publishedDate": "2026-06-25",
+      "summary": "네이버클라우드가 공공 데이터 보호를 위한 정부 전용 AI 인프라 구축을 제안했다. AI 모델·GPU·에이전트를 아우르는 풀스택 역량으로 데이터 주권 경쟁에 대응하겠다는 전략이다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 3,
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
+      "source": "Simon Willison's Weblog",
+      "sourceLabel": "Simon Willison's Weblog",
+      "publishedDate": "2026-06-22",
+      "summary": "Simon Willison이 Claude Code를 사용해 0.2B 파라미터 이미지 인페인팅 모델(Moebius)을 브라우저에서 구동되도록 포팅한 기술 상세 가이드다. 실제 코딩 워크플로우에서 Claude Code를 어떻게 활용하는지 단계별로 보여준다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 4,
+      "title": "AI News Today June 22 2026: 15 Biggest Stories",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-22-2026",
+      "source": "Build Fast with AI",
+      "sourceLabel": "Build Fast with AI",
+      "publishedDate": "2026-06-22",
+      "summary": "2026년 6월 22일자 주요 AI 뉴스 15선을 정리한 데일리 라운드업이다. LLM 모델 업데이트를 포함한 하루 핵심 동향을 한 번에 파악할 수 있다.",
+      "scorePct": 20
+    }
+  ]
+}

@@ -1,33 +1,38 @@
 {
+  "category": "ecommerce",
+  "label": "이커머스",
   "date": "2026-06-30",
-  "headline": "> K뷰티 브랜드들이 플랫폼 입점을 넘어 자사몰로 '내 고객'을 직접 확보하는 전쟁에 돌입했다.\n소비자 절반 이상이 검색 결과 '톱5' 안에서 구매를 끝내, 노출 순위가 곧 매출을 좌우한다.\n콘텐츠 커머스를 앞세운 K뷰티의 해외 직판 영토 확장이 가속되고 있다.",
-  "items": [
+  "headline": null,
+  "cards": [
     {
       "rank": 1,
       "title": "올리브영 다음은 자사몰?…K뷰티 '내 고객' 확보 전쟁 [권용훈의 트렌드워치]",
       "url": "https://n.news.naver.com/mnews/article/015/0005304233",
-      "source": "네이버",
+      "source": "naver",
+      "sourceLabel": "네이버",
       "publishedDate": "2026-06-29",
       "summary": "올리브영·쿠팡·아마존·틱톡숍 등 대형 플랫폼은 초기 매출과 인지도 확보엔 유리하지만 고객 데이터를 브랜드가 직접 갖지 못한다. 이에 K뷰티 브랜드들이 자사몰을 통해 '내 고객'을 직접 확보하는 경쟁에 본격 나서고 있다.",
-      "scorePct": 100
+      "scorePct": 80
     },
     {
       "rank": 2,
       "title": "모이다·오프뷰티·올영…'콘텐츠 커머스' 앞세워 해외영토 넓힌다",
       "url": "https://n.news.naver.com/mnews/article/015/0005304198",
-      "source": "네이버",
+      "source": "naver",
+      "sourceLabel": "네이버",
       "publishedDate": "2026-06-29",
       "summary": "국내에선 이름이 낯선 K뷰티 브랜드들이 콘텐츠 커머스를 앞세워 미국·유럽 등 해외에서 먼저 히트하며 매출 대부분을 해외에서 올리고 있다. 모이다·오프뷰티·올영 등이 콘텐츠 기반 해외 진출 영토를 넓히는 중이다.",
-      "scorePct": 0
+      "scorePct": 30
     },
     {
       "rank": 3,
       "title": "“이것도 모르고 ‘구매’ 버튼 눌렀다니”…똑같은 제품 비싼 돈 주고 산 소비자들",
       "url": "https://n.news.naver.com/mnews/article/011/0004636228",
-      "source": "네이버",
+      "source": "naver",
+      "sourceLabel": "네이버",
       "publishedDate": "2026-06-29",
       "summary": "온라인 쇼핑·배달·숙박 등 플랫폼 이용 소비자의 절반 이상이 검색 정렬 '톱5' 범위 안에서 탐색과 구매를 끝내는 것으로 나타났다. 노출 순위가 곧 매출로 이어지는 구조가 데이터로 확인됐다.",
-      "scorePct": 0
+      "scorePct": 30
     }
   ]
 }
