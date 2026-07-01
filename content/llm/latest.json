@@ -1,33 +1,42 @@
 {
-  "date": "2026-07-01",
-  "headline": "> 美 정부가 프런티어 모델 출시를 통제 — 앤스로픽 미토스 5·오픈AI GPT-5.6 모두 정부 승인 하 제한적 공개.\n실용 측면에선 Claude Code 2.1.191이 /rewind·MCP·에이전트 버그 수정으로 사용성을 개선.\n앤스로픽 이코노믹 인덱스가 AI 업무 분담 데이터를 공개했고, xAI 그록 4.5도 비공개 베타에 진입.",
+  "date": "2026-07-02",
+  "headline": "> 앤트로픽이 소넷 5를 공개하고 Claude Code 기본 모델로 채택하며 1M 컨텍스트를 지원한다.\n미국이 수출통제를 해제해 최상위 모델 Fable 5가 글로벌 복귀하고 Mythos 5는 승인된 미국 기관에 재개된다.\nOpenAI Codex Remote 정식 출시와 AI 토큰 비용 관리가 실무 화두로 떠올랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Code 2.1.191 Changelog — /rewind, MCP, Agent Fixes",
-      "url": "https://www.explainx.ai/blog/claude-code-2-1-191-rewind-mcp-background-agents-2026",
-      "source": "ExplainX.ai",
-      "publishedDate": "2026-06-26",
-      "summary": "Claude Code 2.1.191 버전이 출시돼 /clear 이전 대화 상태로 되돌아가는 /rewind 기능이 추가됐다. MCP 연동과 백그라운드 에이전트 관련 버그도 다수 수정됐다.",
-      "scorePct": 70
+      "title": "LLM Rankings June 2026: Fable 5 Is #1 and Offline",
+      "url": "https://awesomeagents.ai/leaderboards/overall-llm-rankings-jun-2026/",
+      "source": "Awesome Agents",
+      "publishedDate": "2026-06-28",
+      "summary": "2026년 6월 LLM 랭킹에서 Claude Fable 5가 1위를 기록했으나 미국 수출통제로 오프라인 상태였다고 전한다. 랭킹은 실제 사용 가능한 모델들을 중심으로 상대적 성능 순위를 제시한다.",
+      "scorePct": 80
     },
     {
       "rank": 2,
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "source": "OpenAI",
-      "publishedDate": "2026-06-26",
-      "summary": "오픈AI가 차세대 모델 GPT-5.6 솔(Sol)·테라(Terra)·루나(Luna)를 정부 승인 하에 제한적으로 프리뷰 공개했다. 솔은 플래그십, 테라는 일상용 균형 모델로 포지셔닝됐다.",
-      "scorePct": 60
+      "title": "Release v2.1.197 — Claude Code introduces Sonnet 5 as default model",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
+      "source": "GitHub / Anthropic",
+      "publishedDate": "2026-06-30",
+      "summary": "Claude Code v2.1.197이 Claude Sonnet 5를 기본 모델로 채택하고 1M 토큰 컨텍스트 윈도우를 지원한다. Free·Pro 사용자 모두 별도 설정 없이 최신 에이전트형 모델을 바로 사용할 수 있게 됐다.",
+      "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "Grok 4.5 Enters Private Beta at SpaceX and Tesla: No Public Access, No Independent Benchmark",
-      "url": "https://www.techtimes.com/articles/319314/20260629/grok-45-enters-private-beta-spacex-tesla-no-public-access-no-independent-benchmark.htm",
-      "source": "TechTimes",
-      "publishedDate": "2026-06-29",
-      "summary": "xAI의 그록 4.5가 1.5조 파라미터 아키텍처로 스페이스X와 테슬라에서 비공개 베타에 돌입했다. 다만 공개 접근과 독립 벤치마크가 없어 실제 성능 검증은 아직 어렵다.",
-      "scorePct": 20
+      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+      "url": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
+      "source": "CoinDesk",
+      "publishedDate": "2026-07-01",
+      "summary": "미국 상무부가 수출통제를 해제하면서 앤트로픽이 Claude Fable 5를 전 세계에 다시 공개했고, Mythos 5는 승인된 미국 기관에 한해 재개했다. 규제로 오프라인 상태였던 앤트로픽 최상위 모델들이 복귀하는 것이다.",
+      "scorePct": 40
+    },
+    {
+      "rank": 4,
+      "title": "\"월 1억 값어치 하나\"…기업들, '돈 먹는 하마' AI 공포 [테크로그]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305283",
+      "source": "네이버",
+      "publishedDate": "2026-07-01",
+      "summary": "기업들이 생성형 AI를 업무에 본격 도입하면서 토큰 비용 관리가 새로운 과제로 떠올랐다. 문서 요약, 코드 작성, 오류 수정, 기획안 작성 등 업무 전반에 AI를 쓰면서 비용이 급증하고 있다는 내용이다.",
+      "scorePct": 10
     }
   ]
 }

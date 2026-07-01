@@ -1,41 +1,50 @@
 {
-  "date": "2026-07-01",
-  "headline": "> 더존비즈온·한컴 등 국내 SW 강자들이 AI 기반 '기업 OS'·AX 솔루션으로 B2B 시장 재편에 속도.\n엔터프라이즈 AI 에이전트가 파일럿을 넘어 핵심 인프라로 자리잡고, 리걸테크 등 버티컬에 대형 투자 집중.\nOpenAI·앤트로픽이 정부 보안 심사로 신규 LLM 출시를 연기하며 모델 공급 일정에 변수 부상.",
+  "date": "2026-07-02",
+  "headline": "> 앤트로픽 클로드 소넷5 출시로 에이전트 운영 단가 경쟁이 본격화됐다.\n포티넷 포티SOC 등 에이전틱 AI가 실제 엔터프라이즈 제품으로 쏟아지고 있다.\n국산 AI칩 투자와 기업 토큰 비용 관리가 국내 AI 도입의 핵심 변수로 부상했다.",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI becomes latest AI firm to delay model rollout",
-      "url": "https://local12.com/news/nation-world/openai-becomes-latest-ai-firm-to-delay-model-rollout-gpt-56-anthropic-cybersecurity-china",
-      "source": "Local 12 News",
-      "publishedDate": "2026-06-28",
-      "summary": "OpenAI가 앤트로픽에 이어 미국 정부의 사이버보안 검토 절차에 따라 신규 AI 모델(GPT-5.6 계열) 출시를 연기했다. 주요 LLM 기업들이 정부 규제·보안 심사로 모델 배포 일정을 늦추는 흐름이 나타나고 있다.",
+      "title": "\"GPT 써달라\"…오픈AI, 韓스타트업에 '구애'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305275",
+      "source": "네이버",
+      "publishedDate": "2026-07-01",
+      "summary": "오픈AI가 국내 스타트업과의 접촉을 대폭 늘리며 한국 기업용 AI 시장 공략을 본격화하고 있다. 최근 한국에 상륙한 앤트로픽을 견제하고 '가성비'를 앞세워 자사 GPT 채택을 유도하려는 움직임이다.",
       "scorePct": 30
     },
     {
       "rank": 2,
-      "title": "지용구 더존비즈온 공동대표 “미래 ERP, 기업 OS로 진화할 것”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003442980",
+      "title": "포티넷, 에이전틱AI 기반 통합 SOC 플랫폼 '포티SOC' 출시",
+      "url": "https://n.news.naver.com/mnews/article/092/0002428904",
       "source": "네이버",
-      "publishedDate": "2026-07-01",
-      "summary": "더존비즈온 지용구 공동대표가 AI 확산으로 ERP가 단순 기록 시스템을 넘어 데이터를 스스로 이해하고 실행하는 기업의 기본 운용체계(OS)로 진화할 것이라고 전망했다. AI가 결합된 차세대 ERP는 데이터 해석부터 실행까지 담당하는 방향으로 발전한다.",
+      "publishedDate": "2026-07-02",
+      "summary": "포티넷이 에이전틱 AI 기반 통합 보안운영센터(SOC) 플랫폼 '포티SOC'를 출시했다. AI 에이전트가 위협 탐지부터 대응까지 자동화해 보안 운영 인력의 부담을 줄이는 것을 목표로 한다.",
       "scorePct": 10
     },
     {
       "rank": 3,
-      "title": "Enterprise AI Agents 2026: Adoption & Funding",
-      "url": "https://www.syncsoft.ai/en/blog/enterprise-ai-agents-mainstream-2026",
-      "source": "SyncSoft AI",
-      "publishedDate": "2026-06-30",
-      "summary": "2026년 6월 들어 엔터프라이즈 AI 에이전트가 시범 도입 단계를 넘어 기업의 핵심 인프라로 자리 잡았다. 도입 확대와 함께 관련 투자도 본격화되며 AI 에이전트가 업무 시스템의 기본 구성요소로 부상하고 있다.",
+      "title": "수출입은행, 퓨리오사AI에 투자 [VC 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305302",
+      "source": "네이버",
+      "publishedDate": "2026-07-02",
+      "summary": "수출입은행이 국산 AI 반도체 설계 스타트업 퓨리오사AI에 투자했다고 VC 브리핑을 통해 전해졌다. 국내 AI 인프라 자립을 위한 자본 유입이 국책 금융기관 차원에서 이어지고 있음을 보여준다.",
       "scorePct": 10
     },
     {
       "rank": 4,
-      "title": "한컴, 공공·민간 빗장 다 열었다…AX사업 속도",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257127",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-06-30",
+      "summary": "앤트로픽이 클로드 소넷5를 출시하며 입력 100만 토큰당 2달러, 출력 10달러의 공격적 가격을 책정했다. 오퍼스에 근접한 성능을 훨씬 낮은 비용으로 제공해 AI 에이전트를 대규모로 운영하려는 기업을 정조준했다. 모든 요금제에서 기본 모델로 제공된다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "\"월 1억 값어치 하나\"…기업들, '돈 먹는 하마' AI 공포 [테크로그]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305283",
       "source": "네이버",
       "publishedDate": "2026-07-01",
-      "summary": "한컴이 한국서부발전 등 공기업과 정부기관에 AI 문서작성 솔루션을 잇따라 공급하며 AX(AI 전환) 솔루션 기업으로 빠르게 전환하고 있다. 공공과 민간 양쪽에서 동시에 AI 솔루션 공급 계약을 확대하는 모습이다.",
+      "summary": "기업들이 생성형 AI를 업무에 본격 도입하면서 '토큰 비용' 관리가 새로운 경영 과제로 떠올랐다. 문서 요약, 코드 작성, 기획안 작성 등 업무 전반에 AI를 쓰면서 월 수천만 원대 비용이 발생하는 사례가 나오고 있다.",
       "scorePct": 0
     }
   ]
