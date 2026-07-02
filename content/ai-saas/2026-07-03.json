@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-06-30",
+    "summary": "아마존이 오픈AI·앤트로픽에 이어 10억 달러 규모의 FDE(전진 배치 엔지니어링) 조직을 신설했다. 엔지니어를 고객사에 직접 투입해 엔터프라이즈 AI 도입을 밀착 지원하는 모델로, 빅테크의 B2B AI 구축 경쟁이 서비스 조직 단위로 확전되고 있다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "FT \"오픈AI, 미 정부에 지분 5% 기부 제안\"",
+    "url": "https://n.news.naver.com/mnews/article/029/0003035074",
+    "source": "네이버",
+    "publishedDate": "2026-07-02",
+    "summary": "오픈AI가 트럼프 행정부에 지분 5%를 넘기는 방안을 구체적으로 논의 중이라고 FT가 보도했다. 각국에서 'AI 국가주의'가 부각되는 가운데 프런티어 AI 기업과 정부의 결합이 새로운 단계로 진입하는 모습이다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 3,
+    "title": "AI 자본 '블랙홀' 된 실리콘밸리 … 전세계 투자금 60% 빨아들여",
+    "url": "https://n.news.naver.com/mnews/article/009/0005702061",
+    "source": "네이버",
+    "publishedDate": "2026-07-02",
+    "summary": "실리콘밸리가 전 세계 벤처 투자금의 60%를 흡수하며 AI 자본의 블랙홀이 되고 있다. 3천 개 VC가 1조 2천억 달러를 투자하며 창업 구상 단계부터 베팅에 나서는 등 AI 스타트업 자금이 미국으로 극단적으로 쏠리고 있다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 4,
+    "title": "\"에이전틱 AI로 SaaS 시장 재편…'사스포칼립스'는 종말 아닌 진화\"",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04893766645510584",
+    "source": "이데일리",
+    "publishedDate": "2026-07-02",
+    "summary": "가트너가 에이전틱 AI 확산으로 SaaS 시장이 붕괴한다는 이른바 '사스포칼립스'는 종말이 아닌 진화에 가깝다고 진단했다. AI 에이전트 도입이 기존 SaaS를 대체하기보다 새로운 형태로 재편시키고 있다는 분석이다.",
+    "scorePct": 0
+  }
+]

@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-02",
-  "headline": "> 앤트로픽이 소넷 5를 공개하고 Claude Code 기본 모델로 채택하며 1M 컨텍스트를 지원한다.\n미국이 수출통제를 해제해 최상위 모델 Fable 5가 글로벌 복귀하고 Mythos 5는 승인된 미국 기관에 재개된다.\nOpenAI Codex Remote 정식 출시와 AI 토큰 비용 관리가 실무 화두로 떠올랐다.",
+  "date": "2026-07-03",
+  "headline": "> 앤트로픽이 Claude Science 출시와 Fable 5 글로벌 재개방으로 공세를 이어가는 가운데, 아마존은 10억 달러 규모 FDE 조직으로 엔터프라이즈 AI 구축 경쟁에 가세했다.\n> 가트너는 에이전틱 AI가 SaaS의 종말이 아닌 재편을 이끈다고 진단했고, 실리콘밸리는 전 세계 벤처 투자금의 60%를 빨아들이며 AI 자본 블랙홀이 되고 있다.\n> 커서의 iOS 앱 출시로 모바일 AI 코딩 시대가 열렸고, Sonnet 5는 마이크로소프트 애저에 정식 탑재되며 멀티클라우드 접근성이 넓어졌다.",
   "items": [
     {
       "rank": 1,
-      "title": "LLM Rankings June 2026: Fable 5 Is #1 and Offline",
-      "url": "https://awesomeagents.ai/leaderboards/overall-llm-rankings-jun-2026/",
-      "source": "Awesome Agents",
-      "publishedDate": "2026-06-28",
-      "summary": "2026년 6월 LLM 랭킹에서 Claude Fable 5가 1위를 기록했으나 미국 수출통제로 오프라인 상태였다고 전한다. 랭킹은 실제 사용 가능한 모델들을 중심으로 상대적 성능 순위를 제시한다.",
-      "scorePct": 80
+      "title": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-06-30",
+      "summary": "앤트로픽이 유료 구독자 전원에게 AI 연구 워크벤치 'Claude Science'를 베타 출시했다. 새 모델이 아니라 연구자들이 실제로 쓰는 도구를 통합한 워크플로우로 승부한다는 전략으로, 도메인 특화 에이전트 제품화의 대표 사례다.",
+      "scorePct": 100
     },
     {
       "rank": 2,
-      "title": "Release v2.1.197 — Claude Code introduces Sonnet 5 as default model",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-      "source": "GitHub / Anthropic",
+      "title": "\"스마트폰으로 AI 코딩\"…커서, iOS 앱 베타버전 출시",
+      "url": "https://zdnet.co.kr/view/?no=20260630093839",
+      "source": "ZDNet Korea",
       "publishedDate": "2026-06-30",
-      "summary": "Claude Code v2.1.197이 Claude Sonnet 5를 기본 모델로 채택하고 1M 토큰 컨텍스트 윈도우를 지원한다. Free·Pro 사용자 모두 별도 설정 없이 최신 에이전트형 모델을 바로 사용할 수 있게 됐다.",
-      "scorePct": 50
+      "summary": "AI 코딩 도구 커서가 iOS용 모바일 앱 공개 베타를 시작했다. 모든 유료 플랜 이용자가 스마트폰에서 AI 코딩 에이전트를 실시간으로 제어할 수 있게 되면서 코딩 에이전트의 활용 접점이 데스크톱 밖으로 확장됐다.",
+      "scorePct": 100
     },
     {
       "rank": 3,
-      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
-      "url": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
-      "source": "CoinDesk",
+      "title": "Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak, Flags More Code",
+      "url": "https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm",
+      "source": "Tech Times",
       "publishedDate": "2026-07-01",
-      "summary": "미국 상무부가 수출통제를 해제하면서 앤트로픽이 Claude Fable 5를 전 세계에 다시 공개했고, Mythos 5는 승인된 미국 기관에 한해 재개했다. 규제로 오프라인 상태였던 앤트로픽 최상위 모델들이 복귀하는 것이다.",
-      "scorePct": 40
+      "summary": "미국 수출 통제 해제로 Claude Fable 5의 글로벌 접근이 복원됐다. 앤트로픽은 재개방과 함께 탈옥을 차단하고 위험 코드를 더 적극적으로 플래그하는 새 분류기를 배포했다.",
+      "scorePct": 100
     },
     {
       "rank": 4,
-      "title": "\"월 1억 값어치 하나\"…기업들, '돈 먹는 하마' AI 공포 [테크로그]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305283",
-      "source": "네이버",
+      "title": "Microsoft, NVIDIA and Anthropic Deepen AI Collaboration with Claude General Availability",
+      "url": "https://techafricanews.com/2026/07/01/microsoft-nvidia-and-anthropic-deepen-ai-collaboration-with-claude-general-availability/",
+      "source": "TechAfrica News",
       "publishedDate": "2026-07-01",
-      "summary": "기업들이 생성형 AI를 업무에 본격 도입하면서 토큰 비용 관리가 새로운 과제로 떠올랐다. 문서 요약, 코드 작성, 오류 수정, 기획안 작성 등 업무 전반에 AI를 쓰면서 비용이 급증하고 있다는 내용이다.",
-      "scorePct": 10
+      "summary": "Claude Sonnet 5가 마이크로소프트 파운드리(애저)에서 정식 출시(GA)되어 엔비디아 GB300 블랙웰 인프라 위에서 구동된다. 마이크로소프트·엔비디아·앤트로픽 3사의 협력이 심화되며 Claude의 멀티클라우드 공급망이 넓어졌다.",
+      "scorePct": 100
     }
   ]
 }

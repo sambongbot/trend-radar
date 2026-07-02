@@ -1,50 +1,41 @@
 {
-  "date": "2026-07-02",
-  "headline": "> 앤트로픽 클로드 소넷5 출시로 에이전트 운영 단가 경쟁이 본격화됐다.\n포티넷 포티SOC 등 에이전틱 AI가 실제 엔터프라이즈 제품으로 쏟아지고 있다.\n국산 AI칩 투자와 기업 토큰 비용 관리가 국내 AI 도입의 핵심 변수로 부상했다.",
+  "date": "2026-07-03",
+  "headline": "> 앤트로픽이 Claude Science 출시와 Fable 5 글로벌 재개방으로 공세를 이어가는 가운데, 아마존은 10억 달러 규모 FDE 조직으로 엔터프라이즈 AI 구축 경쟁에 가세했다.\n> 가트너는 에이전틱 AI가 SaaS의 종말이 아닌 재편을 이끈다고 진단했고, 실리콘밸리는 전 세계 벤처 투자금의 60%를 빨아들이며 AI 자본 블랙홀이 되고 있다.\n> 커서의 iOS 앱 출시로 모바일 AI 코딩 시대가 열렸고, Sonnet 5는 마이크로소프트 애저에 정식 탑재되며 멀티클라우드 접근성이 넓어졌다.",
   "items": [
     {
       "rank": 1,
-      "title": "\"GPT 써달라\"…오픈AI, 韓스타트업에 '구애'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305275",
-      "source": "네이버",
-      "publishedDate": "2026-07-01",
-      "summary": "오픈AI가 국내 스타트업과의 접촉을 대폭 늘리며 한국 기업용 AI 시장 공략을 본격화하고 있다. 최근 한국에 상륙한 앤트로픽을 견제하고 '가성비'를 앞세워 자사 GPT 채택을 유도하려는 움직임이다.",
-      "scorePct": 30
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-06-30",
+      "summary": "아마존이 오픈AI·앤트로픽에 이어 10억 달러 규모의 FDE(전진 배치 엔지니어링) 조직을 신설했다. 엔지니어를 고객사에 직접 투입해 엔터프라이즈 AI 도입을 밀착 지원하는 모델로, 빅테크의 B2B AI 구축 경쟁이 서비스 조직 단위로 확전되고 있다.",
+      "scorePct": 100
     },
     {
       "rank": 2,
-      "title": "포티넷, 에이전틱AI 기반 통합 SOC 플랫폼 '포티SOC' 출시",
-      "url": "https://n.news.naver.com/mnews/article/092/0002428904",
+      "title": "FT \"오픈AI, 미 정부에 지분 5% 기부 제안\"",
+      "url": "https://n.news.naver.com/mnews/article/029/0003035074",
       "source": "네이버",
       "publishedDate": "2026-07-02",
-      "summary": "포티넷이 에이전틱 AI 기반 통합 보안운영센터(SOC) 플랫폼 '포티SOC'를 출시했다. AI 에이전트가 위협 탐지부터 대응까지 자동화해 보안 운영 인력의 부담을 줄이는 것을 목표로 한다.",
-      "scorePct": 10
+      "summary": "오픈AI가 트럼프 행정부에 지분 5%를 넘기는 방안을 구체적으로 논의 중이라고 FT가 보도했다. 각국에서 'AI 국가주의'가 부각되는 가운데 프런티어 AI 기업과 정부의 결합이 새로운 단계로 진입하는 모습이다.",
+      "scorePct": 0
     },
     {
       "rank": 3,
-      "title": "수출입은행, 퓨리오사AI에 투자 [VC 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305302",
+      "title": "AI 자본 '블랙홀' 된 실리콘밸리 … 전세계 투자금 60% 빨아들여",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702061",
       "source": "네이버",
       "publishedDate": "2026-07-02",
-      "summary": "수출입은행이 국산 AI 반도체 설계 스타트업 퓨리오사AI에 투자했다고 VC 브리핑을 통해 전해졌다. 국내 AI 인프라 자립을 위한 자본 유입이 국책 금융기관 차원에서 이어지고 있음을 보여준다.",
-      "scorePct": 10
+      "summary": "실리콘밸리가 전 세계 벤처 투자금의 60%를 흡수하며 AI 자본의 블랙홀이 되고 있다. 3천 개 VC가 1조 2천억 달러를 투자하며 창업 구상 단계부터 베팅에 나서는 등 AI 스타트업 자금이 미국으로 극단적으로 쏠리고 있다.",
+      "scorePct": 0
     },
     {
       "rank": 4,
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-06-30",
-      "summary": "앤트로픽이 클로드 소넷5를 출시하며 입력 100만 토큰당 2달러, 출력 10달러의 공격적 가격을 책정했다. 오퍼스에 근접한 성능을 훨씬 낮은 비용으로 제공해 AI 에이전트를 대규모로 운영하려는 기업을 정조준했다. 모든 요금제에서 기본 모델로 제공된다.",
-      "scorePct": 10
-    },
-    {
-      "rank": 5,
-      "title": "\"월 1억 값어치 하나\"…기업들, '돈 먹는 하마' AI 공포 [테크로그]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305283",
-      "source": "네이버",
-      "publishedDate": "2026-07-01",
-      "summary": "기업들이 생성형 AI를 업무에 본격 도입하면서 '토큰 비용' 관리가 새로운 경영 과제로 떠올랐다. 문서 요약, 코드 작성, 기획안 작성 등 업무 전반에 AI를 쓰면서 월 수천만 원대 비용이 발생하는 사례가 나오고 있다.",
+      "title": "\"에이전틱 AI로 SaaS 시장 재편…'사스포칼립스'는 종말 아닌 진화\"",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04893766645510584",
+      "source": "이데일리",
+      "publishedDate": "2026-07-02",
+      "summary": "가트너가 에이전틱 AI 확산으로 SaaS 시장이 붕괴한다는 이른바 '사스포칼립스'는 종말이 아닌 진화에 가깝다고 진단했다. AI 에이전트 도입이 기존 SaaS를 대체하기보다 새로운 형태로 재편시키고 있다는 분석이다.",
       "scorePct": 0
     }
   ]
