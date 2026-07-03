@@ -1,42 +1,33 @@
 {
-  "date": "2026-07-03",
-  "headline": "> 앤트로픽이 Claude Science 출시와 Fable 5 글로벌 재개방으로 공세를 이어가는 가운데, 아마존은 10억 달러 규모 FDE 조직으로 엔터프라이즈 AI 구축 경쟁에 가세했다.\n> 가트너는 에이전틱 AI가 SaaS의 종말이 아닌 재편을 이끈다고 진단했고, 실리콘밸리는 전 세계 벤처 투자금의 60%를 빨아들이며 AI 자본 블랙홀이 되고 있다.\n> 커서의 iOS 앱 출시로 모바일 AI 코딩 시대가 열렸고, Sonnet 5는 마이크로소프트 애저에 정식 탑재되며 멀티클라우드 접근성이 넓어졌다.",
+  "date": "2026-07-04",
+  "headline": "> 삼성·SK 등 대기업이 영남권에 300조원대 피지컬AI·데이터센터 투자를 발표하며 국내 AI 인프라 경쟁이 본격화\n> Anthropic은 삼성과 커스텀 AI 칩 파트너십을 검토 — 추론 인프라 수직계열화 움직임 가속\n> 오픈AI 노엄 브라운은 '추론 연산 확대'가 모델 안전평가 체계와 메모리 수요 구조를 모두 바꾼다고 경고",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-06-30",
-      "summary": "앤트로픽이 유료 구독자 전원에게 AI 연구 워크벤치 'Claude Science'를 베타 출시했다. 새 모델이 아니라 연구자들이 실제로 쓰는 도구를 통합한 워크플로우로 승부한다는 전략으로, 도메인 특화 에이전트 제품화의 대표 사례다.",
+      "title": "Anthropic weighing Samsung partnership to develop custom AI chips: U.S. media",
+      "url": "https://n.news.naver.com/mnews/article/640/0000090693",
+      "source": "네이버",
+      "publishedDate": "2026-07-04",
+      "summary": "클로드를 만드는 Anthropic이 커스텀 AI 칩 개발을 위해 삼성전자와의 파트너십을 검토 중이라고 미국 언론이 보도했다. OpenAI·구글에 이어 Anthropic도 자체 칩으로 추론 인프라 수직계열화에 나서는 움직임이다.",
       "scorePct": 100
     },
     {
       "rank": 2,
-      "title": "\"스마트폰으로 AI 코딩\"…커서, iOS 앱 베타버전 출시",
-      "url": "https://zdnet.co.kr/view/?no=20260630093839",
-      "source": "ZDNet Korea",
-      "publishedDate": "2026-06-30",
-      "summary": "AI 코딩 도구 커서가 iOS용 모바일 앱 공개 베타를 시작했다. 모든 유료 플랜 이용자가 스마트폰에서 AI 코딩 에이전트를 실시간으로 제어할 수 있게 되면서 코딩 에이전트의 활용 접점이 데스크톱 밖으로 확장됐다.",
-      "scorePct": 100
+      "title": "\"안전하다던 AI, 연산 늘리면 위험해질 수도\"…오픈AI 경고[AI픽]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016174676",
+      "source": "네이버",
+      "publishedDate": "2026-07-04",
+      "summary": "노엄 브라운 오픈AI 리서치 부사장이 현재 AI 안전평가 대부분이 저연산 기준으로 이뤄져, 추론 시간 연산을 늘리면 숨어 있던 능력과 위험이 드러날 수 있다고 경고했다. 연산량까지 검증하는 새로운 평가체계가 필요하다고 주장했다.",
+      "scorePct": 0
     },
     {
       "rank": 3,
-      "title": "Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak, Flags More Code",
-      "url": "https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm",
-      "source": "Tech Times",
-      "publishedDate": "2026-07-01",
-      "summary": "미국 수출 통제 해제로 Claude Fable 5의 글로벌 접근이 복원됐다. 앤트로픽은 재개방과 함께 탈옥을 차단하고 위험 코드를 더 적극적으로 플래그하는 새 분류기를 배포했다.",
-      "scorePct": 100
-    },
-    {
-      "rank": 4,
-      "title": "Microsoft, NVIDIA and Anthropic Deepen AI Collaboration with Claude General Availability",
-      "url": "https://techafricanews.com/2026/07/01/microsoft-nvidia-and-anthropic-deepen-ai-collaboration-with-claude-general-availability/",
-      "source": "TechAfrica News",
-      "publishedDate": "2026-07-01",
-      "summary": "Claude Sonnet 5가 마이크로소프트 파운드리(애저)에서 정식 출시(GA)되어 엔비디아 GB300 블랙웰 인프라 위에서 구동된다. 마이크로소프트·엔비디아·앤트로픽 3사의 협력이 심화되며 Claude의 멀티클라우드 공급망이 넓어졌다.",
-      "scorePct": 100
+      "title": "한국 찾은 오픈AI 부사장 “한국 메모리 반도체, 더 중요해질 것”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702464",
+      "source": "네이버",
+      "publishedDate": "2026-07-03",
+      "summary": "방한한 노엄 브라운 오픈AI 부사장이 AI 모델의 추론 시간이 길어지면서 메모리 수요가 함께 증가해 한국 메모리 반도체의 중요성이 커질 것이라고 밝혔다. 추론 비용에 대한 투자 가치도 충분하다고 강조했다.",
+      "scorePct": 0
     }
   ]
 }
