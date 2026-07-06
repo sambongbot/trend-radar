@@ -6,33 +6,51 @@
     "source": "AI Maker (Substack)",
     "publishedDate": "2026-06-20",
     "summary": "앤스로픽의 2026년 1분기 클로드 플랫폼·API 변경 사항을 총정리한 가이드다. Claude Agent SDK의 과금 모델 변화 등 빌더가 반드시 알아야 할 업데이트를 체계적으로 다룬다.",
-    "scorePct": 40
+    "scorePct": 54
   },
   {
     "rank": 2,
+    "title": "[AI픽] 오픈AI, 삼성전자 품고 기업용 AI 시장 공략(종합)",
+    "url": "https://n.news.naver.com/mnews/article/001/0016152414",
+    "source": "네이버",
+    "publishedDate": "2026-06-22",
+    "summary": "",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
     "title": "다음 품은 업스테이지, '모두를 위한 AI' 실현할 연합군 띄웠다",
     "url": "https://n.news.naver.com/mnews/article/015/0005301398",
     "source": "네이버",
     "publishedDate": "2026-06-22",
     "summary": "국내 1호 AI 유니콘 업스테이지가 인수한 포털 '다음'과 자사 LLM 역량을 결합해 '업스테이지 컴퍼니'를 출범시켰다. LLM 기업이 포털·서비스를 흡수해 '모두를 위한 AI' 생태계 연합군을 구성하는 수직 통합 행보다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "삼성전자,  '오픈AI·구글·앤스로픽 기업용 버전' 도입 완료…글로벌 최대 규모",
     "url": "https://n.news.naver.com/mnews/article/018/0006312148",
     "source": "네이버",
     "publishedDate": "2026-06-23",
     "summary": "삼성전자가 오픈AI·구글·앤스로픽의 기업용 생성형 AI를 업무에 전면 도입하며 글로벌 최대 규모의 AX(AI 전환)에 나섰다. 그동안 기술유출 우려로 막혔던 외부 AI 사용을 보안 체계를 갖춰 허용한 것이 핵심이다.",
-    "scorePct": 10
+    "scorePct": 31
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Snowflake AI Pulse – June 2026 Product Announcements",
     "url": "https://www.snowflake.com/en/ai-pulse/june-2026/",
     "source": "Snowflake",
     "publishedDate": "2026-06-20",
     "summary": "스노우플레이크가 6월 AI Pulse에서 지식 근로자를 위한 보안 개인 에이전트 'CoWork'를 공개했다. 사내 데이터에 안전하게 연결되는 업무용 AI 에이전트로, 엔터프라이즈 데이터 플랫폼이 직접 에이전트 제품을 출시하는 흐름을 보여준다.",
-    "scorePct": 10
+    "scorePct": 31
+  },
+  {
+    "rank": 6,
+    "title": "June 2026 AI Launch Wave: A Builder's Decision Map",
+    "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/",
+    "source": "WaveSpeed AI",
+    "publishedDate": "2026-06-20",
+    "summary": "",
+    "scorePct": 31
   }
 ]

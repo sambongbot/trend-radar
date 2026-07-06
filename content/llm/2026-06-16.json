@@ -1,15 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "딥시크 토큰, 주간 사용량 1위…AI 에이전트에도 중국산 ‘저가 공세’ 통하나",
-    "url": "https://n.news.naver.com/mnews/article/032/0003452168",
-    "source": "네이버",
-    "publishedDate": "2026-06-16",
-    "summary": "한 세대 뒤처졌다 평가받던 중국 LLM이 가성비를 앞세워 점유율을 빠르게 늘리고 있으며, 딥시크 토큰이 주간 사용량 1위에 올랐다. 특히 AI 에이전트 영역에서 중국산 저가 공세가 통하는지 주목받고 있다.",
-    "scorePct": 40
-  },
-  {
-    "rank": 2,
     "title": "Anthropic launches $150M Claude Corps nonprofit fellowship program",
     "url": "https://qz.com/anthropic-claude-corps-fellowship-nonprofits-150-million-061126",
     "source": "Quartz",
@@ -18,25 +9,7 @@
     "scorePct": 40
   },
   {
-    "rank": 3,
-    "title": "AI News June 11, 2026: 12 Biggest Stories Today",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-11-2026",
-    "source": "BuildFastWithAI",
-    "publishedDate": "2026-06-11",
-    "summary": "2026년 6월 11일 기준 가장 큰 AI 뉴스 12건을 정리한 일일 다이제스트로, Claude Corps 출범과 주요 모델 업데이트를 포괄한다. 하루 단위 LLM 업계 흐름을 빠르게 훑을 수 있는 요약본이다.",
-    "scorePct": 40
-  },
-  {
-    "rank": 4,
-    "title": "‘전 국민 AI비서’ 연내 나온다",
-    "url": "https://n.news.naver.com/mnews/article/011/0004631352",
-    "source": "네이버",
-    "publishedDate": "2026-06-15",
-    "summary": "정부가 국내 AI 기업 역량을 총동원해 한국형 챗GPT·에이전트 서비스 '모두의 AI'를 연내 선보인다. 전 국민이 사용할 수 있는 공공 AI 비서를 목표로 추진 중이다.",
-    "scorePct": 30
-  },
-  {
-    "rank": 5,
+    "rank": 2,
     "title": "MS 코파일럿코워크, 구글·슬랙과 다른 점은 'M365 업무 맥락'",
     "url": "https://n.news.naver.com/mnews/article/293/0000086285",
     "source": "네이버",

@@ -6,7 +6,7 @@
     "source": "Security Today",
     "publishedDate": "2026-06-23",
     "summary": "한 B2B 소프트웨어 기업이 'AI 가시성(AI Visibility)' 최적화를 통해 무료 체험 가입을 186% 늘렸다. 제품 설명을 AI 검색·추천 결과에 노출되도록 다듬은 것이 주효했다.",
-    "scorePct": 60
+    "scorePct": 69
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-26",
     "summary": "마드라스체크가 운영하는 협업툴 플로우가 AI 에이전트 '리패턴'을 공개하며 AI 전환(AX)을 선언했다. 사람과 AI가 함께 일하는 업무 자동화·AI 비서 환경을 제시했다.",
-    "scorePct": 40
+    "scorePct": 54
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "TechCrunch",
     "publishedDate": "2026-06-24",
     "summary": "OpenAI가 브로드컴과 공동 개발한 첫 자체 AI 추론칩 'Jalapeño(할라페뇨)'를 공개했다. LLM 추론에 최적화된 설계로 성능과 비용 효율을 동시에 끌어올리는 것을 목표로 한다.",
-    "scorePct": 30
+    "scorePct": 46
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-26",
     "summary": "LG CNS가 스스로 업무를 수행하는 에이전틱 AI를 적용한 ERP 테스트 자동화 솔루션 '퍼펙트윈 ERP 에디션'을 출시했다. AI가 ERP 운영 과정의 오류를 자동으로 탐지하고 검증해준다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
     "rank": 5,
@@ -42,7 +42,7 @@
     "source": "Tech Startups",
     "publishedDate": "2026-06-24",
     "summary": "6월 24일자 벤처캐피털 펀딩 라운드업에서 다수의 AI 스타트업 투자가 집계됐다. Assort Health가 멘로벤처스·라이트스피드 주도로 1억2000만 달러 규모 시리즈C를 유치하는 등 AI 분야로 자금이 활발히 유입됐다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
     "rank": 6,
@@ -51,6 +51,6 @@
     "source": "네이버",
     "publishedDate": "2026-06-26",
     "summary": "네이버가 대화형 AI 검색 서비스 'AI탭'을 전체 이용자에게 정식 출시하고, 8년간 모바일 검색의 상징이던 '그린닷'을 종료했다. 질문부터 예약·구매까지 한 번에 처리하는 에이전트형 검색으로 전환했다.",
-    "scorePct": 0
+    "scorePct": 23
   }
 ]

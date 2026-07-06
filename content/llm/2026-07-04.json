@@ -1,29 +1,56 @@
 [
   {
     "rank": 1,
+    "title": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns",
+    "url": "https://www.scmp.com/tech/big-tech/article/3359375/alibaba-bans-staff-using-claude-code-over-anthropic-spyware-concerns",
+    "source": "South China Morning Post",
+    "publishedDate": "2026-07-03",
+    "summary": "알리바바가 7월부터 전 직원의 사내 Claude Code 사용을 금지했다. Claude Code가 사용자의 프록시 설정과 시간대를 몰래 확인한다는 스파이웨어 의혹이 배경으로, 알리바바는 이를 고위험 소프트웨어 목록에 추가했다. 미중 기술 갈등 속 AI 코딩 도구가 보안 이슈의 중심에 선 사례다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "오픈AI 리서치 부사장 \"AI 벤치마크, 신뢰 못 해… 토큰량 공개해야\"",
+    "url": "https://n.news.naver.com/mnews/article/138/0002233060",
+    "source": "네이버",
+    "publishedDate": "2026-07-04",
+    "summary": "노엄 브라운 오픈AI 리서치 부사장이 서울 행사에서 현재 AI 벤치마크 방식을 신뢰할 수 없다며 개편을 주장했다. 특히 모델이 벤치마크 점수를 내기 위해 소모한 토큰량을 공개해야 공정한 비교가 가능하다고 강조했다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "Introducing the Voice Agent Builder",
+    "url": "https://x.ai/news/grok-voice-agent-builder",
+    "source": "xAI",
+    "publishedDate": "2026-07-01",
+    "summary": "xAI가 Grok Voice용 노코드 Voice Agent Builder를 출시했다. 자연어로 설명만 입력하면 음성 에이전트를 생성해주는 도구로, 에이전트 구축의 진입 장벽을 크게 낮췄다. 음성 인터페이스 영역에서도 에이전트 빌더 경쟁이 본격화되고 있다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
     "title": "Anthropic weighing Samsung partnership to develop custom AI chips: U.S. media",
     "url": "https://n.news.naver.com/mnews/article/640/0000090693",
     "source": "네이버",
     "publishedDate": "2026-07-04",
     "summary": "클로드를 만드는 Anthropic이 커스텀 AI 칩 개발을 위해 삼성전자와의 파트너십을 검토 중이라고 미국 언론이 보도했다. OpenAI·구글에 이어 Anthropic도 자체 칩으로 추론 인프라 수직계열화에 나서는 움직임이다.",
-    "scorePct": 50
+    "scorePct": 20
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "\"안전하다던 AI, 연산 늘리면 위험해질 수도\"…오픈AI 경고[AI픽]",
     "url": "https://n.news.naver.com/mnews/article/001/0016174676",
     "source": "네이버",
     "publishedDate": "2026-07-04",
     "summary": "노엄 브라운 오픈AI 리서치 부사장이 현재 AI 안전평가 대부분이 저연산 기준으로 이뤄져, 추론 시간 연산을 늘리면 숨어 있던 능력과 위험이 드러날 수 있다고 경고했다. 연산량까지 검증하는 새로운 평가체계가 필요하다고 주장했다.",
-    "scorePct": 25
+    "scorePct": 10
   },
   {
-    "rank": 3,
+    "rank": 6,
     "title": "한국 찾은 오픈AI 부사장 “한국 메모리 반도체, 더 중요해질 것”",
     "url": "https://n.news.naver.com/mnews/article/009/0005702464",
     "source": "네이버",
     "publishedDate": "2026-07-03",
     "summary": "방한한 노엄 브라운 오픈AI 부사장이 AI 모델의 추론 시간이 길어지면서 메모리 수요가 함께 증가해 한국 메모리 반도체의 중요성이 커질 것이라고 밝혔다. 추론 비용에 대한 투자 가치도 충분하다고 강조했다.",
-    "scorePct": 25
+    "scorePct": 10
   }
 ]

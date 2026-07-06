@@ -6,7 +6,7 @@
     "source": "Build Fast With AI",
     "publishedDate": "2026-06-06",
     "summary": "OpenAI가 새로운 ChatGPT Dreaming V3 아키텍처를 6월 4일 미국 Plus·Pro 사용자에게 배포하기 시작했고, 구글 Gemini 3 등 주요 LLM 업데이트가 동시에 공개됐다. 6월 6일 기준 16대 핵심 AI 뉴스가 모델 경쟁의 가속화를 보여준다.",
-    "scorePct": 50
+    "scorePct": 62
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-06",
     "summary": "앤트로픽이 기업용 AI 에이전트에 제로 트러스트 보안을 적용해야 한다는 백서를 공개했다. 핵심은 AI 에이전트를 단순 소프트웨어가 아니라 권한을 갖고 실제 업무를 수행하는 '행위자'로 보고, 접근 권한과 행위를 통제해야 한다는 것이다.",
-    "scorePct": 30
+    "scorePct": 46
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-06",
     "summary": "국내 AI 전문인력 풀이 5.7만명으로 늘었지만 대기업에서의 이탈도 가속화되고 있으며, 이직 사유 1위는 '전략 부재'로 나타났다. 박사급 전문가들까지 AI 네이티브 기업과 스타트업으로 옮겨가는 흐름이 뚜렷하다.",
-    "scorePct": 10
+    "scorePct": 31
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "The AI Insider",
     "publishedDate": "2026-06-05",
     "summary": "ServiceNow, Salesforce, Microsoft를 포함해 2026년 엔터프라이즈 AI 에이전트 플랫폼과 프레임워크를 이끄는 주요 CEO 20인을 정리했다. 엔터프라이즈 에이전트 시장의 주도 기업과 경쟁 구도를 한눈에 보여준다.",
-    "scorePct": 10
+    "scorePct": 31
   },
   {
     "rank": 5,
@@ -42,6 +42,15 @@
     "source": "네이버",
     "publishedDate": "2026-06-06",
     "summary": "가트너는 에이전틱 AI가 발전할수록 AI가 실제 결정을 내리고 사람은 형식적 승인만 하게 될 것으로 전망했다. 그럼에도 사람이 스스로 결정했다고 착각하는 'HITL(Human-in-the-loop) 착각' 문제가 새로운 거버넌스 리스크로 떠오르고 있다.",
-    "scorePct": 0
+    "scorePct": 23
+  },
+  {
+    "rank": 6,
+    "title": "[안광섭 AI 진테제] 미국기업이 중국AI기업에 돈을 보내는 이유",
+    "url": "https://n.news.naver.com/mnews/article/092/0002425551",
+    "source": "네이버",
+    "publishedDate": "2026-06-07",
+    "summary": "",
+    "scorePct": 15
   }
 ]

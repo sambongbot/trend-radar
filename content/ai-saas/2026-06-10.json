@@ -1,47 +1,65 @@
 [
   {
     "rank": 1,
+    "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
+    "url": "https://n.news.naver.com/mnews/article/092/0002425966",
+    "source": "네이버",
+    "publishedDate": "2026-06-09",
+    "summary": "",
+    "scorePct": 38
+  },
+  {
+    "rank": 2,
     "title": "[AI고속도로] AI 시대, 요동치는 가상화 시장… '포스트 VM웨어' 주도권 쟁탈전",
     "url": "https://n.news.naver.com/mnews/article/092/0002425954",
     "source": "네이버",
     "publishedDate": "2026-06-09",
     "summary": "기업 AI 도입이 본격화되며 가상화 인프라가 AI 워크로드 수용의 핵심 격전지로 떠올랐다. 단순 비용 절감 수단이던 가상화가 데이터 이동성과 AI 운영 기반으로 재정의되며 '포스트 VM웨어' 주도권 경쟁이 벌어지고 있다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "삼성, AI 대전환 시동…사장단 전체 'AI 집중교육'",
     "url": "https://n.news.naver.com/mnews/article/092/0002425887",
     "source": "네이버",
     "publishedDate": "2026-06-10",
     "summary": "이재용 회장의 'AI 대전환' 전략에 따라 삼성이 그룹 전 관계사에 외부 생성형 AI 서비스를 도입하고 사장단 집중교육에 나선다. 국내 최대 기업집단이 생성형 AI를 공식 업무 도구로 전면 채택하는 신호다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "\"AI 답변 비용·품질까지 본다\"…와탭랩스, LLM 관측 기능 출시",
     "url": "https://n.news.naver.com/mnews/article/003/0013996929",
     "source": "네이버",
     "publishedDate": "2026-06-10",
     "summary": "와탭랩스가 LLM 기반 서비스의 성능·비용·품질을 추적하는 옵저버빌리티 기능을 출시하며 AI 운영 시장 공략에 나섰다. 국산 APM 기업이 LLM 관측 영역으로 제품군을 확장한 사례다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Venture Capital & Startup Funding Roundup, June 9, 2026",
     "url": "https://techstartups.com/2026/06/08/venture-capital-startup-funding-roundup-june-9-2026/",
     "source": "Tech Startups",
     "publishedDate": "2026-06-08",
     "summary": "6월 9일 주간 AI 펀딩 라운드업에서 산업 AI 기업 PhysicsX가 3억 달러 시리즈 C, 클라우드·AI 비용 관리 SaaS PointFive가 6천만 달러 시리즈 B를 유치했다. 투자금이 산업 AI와 비용 최적화 SaaS로 쏠리는 흐름을 보여준다.",
-    "scorePct": 20
+    "scorePct": 38
   },
   {
-    "rank": 5,
+    "rank": 6,
+    "title": "“피지컬 AI 해외 의존도 80% 이상...K-월드모델 구축해 100% 국산화 도전”",
+    "url": "https://n.news.naver.com/mnews/article/009/0005691557",
+    "source": "네이버",
+    "publishedDate": "2026-06-09",
+    "summary": "",
+    "scorePct": 23
+  },
+  {
+    "rank": 7,
     "title": "NH농협은행, \"모든 금융업무 AI로 구현\"…'에이전틱 AI 뱅크' 비전 선포",
     "url": "https://n.news.naver.com/mnews/article/243/0000098922",
     "source": "네이버",
     "publishedDate": "2026-06-10",
     "summary": "NH농협은행이 모든 금융업무를 AI로 구현하는 '에이전틱 AI 뱅크' 전환 비전을 공식 선포했다. 대형 금융사가 단순 챗봇을 넘어 자율 실행형 에이전트 도입을 전사 전략으로 내걸었다.",
-    "scorePct": 0
+    "scorePct": 23
   }
 ]

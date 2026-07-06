@@ -1,15 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "AI News Today - June 8, 2026: 16 Biggest Stories",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
-    "source": "Build Fast With AI",
-    "publishedDate": "2026-06-08",
-    "summary": "6월8일 AI 주요 뉴스 16건을 정리한 리포트로, 애플 WWDC 키노트에서 공개된 제미나이 기반 커스텀 시리가 핵심으로 다뤄졌다. 빅테크의 LLM 통합 전략 흐름을 한눈에 보여준다.",
-    "scorePct": 60
-  },
-  {
-    "rank": 2,
     "title": "마이리얼트립 허원진 CTO, 앤트로픽 글로벌 콘퍼런스 연사 나선다",
     "url": "https://n.news.naver.com/mnews/article/031/0001033593",
     "source": "네이버",
@@ -18,16 +9,7 @@
     "scorePct": 40
   },
   {
-    "rank": 3,
-    "title": "June 2026 AI Launch Wave: A Builder's Decision Map",
-    "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/",
-    "source": "WaveSpeed Blog",
-    "publishedDate": "2026-06-05",
-    "summary": "6월 AI 모델 출시 러시를 빌더 관점에서 정리한 의사결정 가이드로, Gemini 3.5 Flash는 GA, 3.5 Pro 등 신모델 라인업을 비교한다. 어떤 모델을 어떤 용도에 골라야 할지 결정 맵을 제공한다.",
-    "scorePct": 40
-  },
-  {
-    "rank": 4,
+    "rank": 2,
     "title": "Google Gemma 4 12B Brings Multimodal AI to 16GB Laptops, Free Under Apache 2.0",
     "url": "https://www.techtimes.com/articles/317758/20260604/google-gemma-4-12b-brings-multimodal-ai-16gb-laptops-free-under-apache-20.htm",
     "source": "TechTimes",

@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-06",
-  "headline": "> AI 에이전트의 토큰 비용·전력 소모가 업계 화두로 부상, 기업들은 '토큰 다이어트' 돌입\n> 네이버의 에이전트형 검색, 법무법인 태평양의 리걸테크 도입 등 국내 AI 도입이 실행 단계로 진입\n> 골드만삭스는 'AI 버블 아직 이르다' 진단, 미국은 규제 완화 기조로 혁신 드라이브",
+  "date": "2026-07-07",
+  "headline": "> KT가 5년 18조원을 들여 AI 인프라·토큰 경제 중심의 AX 플랫폼 기업으로 전환을 선언했습니다.\n> 중국은 AI 에이전트 규제 시행으로 빅테크 서비스가 중단되는 한편, 중국계 VC는 한국 피지컬AI 투자처를 물색 중입니다.\n> 테슬라의 직원 AI 도구 지출 상한 도입 등 기업의 AI 비용 통제 움직임이 본격화되고 있습니다.",
   "items": [
     {
       "rank": 1,
-      "title": "\"비용부담 너무 커져\"…'토큰 다이어트' 사활 건 기업들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005702931",
-      "source": "네이버",
+      "title": "Grok Imagine Is Done: xAI Completes Image Generation Feature",
+      "url": "https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature",
+      "source": "Basenor",
       "publishedDate": "2026-07-05",
-      "summary": "AI 에이전트 사용이 폭발적으로 늘면서 토큰 기반 과금 비용이 수십 배로 불어나자 기업들이 '토큰 다이어트'에 나섰다. 토큰 한도를 낮추고, 쉬운 업무는 값싼 중국 AI 모델로 라우팅하는 등 비용 최적화 대응이 확산되고 있다.",
-      "scorePct": 100
+      "summary": "일론 머스크가 7월 5일 'Grok Imagine 완료'를 선언하며 xAI의 이미지 생성 기능 개발이 마무리 단계에 들어섰음을 알렸다. xAI가 이미지 생성 경쟁에서 기능 완성도를 강조하고 나선 것이다.",
+      "scorePct": 40
     },
     {
       "rank": 2,
-      "title": "AI 에이전트, 하루 199GWh 전기사용 예상…미국 반나절 소비 규모",
-      "url": "https://n.news.naver.com/mnews/article/092/0002429313",
-      "source": "네이버",
-      "publishedDate": "2026-07-05",
-      "summary": "KAIST 유민수 교수팀이 AI 에이전트의 계산 자원과 전력 사용량을 체계적으로 분석해 IEEE HPCA에 발표했다. AI 에이전트는 기존 생성형 AI 대비 질문당 최대 136배의 전력을 쓰며, 하루 199GWh(미국 반나절 소비 규모)의 전기 사용이 예상된다.",
-      "scorePct": 75
+      "title": "Tesla Limits AI Tool Spending to $200 Weekly While Musk's Grok Stays Exempt",
+      "url": "https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm",
+      "source": "TechTimes",
+      "publishedDate": "2026-07-04",
+      "summary": "테슬라가 7월 6일부터 직원의 AI 도구 지출을 주당 200달러로 제한한다고 통보했다. 단, 자사 계열인 머스크의 Grok은 제한 대상에서 제외돼 형평성 논란이 있다.",
+      "scorePct": 20
     },
     {
       "rank": 3,
-      "title": "[사설] 北해커 AI까지 공격, 기업·금융 방어책 속히 마련해야",
-      "url": "https://n.news.naver.com/mnews/article/011/0004638323",
+      "title": "“소셜미디어 속 AI, 게시물에 미묘한 편향 주입… 여론에 영향”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001859261",
       "source": "네이버",
-      "publishedDate": "2026-07-06",
-      "summary": "북한 해커 조직의 공격 대상이 가상화폐를 넘어 AI 개발용 소프트웨어 공급망까지 확대됐다. 실리콘밸리 제이프로그 보안연구소가 이를 적발했으며, 기업·금융권의 방어책 마련이 시급하다는 지적이 나온다.",
-      "scorePct": 25
+      "publishedDate": "2026-07-07",
+      "summary": "소셜미디어에 내장된 생성형 AI가 이용자의 글에 미묘한 편향을 주입할 수 있다는 연구 결과가 나왔다. 이런 편향이 SNS에서 반복·누적되면 사회 전체 여론에 영향을 줄 수 있다는 경고다.",
+      "scorePct": 10
     }
   ]
 }

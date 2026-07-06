@@ -1,24 +1,51 @@
 [
   {
     "rank": 1,
+    "title": "Fable's judgement",
+    "url": "https://simonwillison.net/2026/Jul/3/judgement/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-07-03",
+    "summary": "Claude Code 팀과의 파이어사이드 챗에서 Fable 모델에게 세세한 지시 대신 스스로 판단하게 맡기는 설계 방향이 논의되었습니다. 프롬프트로 모든 것을 통제하기보다 모델의 자율적 판단을 신뢰하는 쪽으로 에이전트 설계 패러다임이 이동하고 있음을 보여줍니다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "Release: llm-coding-agent 0.1a0",
+    "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-07-02",
+    "summary": "Simon Willison의 LLM 라이브러리가 llm-coding-agent 0.1a0 릴리스로 본격적인 에이전트 프레임워크로 진화했습니다. Fable 5를 활용한 실험의 일환으로, 파일 조작과 코드 실행이 가능한 경량 코딩 에이전트를 라이브러리 수준에서 구현한 사례입니다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
     "title": "[AI 리더스] 버티브 코리아 \"데이터센터, 인프라 속도가 전부\"",
     "url": "https://n.news.naver.com/mnews/article/092/0002429261",
     "source": "네이버",
     "publishedDate": "2026-07-04",
     "summary": "버티브 코리아 대표가 AI 데이터센터의 관건은 성능이 아니라 인프라 구축 속도라고 진단했다. GPU를 확보해도 전력·냉각 등 인프라를 제때 갖추지 못하면 무용지물이라는 지적이다.",
-    "scorePct": 50
+    "scorePct": 20
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "[안광섭 AI 진테제] 메타의 클라우드사업 진출이 의미하는 것",
     "url": "https://n.news.naver.com/mnews/article/092/0002429258",
     "source": "네이버",
     "publishedDate": "2026-07-05",
     "summary": "메타가 남는 AI 컴퓨팅을 외부에 판매하는 클라우드 사업을 준비 중이라는 보도가 나왔다. 구글의 컴퓨팅 부족 이슈와 맞물려, 빅테크가 자체 확보한 AI 인프라를 외부 판매 자산으로 전환하는 흐름을 분석한 칼럼이다.",
-    "scorePct": 25
+    "scorePct": 10
   },
   {
-    "rank": 3,
+    "rank": 5,
+    "title": "개인정보위, AI 학습에 ‘개인정보 원본’ 조건부 활용 허용 추진",
+    "url": "https://n.news.naver.com/mnews/article/009/0005702393",
+    "source": "네이버",
+    "publishedDate": "2026-07-05",
+    "summary": "개인정보보호위원회가 안전조치를 전제로 가명·익명 처리 없이 개인정보 원본을 AI 학습에 조건부 활용할 수 있도록 허용하는 기본계획을 발표했습니다. 위험비례 원칙 중심으로 규율 체계를 전환하고 사전예방과 회복력 중심으로 재편합니다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 6,
     "title": "“결국 여기에 그분이 떴다, 뚫을 수 있겠어?”…인간 해커 vs AI 해커, 서울서 첫 격돌",
     "url": "https://n.news.naver.com/mnews/article/009/0005702730",
     "source": "네이버",

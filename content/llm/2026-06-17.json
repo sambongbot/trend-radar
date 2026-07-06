@@ -1,15 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "토큰맥싱은 이제 끝... 필요한 성능만큼만 AI 골라 쓰는 토크노믹스가 뜬다",
-    "url": "https://n.news.naver.com/mnews/article/023/0003982337",
-    "source": "네이버",
-    "publishedDate": "2026-06-16",
-    "summary": "리걸AI 스타트업 COO가 매일 아침 개발자들의 전날 밤 토큰 사용량부터 점검할 만큼, 무작정 성능을 끌어올리는 '토큰맥싱'이 끝나고 있다. 작업별로 필요한 성능만큼만 AI를 골라 쓰는 토크노믹스가 비용 관리의 핵심으로 부상했다.",
-    "scorePct": 30
-  },
-  {
-    "rank": 2,
     "title": "스페이스X, AI 코딩업체 커서 600억달러 인수",
     "url": "https://n.news.naver.com/mnews/article/014/0005535834",
     "source": "네이버",
@@ -18,7 +9,7 @@
     "scorePct": 30
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "OpenAI Retires GPT-5.2 and Moves Everyone to GPT-5.5: What Changes for ChatGPT Users and Developers",
     "url": "https://www.techtimes.com/articles/318345/20260613/openai-retires-gpt-52-moves-everyone-gpt-55-what-changes-chatgpt-users-developers.htm",
     "source": "TechTimes",
@@ -27,7 +18,7 @@
     "scorePct": 20
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "US asks Anthropic to block global access to top AI models: Why it matters",
     "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
     "source": "Al Jazeera",
@@ -36,7 +27,7 @@
     "scorePct": 20
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "Kimi K2.7 Code Review: Open-Source 1T Parameter Model Cuts Reasoning Tokens 30%",
     "url": "https://flowtivity.ai/blog/kimi-k2-7-code-review/",
     "source": "Flowtivity",

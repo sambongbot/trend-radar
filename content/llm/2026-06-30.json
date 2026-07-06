@@ -10,15 +10,6 @@
   },
   {
     "rank": 2,
-    "title": "AI답변 환각 심하다면 중의어 빼보세요",
-    "url": "https://n.news.naver.com/mnews/article/009/0005700310",
-    "source": "네이버",
-    "publishedDate": "2026-06-29",
-    "summary": "한국 1호 프롬프트 엔지니어 강수진 박사가 한국어 환각을 줄이는 실전 팁을 제시했다. 다의어·중의어를 피하고 미괄식 대신 구체적 맥락을 간결하게 쓰면 정확도와 토큰 효율이 함께 개선된다.",
-    "scorePct": 20
-  },
-  {
-    "rank": 3,
     "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
     "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
     "source": "VentureBeat",
@@ -27,7 +18,7 @@
     "scorePct": 20
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "OpenAI Codex Remote Goes Live for All Plans: Phone Control Now Secured by QR Relay",
     "url": "https://www.techtimes.com/articles/319201/20260627/openai-codex-remote-goes-live-all-plans-phone-control-now-secured-qr-relay.htm",
     "source": "TechTimes",

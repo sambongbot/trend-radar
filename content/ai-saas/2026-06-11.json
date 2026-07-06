@@ -6,7 +6,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-11",
     "summary": "SK텔레콤이 일본 NTT, 대만 중화텔레콤과 함께 7천600억원(약 5억달러) 규모의 차세대 광통신·AI 펀드를 공동 조성한다. 실리콘밸리에 운용사를 세워 AI 인프라와 데이터센터 핵심 기술을 가진 유망 글로벌 스타트업에 전략적으로 투자한다.",
-    "scorePct": 40
+    "scorePct": 54
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "한국경제",
     "publishedDate": "2026-06-08",
     "summary": "스노우플레이크 제품 수석부사장 크리스티안 클라이너만은 'SaaS 종말론'이 일부 기업에는 위기지만 스노우플레이크에는 기회라고 강조했다. 자사 AI 에이전트 '코워크'가 구글 제미나이보다 우수한 성과를 낸다며 데이터 기반 AI 차별화를 부각했다.",
-    "scorePct": 40
+    "scorePct": 54
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "전자신문",
     "publishedDate": "2026-06-10",
     "summary": "세일즈포스가 에이전트포스 월드투어 코리아 2026에서 사람과 AI 에이전트가 원팀으로 협력하는 '에이전틱 엔터프라이즈' 전략을 제시했다. 포스코, 무신사, LG전자, KB국민은행 등 국내 대형 고객의 실제 도입 사례를 처음으로 공개했다.",
-    "scorePct": 30
+    "scorePct": 46
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-10",
     "summary": "SK텔레콤이 AI 풀스택 전략을 앞세워 'AI 컴퍼니' 도약을 추진하는 가운데 앤트로픽에 추가 투자를 단행했다. 정재헌 대표는 IPO 차익보다 장기 협력에 무게를 둔다고 밝히며 전략적 파트너십을 강조했다.",
-    "scorePct": 10
+    "scorePct": 31
   },
   {
     "rank": 5,
@@ -42,6 +42,15 @@
     "source": "네이버",
     "publishedDate": "2026-06-11",
     "summary": "앤트로픽이 차세대 AI 모델 '미토스(Mythos)'에 안전장치를 적용한 버전과 경량 모델 '페이블5'를 일반 이용자에게 공개했다. 하반기 IPO를 앞두고 오픈AI와의 모델 경쟁에서 안전성을 차별화 포인트로 내세운 전략적 행보다.",
-    "scorePct": 0
+    "scorePct": 23
+  },
+  {
+    "rank": 6,
+    "title": "AI News Today - June 8, 2026: 16 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+    "source": "BuildFastWithAI",
+    "publishedDate": "2026-06-08",
+    "summary": "",
+    "scorePct": 15
   }
 ]

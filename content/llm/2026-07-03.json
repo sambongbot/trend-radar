@@ -1,38 +1,65 @@
 [
   {
     "rank": 1,
+    "title": "Claude Science, an AI workbench for scientists",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "source": "Anthropic",
+    "publishedDate": "2026-06-30",
+    "summary": "앤트로픽이 과학자를 위한 AI 워크벤치 'Claude Science'를 출시했다. 연구자들이 일상적으로 사용하는 도구들을 하나의 앱으로 통합해, 새 모델이 아닌 워크플로우 중심으로 접근한 것이 특징이다. 앤트로픽의 버티컬 앱 확장 전략을 보여주는 사례다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 2,
+    "title": "Gemini 3.1 Flash-Lite Image (Nano Banana 2 Lite) model card",
+    "url": "https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/",
+    "source": "Google DeepMind",
+    "publishedDate": "2026-06-30",
+    "summary": "구글 딥마인드가 Gemini 3.1 Flash-Lite Image(Nano Banana 2 Lite) 모델 카드를 공개했다. 시리즈 중 가장 빠르고 비용 효율적인 이미지 모델로, 저비용 대량 이미지 생성 워크로드를 겨냥했다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "Claude Sonnet 5 is generally available for GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot/",
+    "source": "GitHub Blog",
+    "publishedDate": "2026-06-30",
+    "summary": "GitHub이 Claude Sonnet 5를 GitHub Copilot의 모델 선택지로 정식 제공(GA)한다고 발표했다. 출시 직후 주요 코딩 어시스턴트에 바로 탑재되며 Sonnet 5의 생태계 확산 속도를 보여준다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 4,
     "title": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
     "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
     "source": "TechCrunch",
     "publishedDate": "2026-06-30",
     "summary": "앤트로픽이 유료 구독자 전원에게 AI 연구 워크벤치 'Claude Science'를 베타 출시했다. 새 모델이 아니라 연구자들이 실제로 쓰는 도구를 통합한 워크플로우로 승부한다는 전략으로, 도메인 특화 에이전트 제품화의 대표 사례다.",
-    "scorePct": 50
+    "scorePct": 20
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "\"스마트폰으로 AI 코딩\"…커서, iOS 앱 베타버전 출시",
     "url": "https://zdnet.co.kr/view/?no=20260630093839",
     "source": "ZDNet Korea",
     "publishedDate": "2026-06-30",
     "summary": "AI 코딩 도구 커서가 iOS용 모바일 앱 공개 베타를 시작했다. 모든 유료 플랜 이용자가 스마트폰에서 AI 코딩 에이전트를 실시간으로 제어할 수 있게 되면서 코딩 에이전트의 활용 접점이 데스크톱 밖으로 확장됐다.",
-    "scorePct": 50
+    "scorePct": 20
   },
   {
-    "rank": 3,
+    "rank": 6,
     "title": "Claude Fable 5 Returns Globally: New Classifier Blocks Jailbreak, Flags More Code",
     "url": "https://www.techtimes.com/articles/319413/20260701/claude-fable-5-returns-globally-new-classifier-blocks-jailbreak-flags-more-code.htm",
     "source": "Tech Times",
     "publishedDate": "2026-07-01",
     "summary": "미국 수출 통제 해제로 Claude Fable 5의 글로벌 접근이 복원됐다. 앤트로픽은 재개방과 함께 탈옥을 차단하고 위험 코드를 더 적극적으로 플래그하는 새 분류기를 배포했다.",
-    "scorePct": 50
+    "scorePct": 20
   },
   {
-    "rank": 4,
+    "rank": 7,
     "title": "Microsoft, NVIDIA and Anthropic Deepen AI Collaboration with Claude General Availability",
     "url": "https://techafricanews.com/2026/07/01/microsoft-nvidia-and-anthropic-deepen-ai-collaboration-with-claude-general-availability/",
     "source": "TechAfrica News",
     "publishedDate": "2026-07-01",
     "summary": "Claude Sonnet 5가 마이크로소프트 파운드리(애저)에서 정식 출시(GA)되어 엔비디아 GB300 블랙웰 인프라 위에서 구동된다. 마이크로소프트·엔비디아·앤트로픽 3사의 협력이 심화되며 Claude의 멀티클라우드 공급망이 넓어졌다.",
-    "scorePct": 50
+    "scorePct": 20
   }
 ]

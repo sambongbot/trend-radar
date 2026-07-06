@@ -16,23 +16,5 @@
     "publishedDate": "2026-06-25",
     "summary": "트럼프 행정부가 오픈AI에 GPT-5.6의 초기 접근을 정부 승인 대상으로 제한해 단계적으로 출시하도록 공식 요청했다. 이에 따라 오픈AI는 우선 제한된 기업 그룹에만 모델을 제공할 것으로 알려졌다.",
     "scorePct": 60
-  },
-  {
-    "rank": 3,
-    "title": "[AI는 지금] 지푸AI, 코딩 특화 AI 'GLM-5.2' 공개…미국 개발자 시장 주목",
-    "url": "https://n.news.naver.com/mnews/article/092/0002428248",
-    "source": "네이버",
-    "publishedDate": "2026-06-26",
-    "summary": "중국 지푸AI가 코딩에 특화한 새 모델 GLM-5.2를 공개했다. 저렴한 비용과 강한 성능을 내세워 미국 개발자 시장과 실리콘밸리의 주목을 받고 있다.",
-    "scorePct": 20
-  },
-  {
-    "rank": 4,
-    "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
-    "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-    "source": "VentureBeat",
-    "publishedDate": "2026-06-24",
-    "summary": "미스트랄이 문서 추출에 특화한 OCR 4를 출시했다. 구조화된 출력, 170개 언어 지원, 자체 호스팅 컨테이너 배포를 제공하며 엔터프라이즈 AI 시장을 정조준한다.",
-    "scorePct": 10
   }
 ]
