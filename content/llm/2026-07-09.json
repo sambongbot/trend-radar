@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Cowork expands to mobile and web",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-07-07",
+    "summary": "Anthropic의 Claude Cowork이 데스크톱에 이어 웹과 모바일에서도 사용 가능해졌다. 코딩 에이전트 경쟁이 사무 업무 전반으로 확장되는 흐름 속에서, 세션 기반 에이전트 작업을 어디서든 이어갈 수 있게 됐다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 2,
+    "title": "GitHub Copilot app available to all",
+    "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/",
+    "source": "GitHub Changelog",
+    "publishedDate": "2026-07-07",
+    "summary": "GitHub Copilot 앱이 Copilot Free와 GitHub Education을 포함한 모든 플랜에서 사용 가능해졌다. AI 코딩 어시스턴트의 무료 접근 범위가 크게 넓어졌다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+    "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+    "source": "Engadget",
+    "publishedDate": "2026-07-08",
+    "summary": "OpenAI가 미 상무부 승인 절차를 마치고 7월 9일 GPT-5.6의 3개 변형(Sol, Terra, Luna)을 일반 공개한다. 비용 절감형부터 고성능형까지 라인업이 세분화되어 출시된다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 4,
+    "title": "\"싼맛에 잘 썼는데 어쩌나\"…中 빗장 걸기에 기업 '날벼락'",
+    "url": "https://n.news.naver.com/mnews/article/015/0005307869",
+    "source": "네이버",
+    "publishedDate": "2026-07-08",
+    "summary": "중국이 자국 첨단 AI 모델에 대한 해외 접근을 제한하는 방안을 검토하고 있다. 미국에 이어 중국도 AI를 국가 자산화하려는 움직임으로, 저비용 중국 모델을 활용해온 제3국 기업들이 타격을 받을 수 있다.",
+    "scorePct": 20
+  }
+]
