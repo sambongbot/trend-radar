@@ -1,42 +1,69 @@
 {
-  "date": "2026-07-09",
-  "headline": "> OpenAI가 GPT-5.6 3개 변형을 오늘(9일) 공개하고, Anthropic은 Claude Cowork을 웹·모바일로 확장하며 에이전트 제품 전선을 넓혔다\n> GitHub Copilot 앱이 무료 플랜까지 전면 개방되며 AI 코딩 도구 접근 장벽이 사라지는 중\n> 중국의 자국 AI 모델 해외 접근 제한 검토로 저비용 중국 모델 의존 기업들에 리스크가 부상했고, 국내는 음성 AI·제조 AI 등 B2B 버티컬 공략이 활발",
+  "date": "2026-07-10",
+  "headline": "> 오늘의 주요 뉴스 8건을 선별했습니다.",
   "items": [
     {
       "rank": 1,
-      "title": "김근호 \"쓰레기 산업도 이제 데이터 싸움…AX로 승부할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307843",
+      "title": "[7월 9일 AI PICK] 퇴근길 TOP5 이슈…'체포방해' 尹 징역 7년, 계엄 583일 만",
+      "url": "https://n.news.naver.com/mnews/article/422/0000883440",
       "source": "네이버",
-      "publishedDate": "2026-07-09",
-      "summary": "폐기물 관리 스타트업 리코가 AI로 쓰레기 수집·분류 과정을 실시간 모니터링해 처리 효율을 높이는 AX 전략을 공개했다. 전통 산업이 데이터 싸움으로 전환되는 사례다.",
-      "scorePct": 38
+      "publishedDate": "2026-07-10",
+      "summary": "※ 'AI PICK'은 연합뉴스TV 디지털이슈팀이 인공지능(AI)을 활용한 방대한 뉴스 수집과 분석을 통해 하루를 가장 크게 뒤흔든 핵심 이슈 TOP5를 엄선해 전해드리는 코너입니다. 제미나이(Gemini), 그록(Grok), 클로드(Claude) 등 AI 모델을 활용해 키워드 빈도수가 가장 높고, 퇴근길에 꼭 알아야 할...",
+      "scorePct": 77
     },
     {
       "rank": 2,
-      "title": "삼전·닉스 투자한 AI칩 스타트업 리벨리온 내년 IPO추진",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307927",
+      "title": "[AI 수익전쟁②] 카카오톡 'AI 에이전트 플랫폼'으로 진화…체류시간 늘려 수익성 확보",
+      "url": "https://n.news.naver.com/mnews/article/629/0000514875",
       "source": "네이버",
-      "publishedDate": "2026-07-09",
-      "summary": "삼성전자와 SK하이닉스가 투자한 AI 칩 팹리스 리벨리온이 내년 1분기 IPO를 추진한다. 국내 AI 반도체 스타트업의 대형 엑싯 사례가 될 전망이다.",
-      "scorePct": 38
+      "publishedDate": "2026-07-10",
+      "summary": "'카나나 인 카카오톡'·챗GPT 포 카카오' 투트랙 전략 'AI 카톡'으로 올해 체류시간 20%↑목표…노사갈등은 변수 인공지능(AI) 시대가 본격 개막한 가운데, 이를 활용한 수익화 작업에 경쟁이 붙고 있다. 시장의",
+      "scorePct": 62
     },
     {
       "rank": 3,
-      "title": "문자 다음은 목소리…B2B 시장 뛰어드는 ‘음성 AI 벤처’ [스타트업 스트리트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004639608",
+      "title": "SKT, AI가 만든 사회적 효용 ‘숫자화’ 나선다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002667834",
       "source": "네이버",
-      "publishedDate": "2026-07-09",
-      "summary": "음성 생성 AI 개발사들이 B2B 시장 공략에 본격 나서고 있다. 텍스트 기반 AI가 보편화되면서 음성 AI가 산업의 다음 격전지로 부상했고, 기업 고객 확보 경쟁이 시작됐다.",
-      "scorePct": 31
+      "publishedDate": "2026-07-10",
+      "summary": "소프트뱅크·사회적가치연구원과 측정 표준 개발 SK텔레콤이 일본 소프트뱅크, 사회적가치연구원과 손잡고 인공지능(AI)·정보통신기술(ICT)이 만들어내는 사회적 효용을 측정하는 기준 마련에 나선다. AI 서비스가 생산성",
+      "scorePct": 38
     },
     {
       "rank": 4,
-      "title": "“로봇 1000대 관제솔루션으로 ‘K무인공장’ 수출할 것” [스케일업리포트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004639618",
+      "title": "페이블5 아껴쓰고 쉬운 일엔 중국산 AI 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640043",
       "source": "네이버",
-      "publishedDate": "2026-07-08",
-      "summary": "로봇 1000대를 동시 관제하는 솔루션으로 'K무인공장' 수출을 노리는 제조 AI 스타트업이 조명됐다. 제조 현장의 야간 고강도 근무를 AI 관제로 대체하는 모델이다.",
-      "scorePct": 23
+      "publishedDate": "2026-07-09",
+      "summary": "인공지능(AI) 계량 단위를 뜻하는 토큰 지출 규모가 한달 동안 약 20% 줄어든 것으로 나타났다. 개인이나 기업이 비용 부담에 최고급 사양 AI 모델 사용량을 줄이거나 상대적으로 저렴한 중국 AI 모델로 눈을 돌린",
+      "scorePct": 38
+    },
+    {
+      "rank": 5,
+      "title": "도수치료 관리급여 시행…‘AI 기록관리 서비스’ 병원 경영 도우미 기대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536575",
+      "source": "네이버",
+      "publishedDate": "2026-07-10",
+      "summary": "클라우드 기반 인공지능(AI) 병원 경영 서비스형 소프트웨어(SaaS) 솔루션 ‘메디밴스(MEDIVANCE)’가 도수치료 관리급여 시행에 맞춰 정식 서비스를 확대한다. 지난 7월 1일부터 도수치료 관리급여가 시행되면",
+      "scorePct": 38
+    },
+    {
+      "rank": 6,
+      "title": "스페이스XAI 이어 오픈AI도 새 모델…빅테크, 끝없는 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536618",
+      "source": "네이버",
+      "publishedDate": "2026-07-10",
+      "summary": "빅테크들의 AI(인공지능) 모델 경쟁이 다시 불붙고 있다. 일론 머스크가 세운 AI 기업 스페이스XAI는 저렴한 비용을 앞세워 신형 모델 그록 4.5를 출시했고, 오픈AI는 최고 성능 모델인 GPT-5.6을 공개했다",
+      "scorePct": 38
+    },
+    {
+      "rank": 7,
+      "title": "중국도 AI 수출 통제? 갈증 커진 한국 소버린 AI... 독자 모델로 충분할까",
+      "url": "https://n.news.naver.com/mnews/article/469/0000941415",
+      "source": "네이버",
+      "publishedDate": "2026-07-09",
+      "summary": "미국에 이어 중국도 자국의 주요 고성능 인공지능(AI) 모델에 대한 해외 접근 차단 조치를 검토한다고 알려지면서 AI 모델을 국가 전략 자원으로 삼는 AI 양강의 패권 경쟁 틈에서 국내 소버린(주권) AI 기술 확보",
+      "scorePct": 31
     }
   ]
 }
