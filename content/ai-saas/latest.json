@@ -1,68 +1,41 @@
 {
-  "date": "2026-07-10",
-  "headline": "> 오늘의 주요 뉴스 8건을 선별했습니다.",
+  "date": "2026-07-11",
+  "headline": "> 오픈AI가 GPT-5.6과 '챗GPT 워크'로 모델과 업무 에이전트를 동시 출시하며 B2B 업무 시장을 정조준했습니다.\n> 메타도 에이전틱 코딩 모델 '뮤즈 스파크 1.1'을 내놓으며 AI 코딩 시장 경쟁이 격화되고, 오픈라우터에서는 중국 모델이 상위권을 장악했습니다.\n> 국내에서는 AI 통합 플랫폼 출시 등 멀티모델 활용 SaaS가 확산되고, 오픈AI는 브라우저 아틀라스를 접고 에이전트 기능을 재배치하는 전략 전환을 보였습니다.",
   "items": [
     {
       "rank": 1,
-      "title": "[7월 9일 AI PICK] 퇴근길 TOP5 이슈…'체포방해' 尹 징역 7년, 계엄 583일 만",
-      "url": "https://n.news.naver.com/mnews/article/422/0000883440",
+      "title": "메인라인, AI 통합 플랫폼 ‘AIFuze’ 출시",
+      "url": "https://n.news.naver.com/mnews/article/366/0001178276",
       "source": "네이버",
-      "publishedDate": "2026-07-10",
-      "summary": "※ 'AI PICK'은 연합뉴스TV 디지털이슈팀이 인공지능(AI)을 활용한 방대한 뉴스 수집과 분석을 통해 하루를 가장 크게 뒤흔든 핵심 이슈 TOP5를 엄선해 전해드리는 코너입니다. 제미나이(Gemini), 그록(Grok), 클로드(Claude) 등 AI 모델을 활용해 키워드 빈도수가 가장 높고, 퇴근길에 꼭 알아야 할...",
-      "scorePct": 77
+      "publishedDate": "2026-07-11",
+      "summary": "AI 전문기업 메인라인이 GPT·Claude·Gemini 등 주요 모델을 한곳에서 쓸 수 있는 AI 통합 플랫폼 'AIFuze'를 출시했습니다. 통합 LLM, AI 토론, 에이전트, 페르소나 기능으로 구성됐습니다.",
+      "scorePct": 92
     },
     {
       "rank": 2,
-      "title": "[AI 수익전쟁②] 카카오톡 'AI 에이전트 플랫폼'으로 진화…체류시간 늘려 수익성 확보",
-      "url": "https://n.news.naver.com/mnews/article/629/0000514875",
+      "title": "[AI는 지금] '아랍어 AI' 내놓은 코히어, 사우디서 50MW 연산 확보…중동 공략 속도",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430112",
       "source": "네이버",
       "publishedDate": "2026-07-10",
-      "summary": "'카나나 인 카카오톡'·챗GPT 포 카카오' 투트랙 전략 'AI 카톡'으로 올해 체류시간 20%↑목표…노사갈등은 변수 인공지능(AI) 시대가 본격 개막한 가운데, 이를 활용한 수익화 작업에 경쟁이 붙고 있다. 시장의",
-      "scorePct": 62
+      "summary": "캐나다 AI 기업 코히어가 아랍어 음성인식 모델을 공개한 데 이어 사우디아라비아에서 50MW 규모의 AI 연산 인프라를 확보했습니다. 현지 언어 특화 기술과 연산 기반을 결합해 중동 시장 공략에 속도를 내고 있습니다.",
+      "scorePct": 31
     },
     {
       "rank": 3,
-      "title": "SKT, AI가 만든 사회적 효용 ‘숫자화’ 나선다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002667834",
+      "title": "오픈AI와 구글의 굴욕, 미국은 앤트로픽만 남았다",
+      "url": "https://n.news.naver.com/mnews/article/047/0002522198",
       "source": "네이버",
       "publishedDate": "2026-07-10",
-      "summary": "소프트뱅크·사회적가치연구원과 측정 표준 개발 SK텔레콤이 일본 소프트뱅크, 사회적가치연구원과 손잡고 인공지능(AI)·정보통신기술(ICT)이 만들어내는 사회적 효용을 측정하는 기준 마련에 나선다. AI 서비스가 생산성",
-      "scorePct": 38
+      "summary": "세계 최대 AI 모델 API 플랫폼 오픈라우터의 7월 첫째 주 개발자 사용 랭킹에서 상위 10개 중 8개를 중국 모델이 차지했습니다. 미국 모델 중에서는 앤스로픽만 상위권을 유지하며 오픈AI와 구글이 밀려났습니다.",
+      "scorePct": 31
     },
     {
       "rank": 4,
-      "title": "페이블5 아껴쓰고 쉬운 일엔 중국산 AI 쓴다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640043",
-      "source": "네이버",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch",
       "publishedDate": "2026-07-09",
-      "summary": "인공지능(AI) 계량 단위를 뜻하는 토큰 지출 규모가 한달 동안 약 20% 줄어든 것으로 나타났다. 개인이나 기업이 비용 부담에 최고급 사양 AI 모델 사용량을 줄이거나 상대적으로 저렴한 중국 AI 모델로 눈을 돌린",
-      "scorePct": 38
-    },
-    {
-      "rank": 5,
-      "title": "도수치료 관리급여 시행…‘AI 기록관리 서비스’ 병원 경영 도우미 기대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003536575",
-      "source": "네이버",
-      "publishedDate": "2026-07-10",
-      "summary": "클라우드 기반 인공지능(AI) 병원 경영 서비스형 소프트웨어(SaaS) 솔루션 ‘메디밴스(MEDIVANCE)’가 도수치료 관리급여 시행에 맞춰 정식 서비스를 확대한다. 지난 7월 1일부터 도수치료 관리급여가 시행되면",
-      "scorePct": 38
-    },
-    {
-      "rank": 6,
-      "title": "스페이스XAI 이어 오픈AI도 새 모델…빅테크, 끝없는 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/025/0003536618",
-      "source": "네이버",
-      "publishedDate": "2026-07-10",
-      "summary": "빅테크들의 AI(인공지능) 모델 경쟁이 다시 불붙고 있다. 일론 머스크가 세운 AI 기업 스페이스XAI는 저렴한 비용을 앞세워 신형 모델 그록 4.5를 출시했고, 오픈AI는 최고 성능 모델인 GPT-5.6을 공개했다",
-      "scorePct": 38
-    },
-    {
-      "rank": 7,
-      "title": "중국도 AI 수출 통제? 갈증 커진 한국 소버린 AI... 독자 모델로 충분할까",
-      "url": "https://n.news.naver.com/mnews/article/469/0000941415",
-      "source": "네이버",
-      "publishedDate": "2026-07-09",
-      "summary": "미국에 이어 중국도 자국의 주요 고성능 인공지능(AI) 모델에 대한 해외 접근 차단 조치를 검토한다고 알려지면서 AI 모델을 국가 전략 자원으로 삼는 AI 양강의 패권 경쟁 틈에서 국내 소버린(주권) AI 기술 확보",
+      "summary": "오픈AI가 지난해 10월 출시한 AI 브라우저 아틀라스를 종료하고, 그 에이전트 기능을 다른 제품군으로 재배치합니다. 브라우저 자체보다 에이전트 기능의 분산 배치로 전략을 전환한 것입니다.",
       "scorePct": 31
     }
   ]

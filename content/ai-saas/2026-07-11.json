@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "메인라인, AI 통합 플랫폼 ‘AIFuze’ 출시",
+    "url": "https://n.news.naver.com/mnews/article/366/0001178276",
+    "source": "네이버",
+    "publishedDate": "2026-07-11",
+    "summary": "AI 전문기업 메인라인이 GPT·Claude·Gemini 등 주요 모델을 한곳에서 쓸 수 있는 AI 통합 플랫폼 'AIFuze'를 출시했습니다. 통합 LLM, AI 토론, 에이전트, 페르소나 기능으로 구성됐습니다.",
+    "scorePct": 92
+  },
+  {
+    "rank": 2,
+    "title": "[AI는 지금] '아랍어 AI' 내놓은 코히어, 사우디서 50MW 연산 확보…중동 공략 속도",
+    "url": "https://n.news.naver.com/mnews/article/092/0002430112",
+    "source": "네이버",
+    "publishedDate": "2026-07-10",
+    "summary": "캐나다 AI 기업 코히어가 아랍어 음성인식 모델을 공개한 데 이어 사우디아라비아에서 50MW 규모의 AI 연산 인프라를 확보했습니다. 현지 언어 특화 기술과 연산 기반을 결합해 중동 시장 공략에 속도를 내고 있습니다.",
+    "scorePct": 31
+  },
+  {
+    "rank": 3,
+    "title": "오픈AI와 구글의 굴욕, 미국은 앤트로픽만 남았다",
+    "url": "https://n.news.naver.com/mnews/article/047/0002522198",
+    "source": "네이버",
+    "publishedDate": "2026-07-10",
+    "summary": "세계 최대 AI 모델 API 플랫폼 오픈라우터의 7월 첫째 주 개발자 사용 랭킹에서 상위 10개 중 8개를 중국 모델이 차지했습니다. 미국 모델 중에서는 앤스로픽만 상위권을 유지하며 오픈AI와 구글이 밀려났습니다.",
+    "scorePct": 31
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-07-09",
+    "summary": "오픈AI가 지난해 10월 출시한 AI 브라우저 아틀라스를 종료하고, 그 에이전트 기능을 다른 제품군으로 재배치합니다. 브라우저 자체보다 에이전트 기능의 분산 배치로 전략을 전환한 것입니다.",
+    "scorePct": 31
+  }
+]
