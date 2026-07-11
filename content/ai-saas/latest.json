@@ -1,41 +1,41 @@
 {
-  "date": "2026-07-11",
-  "headline": "> 오픈AI가 GPT-5.6과 '챗GPT 워크'로 모델과 업무 에이전트를 동시 출시하며 B2B 업무 시장을 정조준했습니다.\n> 메타도 에이전틱 코딩 모델 '뮤즈 스파크 1.1'을 내놓으며 AI 코딩 시장 경쟁이 격화되고, 오픈라우터에서는 중국 모델이 상위권을 장악했습니다.\n> 국내에서는 AI 통합 플랫폼 출시 등 멀티모델 활용 SaaS가 확산되고, 오픈AI는 브라우저 아틀라스를 접고 에이전트 기능을 재배치하는 전략 전환을 보였습니다.",
+  "date": "2026-07-12",
+  "headline": "> AI 에이전트 전장이 코딩에서 일반 사무로 확장 — 커서가 '샌드'로 클로드 코워크·챗GPT 워크에 도전\n> 애플이 오픈AI를 영업비밀 도용으로 제소, 빅테크 동맹이 소송전으로 전환\n> 비용 압박에 기업들은 폐쇄형 프론티어 모델에서 오픈소스 모델로 이동 중",
   "items": [
     {
       "rank": 1,
-      "title": "메인라인, AI 통합 플랫폼 ‘AIFuze’ 출시",
-      "url": "https://n.news.naver.com/mnews/article/366/0001178276",
+      "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188436",
       "source": "네이버",
-      "publishedDate": "2026-07-11",
-      "summary": "AI 전문기업 메인라인이 GPT·Claude·Gemini 등 주요 모델을 한곳에서 쓸 수 있는 AI 통합 플랫폼 'AIFuze'를 출시했습니다. 통합 LLM, AI 토론, 에이전트, 페르소나 기능으로 구성됐습니다.",
-      "scorePct": 92
+      "publishedDate": "2026-07-12",
+      "summary": "AI 업계의 다음 격전지로 사무용 에이전트가 부상하고 있다. 스페이스X가 인수하는 AI 코딩 도구 커서가 코드명 '샌드'라는 사무 에이전트를 개발 중이며, 앤트로픽의 클로드 코워크·오픈AI의 챗GPT 워크와 이메일·문서·스프레드시트 등 일반 사무 업무 시장에서 정면 충돌할 전망이다.",
+      "scorePct": 54
     },
     {
       "rank": 2,
-      "title": "[AI는 지금] '아랍어 AI' 내놓은 코히어, 사우디서 50MW 연산 확보…중동 공략 속도",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430112",
+      "title": "‘챗GPT 동맹’ 깨지나…애플, 오픈AI에 영업비밀 도용 소송",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142272",
       "source": "네이버",
-      "publishedDate": "2026-07-10",
-      "summary": "캐나다 AI 기업 코히어가 아랍어 음성인식 모델을 공개한 데 이어 사우디아라비아에서 50MW 규모의 AI 연산 인프라를 확보했습니다. 현지 언어 특화 기술과 연산 기반을 결합해 중동 시장 공략에 속도를 내고 있습니다.",
-      "scorePct": 31
+      "publishedDate": "2026-07-12",
+      "summary": "애플이 오픈AI와 조니 아이브의 스타트업 등을 상대로 영업비밀 도용 소송을 제기했다. 아이폰 기술을 빼돌렸다는 주장으로, 챗GPT 동맹으로 평가받던 양사 관계가 소송전으로 급변하며 업계에 파장이 예상된다.",
+      "scorePct": 46
     },
     {
       "rank": 3,
-      "title": "오픈AI와 구글의 굴욕, 미국은 앤트로픽만 남았다",
-      "url": "https://n.news.naver.com/mnews/article/047/0002522198",
-      "source": "네이버",
+      "title": "[금융권 인공지능 활용③] 우리금융, '일하고 해결하는 AI' 키운다",
+      "url": "https://byline.network/2026/07/0710-4/",
+      "source": "바이라인네트워크",
       "publishedDate": "2026-07-10",
-      "summary": "세계 최대 AI 모델 API 플랫폼 오픈라우터의 7월 첫째 주 개발자 사용 랭킹에서 상위 10개 중 8개를 중국 모델이 차지했습니다. 미국 모델 중에서는 앤스로픽만 상위권을 유지하며 오픈AI와 구글이 밀려났습니다.",
-      "scorePct": 31
+      "summary": "우리금융지주가 AI 전환(AX) 중장기 계획에 따라 올해를 핵심 과제 실행과 그룹 확산의 원년으로 삼았다. 영업·자산관리·리스크 관리·고객 상담 전 영역에 생성형 AI와 에이전트를 도입해 '일하고 해결하는 AI'를 키운다는 전략이다.",
+      "scorePct": 46
     },
     {
       "rank": 4,
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-07-09",
-      "summary": "오픈AI가 지난해 10월 출시한 AI 브라우저 아틀라스를 종료하고, 그 에이전트 기능을 다른 제품군으로 재배치합니다. 브라우저 자체보다 에이전트 기능의 분산 배치로 전략을 전환한 것입니다.",
+      "title": "[이번주투자] 피지컬AI‧핵융합…딥테크‧초기 투자가 이끌었다",
+      "url": "https://startuprecipe.co.kr/archives/5825400",
+      "source": "스타트업레시피",
+      "publishedDate": "2026-07-11",
+      "summary": "7월 둘째 주 24개 스타트업이 투자를 유치했고 공개된 9개 기업의 합산 금액은 571억원이다. 특허 전문 AI 기업 워트인텔리전스가 165억원 시리즈 투자를 받는 등 피지컬AI·핵융합 등 딥테크와 초기 투자가 주간 흐름을 이끌었다.",
       "scorePct": 31
     }
   ]
