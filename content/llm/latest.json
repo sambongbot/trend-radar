@@ -1,33 +1,15 @@
 {
-  "date": "2026-07-13",
-  "headline": "> AI 에이전트가 CS·음성 인터페이스 등 실전 서비스로 빠르게 확산 중\n> GPT-5.6 솔 울트라의 수학 난제 증명 등 프론티어 모델 능력 경쟁 지속\n> 메타 프라이버시 철회·빅테크 부채 투자 등 AI 사업의 리스크 관리가 화두",
+  "date": "2026-07-14",
+  "headline": "> 구글-삼성전자 '제미나이 엔터프라이즈' 도입 등 대기업 AI 에이전트 전환이 본격화되고, 정부 '모두의 AI' 프로젝트에 통신사·네카오가 출사표를 던졌습니다.\n> 산업안전(새임)·의료차트(니어닥)·합성데이터(스카이인텔리전스) 등 버티컬 AI SaaS 투자 유치가 이어지며 국내 B2B AI 시장이 세분화되고 있습니다.\n> Claude Code v2.1.207이 24건의 변경과 함께 릴리스되어 Bedrock/Vertex 환경 기본 auto mode 등 워크플로 개선이 반영됐습니다.",
   "items": [
     {
       "rank": 1,
-      "title": "소르테크-인제대, '윈도 데스크톱 AI 에이전트' 표준 벤치마크서 최고기록 경신",
-      "url": "https://n.news.naver.com/mnews/article/030/0003446803",
-      "source": "네이버",
-      "publishedDate": "2026-07-13",
-      "summary": "소르테크와 인제대 공동 연구팀이 마이크로소프트가 공개한 윈도 데스크톱 AI 에이전트 표준 벤치마크에서 최고 기록을 경신했다. 국내 팀이 컴퓨터 사용 에이전트 분야에서 글로벌 수준의 성과를 낸 사례다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 2,
-      "title": "오픈AI \"GPT-5.6 솔 울트라, 50년 수학 난제 1시간 만에 증명\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430196",
-      "source": "네이버",
-      "publishedDate": "2026-07-12",
-      "summary": "오픈AI가 GPT-5.6 솔 울트라가 그래프 이론 분야의 50년 난제를 1시간 만에 증명했다고 발표했다. 수학계가 검증에 나서는 등 프론티어 모델의 추론 능력 도약 여부에 관심이 쏠리고 있다.",
-      "scorePct": 30
-    },
-    {
-      "rank": 3,
-      "title": "지구 최강 '인간 화이트 해커'와 'AI 해커'가 격돌한다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706161",
-      "source": "네이버",
-      "publishedDate": "2026-07-12",
-      "summary": "코드게이트 2026에서 카이스트가 개발한 AI 해커와 88개국 예선을 통과한 인간 화이트 해커가 격돌한다. 클라우드 가상환경 취약점 탐색부터 OS 관리자 권한 획득까지 실전 문제로 승부한다.",
-      "scorePct": 10
+      "title": "Main Updates in Claude Code v2.1.207",
+      "url": "https://dev.classmethod.jp/en/articles/20260711-cc-updates-v2-1-207/",
+      "source": "DevelopersIO",
+      "publishedDate": "2026-07-11",
+      "summary": "Claude Code v2.1.207이 24건의 변경사항과 함께 릴리스됐다. Bedrock·Vertex·Foundry 환경에서 auto mode가 기본 활성화되는 등 엔터프라이즈 환경 사용성이 개선됐다.",
+      "scorePct": 70
     }
   ]
 }
