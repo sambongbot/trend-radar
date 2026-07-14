@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code users keep 50% higher limits until July 19",
+    "url": "https://www.helpnetsecurity.com/2026/07/13/claude-code-weekly-limits-promotion-extended/",
+    "source": "Help Net Security",
+    "publishedDate": "2026-07-13",
+    "summary": "Anthropic이 Claude Code 주간 사용 한도를 50% 상향하는 한시 프로모션을 7월 19일까지 연장했다. 기존 한도 대비 대폭 늘어난 사용량을 추가 비용 없이 쓸 수 있는 기간이 연장된 것이다.",
+    "scorePct": 80
+  },
+  {
+    "rank": 2,
+    "title": "초지능은 국적을 가지고 태어난다",
+    "url": "https://n.news.naver.com/mnews/article/047/0002522555",
+    "source": "네이버",
+    "publishedDate": "2026-07-15",
+    "summary": "중국 즈푸(Zhipu)가 오픈소스 모델 GLM-5.2를 공개하며 Claude 등 서구 프런티어 모델에 도전하고 있다. 초지능 경쟁이 국가 단위 진영 대결로 재편되는 흐름 속에서 중국 오픈소스 모델의 존재감이 커지고 있다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
+    "title": "Cursor's 'Sand' Agent Eyes Claude Cowork Market Before SpaceX Rewrites Its Roadmap",
+    "url": "https://www.techtimes.com/articles/320271/20260713/cursors-sand-agent-eyes-claude-cowork-market-before-spacex-rewrites-its-roadmap.htm",
+    "source": "Tech Times",
+    "publishedDate": "2026-07-13",
+    "summary": "Cursor가 비개발자를 겨냥한 범용 AI 에이전트 'Sand'를 개발 중이다. Anthropic의 Claude Cowork와 직접 경쟁하는 포지션으로, 코딩 도구를 넘어 일반 사무 에이전트 시장으로 확장하려는 전략이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
+    "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
+    "source": "Chalkbeat",
+    "publishedDate": "2026-07-14",
+    "summary": "Anthropic이 인증된 K-12 교사에게 무료로 제공하는 'Claude for Teachers'를 출시했다. OpenAI 등과의 교육 시장 선점 경쟁 속에서 수업 준비·평가 등 교사 업무를 지원하는 전용 어시스턴트다.",
+    "scorePct": 20
+  }
+]

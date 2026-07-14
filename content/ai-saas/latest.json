@@ -1,68 +1,41 @@
 {
-  "date": "2026-07-14",
-  "headline": "> 구글-삼성전자 '제미나이 엔터프라이즈' 도입 등 대기업 AI 에이전트 전환이 본격화되고, 정부 '모두의 AI' 프로젝트에 통신사·네카오가 출사표를 던졌습니다.\n> 산업안전(새임)·의료차트(니어닥)·합성데이터(스카이인텔리전스) 등 버티컬 AI SaaS 투자 유치가 이어지며 국내 B2B AI 시장이 세분화되고 있습니다.\n> Claude Code v2.1.207이 24건의 변경과 함께 릴리스되어 Bedrock/Vertex 환경 기본 auto mode 등 워크플로 개선이 반영됐습니다.",
+  "date": "2026-07-15",
+  "headline": "> Anthropic이 Claude Code 사용 한도 50% 상향을 연장하고 교사용 무료 Claude를 출시하며 개발자·교육 시장을 동시 공략\n> Cursor는 비개발자용 범용 에이전트 'Sand'로 Claude Cowork에 도전, MS는 AI 에이전트 ROI 측정 도구를 내놓으며 에이전트 수익성 검증 단계 진입\n> 국내는 AI기본법 시행령 통과로 공공조달 AI 우선 제도가 시행되고, AI 데이터 인프라 스타트업 투자가 이어지는 흐름",
   "items": [
     {
       "rank": 1,
-      "title": "새임, 씨엔티테크로부터 투자 유치…산업안전 특화 AI·ERP 혁신",
-      "url": "https://wowtale.net/2026/07/13/261359/",
-      "source": "와우테일",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch",
       "publishedDate": "2026-07-13",
-      "summary": "산업안전 특화 AI SaaS 기업 새임이 씨엔티테크로부터 투자를 유치했다. 중대재해처벌법 대응 안전관리 ERP와 AI 기반 안전 문서·교육 콘텐츠 생성 기능을 제공한다.",
+      "summary": "사티아 나델라 Microsoft CEO가 AI를 쓰는 기업들이 '이중으로 비용을 지불하고 있다'고 경고했다. OpenAI, Anthropic 같은 랩의 모델 비용 구조와 기업의 AI 지출 방식에 대한 문제 제기다.",
       "scorePct": 46
     },
     {
       "rank": 2,
-      "title": "진료 끝나면 5초만에 차트 완성…병원 300곳 뚫은 AI에 투자 몰렸다",
-      "url": "https://www.mt.co.kr/future/2026/07/11/2026071015394075241",
-      "source": "머니투데이",
-      "publishedDate": "2026-07-11",
-      "summary": "의사-환자 대화만으로 진료기록을 자동 작성하는 AI 서비스 '니어닥'의 스튜디오키코가 스마일게이트인베스트먼트 등에서 투자를 유치했다. 차트 작성 시간을 70% 줄이며 병원 300곳을 확보했다.",
+      "title": "AI 데이터 인프라 '알고릭스', 카카오벤처스서 프리시드 투자 유치",
+      "url": "https://wowtale.net/2026/07/14/261394/",
+      "source": "와우테일",
+      "publishedDate": "2026-07-14",
+      "summary": "AI 데이터 인프라 스타트업 알고릭스코퍼레이션이 카카오벤처스로부터 프리시드 투자를 유치했다. 기업 내 여러 시스템에 흩어진 정형·비정형 멀티모달 데이터를 통합 관리하는 데이터 엔진을 개발한다.",
       "scorePct": 38
     },
     {
       "rank": 3,
-      "title": "“공무원이 직접 만들었다”…정부, 독파모 기반 'AI 법령 비서' 시범 개시",
-      "url": "https://n.news.naver.com/mnews/article/030/0003447087",
-      "source": "네이버",
-      "publishedDate": "2026-07-14",
-      "summary": "법제처와 행정안전부가 법령·판례 데이터를 기반으로 공무원의 법적 검토를 지원하는 'AI 법령 비서'를 14일부터 전 공무원 대상 시범 운영한다. 공무원이 직접 개발에 참여한 국산 모델 기반 서비스다.",
+      "title": "Microsoft Intros ROI Tracking for AI Agents, Expands Copilot in Forms",
+      "url": "https://campustechnology.com/articles/2026/07/13/microsoft-intros-roi-tracking-for-ai-agents-expands-copilot-in-forms.aspx",
+      "source": "Campus Technology",
+      "publishedDate": "2026-07-13",
+      "summary": "Microsoft가 Foundry에서 AI 에이전트의 투자대비성과(ROI)를 추적하는 기능을 프라이빗 프리뷰로 공개하고, Forms 등에 Copilot을 확장했다. 에이전트가 실제로 얼마나 비용을 절감하고 성과를 냈는지 정량화하는 도구다.",
       "scorePct": 31
     },
     {
       "rank": 4,
-      "title": "스카이인텔리전스, 기업가치 1천억원 밸류로 시리즈A 추가 투자 유치",
-      "url": "https://wowtale.net/2026/07/13/261373/",
-      "source": "와우테일",
-      "publishedDate": "2026-07-13",
-      "summary": "디지털 트윈·산업용 합성데이터 기업 스카이인텔리전스가 오라클-벡터지역혁신벤처펀드에서 시리즈A 추가 투자를 유치하며 기업가치 1,000억 원을 인정받았다.",
-      "scorePct": 31
-    },
-    {
-      "rank": 5,
-      "title": "구글 클라우드-삼성전자, 에이전틱 AI 동맹…역대 최대 규모 '제미나이' 도입",
-      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02568246645514192",
-      "source": "이데일리",
-      "publishedDate": "2026-07-13",
-      "summary": "구글 클라우드가 삼성전자 DX부문 전 세계 임직원에게 '제미나이 엔터프라이즈'를 제공한다. 구글 클라우드의 국내 엔터프라이즈 에이전틱 AI 계약 중 역대 최대 규모다.",
-      "scorePct": 31
-    },
-    {
-      "rank": 6,
-      "title": "\"비서 뺨치게 일 잘하네\"…네이버 AI 써보고 '화들짝' 놀란 이유",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309517",
+      "title": "공공조달도 'AI 우선'…AI기본법 시행령 국무회의 통과",
+      "url": "https://n.news.naver.com/mnews/article/014/0005548055",
       "source": "네이버",
-      "publishedDate": "2026-07-13",
-      "summary": "네이버가 AI 검색에 예약 조회·일정 관리 등 개인화 에이전트 기능을 붙이며 사용자 경험을 비서형으로 전환하고 있다. 자사 서비스 데이터와 AI를 결합해 체감 효용을 높인 것이 특징이다.",
-      "scorePct": 23
-    },
-    {
-      "rank": 7,
-      "title": "'모두의 AI' 연내 출시…통신사·네카오 출사표",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309414",
-      "source": "네이버",
-      "publishedDate": "2026-07-13",
-      "summary": "정부가 전 국민이 국산 AI 모델을 무료·무제한으로 쓸 수 있는 '모두의 AI' 프로젝트를 연내 출시 목표로 착수했다. SKT·LG유플러스·카카오가 참여 의사를 밝혔고 네이버·업스테이지도 검토 중이다.",
+      "publishedDate": "2026-07-15",
+      "summary": "공공조달에서 AI 제품·서비스를 우선 고려하는 AI기본법 시행령이 국무회의를 통과해 21일부터 시행된다. AI 제품·서비스 확인 제도가 도입되고 확인받은 제품은 조달 과정에서 우대받는다.",
       "scorePct": 23
     }
   ]
