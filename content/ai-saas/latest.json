@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-15",
-  "headline": "> Anthropic이 Claude Code 사용 한도 50% 상향을 연장하고 교사용 무료 Claude를 출시하며 개발자·교육 시장을 동시 공략\n> Cursor는 비개발자용 범용 에이전트 'Sand'로 Claude Cowork에 도전, MS는 AI 에이전트 ROI 측정 도구를 내놓으며 에이전트 수익성 검증 단계 진입\n> 국내는 AI기본법 시행령 통과로 공공조달 AI 우선 제도가 시행되고, AI 데이터 인프라 스타트업 투자가 이어지는 흐름",
+  "date": "2026-07-16",
+  "headline": "> 앤트로픽이 블랙스톤과 15억 달러 규모 AI 구축 전문기업 'Ode'를 설립하며 모델 판매를 넘어 도입·구현 사업으로 확장\n> 딥시크는 저가 API로 연매출 5억 달러에 근접, 15억 달러 조달 후 IPO 추진 — 오픈소스 모델의 수익화 모델 입증\n> Grok Build의 저장소 무단 업로드, AI 에이전트 탈옥 등 AI 코딩도구·에이전트의 보안 리스크가 동시다발로 부각",
   "items": [
     {
       "rank": 1,
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
       "source": "TechCrunch",
-      "publishedDate": "2026-07-13",
-      "summary": "사티아 나델라 Microsoft CEO가 AI를 쓰는 기업들이 '이중으로 비용을 지불하고 있다'고 경고했다. OpenAI, Anthropic 같은 랩의 모델 비용 구조와 기업의 AI 지출 방식에 대한 문제 제기다.",
+      "publishedDate": "2026-07-14",
+      "summary": "중국 딥시크가 약 15억 달러 신규 조달을 협의 중이며 이후 IPO까지 추진하는 것으로 알려졌다. 저가 API 전략으로 연환산 매출 5억 달러에 근접하며 오픈소스 모델의 상업화 가능성을 입증하고 있다.",
       "scorePct": 46
     },
     {
       "rank": 2,
-      "title": "AI 데이터 인프라 '알고릭스', 카카오벤처스서 프리시드 투자 유치",
-      "url": "https://wowtale.net/2026/07/14/261394/",
-      "source": "와우테일",
-      "publishedDate": "2026-07-14",
-      "summary": "AI 데이터 인프라 스타트업 알고릭스코퍼레이션이 카카오벤처스로부터 프리시드 투자를 유치했다. 기업 내 여러 시스템에 흩어진 정형·비정형 멀티모달 데이터를 통합 관리하는 데이터 엔진을 개발한다.",
+      "title": "금융권 망분리 전면 해제 추진…AI·클라우드 활용 문턱 낮춘다",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234343",
+      "source": "네이버",
+      "publishedDate": "2026-07-16",
+      "summary": "정부가 금융권 망분리 규제를 전면 해제하는 방안을 추진한다. 금융회사의 생성형 AI, 클라우드, SaaS 활용 범위가 대폭 넓어질 전망이다.",
       "scorePct": 38
     },
     {
       "rank": 3,
-      "title": "Microsoft Intros ROI Tracking for AI Agents, Expands Copilot in Forms",
-      "url": "https://campustechnology.com/articles/2026/07/13/microsoft-intros-roi-tracking-for-ai-agents-expands-copilot-in-forms.aspx",
-      "source": "Campus Technology",
-      "publishedDate": "2026-07-13",
-      "summary": "Microsoft가 Foundry에서 AI 에이전트의 투자대비성과(ROI)를 추적하는 기능을 프라이빗 프리뷰로 공개하고, Forms 등에 Copilot을 확장했다. 에이전트가 실제로 얼마나 비용을 절감하고 성과를 냈는지 정량화하는 도구다.",
+      "title": "\"나만 안 쓰면 진짜 바보 되나?\"…한국인 2300만명이 매달 쓰는 앱, 네이버 떨고 있니",
+      "url": "https://n.news.naver.com/mnews/article/277/0005790544",
+      "source": "네이버",
+      "publishedDate": "2026-07-15",
+      "summary": "올 상반기 챗GPT의 한국 월간 사용자가 2,300만 명에 달하며 국민 앱 반열에 올랐다는 분석이 나왔다. 네이버 등 국내 플랫폼의 검색·서비스 지형에 실질적 위협이 되고 있다.",
       "scorePct": 31
     },
     {
       "rank": 4,
-      "title": "공공조달도 'AI 우선'…AI기본법 시행령 국무회의 통과",
-      "url": "https://n.news.naver.com/mnews/article/014/0005548055",
-      "source": "네이버",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "source": "TechCrunch",
       "publishedDate": "2026-07-15",
-      "summary": "공공조달에서 AI 제품·서비스를 우선 고려하는 AI기본법 시행령이 국무회의를 통과해 21일부터 시행된다. AI 제품·서비스 확인 제도가 도입되고 확인받은 제품은 조달 과정에서 우대받는다.",
-      "scorePct": 23
+      "summary": "앤트로픽이 블랙스톤 등과 합작해 15억 달러 규모의 AI 구현 전문기업 'Ode with Anthropic'을 출범시켰다. 모델 자체가 아니라 기업 현장에 AI를 실제로 구축·정착시키는 '임플리멘테이션'이 다음 조 단위 시장이라는 베팅이다.",
+      "scorePct": 31
     }
   ]
 }

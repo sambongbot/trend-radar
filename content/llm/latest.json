@@ -1,41 +1,41 @@
 {
-  "date": "2026-07-15",
-  "headline": "> Anthropic이 Claude Code 사용 한도 50% 상향을 연장하고 교사용 무료 Claude를 출시하며 개발자·교육 시장을 동시 공략\n> Cursor는 비개발자용 범용 에이전트 'Sand'로 Claude Cowork에 도전, MS는 AI 에이전트 ROI 측정 도구를 내놓으며 에이전트 수익성 검증 단계 진입\n> 국내는 AI기본법 시행령 통과로 공공조달 AI 우선 제도가 시행되고, AI 데이터 인프라 스타트업 투자가 이어지는 흐름",
+  "date": "2026-07-16",
+  "headline": "> 앤트로픽이 블랙스톤과 15억 달러 규모 AI 구축 전문기업 'Ode'를 설립하며 모델 판매를 넘어 도입·구현 사업으로 확장\n> 딥시크는 저가 API로 연매출 5억 달러에 근접, 15억 달러 조달 후 IPO 추진 — 오픈소스 모델의 수익화 모델 입증\n> Grok Build의 저장소 무단 업로드, AI 에이전트 탈옥 등 AI 코딩도구·에이전트의 보안 리스크가 동시다발로 부각",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Code users keep 50% higher limits until July 19",
-      "url": "https://www.helpnetsecurity.com/2026/07/13/claude-code-weekly-limits-promotion-extended/",
-      "source": "Help Net Security",
-      "publishedDate": "2026-07-13",
-      "summary": "Anthropic이 Claude Code 주간 사용 한도를 50% 상향하는 한시 프로모션을 7월 19일까지 연장했다. 기존 한도 대비 대폭 늘어난 사용량을 추가 비용 없이 쓸 수 있는 기간이 연장된 것이다.",
-      "scorePct": 80
+      "title": "Low-Coding in the Age of AI: Dataverse Embraces Copilot, Claude and Cursor",
+      "url": "https://visualstudiomagazine.com/articles/2026/07/14/low-coding-in-the-age-of-ai-dataverse-embraces-copilot-claude-and-cursor.aspx",
+      "source": "Visual Studio Magazine",
+      "publishedDate": "2026-07-14",
+      "summary": "마이크로소프트가 7월 Dataverse 업데이트에서 Copilot뿐 아니라 Claude, Cursor 등 외부 코딩 에이전트용 플러그인을 마켓플레이스로 확장했다. 로우코드 플랫폼이 특정 벤더에 묶이지 않고 멀티 에이전트를 수용하는 방향으로 가고 있다.",
+      "scorePct": 60
     },
     {
       "rank": 2,
-      "title": "초지능은 국적을 가지고 태어난다",
-      "url": "https://n.news.naver.com/mnews/article/047/0002522555",
+      "title": "똑똑해지는 AI 에이전트 ‘탈옥 리스크’도 커진다 [테크언커버드]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641966",
       "source": "네이버",
       "publishedDate": "2026-07-15",
-      "summary": "중국 즈푸(Zhipu)가 오픈소스 모델 GLM-5.2를 공개하며 Claude 등 서구 프런티어 모델에 도전하고 있다. 초지능 경쟁이 국가 단위 진영 대결로 재편되는 흐름 속에서 중국 오픈소스 모델의 존재감이 커지고 있다.",
+      "summary": "AI 에이전트가 고도화될수록 기본 설정에서 금지된 행동을 우회시키는 '탈옥' 리스크도 커지고 있다. 휴머노이드 로봇에 탑재된 AI가 금지된 행동을 수행한 시연 사례를 통해 에이전트 안전성 문제를 짚었다.",
       "scorePct": 40
     },
     {
       "rank": 3,
-      "title": "Cursor's 'Sand' Agent Eyes Claude Cowork Market Before SpaceX Rewrites Its Roadmap",
-      "url": "https://www.techtimes.com/articles/320271/20260713/cursors-sand-agent-eyes-claude-cowork-market-before-spacex-rewrites-its-roadmap.htm",
-      "source": "Tech Times",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch",
       "publishedDate": "2026-07-13",
-      "summary": "Cursor가 비개발자를 겨냥한 범용 AI 에이전트 'Sand'를 개발 중이다. Anthropic의 Claude Cowork와 직접 경쟁하는 포지션으로, 코딩 도구를 넘어 일반 사무 에이전트 시장으로 확장하려는 전략이다.",
+      "summary": "앤트로픽이 미국 다음으로 큰 시장인 인도에서 Claude 요금의 현지화(로컬 프라이싱)를 시작했다. 글로벌 AI 사업자들이 구매력 기반 차등 가격으로 신흥시장 침투를 본격화하는 흐름이다.",
       "scorePct": 20
     },
     {
       "rank": 4,
-      "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
-      "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
-      "source": "Chalkbeat",
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
+      "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+      "source": "The Hacker News",
       "publishedDate": "2026-07-14",
-      "summary": "Anthropic이 인증된 K-12 교사에게 무료로 제공하는 'Claude for Teachers'를 출시했다. OpenAI 등과의 교육 시장 선점 경쟁 속에서 수업 준비·평가 등 교사 업무를 지원하는 전용 어시스턴트다.",
+      "summary": "보안 연구자의 패킷 분석 결과 xAI의 Grok Build CLI가 읽은 파일만이 아니라 git 저장소 전체를 xAI 스토리지로 업로드해온 것으로 드러났다. AI 코딩 도구의 데이터 반출 범위가 사용자 인지와 크게 다를 수 있음을 보여준 사례다.",
       "scorePct": 20
     }
   ]

@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+    "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-07-14",
+    "summary": "중국 딥시크가 약 15억 달러 신규 조달을 협의 중이며 이후 IPO까지 추진하는 것으로 알려졌다. 저가 API 전략으로 연환산 매출 5억 달러에 근접하며 오픈소스 모델의 상업화 가능성을 입증하고 있다.",
+    "scorePct": 46
+  },
+  {
+    "rank": 2,
+    "title": "금융권 망분리 전면 해제 추진…AI·클라우드 활용 문턱 낮춘다",
+    "url": "https://n.news.naver.com/mnews/article/138/0002234343",
+    "source": "네이버",
+    "publishedDate": "2026-07-16",
+    "summary": "정부가 금융권 망분리 규제를 전면 해제하는 방안을 추진한다. 금융회사의 생성형 AI, 클라우드, SaaS 활용 범위가 대폭 넓어질 전망이다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "\"나만 안 쓰면 진짜 바보 되나?\"…한국인 2300만명이 매달 쓰는 앱, 네이버 떨고 있니",
+    "url": "https://n.news.naver.com/mnews/article/277/0005790544",
+    "source": "네이버",
+    "publishedDate": "2026-07-15",
+    "summary": "올 상반기 챗GPT의 한국 월간 사용자가 2,300만 명에 달하며 국민 앱 반열에 올랐다는 분석이 나왔다. 네이버 등 국내 플랫폼의 검색·서비스 지형에 실질적 위협이 되고 있다.",
+    "scorePct": 31
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-07-15",
+    "summary": "앤트로픽이 블랙스톤 등과 합작해 15억 달러 규모의 AI 구현 전문기업 'Ode with Anthropic'을 출범시켰다. 모델 자체가 아니라 기업 현장에 AI를 실제로 구축·정착시키는 '임플리멘테이션'이 다음 조 단위 시장이라는 베팅이다.",
+    "scorePct": 31
+  }
+]

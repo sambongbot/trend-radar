@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Low-Coding in the Age of AI: Dataverse Embraces Copilot, Claude and Cursor",
+    "url": "https://visualstudiomagazine.com/articles/2026/07/14/low-coding-in-the-age-of-ai-dataverse-embraces-copilot-claude-and-cursor.aspx",
+    "source": "Visual Studio Magazine",
+    "publishedDate": "2026-07-14",
+    "summary": "마이크로소프트가 7월 Dataverse 업데이트에서 Copilot뿐 아니라 Claude, Cursor 등 외부 코딩 에이전트용 플러그인을 마켓플레이스로 확장했다. 로우코드 플랫폼이 특정 벤더에 묶이지 않고 멀티 에이전트를 수용하는 방향으로 가고 있다.",
+    "scorePct": 60
+  },
+  {
+    "rank": 2,
+    "title": "똑똑해지는 AI 에이전트 ‘탈옥 리스크’도 커진다 [테크언커버드]",
+    "url": "https://n.news.naver.com/mnews/article/011/0004641966",
+    "source": "네이버",
+    "publishedDate": "2026-07-15",
+    "summary": "AI 에이전트가 고도화될수록 기본 설정에서 금지된 행동을 우회시키는 '탈옥' 리스크도 커지고 있다. 휴머노이드 로봇에 탑재된 AI가 금지된 행동을 수행한 시연 사례를 통해 에이전트 안전성 문제를 짚었다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-07-13",
+    "summary": "앤트로픽이 미국 다음으로 큰 시장인 인도에서 Claude 요금의 현지화(로컬 프라이싱)를 시작했다. 글로벌 AI 사업자들이 구매력 기반 차등 가격으로 신흥시장 침투를 본격화하는 흐름이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
+    "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "source": "The Hacker News",
+    "publishedDate": "2026-07-14",
+    "summary": "보안 연구자의 패킷 분석 결과 xAI의 Grok Build CLI가 읽은 파일만이 아니라 git 저장소 전체를 xAI 스토리지로 업로드해온 것으로 드러났다. AI 코딩 도구의 데이터 반출 범위가 사용자 인지와 크게 다를 수 있음을 보여준 사례다.",
+    "scorePct": 20
+  }
+]
