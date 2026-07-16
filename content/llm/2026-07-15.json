@@ -34,5 +34,14 @@
     "publishedDate": "2026-07-14",
     "summary": "Anthropic이 인증된 K-12 교사에게 무료로 제공하는 'Claude for Teachers'를 출시했다. OpenAI 등과의 교육 시장 선점 경쟁 속에서 수업 준비·평가 등 교사 업무를 지원하는 전용 어시스턴트다.",
     "scorePct": 20
+  },
+  {
+    "rank": 5,
+    "title": "The real AI race may no longer be at the frontier",
+    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-07-14",
+    "summary": "올봄 허깅페이스 다운로드에서 중국산 오픈웨이트 모델이 41%를 차지하며 미국을 추월했다. AI 경쟁의 무게중심이 프런티어 모델에서 오픈 모델 생태계로 이동하고 있다는 분석이다.",
+    "scorePct": 0
   }
 ]
