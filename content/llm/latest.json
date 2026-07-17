@@ -1,23 +1,32 @@
 {
-  "date": "2026-07-17",
-  "headline": "> 앤트로픽이 오픈AI보다 먼저 10월 IPO를 추진하며 AI 업계 상장 경쟁의 신호탄을 쐈다.\n> 중국 오픈웨이트 모델이 허깅페이스 다운로드 41%를 차지하고 무라티의 성능조절형 오픈소스 모델이 등장하는 등 프런티어 밖 경쟁이 격화되고 있다.\n> 국내는 정부 2조원 AI 스타트업 투자와 AI 인프라 기업 벤처자금 쏠림 등 자본 흐름이 뚜렷해졌다.",
+  "date": "2026-07-18",
+  "headline": "> AI 모델 경쟁이 '최고 성능'에서 '가성비'로 이동하는 가운데 구글 제미나이 3.5 프로는 코딩 성능 문제로 출시가 밀렸습니다.\n> MS가 영업조직에 OpenAI·Anthropic 깎아내리기 교육을 시키는 등 엔터프라이즈 AI 판매 경쟁이 격화되고 있습니다.\n> xAI의 grok-build 오픈소스화, AI 신뢰성 검증 시장 성장 등 코딩 에이전트와 AI 검증 레이어가 새 사업 기회로 부상 중입니다.",
   "items": [
     {
       "rank": 1,
-      "title": "[7월15일] 구글의 차례가 왔다…시장이 '제미나이 3.5 프로'를 기다리는 이유",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=212785",
-      "source": "AI타임스",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
       "publishedDate": "2026-07-15",
-      "summary": "GPT-5.6과 Claude 5 공개 이후 시장의 시선이 구글의 제미나이 3.5 프로로 쏠리고 있다. 아키텍처를 새로 설계해 수학 추론과 이미지 품질을 개선한 모델로 프런티어 경쟁에 합류할 전망이다.",
-      "scorePct": 50
+      "summary": "오픈AI가 자사 모델을 공격하도록 설계한 내부 LLM 해커 'GPT-Red'를 공개했다. 모델을 공격자로 훈련시켜 다른 모델의 취약점을 찾아내는 적대적 안전성 검증 접근이다.",
+      "scorePct": 40
     },
     {
       "rank": 2,
-      "title": "미라 무라티, 성능 100단계 조절 가능한 AI모델 공개…‘오픈소스 모델’ 뜬다 [팩플]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538133",
+      "title": "AI 모델 경쟁, ‘최고 성능’보다 ‘가성비’로…오픈AI·메타·스페이스X AI 저비용 공세",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988165",
       "source": "네이버",
-      "publishedDate": "2026-07-16",
-      "summary": "미라 무라티가 사용자가 성능을 100단계로 조절할 수 있는 AI 모델을 오픈소스로 공개했다. 고성능·고비용 범용 모델 대신 용도에 맞춰 성능과 비용을 직접 결정하는 방식으로, 오픈소스 진영의 새로운 접근이다.",
+      "publishedDate": "2026-07-17",
+      "summary": "생성형 AI 모델 경쟁의 축이 최고 성능에서 가격 대비 성능으로 이동하고 있다. 오픈AI·메타·스페이스X AI가 최근 내놓은 모델들은 성능 개선과 함께 낮은 가격을 전면에 내세우며 저비용 공세를 펼치고 있다.",
+      "scorePct": 30
+    },
+    {
+      "rank": 3,
+      "title": "구글, ‘제미나이 3.5 프로’ 출시 또 연기…코딩 성능에 발목",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814598",
+      "source": "네이버",
+      "publishedDate": "2026-07-17",
+      "summary": "구글의 차세대 플래그십 모델 '제미나이 3.5 프로' 출시가 코딩 성능 문제로 당초 계획보다 수개월 지연되고 있다는 보도가 나왔다. 프론티어 모델 경쟁에서 코딩 벤치마크가 핵심 관문이 되고 있음을 보여준다.",
       "scorePct": 20
     }
   ]

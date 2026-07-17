@@ -10,6 +10,15 @@
   },
   {
     "rank": 2,
+    "title": "xai-org/grok-build, now open source",
+    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-07-15",
+    "summary": "xAI가 코딩 에이전트 도구 grok-build를 오픈소스로 공개했다. 저장소 전체를 xAI 스토리지에 업로드한 논란이 불거진 지 며칠 만의 조치로, Simon Willison이 상세 분석을 내놨다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 3,
     "title": "미라 무라티, 성능 100단계 조절 가능한 AI모델 공개…‘오픈소스 모델’ 뜬다 [팩플]",
     "url": "https://n.news.naver.com/mnews/article/025/0003538133",
     "source": "네이버",

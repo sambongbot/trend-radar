@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "source": "MIT Technology Review",
+    "publishedDate": "2026-07-15",
+    "summary": "오픈AI가 자사 모델을 공격하도록 설계한 내부 LLM 해커 'GPT-Red'를 공개했다. 모델을 공격자로 훈련시켜 다른 모델의 취약점을 찾아내는 적대적 안전성 검증 접근이다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "AI 모델 경쟁, ‘최고 성능’보다 ‘가성비’로…오픈AI·메타·스페이스X AI 저비용 공세",
+    "url": "https://n.news.naver.com/mnews/article/023/0003988165",
+    "source": "네이버",
+    "publishedDate": "2026-07-17",
+    "summary": "생성형 AI 모델 경쟁의 축이 최고 성능에서 가격 대비 성능으로 이동하고 있다. 오픈AI·메타·스페이스X AI가 최근 내놓은 모델들은 성능 개선과 함께 낮은 가격을 전면에 내세우며 저비용 공세를 펼치고 있다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "구글, ‘제미나이 3.5 프로’ 출시 또 연기…코딩 성능에 발목",
+    "url": "https://n.news.naver.com/mnews/article/028/0002814598",
+    "source": "네이버",
+    "publishedDate": "2026-07-17",
+    "summary": "구글의 차세대 플래그십 모델 '제미나이 3.5 프로' 출시가 코딩 성능 문제로 당초 계획보다 수개월 지연되고 있다는 보도가 나왔다. 프론티어 모델 경쟁에서 코딩 벤치마크가 핵심 관문이 되고 있음을 보여준다.",
+    "scorePct": 20
+  }
+]
