@@ -6,7 +6,7 @@
     "source": "Cyber Security News",
     "publishedDate": "2026-06-22",
     "summary": "2026년 6월 22일 00:37 UTC부터 약 90분간 Claude AI에 글로벌 장애가 발생해 5개 서비스가 영향을 받았다. 오류율 급증으로 다수 모델 접근이 중단됐다가 복구됐다.",
-    "scorePct": 70
+    "scorePct": 64
   },
   {
     "rank": 2,
@@ -15,6 +15,6 @@
     "source": "BenchLM.ai",
     "publishedDate": "2026-06-18",
     "summary": "Claude Mythos 5가 BenchLM 잠정 리더보드에서 124개 모델 중 종합 1위를 차지했다. 최상위 점수로 현행 프런티어 모델 대비 성능 우위를 입증했다.",
-    "scorePct": 20
+    "scorePct": 18
   }
 ]

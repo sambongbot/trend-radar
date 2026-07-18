@@ -6,7 +6,7 @@
     "source": "TechRepublic",
     "publishedDate": "2026-06-23",
     "summary": "Anthropic이 Claude Tag를 출시해 Claude Opus 4.8 기반 AI 에이전트를 Slack에 상주 팀원처럼 통합했다. Enterprise·Team 고객을 대상으로 하며, 관리자는 접근 권한과 외부 도구 연결을 직접 제어할 수 있다.",
-    "scorePct": 60
+    "scorePct": 55
   },
   {
     "rank": 2,
@@ -15,6 +15,6 @@
     "source": "Axios",
     "publishedDate": "2026-06-25",
     "summary": "트럼프 행정부가 오픈AI에 GPT-5.6의 초기 접근을 정부 승인 대상으로 제한해 단계적으로 출시하도록 공식 요청했다. 이에 따라 오픈AI는 우선 제한된 기업 그룹에만 모델을 제공할 것으로 알려졌다.",
-    "scorePct": 60
+    "scorePct": 55
   }
 ]

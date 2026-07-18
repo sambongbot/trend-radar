@@ -6,7 +6,7 @@
     "source": "Anthropic",
     "publishedDate": "2026-06-26",
     "summary": "앤스로픽이 6월 이코노믹 인덱스 보고서 'Cadences'를 공개해 클로드 사용 패턴과 실제 업무 산출물을 분석했다. AI가 실무를 어떻게 분담하는지에 대한 구체적 데이터를 담았다.",
-    "scorePct": 40
+    "scorePct": 36
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "VentureBeat",
     "publishedDate": "2026-06-26",
     "summary": "OpenAI가 GPT-5.6을 Sol·Terra·Luna 3개 티어로 공개했으며, 플래그십 Sol은 코딩 벤치마크 Terminal-Bench 2.1에서 새로운 최고 성능을 기록했다. 다만 미국 정부 방침에 따라 당분간 제한된 프리뷰 파트너만 접근할 수 있다.",
-    "scorePct": 20
+    "scorePct": 18
   },
   {
     "rank": 3,
@@ -24,6 +24,6 @@
     "source": "TechTimes",
     "publishedDate": "2026-06-27",
     "summary": "OpenAI가 6월 25~27일 Codex Remote를 전 요금제에 정식 출시하며, QR 릴레이로 보안을 강화한 폰 기반 원격 제어를 열었다. 이제 모든 플랜 사용자가 모바일에서 코딩 에이전트를 원격으로 제어할 수 있다.",
-    "scorePct": 20
+    "scorePct": 18
   }
 ]

@@ -6,7 +6,7 @@
     "source": "Basenor",
     "publishedDate": "2026-07-05",
     "summary": "일론 머스크가 7월 5일 'Grok Imagine 완료'를 선언하며 xAI의 이미지 생성 기능 개발이 마무리 단계에 들어섰음을 알렸다. xAI가 이미지 생성 경쟁에서 기능 완성도를 강조하고 나선 것이다.",
-    "scorePct": 40
+    "scorePct": 36
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "TechTimes",
     "publishedDate": "2026-07-04",
     "summary": "테슬라가 7월 6일부터 직원의 AI 도구 지출을 주당 200달러로 제한한다고 통보했다. 단, 자사 계열인 머스크의 Grok은 제한 대상에서 제외돼 형평성 논란이 있다.",
-    "scorePct": 20
+    "scorePct": 18
   },
   {
     "rank": 3,
@@ -24,6 +24,6 @@
     "source": "네이버",
     "publishedDate": "2026-07-07",
     "summary": "소셜미디어에 내장된 생성형 AI가 이용자의 글에 미묘한 편향을 주입할 수 있다는 연구 결과가 나왔다. 이런 편향이 SNS에서 반복·누적되면 사회 전체 여론에 영향을 줄 수 있다는 경고다.",
-    "scorePct": 10
+    "scorePct": 9
   }
 ]

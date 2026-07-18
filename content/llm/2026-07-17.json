@@ -6,7 +6,7 @@
     "source": "AI타임스",
     "publishedDate": "2026-07-15",
     "summary": "GPT-5.6과 Claude 5 공개 이후 시장의 시선이 구글의 제미나이 3.5 프로로 쏠리고 있다. 아키텍처를 새로 설계해 수학 추론과 이미지 품질을 개선한 모델로 프런티어 경쟁에 합류할 전망이다.",
-    "scorePct": 50
+    "scorePct": 45
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "Simon Willison's Weblog",
     "publishedDate": "2026-07-15",
     "summary": "xAI가 코딩 에이전트 도구 grok-build를 오픈소스로 공개했다. 저장소 전체를 xAI 스토리지에 업로드한 논란이 불거진 지 며칠 만의 조치로, Simon Willison이 상세 분석을 내놨다.",
-    "scorePct": 40
+    "scorePct": 36
   },
   {
     "rank": 3,
@@ -24,6 +24,6 @@
     "source": "네이버",
     "publishedDate": "2026-07-16",
     "summary": "미라 무라티가 사용자가 성능을 100단계로 조절할 수 있는 AI 모델을 오픈소스로 공개했다. 고성능·고비용 범용 모델 대신 용도에 맞춰 성능과 비용을 직접 결정하는 방식으로, 오픈소스 진영의 새로운 접근이다.",
-    "scorePct": 20
+    "scorePct": 18
   }
 ]

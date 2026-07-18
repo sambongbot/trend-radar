@@ -6,7 +6,7 @@
     "source": "9to5Google",
     "publishedDate": "2026-06-23",
     "summary": "Claude가 6월 23일 다수 모델에 걸친 대규모 장애를 겪은 뒤 복구됐다. 여러 모델에서 오류율이 급등하며 사용자 보고가 정점에 달했으나 현재는 정상화된 상태다.",
-    "scorePct": 90
+    "scorePct": 82
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "GitHub Changelog",
     "publishedDate": "2026-06-22",
     "summary": "GitHub가 JetBrains IDE용 GitHub Copilot에 Claude를 에이전트 제공자로 퍼블릭 프리뷰로 추가했다. 이제 IntelliJ, PyCharm 등 JetBrains 환경에서도 Copilot 에이전트 모드로 Claude를 직접 선택해 코딩 작업을 맡길 수 있다.",
-    "scorePct": 40
+    "scorePct": 36
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "SiliconAngle",
     "publishedDate": "2026-06-22",
     "summary": "OpenAI가 Daybreak 이니셔티브의 일환으로 새 도구와 파트너십, 그리고 GPT-5.5-Cyber 정식 버전을 공개했다. 'Patch the Planet' 등 보안 특화 기능도 함께 발표됐다.",
-    "scorePct": 40
+    "scorePct": 36
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "OpenAI",
     "publishedDate": "2026-06-22",
     "summary": "OpenAI가 Codex를 장시간 지속 작업용 워크스페이스로 활용하는 실전 전략을 담은 백서를 공개했다. 오래 실행되는 작업에서 컨텍스트를 유지하고 효율을 높이는 구체적 방법을 제시한다.",
-    "scorePct": 40
+    "scorePct": 36
   }
 ]

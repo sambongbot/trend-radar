@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-18",
-  "headline": "> AI 모델 경쟁이 '최고 성능'에서 '가성비'로 이동하는 가운데 구글 제미나이 3.5 프로는 코딩 성능 문제로 출시가 밀렸습니다.\n> MS가 영업조직에 OpenAI·Anthropic 깎아내리기 교육을 시키는 등 엔터프라이즈 AI 판매 경쟁이 격화되고 있습니다.\n> xAI의 grok-build 오픈소스화, AI 신뢰성 검증 시장 성장 등 코딩 에이전트와 AI 검증 레이어가 새 사업 기회로 부상 중입니다.",
+  "date": "2026-07-19",
+  "headline": "> 중국 문샷 Kimi K3가 오픈소스로 프론티어 추격에 나서며 모델 경쟁이 다시 가열됐습니다.\n> 메타가 앤트로픽에 컴퓨팅 판매를 논의하는 등 인프라 품귀가 경쟁사 간 공생을 만들고 있습니다.\n> 국내외 모두 AI 비용 구조·인프라 효율이 SaaS 사업의 핵심 경쟁 축으로 이동 중입니다.",
   "items": [
     {
       "rank": 1,
-      "title": "오픈AI, 챗GPT 가족 서비스 내놓나... ‘가족 제품 책임자’ 채용 공고",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988161",
+      "title": "[AI는 지금] AI 에이전트 늘수록 비용 '눈덩이'…코히어, SaaS 비용 구조 정조준",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430925",
       "source": "네이버",
-      "publishedDate": "2026-07-17",
-      "summary": "오픈AI가 '가족 제품 책임자' 채용 공고를 내며 가정용 시장 진출을 본격화하고 있다. 챗GPT 사용자층이 고령화되고 학부모 사용자가 늘면서 가족 단위 서비스로 제품 라인을 확장하려는 움직임이다.",
-      "scorePct": 69
+      "publishedDate": "2026-07-19",
+      "summary": "기업의 생성형 AI 활용이 상시 업무로 확대되면서 모델 성능보다 운영비와 통제권이 경쟁 기준으로 떠오르고 있습니다. 코히어는 AI 에이전트 확산에 따른 토큰·인프라 비용 급증 문제를 정조준한 SaaS 비용 구조 전략을 내세웠습니다.",
+      "scorePct": 62
     },
     {
       "rank": 2,
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-07-15",
-      "summary": "마이크로소프트가 내부 회의에서 영업사원들에게 OpenAI와 Anthropic을 부정적으로 비교하며 깎아내리는 세일즈 전략을 교육한 것으로 알려졌다. 파트너이자 경쟁자인 복잡한 관계 속에서 엔터프라이즈 AI 판매 경쟁이 노골화되고 있다.",
-      "scorePct": 46
+      "title": "AI 속도전의 역설…거품 걷히자 진짜 승자가 보인다 [인사이드아웃AI]",
+      "url": "https://n.news.naver.com/mnews/article/586/0000134017",
+      "source": "네이버",
+      "publishedDate": "2026-07-19",
+      "summary": "AI 투자 거품이 걷히면서 모델 기업보다 데이터·인프라 기업의 가치가 재평가되고 있다는 분석입니다. '사스포칼립스'로 불리는 SaaS 위기론 속에서 AI 생태계의 새로운 질서와 진짜 승자의 조건을 조명합니다.",
+      "scorePct": 31
     },
     {
       "rank": 3,
-      "title": "\"AI가 일할 수 있게 데이터 철도 깔아야\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311069",
-      "source": "네이버",
+      "title": "[이번주투자] 홀리데이로보틱스‧플렉셀스페이스…로봇‧우주에 주목했다",
+      "url": "https://startuprecipe.co.kr/archives/5826279",
+      "source": "스타트업레시피",
       "publishedDate": "2026-07-18",
-      "summary": "박민준 뤼튼테크놀로지 대표가 \"AI가 일할 수 있도록 '데이터 철도'를 까는 것이 기업의 핵심 경쟁력이 될 것\"이라고 강조했다. AI 에이전트 시대에는 모델보다 기업 데이터 인프라 정비가 승부처라는 관점이다.",
+      "summary": "지난주 국내 스타트업 26곳이 투자를 유치했으며, 휴머노이드 로봇 스타트업 홀리데이로보틱스가 1,550억원 규모 시리즈A로 국내 역대 최대 기록을 세웠습니다. 로봇과 우주 분야로 투자 무게중심이 이동하는 흐름이 확인됩니다.",
       "scorePct": 31
     },
     {
       "rank": 4,
-      "title": "[SW키트] AI가 직접 일하는 시대…신뢰성 검증 시장 커진다",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430894",
+      "title": "애플, 오픈AI 이직한 전 직원 40명에 법적 경고",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180059",
       "source": "네이버",
       "publishedDate": "2026-07-18",
-      "summary": "생성형 AI가 산업 전반에 확산하면서 AI 결과물의 신뢰성을 검증하는 시장이 커지고 있다. AI가 작성한 문서 등 산출물을 검증하는 솔루션이 새로운 B2B 카테고리로 자리잡는 중이다.",
-      "scorePct": 31
+      "summary": "애플이 오픈AI로 이직한 전직 직원 40명에게 법적 경고를 보내며 영업비밀 침해 공방을 본격화했습니다. AI 기술과 디바이스 개발을 둘러싼 빅테크 간 인재 전쟁이 법적 분쟁으로 번지는 양상입니다.",
+      "scorePct": 23
     }
   ]
 }

@@ -6,7 +6,7 @@
     "source": "Microsoft Power Platform Blog",
     "publishedDate": "2026-07-06",
     "summary": "마이크로소프트가 Dataverse의 코딩 에이전트 플러그인을 Claude, Cursor, GitHub Copilot으로 확장한다. 업무 데이터 플랫폼을 AI 코딩 도구와 직접 연결해 에이전트가 기업 데이터를 다루는 통로를 넓히는 행보다.",
-    "scorePct": 70
+    "scorePct": 64
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "Axios",
     "publishedDate": "2026-07-06",
     "summary": "앤트로픽이 클로드 내부에 응답 텍스트와 별개로 개념을 보관·조작하는 소규모 내부 작업 공간이 존재한다는 연구 결과를 발표했다. 모델이 겉으로 출력하는 내용과 내부적으로 처리하는 표상이 다를 수 있음을 실증한 해석가능성 연구의 진전이다.",
-    "scorePct": 60
+    "scorePct": 55
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-07-07",
     "summary": "AI 안전성 평가와 가드레일이 영어권 중심이어서 한국어 등 비영어권 환경에서는 유해 콘텐츠 차단이 쉽게 뚫린다는 지적이 나왔다. 학습 데이터와 안전장치의 언어 편중이 원인으로 꼽힌다.",
-    "scorePct": 20
+    "scorePct": 18
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "네이버",
     "publishedDate": "2026-07-07",
     "summary": "앤트로픽의 클로드 앱이 지난달 국내 MAU 241만명을 기록하며 역대 최고 성적을 냈다. 한때 점유율 0%에 가까웠던 국내 챗봇 시장에서 단기간에 주요 플레이어로 올라섰다.",
-    "scorePct": 10
+    "scorePct": 9
   }
 ]
