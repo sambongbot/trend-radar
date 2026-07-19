@@ -6,7 +6,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-30",
     "summary": "멀티 AI 에이전트 플랫폼 ‘팩트챗’가 국내 이용자 약 50만명의 생성형 AI 활용 패턴을 분석한 데이터를 공개했다. 지난 5월 클로드(36%)가 GPT(34.8%) 점유율 첫 역전했고 제미나이까지 3강 구도가 본격",
-    "scorePct": 77
+    "scorePct": 83
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-30",
     "summary": "인공지능(AI) 에이전트 확산으로 서비스형 소프트웨어(SaaS)가 화면 중심 서비스에서 벗어나, AI가 필요한 기능을 연결해 업무를 수행하는 구조로 재편되고 있다. 정부도 AI 시대 클라우드 생태계 기반을 강화하기 ",
-    "scorePct": 62
+    "scorePct": 67
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-29",
     "summary": "인간의 마지막 발명품 '인공지능 RSI' 시대 눈앞 AI 작업능력, 7개월마다 2배로 에이전트끼리 협업 무한 반복 데이터 학습중심 LLM과 달리 RSI는 AI가 설계 직접 수정해 완전한 RSI 단계에 들어서면 암치료",
-    "scorePct": 54
+    "scorePct": 58
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-29",
     "summary": "정부와 민간이 손잡고 국내에 2035년까지 총 18.4기가와트(GW) 규모의 인공지능(AI) 데이터센터(DC)를 구축한다. 투자액은 1,000조 원에 이른다. 데이터센터를 단순한 데이터 저장소가 아닌 초거대 'AI",
-    "scorePct": 38
+    "scorePct": 42
   },
   {
     "rank": 5,
@@ -42,7 +42,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-30",
     "summary": "인공지능(AI)이 업무 데이터를 이해하고 다음 일을 처리하는 '에이전틱 SaaS'가 공공 서비스형 소프트웨어(SaaS)의 다음 단계로 제시됐다. 기존 SaaS가 정보를 수집해 화면으로 보여주는 데 머물렀다면 앞으로는",
-    "scorePct": 38
+    "scorePct": 42
   },
   {
     "rank": 6,
@@ -51,7 +51,7 @@
     "source": "ExplainX.ai",
     "publishedDate": "2026-06-27",
     "summary": "",
-    "scorePct": 38
+    "scorePct": 42
   },
   {
     "rank": 7,
@@ -60,6 +60,6 @@
     "source": "네이버",
     "publishedDate": "2026-06-29",
     "summary": "",
-    "scorePct": 31
+    "scorePct": 33
   }
 ]

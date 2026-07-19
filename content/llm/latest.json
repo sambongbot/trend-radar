@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-19",
-  "headline": "> 중국 문샷 Kimi K3가 오픈소스로 프론티어 추격에 나서며 모델 경쟁이 다시 가열됐습니다.\n> 메타가 앤트로픽에 컴퓨팅 판매를 논의하는 등 인프라 품귀가 경쟁사 간 공생을 만들고 있습니다.\n> 국내외 모두 AI 비용 구조·인프라 효율이 SaaS 사업의 핵심 경쟁 축으로 이동 중입니다.",
+  "date": "2026-07-20",
+  "headline": "> 중국발 오픈웨이트 공세로 AI 경쟁이 폐쇄형 대 개방형 양강 구도로 재편되고 있습니다.\n> 앤트로픽은 클로드 페이블5를 정식 요금제에 편입했고, 국내 기업 결제액에서 클로드가 챗GPT를 2배 가까이 앞섰습니다.\n> 데이터브릭스 초대형 투자와 리서치·마케팅 AI 에이전트 확산 등 엔터프라이즈 AI 사업화가 가속 중입니다.",
   "items": [
     {
       "rank": 1,
-      "title": "중국 AI 스타트업 문샷 AI, OpenAI 및 앤스로픽에 필적하는 Kimi K3 모델 출시",
-      "url": "https://www.tradingkey.com/kr/analysis/stocks/hk-stock/262037447-moonshot-ai-kimi-k3-openai-anthropic-tradingkey",
-      "source": "TradingKey",
-      "publishedDate": "2026-07-17",
-      "summary": "중국 문샷AI가 2조8000억 파라미터 규모의 오픈소스 모델 Kimi K3를 출시했습니다. 아레나 프론트엔드 코딩 부문 1위를 기록했으나 종합 성능은 Claude Fable 5, GPT-5.6에는 미치지 못하는 것으로 평가됩니다. 오픈소스 진영이 프론티어 모델과의 격차를 빠르게 좁히고 있음을 보여줍니다.",
-      "scorePct": 100
+      "title": "AI race splits in two as China wages open-weight insurgency",
+      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "source": "Axios",
+      "publishedDate": "2026-07-18",
+      "summary": "중국의 Kimi K3 등 오픈웨이트 모델 공세로 글로벌 AI 경쟁이 미국 중심 폐쇄형 진영과 중국 주도 개방형 진영으로 양분되고 있다. 프론티어 성능 격차가 수개월 수준으로 좁혀지며 모델 선택의 판도가 바뀌고 있다.",
+      "scorePct": 64
     },
     {
       "rank": 2,
-      "title": "The Big AI Coding Agents Story: What July 16's News Means for Developers",
-      "url": "https://chatgptaihub.com/the-big-ai-coding-agents-story-what-july-16-s-news-means-for-developers/",
-      "source": "ChatGPT AI Hub",
-      "publishedDate": "2026-07-16",
-      "summary": "7월 16일 하루에 OpenAI, 앤트로픽, 구글이 코딩 특화 모델 업데이트를 쏟아내며 AI 코딩 에이전트 경쟁이 격화되고 있습니다. gpt-5.3-codex, claude-opus-4.7, gemini-3.1-pro 프리뷰 등이 개발자 워크플로우를 겨냥해 동시 출시됐습니다.",
-      "scorePct": 73
+      "title": "AI 출력값이 입력값보다 더 비싼 이유",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311397",
+      "source": "네이버",
+      "publishedDate": "2026-07-19",
+      "summary": "생성형 AI 요금표에서 같은 토큰 수라도 출력 토큰이 입력 토큰보다 최소 수배 비싼 구조적 이유를 분석했다. 추론 과정의 연산 비용 차이가 가격 비대칭의 핵심이다.",
+      "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "GPU만 있다고 끝 아니다…AI 팩토리가 데이터센터와 다른 이유",
-      "url": "https://n.news.naver.com/mnews/article/022/0004144013",
+      "title": "앤스로픽, ‘클로드 페이블5’ 정식 요금제 편입…컴퓨팅 부족에 사용량 절반 제한",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332601",
       "source": "네이버",
-      "publishedDate": "2026-07-18",
-      "summary": "엔비디아가 확산시킨 'AI 팩토리' 개념은 단순 서버 보관 시설이 아니라 데이터를 학습·추론을 거쳐 지능으로 바꾸는 생산 시스템을 뜻합니다. 토큰 생산성이 핵심 경쟁력으로 부상하면서 인프라 투자의 평가 기준이 달라지고 있습니다.",
-      "scorePct": 45
+      "publishedDate": "2026-07-20",
+      "summary": "앤트로픽이 최신 모델 클로드 페이블 5를 유료 요금제에 정식 편입했다. 다만 급증한 수요와 컴퓨팅 부족을 감안해 이용량은 기존 한도의 절반 수준으로 제한한다.",
+      "scorePct": 27
     },
     {
       "rank": 4,
-      "title": "\"돈 줄 테니 서버 좀\"…AI 품귀가 낳은 메타·앤트로픽의 '기묘한 공생'",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430930",
+      "title": "화웨이 \"AI 플랫폼 성능 엔비디아 압도\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332683",
       "source": "네이버",
-      "publishedDate": "2026-07-18",
-      "summary": "메타가 경쟁사인 앤트로픽에 자사 데이터센터의 남는 컴퓨팅 파워를 판매하는 방안을 논의 중이라고 뉴욕타임스가 보도했습니다. AI 연산 능력 품귀가 경쟁 관계를 넘어선 공생 구조를 만들어내고 있습니다.",
-      "scorePct": 18
+      "publishedDate": "2026-07-20",
+      "summary": "중국 화웨이가 2026 세계인공지능대회(WAIC)에서 자사 AI 플랫폼이 엔비디아를 성능에서 압도한다고 주장했다. 미국 중심 AI 컴퓨팅 질서에 대한 중국의 정면 도전이 본격화되고 있다.",
+      "scorePct": 27
     }
   ]
 }

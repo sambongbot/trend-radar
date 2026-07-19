@@ -6,7 +6,7 @@
     "source": "TechCrunch",
     "publishedDate": "2026-07-13",
     "summary": "사티아 나델라 Microsoft CEO가 AI를 쓰는 기업들이 '이중으로 비용을 지불하고 있다'고 경고했다. OpenAI, Anthropic 같은 랩의 모델 비용 구조와 기업의 AI 지출 방식에 대한 문제 제기다.",
-    "scorePct": 46
+    "scorePct": 50
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "와우테일",
     "publishedDate": "2026-07-14",
     "summary": "AI 데이터 인프라 스타트업 알고릭스코퍼레이션이 카카오벤처스로부터 프리시드 투자를 유치했다. 기업 내 여러 시스템에 흩어진 정형·비정형 멀티모달 데이터를 통합 관리하는 데이터 엔진을 개발한다.",
-    "scorePct": 38
+    "scorePct": 42
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "Campus Technology",
     "publishedDate": "2026-07-13",
     "summary": "Microsoft가 Foundry에서 AI 에이전트의 투자대비성과(ROI)를 추적하는 기능을 프라이빗 프리뷰로 공개하고, Forms 등에 Copilot을 확장했다. 에이전트가 실제로 얼마나 비용을 절감하고 성과를 냈는지 정량화하는 도구다.",
-    "scorePct": 31
+    "scorePct": 33
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "네이버",
     "publishedDate": "2026-07-15",
     "summary": "공공조달에서 AI 제품·서비스를 우선 고려하는 AI기본법 시행령이 국무회의를 통과해 21일부터 시행된다. AI 제품·서비스 확인 제도가 도입되고 확인받은 제품은 조달 과정에서 우대받는다.",
-    "scorePct": 23
+    "scorePct": 25
   }
 ]

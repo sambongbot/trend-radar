@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "AI race splits in two as China wages open-weight insurgency",
+    "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+    "source": "Axios",
+    "publishedDate": "2026-07-18",
+    "summary": "중국의 Kimi K3 등 오픈웨이트 모델 공세로 글로벌 AI 경쟁이 미국 중심 폐쇄형 진영과 중국 주도 개방형 진영으로 양분되고 있다. 프론티어 성능 격차가 수개월 수준으로 좁혀지며 모델 선택의 판도가 바뀌고 있다.",
+    "scorePct": 64
+  },
+  {
+    "rank": 2,
+    "title": "AI 출력값이 입력값보다 더 비싼 이유",
+    "url": "https://n.news.naver.com/mnews/article/015/0005311397",
+    "source": "네이버",
+    "publishedDate": "2026-07-19",
+    "summary": "생성형 AI 요금표에서 같은 토큰 수라도 출력 토큰이 입력 토큰보다 최소 수배 비싼 구조적 이유를 분석했다. 추론 과정의 연산 비용 차이가 가격 비대칭의 핵심이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "앤스로픽, ‘클로드 페이블5’ 정식 요금제 편입…컴퓨팅 부족에 사용량 절반 제한",
+    "url": "https://n.news.naver.com/mnews/article/018/0006332601",
+    "source": "네이버",
+    "publishedDate": "2026-07-20",
+    "summary": "앤트로픽이 최신 모델 클로드 페이블 5를 유료 요금제에 정식 편입했다. 다만 급증한 수요와 컴퓨팅 부족을 감안해 이용량은 기존 한도의 절반 수준으로 제한한다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 4,
+    "title": "화웨이 \"AI 플랫폼 성능 엔비디아 압도\"",
+    "url": "https://n.news.naver.com/mnews/article/018/0006332683",
+    "source": "네이버",
+    "publishedDate": "2026-07-20",
+    "summary": "중국 화웨이가 2026 세계인공지능대회(WAIC)에서 자사 AI 플랫폼이 엔비디아를 성능에서 압도한다고 주장했다. 미국 중심 AI 컴퓨팅 질서에 대한 중국의 정면 도전이 본격화되고 있다.",
+    "scorePct": 27
+  }
+]

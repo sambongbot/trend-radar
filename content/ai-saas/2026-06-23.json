@@ -6,7 +6,7 @@
     "source": "AI Maker (Substack)",
     "publishedDate": "2026-06-20",
     "summary": "앤스로픽의 2026년 1분기 클로드 플랫폼·API 변경 사항을 총정리한 가이드다. Claude Agent SDK의 과금 모델 변화 등 빌더가 반드시 알아야 할 업데이트를 체계적으로 다룬다.",
-    "scorePct": 54
+    "scorePct": 58
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-22",
     "summary": "",
-    "scorePct": 38
+    "scorePct": 42
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-22",
     "summary": "국내 1호 AI 유니콘 업스테이지가 인수한 포털 '다음'과 자사 LLM 역량을 결합해 '업스테이지 컴퍼니'를 출범시켰다. LLM 기업이 포털·서비스를 흡수해 '모두를 위한 AI' 생태계 연합군을 구성하는 수직 통합 행보다.",
-    "scorePct": 38
+    "scorePct": 42
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-06-23",
     "summary": "삼성전자가 오픈AI·구글·앤스로픽의 기업용 생성형 AI를 업무에 전면 도입하며 글로벌 최대 규모의 AX(AI 전환)에 나섰다. 그동안 기술유출 우려로 막혔던 외부 AI 사용을 보안 체계를 갖춰 허용한 것이 핵심이다.",
-    "scorePct": 31
+    "scorePct": 33
   },
   {
     "rank": 5,
@@ -42,7 +42,7 @@
     "source": "Snowflake",
     "publishedDate": "2026-06-20",
     "summary": "스노우플레이크가 6월 AI Pulse에서 지식 근로자를 위한 보안 개인 에이전트 'CoWork'를 공개했다. 사내 데이터에 안전하게 연결되는 업무용 AI 에이전트로, 엔터프라이즈 데이터 플랫폼이 직접 에이전트 제품을 출시하는 흐름을 보여준다.",
-    "scorePct": 31
+    "scorePct": 33
   },
   {
     "rank": 6,
@@ -51,6 +51,6 @@
     "source": "WaveSpeed AI",
     "publishedDate": "2026-06-20",
     "summary": "",
-    "scorePct": 31
+    "scorePct": 33
   }
 ]
