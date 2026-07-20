@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "이종 AI끼리 협력해 업무 척척…삼성전기, 내년 A2A 띄운다",
+    "url": "https://n.news.naver.com/mnews/article/011/0004643247",
+    "source": "네이버",
+    "publishedDate": "2026-07-20",
+    "summary": "삼성전기가 서로 다른 종류의 AI 에이전트가 업무를 주고받는 A2A(Agent-to-Agent) 협업 체계를 내년 가동한다. 이종 AI 에이전트끼리 능동적으로 상호작용하며 업무를 자동화하는 구조다.",
+    "scorePct": 58
+  },
+  {
+    "rank": 2,
+    "title": "국방 LLM 개발…LIG D&A·한화시스템 컨소시엄 맞붙는다",
+    "url": "https://n.news.naver.com/mnews/article/092/0002431149",
+    "source": "네이버",
+    "publishedDate": "2026-07-20",
+    "summary": "242억원 규모 국방 특화 거대언어모델(LLM) 사업의 민간 사업자가 이르면 이달 선정된다. LIG넥스원 D&A와 한화시스템 컨소시엄이 맞붙으며, 군 지휘통제 현장에 국방 특화 AI를 직접 투입하는 사업이다.",
+    "scorePct": 42
+  },
+  {
+    "rank": 3,
+    "title": "이해진, 캐나다· 미국 방문…투자 유치에 젠슨황 회동할듯(종합)",
+    "url": "https://n.news.naver.com/mnews/article/001/0016204554",
+    "source": "네이버",
+    "publishedDate": "2026-07-20",
+    "summary": "이해진 네이버 이사회 의장과 최수연 대표가 글로벌 대체투자 운용사 브룩필드 캐나다 본사를 방문하며 조단위 투자 유치가 초읽기에 들어갔다는 관측이 나온다. AI팩토리 데이터센터와 전력 확보를 협의하고, 젠슨 황과의 회동을 통해 엔비디아와의 기술 협력도 가속화할 전망이다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 4,
+    "title": "과기정통부 배경훈, AI 정책 속도전 예고 [현장+]",
+    "url": "https://n.news.naver.com/mnews/article/293/0000087831",
+    "source": "네이버",
+    "publishedDate": "2026-07-20",
+    "summary": "배경훈 부총리 겸 과기정통부 장관이 취임 1주년 간담회에서 세계 최고 수준의 프론티어 AI 모델에 도전해야 한다며 AI 정책 속도전을 예고했다. 독자 AI 모델 육성과 공공분야 AI 에이전트 선제 투입 등 정부 차원의 드라이브가 이어질 전망이다.",
+    "scorePct": 25
+  }
+]
