@@ -1,42 +1,15 @@
 {
-  "date": "2026-07-21",
-  "headline": "> 클로드 페이블5 과금 이원화 시행 — Max는 포함, Pro는 토큰당 과금\n> 네이버, 브룩필드와 조단위 AI팩토리 투자 유치 초읽기\n> 국산 오픈소스 LLM·초경량 모델 약진, GPT-5.6은 워크플로우 중심으로 진화",
+  "date": "2026-07-24",
+  "headline": "> 오늘의 주요 뉴스 8건을 선별했습니다.",
   "items": [
     {
       "rank": 1,
-      "title": "비드래프트, 독자 개발 파운데이션 모델 'Aether-7B-5Attn' 허깅페이스 공개",
-      "url": "https://zdnet.co.kr/view/?no=20260720144532",
-      "source": "ZDNet Korea",
-      "publishedDate": "2026-07-20",
-      "summary": "AI 스타트업 비드래프트가 65.9억 파라미터 MoE 구조의 오픈소스 파운데이션 모델 'Aether-7B-5Attn'을 허깅페이스에 공개했다. 5종의 이종 어텐션 메커니즘을 결합했으며, 학습 데이터 레시피부터 학습 코드·체크포인트까지 완전 공개해 누구나 재현 가능한 구조를 제시했다.",
-      "scorePct": 45
-    },
-    {
-      "rank": 2,
-      "title": "GPT-5.6 솔, 사용자 후기 공개…\"생성 넘어 워크플로우 중심으로\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=212937",
-      "source": "AI타임스",
-      "publishedDate": "2026-07-20",
-      "summary": "OpenAI GPT-5.6 Sol의 실사용자 후기가 공개됐다. 단순 생성 중심에서 벗어나 워크플로우 중심으로 진화한 모델 특성이 부각되며, 실무 자동화 관점의 평가가 이어지고 있다.",
-      "scorePct": 27
-    },
-    {
-      "rank": 3,
-      "title": "Claude Fable 5 Billing Splits Today: Max Gets It Free, Pro Pays Per Token",
-      "url": "https://www.techtimes.com/articles/320999/20260720/claude-fable-5-billing-splits-today-max-gets-it-free-pro-pays-per-token.htm",
-      "source": "Tech Times",
-      "publishedDate": "2026-07-20",
-      "summary": "앤트로픽이 클로드 페이블5의 영구 이원화 요금 구조를 오늘부터 시행했다. Max·Team Premium 요금제에는 기본 포함되고, Pro 요금제는 토큰당 별도 과금 방식으로 전환된다. 세 차례 시한 연장 끝에 확정된 최종 구조다.",
-      "scorePct": 18
-    },
-    {
-      "rank": 4,
-      "title": "팀스파르타 초경량 언어모델, 'K-AI 리더보드' 초고난도 추론 1위",
-      "url": "https://n.news.naver.com/mnews/article/092/0002431151",
+      "title": "경기대, 생성형 AI 활용 핵심 '프롬프트 엔지니어링' 집중교육 성료",
+      "url": "https://n.news.naver.com/mnews/article/030/0003450505",
       "source": "네이버",
-      "publishedDate": "2026-07-20",
-      "summary": "팀스파르타가 자체 개발한 초경량 언어모델 'K-AX 스파르탄 1.8B'가 과기정통부·NIA가 운영하는 K-AI 리더보드 초고난도 추론 부문 1위를 기록했다. 1.8B급 경량 모델로 추론 성능 상위권을 차지한 사례다.",
-      "scorePct": 9
+      "publishedDate": "2026-07-24",
+      "summary": "경기대학교 SW중심대학사업단은 재학생의 인공지능(AI) 실무역량 강화를 위한 '2026 AI-Powered AI 프롬프트 엔지니어링 집중교육과정'을 성황리에 마무리했다고 23일 밝혔다. 이번 교육은 생성형 AI의 기",
+      "scorePct": 27
     }
   ]
 }
