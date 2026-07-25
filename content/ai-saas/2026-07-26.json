@@ -1,0 +1,65 @@
+[
+  {
+    "rank": 1,
+    "title": "삼성SDS, 앤스로픽과 손잡고 '클로드' 확산…국내 엔터프라이즈 AI 시장 공략 강화",
+    "url": "https://n.news.naver.com/mnews/article/018/0006336777",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "삼성SDS(삼성에스디에스(018260))가 글로벌 AI 기업 앤스로픽(Anthropic)과 전략적 파트너십을 맺고 생성형 AI ‘클로드(Claude)’를 앞세워 국내 엔터프라이즈 AI 시장 공략에 나선다. 공동 사업",
+    "scorePct": 58
+  },
+  {
+    "rank": 2,
+    "title": "보안 좋고 연동 쉽고… 카드업계, MS 코파일럿 AI 도입 속도",
+    "url": "https://n.news.naver.com/mnews/article/366/0001181776",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "우리·KB, 내부 문서 확인·상담 요약 등에 활용 최근 카드업계에서 마이크로소프트(MS)의 생성형 인공지능(AI) 서비스인 코파일럿(Copilot) 도입이 확산하고 있다. 보안을 유지한 채 사내 문서와 규정, 보고서",
+    "scorePct": 42
+  },
+  {
+    "rank": 3,
+    "title": "말로 일하는 시대, 음성 AI 에이전트가 온다",
+    "url": "https://n.news.naver.com/mnews/article/030/0003450794",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "AI가 단순히 묻고 답하는 도구를 넘어 스스로 업무를 수행하는 자율적 동료로 진화하고 있다. 그 변화의 한가운데에 음성이 있다. 키보드와 터치를 대신해 사람이 AI와 일하는 가장 자연스러운 인터페이스로 음성이 빠르게",
+    "scorePct": 42
+  },
+  {
+    "rank": 4,
+    "title": "AI가 우주에서 데이터 처리…中, 1천개 위성 '스타허브' 띄운다",
+    "url": "https://n.news.naver.com/mnews/article/008/0005390527",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "중국이 위성에서 생성된 데이터를 우주에서 인공지능(AI)으로 직접 처리한 뒤 결과만 지상으로 전송하는 '우주 컴퓨팅 네트워크' 구축에 나섰다. AI 데이터센터를 우주에 건설하는 일론 머스크의 스페이스X와 달리 중국은",
+    "scorePct": 33
+  },
+  {
+    "rank": 5,
+    "title": "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯",
+    "url": "https://n.news.naver.com/mnews/article/001/0016214471",
+    "source": "네이버",
+    "publishedDate": "2026-07-25",
+    "summary": "삼성전자 AI 전환도 논의…구체적 공급·투자 계획 주목 이재용 삼성전자 회장과 샘 올트먼 오픈AI 최고경영자(CEO)가 미국 샌프란시스코 오픈AI 본사에서 만나 인공지능(AI) 인프라와 삼성전자의 AI 전환을 위한",
+    "scorePct": 33
+  },
+  {
+    "rank": 6,
+    "title": "네이버 \"브룩필드·엔비디아와 함께 AI 팩토리 확장\"(종합)",
+    "url": "https://n.news.naver.com/mnews/article/421/0009078580",
+    "source": "네이버",
+    "publishedDate": "2026-07-25",
+    "summary": "네이버(035420)가 엔비디아와 브룩필드로부터 100억 달러(약 14조 6000억 원) 규모 투자를 받아 글로벌 인공지능(AI) 팩토리 구축에 나선다고 발표했다. 네이버는 24일(현지시간) 이재명 대통령의 미국 샌",
+    "scorePct": 33
+  },
+  {
+    "rank": 7,
+    "title": "네이버, 엔비디아·브룩필드와 100억달러 투입…AI 팩토리 인프라 확대",
+    "url": "https://n.news.naver.com/mnews/article/011/0004645126",
+    "source": "네이버",
+    "publishedDate": "2026-07-25",
+    "summary": "네이버와 브룩필드, 엔비디아가 한국의 소버린 인공지능(AI) 인프라 확대를 위해 총 100억 달러(약 14조 6300억 원)를 투입한다. 이를 기반으로 세종 데이터센터 ‘각 세종’에 구축되는 AI 팩토리의 초기 규모",
+    "scorePct": 33
+  }
+]
