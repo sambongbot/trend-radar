@@ -1,6 +1,24 @@
 [
   {
     "rank": 1,
+    "title": "SKT, ‘독자 AI’ 앞세워 스타트업 혁신 지원…A.X K1 API 개방",
+    "url": "https://n.news.naver.com/mnews/article/018/0006336926",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "SK텔레콤이 중소벤처기업부 AX-LLM 사업에 참여해 자체 개발한 'A.X K1' 모델의 API를 스타트업 3곳에 개방한다. 독자 AI 모델의 활용 사례를 넓히고 스타트업 육성 프로그램과 연계해 국산 AI 생태계 확대를 노린다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 2,
+    "title": "딥시크, 투자 유치 멈췄다…창업자 발언 유출에 잠정 중단",
+    "url": "https://n.news.naver.com/mnews/article/018/0006336986",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "중국 AI 스타트업 딥시크가 두 번째 투자 유치 라운드를 잠정 중단했다고 블룸버그가 보도했다. 량원펑 창업자의 발언이 유출되며 투자자들과의 신뢰 문제가 불거진 것으로 알려졌다.",
+    "scorePct": 58
+  },
+  {
+    "rank": 3,
     "title": "삼성SDS, 앤스로픽과 손잡고 '클로드' 확산…국내 엔터프라이즈 AI 시장 공략 강화",
     "url": "https://n.news.naver.com/mnews/article/018/0006336777",
     "source": "네이버",
@@ -9,7 +27,34 @@
     "scorePct": 58
   },
   {
-    "rank": 2,
+    "rank": 4,
+    "title": "우리은행&#160;\"AI 에이전트 도입… 데이터 중심 영업으로 성장에 속도\"",
+    "url": "https://n.news.naver.com/mnews/article/469/0000944416",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "우리은행이 하반기 경영전략회의에서 AI 에이전트를 도입해 데이터 중심 영업 체계로 전환하겠다는 방침을 밝혔다. 임직원 410여명이 참석한 자리에서 성장 가속화를 위한 핵심 전략으로 AI 활용을 제시했다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 5,
+    "title": "KT, 상반기 금융 AX 22건 수주…AI 풀스택으로 '실제 성과' 낸다",
+    "url": "https://n.news.naver.com/mnews/article/014/0005552891",
+    "source": "네이버",
+    "publishedDate": "2026-07-26",
+    "summary": "KT가 상반기에만 금융권 AI전환 사업 22건을 수주하며 '도입'이 아닌 '성과' 중심의 AX 전략을 내세웠다. 데이터와 AI 풀스택 역량을 앞세워 금융사들의 실질적 성과 창출을 지원하고 있다.",
+    "scorePct": 42
+  },
+  {
+    "rank": 6,
+    "title": "[현장] 한국 상륙한 AI 플랫폼 '젠스파크'…3년간 1억 달러 투자",
+    "url": "https://zdnet.co.kr/view/?no=20260724171937",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-07-24",
+    "summary": "AI 유니콘 젠스파크가 한국 시장에 공식 진출하며 향후 3년간 1억 달러를 투자하겠다고 밝혔다. 지속적 기억 레이어 '세컨드브레인'을 탑재한 AI 워크스페이스 6.0도 함께 공개했다.",
+    "scorePct": 42
+  },
+  {
+    "rank": 7,
     "title": "보안 좋고 연동 쉽고… 카드업계, MS 코파일럿 AI 도입 속도",
     "url": "https://n.news.naver.com/mnews/article/366/0001181776",
     "source": "네이버",
@@ -18,7 +63,7 @@
     "scorePct": 42
   },
   {
-    "rank": 3,
+    "rank": 8,
     "title": "말로 일하는 시대, 음성 AI 에이전트가 온다",
     "url": "https://n.news.naver.com/mnews/article/030/0003450794",
     "source": "네이버",
@@ -27,7 +72,7 @@
     "scorePct": 42
   },
   {
-    "rank": 4,
+    "rank": 9,
     "title": "AI가 우주에서 데이터 처리…中, 1천개 위성 '스타허브' 띄운다",
     "url": "https://n.news.naver.com/mnews/article/008/0005390527",
     "source": "네이버",
@@ -36,7 +81,7 @@
     "scorePct": 33
   },
   {
-    "rank": 5,
+    "rank": 10,
     "title": "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협의할듯",
     "url": "https://n.news.naver.com/mnews/article/001/0016214471",
     "source": "네이버",
@@ -45,7 +90,7 @@
     "scorePct": 33
   },
   {
-    "rank": 6,
+    "rank": 11,
     "title": "네이버 \"브룩필드·엔비디아와 함께 AI 팩토리 확장\"(종합)",
     "url": "https://n.news.naver.com/mnews/article/421/0009078580",
     "source": "네이버",
@@ -54,7 +99,7 @@
     "scorePct": 33
   },
   {
-    "rank": 7,
+    "rank": 12,
     "title": "네이버, 엔비디아·브룩필드와 100억달러 투입…AI 팩토리 인프라 확대",
     "url": "https://n.news.naver.com/mnews/article/011/0004645126",
     "source": "네이버",
