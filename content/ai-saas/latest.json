@@ -1,33 +1,42 @@
 {
-  "date": "2026-07-29",
-  "headline": "> 문샷AI가 2.8조 파라미터급 오픈웨이트 모델 '키미 K3'를 무료 공개하며 카카오 '카나나-2'까지 가세, 오픈소스 대형모델 경쟁이 격화되는 하루.\n> MCP 스펙 릴리스 후보 공개와 오픈AI·앤트로픽의 코딩 도구 사용한도 확대 경쟁으로 개발자 도구 생태계가 빠르게 움직임.\n> 생성형 AI 답변 속 브랜드 노출을 지수화한 신규 서비스와 AI 물류 스타트업 투자 확대 등 AI 활용 비즈니스 저변도 넓어지는 중.",
+  "date": "2026-07-30",
+  "headline": "> 클로드 미토스가 양자내성암호 공격법을 발견하며 프론티어 모델의 실전 보안 연구 역량이 입증됐다.\n> Grok 4.5의 깃허브 코파일럿 통합과 SKT A.X K2 공개로 코딩·파운데이션 모델 경쟁이 격화되고 있다.\n> 코그니전트·MS·퍼플렉시티·포스코DX 등이 AI 에이전트 도입과 엔터프라이즈 파트너십 확대에 속도를 내고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "블로터·넘버스, AWS·가비아와 AI뉴스룸 오픈…언론 특화 LLM 개발 추진",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088234",
-      "source": "네이버",
-      "publishedDate": "2026-07-29",
-      "summary": "경제매체 '블로터'와 '넘버스'가 AWS·가비아와 손잡고 'AI 뉴스룸'을 오픈, 언론 특화 LLM 개발을 추진한다. 클라우드 인프라와 자체 LLM을 결합한 버티컬 AI 서비스 모델을 제시했다.",
-      "scorePct": 42
+      "title": "Cognizant Deepens Anthropic Alliance to Scale Enterprise AI Adoption",
+      "url": "https://www.hpcwire.com/aiwire/2026/07/27/cognizant-deepens-anthropic-alliance-to-scale-enterprise-ai-adoption/",
+      "source": "AIwire (HPCwire)",
+      "publishedDate": "2026-07-27",
+      "summary": "코그니전트가 앤트로픽과의 전략적 파트너십을 확대하며 소수의 엔터프라이즈급 파트너 중 하나로 자리매김했다. 대기업 고객의 클로드 기반 AI 도입을 가속화할 계획이다.",
+      "scorePct": 45
     },
     {
       "rank": 2,
-      "title": "\"AI 경쟁력, GPU 아닌 운영 역량\"…오케스트로 4.0은 새 기술 전환점[현장]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003115687",
-      "source": "네이버",
-      "publishedDate": "2026-07-29",
-      "summary": "AI 인프라 소프트웨어 기업 오케스트로가 'AI 경쟁력은 GPU가 아닌 운영 역량'이라며 오케스트로 4.0을 새 기술 전환점으로 제시했다. 클라우드 속도와 주권을 AI 전환(AX)으로 재정립하겠다는 전략이다.",
-      "scorePct": 25
+      "title": "MS, 가상 해킹부터 코드 수정까지…'AI 보안팀' 퍼셉션 공개",
+      "url": "https://www.hankyung.com/article/202607289213i",
+      "source": "한국경제",
+      "publishedDate": "2026-07-28",
+      "summary": "마이크로소프트가 'MS 보안' 행사에서 에이전트 기반 보안 플랫폼 '프로젝트 퍼셉션'을 공개했다. 레드팀·블루팀·그린팀 에이전트가 공격·탐지·보강 과정을 자동화한다.",
+      "scorePct": 27
     },
     {
       "rank": 3,
-      "title": "챗봇 답변 속 브랜드 경쟁력은…AI빅스랩, 'AI빅스' 지수 공개[현장]",
-      "url": "https://n.news.naver.com/mnews/article/092/0002432240",
+      "title": "Perplexity brings its Personal Computer AI agent to Windows",
+      "url": "https://siliconangle.com/2026/07/28/perplexity-brings-personal-computer-ai-agent-windows/",
+      "source": "SiliconANGLE",
+      "publishedDate": "2026-07-28",
+      "summary": "퍼플렉시티가 AI 에이전트 'Personal Computer'의 윈도우 버전을 출시하며 자동화 소프트웨어 지원 범위를 확대했다. 기존 맥 전용에서 윈도우까지 넓어지며 사용자 기반 확대가 기대된다.",
+      "scorePct": 27
+    },
+    {
+      "rank": 4,
+      "title": "포스코DX, AI 네이티브로 전환…피지컬·에이전틱 AI 갖춘다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796147",
       "source": "네이버",
-      "publishedDate": "2026-07-29",
-      "summary": "AI빅스랩이 챗봇 답변 속 브랜드 노출·인용 빈도를 지수화한 'AI빅스'를 공개했다. 포털 검색 노출 대신 생성형 AI 답변 속 브랜드 경쟁력을 측정하는 새로운 마케팅 지표 서비스다.",
-      "scorePct": 25
+      "publishedDate": "2026-07-30",
+      "summary": "포스코DX가 AI 네이티브 컴퍼니로의 전환을 선언하고 피지컬 AI와 에이전틱 AI를 두 축으로 기술개발·사업화에 나선다고 밝혔다. 산업 현장의 AI 전환(AX)을 지원하는 것이 목표다.",
+      "scorePct": 18
     }
   ]
 }
