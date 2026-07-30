@@ -1,42 +1,51 @@
 {
-  "date": "2026-07-30",
-  "headline": "> 클로드 미토스가 양자내성암호 공격법을 발견하며 프론티어 모델의 실전 보안 연구 역량이 입증됐다.\n> Grok 4.5의 깃허브 코파일럿 통합과 SKT A.X K2 공개로 코딩·파운데이션 모델 경쟁이 격화되고 있다.\n> 코그니전트·MS·퍼플렉시티·포스코DX 등이 AI 에이전트 도입과 엔터프라이즈 파트너십 확대에 속도를 내고 있다.",
+  "date": "2026-07-31",
+  "headline": "> AI 에이전트가 결제까지 수행하는 에이전틱 커머스가 본격화되고, 기업들은 에이전트 거버넌스·보안 체계 구축을 서두르고 있다.\n> 국내에서는 광고·MLOps 등 기존 솔루션을 AI SaaS로 전환하는 사례가 이어졌다.\n> LLM 진영에서는 중국 오픈소스 모델의 실사용 확산과 AI 레드티밍 기술이 주목받았다.",
   "items": [
     {
       "rank": 1,
-      "title": "Cognizant Deepens Anthropic Alliance to Scale Enterprise AI Adoption",
-      "url": "https://www.hpcwire.com/aiwire/2026/07/27/cognizant-deepens-anthropic-alliance-to-scale-enterprise-ai-adoption/",
-      "source": "AIwire (HPCwire)",
-      "publishedDate": "2026-07-27",
-      "summary": "코그니전트가 앤트로픽과의 전략적 파트너십을 확대하며 소수의 엔터프라이즈급 파트너 중 하나로 자리매김했다. 대기업 고객의 클로드 기반 AI 도입을 가속화할 계획이다.",
-      "scorePct": 45
+      "title": "문페이, AI 에이전트용 결제 금고 ‘페이박스’ 출시",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129151",
+      "source": "네이버",
+      "publishedDate": "2026-07-31",
+      "summary": "가상자산 결제 인프라 기업 문페이가 챗GPT와 클로드 안에서 AI 에이전트가 직접 거래와 결제를 수행할 수 있도록 지원하는 결제 금고 '페이박스'를 출시했다. 사람 개입 없이 에이전트가 안전하게 자금을 관리하도록 설계된 인프라다.",
+      "scorePct": 73
     },
     {
       "rank": 2,
-      "title": "MS, 가상 해킹부터 코드 수정까지…'AI 보안팀' 퍼셉션 공개",
-      "url": "https://www.hankyung.com/article/202607289213i",
-      "source": "한국경제",
-      "publishedDate": "2026-07-28",
-      "summary": "마이크로소프트가 'MS 보안' 행사에서 에이전트 기반 보안 플랫폼 '프로젝트 퍼셉션'을 공개했다. 레드팀·블루팀·그린팀 에이전트가 공격·탐지·보강 과정을 자동화한다.",
-      "scorePct": 27
+      "title": "에스투더블유, AI 서비스 취약점 진단 사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129153",
+      "source": "네이버",
+      "publishedDate": "2026-07-31",
+      "summary": "빅데이터·AI 기업 S2W가 자체 AI 도구와 전문가 노하우를 결합해 에이전틱 AI 서비스의 취약점을 진단하는 사업을 확대한다. 대형 레퍼런스 확보를 통해 AI 보안 진단 시장에서 입지를 넓히려는 전략이다.",
+      "scorePct": 45
     },
     {
       "rank": 3,
-      "title": "Perplexity brings its Personal Computer AI agent to Windows",
-      "url": "https://siliconangle.com/2026/07/28/perplexity-brings-personal-computer-ai-agent-windows/",
-      "source": "SiliconANGLE",
+      "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
+      "source": "VentureBeat",
       "publishedDate": "2026-07-28",
-      "summary": "퍼플렉시티가 AI 에이전트 'Personal Computer'의 윈도우 버전을 출시하며 자동화 소프트웨어 지원 범위를 확대했다. 기존 맥 전용에서 윈도우까지 넓어지며 사용자 기반 확대가 기대된다.",
-      "scorePct": 27
+      "summary": "Snowflake가 기업이 구축한 AI 에이전트의 동작을 통제하고 과도한 비용 발생을 막는 중앙 관제 계층 'Cortex AI Gateway'를 출시했다. 사내에 흩어진 AI 에이전트의 권한·비용·행동을 표준화된 방식으로 감독하려는 시도다.",
+      "scorePct": 45
     },
     {
       "rank": 4,
-      "title": "포스코DX, AI 네이티브로 전환…피지컬·에이전틱 AI 갖춘다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005796147",
+      "title": "CJ메조미디어, AI 광고 플랫폼 ‘애들리’ SaaS 플랫폼으로 개편",
+      "url": "https://n.news.naver.com/mnews/article/029/0003039938",
       "source": "네이버",
-      "publishedDate": "2026-07-30",
-      "summary": "포스코DX가 AI 네이티브 컴퍼니로의 전환을 선언하고 피지컬 AI와 에이전틱 AI를 두 축으로 기술개발·사업화에 나선다고 밝혔다. 산업 현장의 AI 전환(AX)을 지원하는 것이 목표다.",
-      "scorePct": 18
+      "publishedDate": "2026-07-31",
+      "summary": "CJ메조미디어가 AI 기반 통합광고 운영 플랫폼 '애들리'를 SaaS 형태로 개편했다고 밝혔다. 기존 자사 솔루션을 구독형 SaaS로 전환해 외부 고객 대상 사업 확장을 꾀하는 사례다.",
+      "scorePct": 27
+    },
+    {
+      "rank": 5,
+      "title": "이노그리드, AI 개발·운영 복잡성 줄여주는 ‘AI큐브잇’ 출시",
+      "url": "https://n.news.naver.com/mnews/article/029/0003039957",
+      "source": "네이버",
+      "publishedDate": "2026-07-31",
+      "summary": "이노그리드가 AI 모델의 개발부터 학습·배포·운영까지 전 과정을 통합 관리하는 AI·ML옵스 플랫폼 'AI큐브잇'을 출시했다. 데이터셋 관리 등 AI 개발 복잡성을 줄이는 데 초점을 맞췄다.",
+      "scorePct": 27
     }
   ]
 }
