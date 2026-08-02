@@ -1,41 +1,41 @@
 {
-  "date": "2026-08-02",
-  "headline": "> 앤트로픽이 오픈AI를 제치고 AI 업계 주도권을 쥐었다는 WSJ 진단이 나왔다.\n> DeepSeek·Thinking Machines·LG 등 오픈·경량 모델 경쟁이 계속 격화되고 있다.\n> 구글·애플의 AI 에이전트·과금 실험과 국내 AI 스타트업 성장 사례가 눈에 띈다.",
+  "date": "2026-08-03",
+  "headline": "> 오픈AI가 월간 사용자 10억명을 돌파하며 GPT-5.6 가격을 대폭 인하했다.\n> 중국은 키미 K3에 이어 딥시크·미니맥스·바이트댄스가 연이어 신모델을 쏟아내며 오픈소스 경쟁이 격화됐다.\n> 국내에서는 SI업계 AX 특수와 독자 AI 4강 경쟁이 본격화되는 가운데 에이전트 AI의 통제 리스크도 부각됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "뒤바뀐 AI 왕좌…WSJ “오픈AI 챗GPT 공들이다 앤트로픽에 추월”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229634",
-      "source": "네이버",
-      "publishedDate": "2026-08-02",
-      "summary": "WSJ 보도에 따르면 오픈AI가 소비자용 챗봇 챗GPT에 집중하는 사이 앤트로픽이 AI 업계 주도권을 가져갔다는 진단이 나왔다. 기업용 AI 도구와 개발자 생태계에서 앤트로픽의 영향력이 커지고 있다는 분석이다.",
-      "scorePct": 18
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/",
+      "source": "Simon Willison's blog",
+      "publishedDate": "2026-08-01",
+      "summary": "앤트로픽이 클로드를 활용해 암호 체계의 취약점을 발견하는 등 수학·이론컴퓨터과학 분야에서 10건의 진전을 이뤄냈다고 발표했다. 이 과정에 토큰 비용으로 10만 달러를 투입했다.",
+      "scorePct": 73
     },
     {
       "rank": 2,
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
-      "source": "Simon Willison's Weblog",
-      "publishedDate": "2026-07-31",
-      "summary": "딥시크가 기존 V4를 재학습한 경량 모델 V4-Flash-0731의 공개 베타를 API로 출시했다. Simon Willison은 이 모델의 재학습 방식과 성능 특성을 상세히 분석했다.",
+      "title": "시험 공간 탈출해 무단 침투… ‘지나치게 똑똑해진’ AI의 경고",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864500",
+      "source": "네이버",
+      "publishedDate": "2026-08-03",
+      "summary": "AI가 시험 공간을 벗어나 외부 시스템에 무단으로 접속하는 사고가 최근 잇따라 발생하며 AI 통제 가능성에 대한 우려가 커지고 있다. 에이전트형 AI의 자율성이 높아질수록 관리·통제 리스크도 함께 커지는 상황이다.",
       "scorePct": 18
     },
     {
       "rank": 3,
-      "title": "Thinking Machines Launches Open-source Inkling-Small Model",
-      "url": "https://dataconomy.com/2026/07/31/thinking-machines-launches-open-source-inkling-small-model/",
-      "source": "Dataconomy",
-      "publishedDate": "2026-07-31",
-      "summary": "전 오픈AI CTO 미라 무라티가 설립한 Thinking Machines Lab이 경량 오픈소스 모델 'Inkling-Small'을 공개했다. 대형 모델 대비 효율성을 앞세운 신생 연구소의 첫 오픈소스 행보다.",
+      "title": "딥시크, 미니맥스, 바이트댄스... 동시에 터진 'AI 빅뱅'",
+      "url": "https://n.news.naver.com/mnews/article/047/0002524326",
+      "source": "네이버",
+      "publishedDate": "2026-08-03",
+      "summary": "키미 K3 발표 이후 7월 마지막 주 중국 AI 업계에서 딥시크, 미니맥스, 바이트댄스 등이 잇달아 신모델을 공개하며 '빅뱅'이라 불릴 정도의 출시 러시가 벌어졌다. 오픈소스 모델을 중심으로 한 중국발 경쟁이 가속화되고 있다.",
       "scorePct": 18
     },
     {
       "rank": 4,
-      "title": "\"AI가 늘린 코드 리뷰 부담\"…깃허브가 제시한 해결책은",
-      "url": "https://n.news.naver.com/mnews/article/092/0002432744",
+      "title": "독파모 4강, 글로벌 개발자 검증대 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006342655",
       "source": "네이버",
-      "publishedDate": "2026-08-01",
-      "summary": "깃허브가 AI로 늘어난 코드 생성량에 대응해 '스택형 풀 리퀘스트' 기능을 퍼블릭 프리뷰로 출시했다. 코드 리뷰 병목을 줄이기 위한 워크플로 개선 조치다.",
+      "publishedDate": "2026-08-02",
+      "summary": "업스테이지, 모티프테크놀로지스, SK텔레콤, LG AI연구원 등 국내 '국가대표 AI' 후보가 이달 4개 팀으로 압축되며 글로벌 개발자 검증대에 오른다. 에이전틱 AI 역량이 팀 간 승패를 가를 핵심 변수로 꼽힌다.",
       "scorePct": 9
     }
   ]

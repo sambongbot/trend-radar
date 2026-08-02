@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "SI업계 ‘클라우드·AX 특수’… AI 인프라·로봇 승부수",
+    "url": "https://n.news.naver.com/mnews/article/022/0004147829",
+    "source": "네이버",
+    "publishedDate": "2026-08-03",
+    "summary": "삼성SDS·LG CNS 등 국내 SI 업계가 AI 전환(AX) 수요에 힘입어 2분기 매출 3조7178억원을 기록하며 전년 대비 5.9% 성장했다. GPU를 넘어 NPU 기반 추론 인프라 선점 경쟁이 본격화되고 있으며 데이터센터도 순차 가동 중이다.",
+    "scorePct": 45
+  },
+  {
+    "rank": 2,
+    "title": "오픈AI 월간 사용자 10억명 돌파…기업 고객 200만곳",
+    "url": "https://n.news.naver.com/mnews/article/018/0006342588",
+    "source": "네이버",
+    "publishedDate": "2026-08-03",
+    "summary": "오픈AI의 월간 활성 사용자가 10억명, 기업 고객이 200만곳을 넘어섰다고 발표했다. 이는 최신 모델 GPT-5.6의 가격을 최대 80% 인하한 다음 날 나온 발표로, 가격 인하가 확산 전략의 일환임을 시사한다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "통신요금도 'AX시대'…AI 구독상품 경쟁 나선 통신 3사",
+    "url": "https://n.news.naver.com/mnews/article/014/0005556052",
+    "source": "네이버",
+    "publishedDate": "2026-08-02",
+    "summary": "SK텔레콤·KT·LG유플러스 등 이동통신 3사가 AI 구독상품을 앞세운 번들 요금제를 잇달아 확대하고 있다. 10월 최적요금제 고지 의무화를 앞두고 AI 유료 서비스 수요 확보 경쟁이 가속화되고 있다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 4,
+    "title": "\"AI 3줄 요약보다 내 색깔\"…월 1000만원 '네이버 메이트' 비결",
+    "url": "https://n.news.naver.com/mnews/article/018/0006342578",
+    "source": "네이버",
+    "publishedDate": "2026-08-02",
+    "summary": "AI가 요약·정리에 능숙해진 시대에 오히려 창작자 고유의 색깔이 경쟁력으로 부상하고 있으며, 네이버 메이트를 통해 월 1000만원을 버는 창작자 사례가 나왔다. 콘텐츠 경쟁 기준이 키워드·형식에서 AI가 대체할 수 없는 개성으로 옮겨가고 있다.",
+    "scorePct": 18
+  }
+]
