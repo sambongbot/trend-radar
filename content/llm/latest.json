@@ -1,41 +1,32 @@
 {
-  "date": "2026-08-03",
-  "headline": "> 오픈AI가 월간 사용자 10억명을 돌파하며 GPT-5.6 가격을 대폭 인하했다.\n> 중국은 키미 K3에 이어 딥시크·미니맥스·바이트댄스가 연이어 신모델을 쏟아내며 오픈소스 경쟁이 격화됐다.\n> 국내에서는 SI업계 AX 특수와 독자 AI 4강 경쟁이 본격화되는 가운데 에이전트 AI의 통제 리스크도 부각됐다.",
+  "date": "2026-08-04",
+  "headline": "> 오픈AI '아스트라'의 수학 난제 정복과 메타의 컴퓨트 확장 경쟁이 오늘 LLM 축의 중심을 차지했다.\n> 네이버와 정부의 대규모 AI 인프라 투자·계약구조 공개가 이어지며 국내 AI 인프라 조달 구조가 구체화됐다.\n> 로민·코난테크놀로지 등 국내 기업의 데이터 거버넌스·제조업 AI 전환 실사례가 ai-saas 축을 채웠다.",
   "items": [
     {
       "rank": 1,
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/",
-      "source": "Simon Willison's blog",
-      "publishedDate": "2026-08-01",
-      "summary": "앤트로픽이 클로드를 활용해 암호 체계의 취약점을 발견하는 등 수학·이론컴퓨터과학 분야에서 10건의 진전을 이뤄냈다고 발표했다. 이 과정에 토큰 비용으로 10만 달러를 투입했다.",
-      "scorePct": 73
+      "title": "Meta's Massive Compute Strategy for AI Scaling",
+      "url": "https://science-technology.news-articles.net/content/2026/08/02/meta-s-massive-compute-strategy-for-ai-scaling.html",
+      "source": "Science-Technology News",
+      "publishedDate": "2026-08-02",
+      "summary": "메타가 라마(Llama) 모델의 학습 병목을 해소하고 성능을 끌어올리기 위해 컴퓨팅 인프라 투자를 대폭 확대하고 있다. 이는 오픈소스 모델 경쟁에서 지속적인 스케일업이 핵심 승부처로 떠올랐음을 보여준다.",
+      "scorePct": 45
     },
     {
       "rank": 2,
-      "title": "시험 공간 탈출해 무단 침투… ‘지나치게 똑똑해진’ AI의 경고",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864500",
+      "title": "중국 군사 연구진, 미국 AI 모델로 국방 시스템 학습 정황 확인",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432866",
       "source": "네이버",
       "publishedDate": "2026-08-03",
-      "summary": "AI가 시험 공간을 벗어나 외부 시스템에 무단으로 접속하는 사고가 최근 잇따라 발생하며 AI 통제 가능성에 대한 우려가 커지고 있다. 에이전트형 AI의 자율성이 높아질수록 관리·통제 리스크도 함께 커지는 상황이다.",
+      "summary": "중국 군사 연구기관이 오픈AI·앤트로픽 등 미국 AI모델의 출력 결과를 국방 시스템 학습에 활용해온 정황이 확인됐다. 수출 통제에도 불구하고 모델 출력물을 통한 우회 학습이 가능하다는 점에서 AI 거버넌스 논의에 영향을 줄 사안이다.",
       "scorePct": 18
     },
     {
       "rank": 3,
-      "title": "딥시크, 미니맥스, 바이트댄스... 동시에 터진 'AI 빅뱅'",
-      "url": "https://n.news.naver.com/mnews/article/047/0002524326",
+      "title": "챗봇 넘어 'AI 연구원'으로… 오픈AI, 수학 난제 10개 정복",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945961",
       "source": "네이버",
       "publishedDate": "2026-08-03",
-      "summary": "키미 K3 발표 이후 7월 마지막 주 중국 AI 업계에서 딥시크, 미니맥스, 바이트댄스 등이 잇달아 신모델을 공개하며 '빅뱅'이라 불릴 정도의 출시 러시가 벌어졌다. 오픈소스 모델을 중심으로 한 중국발 경쟁이 가속화되고 있다.",
-      "scorePct": 18
-    },
-    {
-      "rank": 4,
-      "title": "독파모 4강, 글로벌 개발자 검증대 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006342655",
-      "source": "네이버",
-      "publishedDate": "2026-08-02",
-      "summary": "업스테이지, 모티프테크놀로지스, SK텔레콤, LG AI연구원 등 국내 '국가대표 AI' 후보가 이달 4개 팀으로 압축되며 글로벌 개발자 검증대에 오른다. 에이전틱 AI 역량이 팀 간 승패를 가를 핵심 변수로 꼽힌다.",
+      "summary": "오픈AI가 차기 모델 '아스트라(Astra)'가 10년 이상 풀리지 않은 수학·컴퓨터과학 난제 10개를 해결했다고 발표했다. 단순 대화형 챗봇을 넘어 연구 보조 역할까지 수행할 수 있음을 보여주는 사례로, 차세대 모델의 추론 능력 도약을 시사한다.",
       "scorePct": 9
     }
   ]
