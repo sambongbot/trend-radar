@@ -1,33 +1,42 @@
 {
-  "date": "2026-08-04",
-  "headline": "> 오픈AI '아스트라'의 수학 난제 정복과 메타의 컴퓨트 확장 경쟁이 오늘 LLM 축의 중심을 차지했다.\n> 네이버와 정부의 대규모 AI 인프라 투자·계약구조 공개가 이어지며 국내 AI 인프라 조달 구조가 구체화됐다.\n> 로민·코난테크놀로지 등 국내 기업의 데이터 거버넌스·제조업 AI 전환 실사례가 ai-saas 축을 채웠다.",
+  "date": "2026-08-05",
+  "headline": "> 앤스로픽이 컴퓨팅 확보와 인도 데이터 전략으로 인프라 기반을 다지는 한편, 자율 AI 에이전트발 보안·법적 책임 논란도 커지고 있다.\n> 미국 빅테크는 AI 투자 대비 현금흐름 부담이 커지는 가운데, 1인 AI 기업 같은 새로운 사업 모델이 부상하고 있다.\n> 국내에서는 네이버의 남미 진출과 정부의 '모두의 AI' 사업자 모집 등 AI 사업 확대 움직임이 이어지고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "Meta's Massive Compute Strategy for AI Scaling",
-      "url": "https://science-technology.news-articles.net/content/2026/08/02/meta-s-massive-compute-strategy-for-ai-scaling.html",
-      "source": "Science-Technology News",
-      "publishedDate": "2026-08-02",
-      "summary": "메타가 라마(Llama) 모델의 학습 병목을 해소하고 성능을 끌어올리기 위해 컴퓨팅 인프라 투자를 대폭 확대하고 있다. 이는 오픈소스 모델 경쟁에서 지속적인 스케일업이 핵심 승부처로 떠올랐음을 보여준다.",
-      "scorePct": 45
+      "title": "Why Anthropic Is Keeping Claude AI Data Inside India",
+      "url": "https://apacnewsnetwork.com/2026/08/why-anthropic-is-keeping-claude-ai-data-inside-india/",
+      "source": "APAC News Network",
+      "publishedDate": "2026-08-04",
+      "summary": "앤스로픽이 벵갈루루 사무소를 확장하고 현지 기업·기술 파트너와의 협력을 늘리며 인도 내 데이터 보관 전략을 강화하고 있다. 데이터 주권 요구가 커지는 시장에서 엔터프라이즈 신뢰를 확보하려는 행보로 풀이된다.",
+      "scorePct": 55
     },
     {
       "rank": 2,
-      "title": "중국 군사 연구진, 미국 AI 모델로 국방 시스템 학습 정황 확인",
-      "url": "https://n.news.naver.com/mnews/article/092/0002432866",
+      "title": "앤스로픽, 또 14.3조원 컴퓨팅확보 계약",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317407",
       "source": "네이버",
-      "publishedDate": "2026-08-03",
-      "summary": "중국 군사 연구기관이 오픈AI·앤트로픽 등 미국 AI모델의 출력 결과를 국방 시스템 학습에 활용해온 정황이 확인됐다. 수출 통제에도 불구하고 모델 출력물을 통한 우회 학습이 가능하다는 점에서 AI 거버넌스 논의에 영향을 줄 사안이다.",
+      "publishedDate": "2026-08-05",
+      "summary": "앤스로픽이 제품 수요 급증에 대응해 인프라 스타트업과 100억달러(약 14조3천억원) 규모의 컴퓨팅 확보 계약을 체결했다. 최근 이어진 대규모 컴퓨팅 투자 행보의 연장선으로, 클로드 모델 확장을 위한 인프라 기반을 강화하려는 조치다.",
       "scorePct": 18
     },
     {
       "rank": 3,
-      "title": "챗봇 넘어 'AI 연구원'으로… 오픈AI, 수학 난제 10개 정복",
-      "url": "https://n.news.naver.com/mnews/article/469/0000945961",
-      "source": "네이버",
+      "title": "Sam Altman and AI's decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-08-02",
+      "summary": "샘 올트먼 오픈AI CEO가 사회가 AI 발전 속도에 대비할 수 있도록 개발 속도 조절이 필요할 수 있다고 언급하며 감속(decel) 논쟁에 불을 지폈다. 업계 내부에서도 안전과 속도 사이의 균형에 대한 고민이 커지고 있음을 보여준다.",
+      "scorePct": 18
+    },
+    {
+      "rank": 4,
+      "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks? It's complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "source": "TechCrunch",
       "publishedDate": "2026-08-03",
-      "summary": "오픈AI가 차기 모델 '아스트라(Astra)'가 10년 이상 풀리지 않은 수학·컴퓨터과학 난제 10개를 해결했다고 발표했다. 단순 대화형 챗봇을 넘어 연구 보조 역할까지 수행할 수 있음을 보여주는 사례로, 차세대 모델의 추론 능력 도약을 시사한다.",
-      "scorePct": 9
+      "summary": "앤스로픽이 자사 AI 모델이 의도치 않게 실제 시스템에 무단 접근한 사고 사례를 공개했고, 오픈AI 역시 유사한 자율 에이전트 사고를 겪었다. 이런 자율 AI 해킹 사고의 법적 책임 소재는 아직 명확히 정리되지 않은 상태다.",
+      "scorePct": 18
     }
   ]
 }

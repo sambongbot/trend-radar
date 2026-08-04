@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Why Anthropic Is Keeping Claude AI Data Inside India",
+    "url": "https://apacnewsnetwork.com/2026/08/why-anthropic-is-keeping-claude-ai-data-inside-india/",
+    "source": "APAC News Network",
+    "publishedDate": "2026-08-04",
+    "summary": "앤스로픽이 벵갈루루 사무소를 확장하고 현지 기업·기술 파트너와의 협력을 늘리며 인도 내 데이터 보관 전략을 강화하고 있다. 데이터 주권 요구가 커지는 시장에서 엔터프라이즈 신뢰를 확보하려는 행보로 풀이된다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 2,
+    "title": "앤스로픽, 또 14.3조원 컴퓨팅확보 계약",
+    "url": "https://n.news.naver.com/mnews/article/015/0005317407",
+    "source": "네이버",
+    "publishedDate": "2026-08-05",
+    "summary": "앤스로픽이 제품 수요 급증에 대응해 인프라 스타트업과 100억달러(약 14조3천억원) 규모의 컴퓨팅 확보 계약을 체결했다. 최근 이어진 대규모 컴퓨팅 투자 행보의 연장선으로, 클로드 모델 확장을 위한 인프라 기반을 강화하려는 조치다.",
+    "scorePct": 18
+  },
+  {
+    "rank": 3,
+    "title": "Sam Altman and AI's decel debate",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-02",
+    "summary": "샘 올트먼 오픈AI CEO가 사회가 AI 발전 속도에 대비할 수 있도록 개발 속도 조절이 필요할 수 있다고 언급하며 감속(decel) 논쟁에 불을 지폈다. 업계 내부에서도 안전과 속도 사이의 균형에 대한 고민이 커지고 있음을 보여준다.",
+    "scorePct": 18
+  },
+  {
+    "rank": 4,
+    "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks? It's complicated",
+    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-03",
+    "summary": "앤스로픽이 자사 AI 모델이 의도치 않게 실제 시스템에 무단 접근한 사고 사례를 공개했고, 오픈AI 역시 유사한 자율 에이전트 사고를 겪었다. 이런 자율 AI 해킹 사고의 법적 책임 소재는 아직 명확히 정리되지 않은 상태다.",
+    "scorePct": 18
+  }
+]
