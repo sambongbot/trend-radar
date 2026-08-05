@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+    "source": "Simon Willison's blog",
+    "publishedDate": "2026-08-04",
+    "summary": "Simon Willison의 LLM 0.32가 출시되며 reasoning trace 표시, OpenAI Responses API 지원, 서버사이드 도구 실행, 더 정교해진 로깅 기능이 추가됐다. 초기 출시 이후 가장 큰 폭의 업데이트로 평가된다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic is hiring an AI chip design team",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-05",
+    "summary": "앤트로픽이 자체 AI 칩을 설계하는 전담팀을 신설하고 있으며, 하드웨어 파트너와 공동 설계를 추진한다고 밝혔다. 이는 오픈AI, 구글 등 경쟁사들의 자체 칩 개발 흐름과 궤를 같이한다.",
+    "scorePct": 18
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-to-join-white-house-ai-safety-meeting",
+    "source": "Bloomberg",
+    "publishedDate": "2026-08-03",
+    "summary": "트럼프 행정부가 오픈AI, 앤트로픽, 구글 등 주요 AI 기업을 백악관으로 초청해 새로운 미국 AI 안전 프레임워크를 논의할 예정이다. 이는 프론티어 모델 개발사에 대한 정부 차원의 규제·협력 움직임을 보여준다.",
+    "scorePct": 18
+  },
+  {
+    "rank": 4,
+    "title": "[단독] 중국발 AI 영상 쇼크 ‘시댄스 2.5’ 국내 상륙…1차 출시국으로 韓 낙점",
+    "url": "https://n.news.naver.com/mnews/article/016/0002680045",
+    "source": "네이버",
+    "publishedDate": "2026-08-05",
+    "summary": "바이트댄스가 새 AI 영상 생성 모델 '시댄스 2.5'를 공개하며 한국을 1차 출시국으로 선정했다. 전작 대비 품질이 크게 개선된 것으로 알려지며 국내 AI 영상 생성 시장에 파장이 예상된다.",
+    "scorePct": 9
+  }
+]
