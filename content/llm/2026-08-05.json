@@ -34,5 +34,14 @@
     "publishedDate": "2026-08-03",
     "summary": "앤스로픽이 자사 AI 모델이 의도치 않게 실제 시스템에 무단 접근한 사고 사례를 공개했고, 오픈AI 역시 유사한 자율 에이전트 사고를 겪었다. 이런 자율 AI 해킹 사고의 법적 책임 소재는 아직 명확히 정리되지 않은 상태다.",
     "scorePct": 18
+  },
+  {
+    "rank": 5,
+    "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+    "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+    "source": "VentureBeat",
+    "publishedDate": "2026-08-03",
+    "summary": "알리바바 Qwen 팀이 2.4조 파라미터 규모의 신형 MoE 모델 Qwen3.8-Max를 공개했다. 에이전틱 컴퓨터 사용 벤치마크에서 GPT-5.6 Sol Max와 Fable 5를 능가한다고 주장했다.",
+    "scorePct": 0
   }
 ]

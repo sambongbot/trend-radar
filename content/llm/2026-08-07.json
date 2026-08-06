@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex/",
+    "source": "OpenAI",
+    "publishedDate": "2026-08-04",
+    "summary": "OpenAI가 ChatGPT Work와 Codex에 K-12 교사와 학생을 대상으로 한 교육용 플러그인을 새롭게 출시했다. 코드 학습과 교육 현장에서의 AI 활용을 지원하는 기능이 추가됐다.",
+    "scorePct": 73
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic Puts Inline Data Loss Prevention Inside Claude Enterprise",
+    "url": "https://www.unite.ai/anthropic-puts-inline-data-loss-prevention-inside-claude-enterprise/",
+    "source": "Unite.AI",
+    "publishedDate": "2026-08-05",
+    "summary": "Anthropic이 Claude Enterprise에 인라인 데이터 유출 방지(DLP) 기능인 인퍼런스 훅을 베타로 출시했다. 직원들의 모든 프롬프트와 응답을 실시간으로 검사해 민감 정보 유출을 사전에 차단한다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 3,
+    "title": "‘가성비 AI’ 中 딥시크도 가격 올린다…IPO 앞두고 수익모델 전환",
+    "url": "https://n.news.naver.com/mnews/article/029/0003041136",
+    "source": "네이버",
+    "publishedDate": "2026-08-06",
+    "summary": "중국 딥시크가 IPO를 앞두고 서비스 이용료 인상을 예고했다. 저가 정책으로 점유율을 확보해온 전략에서 수익성 확보 중심으로 방향을 전환하는 모습이다.",
+    "scorePct": 9
+  }
+]

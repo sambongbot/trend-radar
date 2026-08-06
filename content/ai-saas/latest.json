@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-06",
-  "headline": "> Simon Willison의 LLM 0.32 출시와 앤트로픽 자체 AI칩 설계팀 신설로 LLM 툴·인프라 경쟁이 격화되고 있다.\n> 백악관이 오픈AI·앤트로픽·구글을 불러 AI 안전 프레임워크를 논의하며 규제 국면이 다가온다.\n> 국내에서는 SKT AIDC 매출 확대, 코히어 한국 법인 설립 등 AI 인프라·시장 진출 경쟁이 가속화되는 중이다.",
+  "date": "2026-08-07",
+  "headline": "> 오늘은 Anthropic의 Claude Enterprise 보안 강화와 Qwen3.8-Max 등 모델 경쟁 소식이 두드러졌다.\n> 국내에서는 카카오가 에이전틱 AI로 실질적 매출 성장을 입증했고, 비즈니스온 등 B2B SaaS의 AI 내재화 사례도 이어졌다.\n> 딥시크의 가격 인상 예고는 저비용 AI API 시대의 변곡점을 시사한다.",
   "items": [
     {
       "rank": 1,
-      "title": "레노보 CVC가 압축한 '생존 트랙' 3개는?",
-      "url": "https://n.news.naver.com/mnews/article/047/0002524648",
+      "title": "비즈니스온, B2B SaaS에 AI 적용 확대",
+      "url": "https://n.news.naver.com/mnews/article/029/0003041151",
       "source": "네이버",
-      "publishedDate": "2026-08-06",
-      "summary": "레노보 창투(CVC)가 AI를 '월 단위 생존경쟁'으로 규정하며 자사가 압축한 3가지 생존 트랙 전략을 공개했다. 급변하는 AI 시장에서 스타트업 투자 우선순위를 어떻게 재편하는지 보여주는 사례다.",
-      "scorePct": 22
+      "publishedDate": "2026-08-07",
+      "summary": "비즈니스온커뮤니케이션이 전자세금계산서, 전자서명, 재무·회계 등 자사 B2B SaaS 전반에 AI를 적용하며 AI전환(AX) 사업을 확대한다고 밝혔다.",
+      "scorePct": 33
     },
     {
       "rank": 2,
-      "title": "코히어, 韓·日 법인 설립…아태 시장 인력 2배로 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799167",
+      "title": "&#65279;청구스, 신용보증기금 ‘Start-up NEST’ AI 분야 선정",
+      "url": "https://n.news.naver.com/mnews/article/032/0003462749",
       "source": "네이버",
-      "publishedDate": "2026-08-06",
-      "summary": "캐나다 AI 스타트업 코히어가 한국과 일본에 현지 법인을 설립하며 아태 지역 소버린 AI 수요 공략에 나섰다. 아태 인력도 두 배로 늘릴 계획이다.",
-      "scorePct": 11
+      "publishedDate": "2026-08-07",
+      "summary": "미수금 관리 자동화 SaaS '청구스'를 운영하는 데브올컴퍼니가 신용보증기금의 스타트업 육성 프로그램 'Start-up NEST' AI 분야에 선정됐다.",
+      "scorePct": 33
     },
     {
       "rank": 3,
-      "title": "실적 회복한 SKT, AIDC 확장 본격화…“글로벌 빅테크와 수요 협의”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003454604",
+      "title": "카카오 \"AI 인프라 대신 에이전틱 AI로 승부\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717646",
       "source": "네이버",
       "publishedDate": "2026-08-06",
-      "summary": "SK텔레콤이 2분기 실적을 회복하며 AI데이터센터(AIDC) 매출을 전년 대비 두 배 가까이 늘렸다. 고객 확보를 우선하는 전략으로 하반기 글로벌 빅테크와 수요 협의를 이어갈 계획이다.",
-      "scorePct": 11
+      "summary": "카카오가 AI 인프라 투자 대신 에이전틱 AI 서비스에 집중하는 '선택과 집중' 전략을 선언했다. 카카오톡 내 AI 에이전트가 쿠팡이츠 주문·결제까지 처리하며 2분기 매출 9%, 영업이익 36% 증가라는 실적으로 이어졌다.",
+      "scorePct": 22
     },
     {
       "rank": 4,
-      "title": "Wispr Flow is preparing to launch a meeting notetaker",
-      "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-08-05",
-      "summary": "음성 입력 스타트업 Wispr Flow가 시스템 오디오로 회의를 전사하는 맥용 노트테이커를 정식 출시했다. AI 받아쓰기 도구에서 회의 자동화 SaaS로 제품 영역을 확장하는 행보다.",
-      "scorePct": 11
+      "title": "카카오, 과기정통부 'AI 에이전트 마켓플레이스 개발 사업' 선정",
+      "url": "https://zdnet.co.kr/view/?no=20260806162736",
+      "source": "ZDNet Korea",
+      "publishedDate": "2026-08-06",
+      "summary": "카카오가 과학기술정보통신부의 'AI 에이전트 마켓플레이스 개발 지원 사업' 수행 사업자로 선정됐다. 정부 출연금과 민간부담금을 투입해 AI 에이전트 유통 플랫폼을 구축할 예정이다.",
+      "scorePct": 22
     }
   ]
 }
