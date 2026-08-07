@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code v2.1.223 (Aug 5, 2026) — Every Release, Summarized",
+    "url": "https://www.havoptic.com/tools/claude-code",
+    "source": "Havoptic",
+    "publishedDate": "2026-08-05",
+    "summary": "Claude Code v2.1.223이 마켓플레이스 허용/차단 설정에 소유자 와일드카드 항목을 추가하고 Bash 관련 버그를 수정하는 등 업데이트됐다. 세부 변경사항은 릴리스 로그에 정리되어 있다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 2,
+    "title": "챗GPT 안에서도 어도비 쓴다",
+    "url": "https://n.news.naver.com/mnews/article/015/0005318529",
+    "source": "네이버",
+    "publishedDate": "2026-08-08",
+    "summary": "어도비가 포토샵과 프리미어 등 편집 도구를 챗GPT 안에서 직접 사용할 수 있는 연동 기능을 출시했다. 여러 앱을 오가지 않고 대화형 인터페이스에서 작업을 이어갈 수 있게 됐다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 3,
+    "title": "SK하이닉스에 힘 실은 구글 \"AI추론 데이터 병목...방법은 HBF\"",
+    "url": "https://n.news.naver.com/mnews/article/469/0000946853",
+    "source": "네이버",
+    "publishedDate": "2026-08-08",
+    "summary": "구글 딥마인드가 AI 추론 시대의 메모리 병목 해법으로 SK하이닉스가 개발 중인 고대역폭플래시(HBF)를 지목했다. AI 시장 무게중심이 학습에서 추론으로 이동하며 메모리 아키텍처 논의가 본격화되고 있다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 4,
+    "title": "스피커에 말하면 일정관리·예약해준다…스마트폰 대체할 'AI스피커' 등장",
+    "url": "https://n.news.naver.com/mnews/article/009/0005718155",
+    "source": "네이버",
+    "publishedDate": "2026-08-07",
+    "summary": "오픈AI가 화면 없이 카메라·센서로 대화하듯 업무를 처리하는 첫 AI 기기를 내년 출시 목표로 준비 중이다. 스마트폰을 대체할 수 있는 AI 에이전트 인터페이스로 주목받고 있다.",
+    "scorePct": 18
+  }
+]
