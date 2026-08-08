@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "“기업 AX 성공 열쇠는 조직에 대한 이해…범용 AI로는 한계”",
+    "url": "https://n.news.naver.com/mnews/article/011/0004649824",
+    "source": "네이버",
+    "publishedDate": "2026-08-09",
+    "summary": "플렉스 CRO는 클로드나 챗GPT 구독만으로는 기업의 AI 전환이 완성되지 않는다고 지적했다. 조직 업무 맥락을 이해한 맞춤형 AI 적용이 성과를 좌우한다는 것이 핵심 메시지다.",
+    "scorePct": 44
+  },
+  {
+    "rank": 2,
+    "title": "“AI 병목 뚫는다”…엔비디아, 전력 인프라기업 란시움에 4조 베팅",
+    "url": "https://n.news.naver.com/mnews/article/123/0002388049",
+    "source": "네이버",
+    "publishedDate": "2026-08-09",
+    "summary": "엔비디아가 AI 데이터센터의 전력 병목을 해소하기 위해 전력 인프라 기업 란시움에 최대 30억달러를 투자한다. AI 인프라 확장의 새로운 병목이 GPU가 아닌 전력 공급으로 이동하고 있음을 보여준다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 3,
+    "title": "\"매출 늘었는데 몸값 80% 증발\"…AI 시대, SaaS 신화의 몰락",
+    "url": "https://n.news.naver.com/mnews/article/008/0005397208",
+    "source": "네이버",
+    "publishedDate": "2026-08-09",
+    "summary": "AI 시대 들어 매출은 늘었지만 기업가치는 오히려 급락하는 SaaS 스타트업이 늘고 있다. AI 네이티브 경쟁자의 등장으로 기존 SaaS 밸류에이션 공식이 흔들리고 있다는 분석이다.",
+    "scorePct": 11
+  },
+  {
+    "rank": 4,
+    "title": "‘24시 가상 고객’ AI 합성소비자 아시나요 [AI 딥다이브]",
+    "url": "https://n.news.naver.com/mnews/article/024/0000107429",
+    "source": "네이버",
+    "publishedDate": "2026-08-09",
+    "summary": "기업들이 신제품 출시 전 소비자 반응을 예측하기 위해 실제 패널 대신 AI가 만든 가상 소비자를 활용하는 사례가 늘고 있다. 설문·인터뷰 없이 즉시 시장 반응을 시뮬레이션할 수 있어 리서치 비용과 시간을 크게 줄인다.",
+    "scorePct": 0
+  }
+]

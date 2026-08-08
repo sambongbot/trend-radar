@@ -1,41 +1,41 @@
 {
-  "date": "2026-08-08",
-  "headline": "> 클로드 코드 v2.1.223 업데이트와 챗GPT-어도비 연동 등 LLM 플랫폼 확장이 이어졌다.\n> AI 추론 시대에 맞춘 메모리 인프라 논의와 오픈AI의 하드웨어 에이전트 준비가 부각됐다.\n> 국내외 AI SaaS 기업들은 에이전트 채널 확장과 AI 기능의 실질 수익화 사례를 쌓고 있다.",
+  "date": "2026-08-09",
+  "headline": "> 오픈AI가 사이버공격 위험을 이유로 차세대 모델 '아스트라' 출시를 보류하며 AI 안전 기준이 실제 제품 결정에 영향을 미치기 시작했다.\n> AI 인프라 병목이 GPU에서 전력 공급으로 옮겨가는 가운데, 매출 성장에도 기업가치가 급락하는 SaaS 기업들이 늘며 AI 시대 밸류에이션 공식이 흔들리고 있다.\n> 중국의 LLM 학습데이터 고갈, 챗GPT 무료 개방, AI 합성소비자 등 모델·시장 양쪽에서 실무적 변화가 동시에 진행 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "기업용 AI 에이전트 일레븐에이전트, 지원채널 대폭 확장",
-      "url": "https://n.news.naver.com/mnews/article/050/0000109432",
+      "title": "“기업 AX 성공 열쇠는 조직에 대한 이해…범용 AI로는 한계”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649824",
       "source": "네이버",
-      "publishedDate": "2026-08-08",
-      "summary": "일레븐랩스가 기업용 AI 에이전트 플랫폼 '일레븐에이전트'의 고객 지원 채널을 대폭 확장했다. 음성 AI 전문 스타트업이 B2B 에이전트 사업을 본격 강화하는 행보로 풀이된다.",
+      "publishedDate": "2026-08-09",
+      "summary": "플렉스 CRO는 클로드나 챗GPT 구독만으로는 기업의 AI 전환이 완성되지 않는다고 지적했다. 조직 업무 맥락을 이해한 맞춤형 AI 적용이 성과를 좌우한다는 것이 핵심 메시지다.",
       "scorePct": 44
     },
     {
       "rank": 2,
-      "title": "Freshworks Q2 Earnings Call Highlights",
-      "url": "https://www.dailypolitical.com/2026/08/05/freshworks-q2-earnings-call-highlights.html",
-      "source": "Daily Political",
-      "publishedDate": "2026-08-05",
-      "summary": "Freshworks가 2026년 2분기 매출 2억3740만달러(전년比 +16%)를 기록하며 GAAP 기준 흑자 전환에 성공했다. AI 기능을 결합한 CX·ITSM 제품이 매출 성장을 견인한 것으로 나타났다.",
-      "scorePct": 33
+      "title": "“AI 병목 뚫는다”…엔비디아, 전력 인프라기업 란시움에 4조 베팅",
+      "url": "https://n.news.naver.com/mnews/article/123/0002388049",
+      "source": "네이버",
+      "publishedDate": "2026-08-09",
+      "summary": "엔비디아가 AI 데이터센터의 전력 병목을 해소하기 위해 전력 인프라 기업 란시움에 최대 30억달러를 투자한다. AI 인프라 확장의 새로운 병목이 GPU가 아닌 전력 공급으로 이동하고 있음을 보여준다.",
+      "scorePct": 22
     },
     {
       "rank": 3,
-      "title": "네이버 AI 브리핑 도입 후 창작자 지원 규모 2배 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005558596",
+      "title": "\"매출 늘었는데 몸값 80% 증발\"…AI 시대, SaaS 신화의 몰락",
+      "url": "https://n.news.naver.com/mnews/article/008/0005397208",
       "source": "네이버",
-      "publishedDate": "2026-08-08",
-      "summary": "네이버가 AI 브리핑 서비스 도입 후 블로그 창작자 지원 규모가 두 배로 늘었다고 밝혔다. AI 요약 기능이 콘텐츠 소비와 창작자 수익 구조에 실질적 영향을 준 사례다.",
-      "scorePct": 0
+      "publishedDate": "2026-08-09",
+      "summary": "AI 시대 들어 매출은 늘었지만 기업가치는 오히려 급락하는 SaaS 스타트업이 늘고 있다. AI 네이티브 경쟁자의 등장으로 기존 SaaS 밸류에이션 공식이 흔들리고 있다는 분석이다.",
+      "scorePct": 11
     },
     {
       "rank": 4,
-      "title": "AI PC도 에이전틱 AI 시대... NPU 경쟁에서 경험 경쟁으로",
-      "url": "https://n.news.naver.com/mnews/article/092/0002433356",
+      "title": "‘24시 가상 고객’ AI 합성소비자 아시나요 [AI 딥다이브]",
+      "url": "https://n.news.naver.com/mnews/article/024/0000107429",
       "source": "네이버",
-      "publishedDate": "2026-08-07",
-      "summary": "에이전틱 AI 흐름이 클라우드와 서버를 넘어 NPU 탑재 AI PC로 확산되고 있다. 하드웨어 스펙 경쟁이던 시장이 실제 사용 경험 중심 경쟁으로 옮겨가는 양상이다.",
+      "publishedDate": "2026-08-09",
+      "summary": "기업들이 신제품 출시 전 소비자 반응을 예측하기 위해 실제 패널 대신 AI가 만든 가상 소비자를 활용하는 사례가 늘고 있다. 설문·인터뷰 없이 즉시 시장 반응을 시뮬레이션할 수 있어 리서치 비용과 시간을 크게 줄인다.",
       "scorePct": 0
     }
   ]
