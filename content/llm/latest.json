@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-11",
-  "headline": "> 네이버가 앤스로픽에 간접 투자하며 'AI 자립' 노선을 조정 — 국내 대기업도 프런티어 모델 진영에 발을 걸쳤다.\n> 메타가 PC에서 구동되는 오픈웨이트 모델을 공개하며 중국 가성비 모델과 폐쇄형 진영에 동시 대응했다.\n> 북한 김수키의 자체 LLM 구축부터 빅테크 음성 AI 경쟁까지, LLM 활용이 공격과 인터페이스 양쪽에서 실전 단계에 들어섰다.",
+  "date": "2026-08-12",
+  "headline": "> 앤스로픽이 클로드 코드 auto 모드를 기본값으로 전환하고, 데이터센터 합작사 '테세우스'까지 세우며 에이전트·연산 양쪽을 동시에 밀어붙인다.\n> 국내는 금융권 망분리 한시 해제로 외부 AI·클라우드 활용 문이 열렸고, 검색에서는 구글이 처음으로 네이버 MAU를 제쳤다.\n> 에이전트 메모리가 '토큰 맥싱' 다음 경쟁축으로 부상하는 한편, 현장에서는 AI 결과물 뒷수습에 하루 2시간이 든다는 조사도 나왔다.",
   "items": [
     {
       "rank": 1,
-      "title": "메타, PC용 오픈소스 AI 공개…저커버그 \"초지능은 나눠야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349065",
-      "source": "네이버",
-      "publishedDate": "2026-08-11",
-      "summary": "메타가 PC에서 구동 가능한 오픈웨이트 AI 모델을 공개하고, 저커버그는 오픈AI·앤스로픽 등 폐쇄형 진영을 겨냥해 \"초지능은 나눠야 한다\"고 밝혔다. 키미 K3 등 중국 오픈웨이트 모델의 가성비 공세에 대한 대응 성격도 짙다.",
-      "scorePct": 18
+      "title": "Anthropic is turning Claude Code's auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-08-09",
+      "summary": "앤스로픽이 클로드 코드의 auto 모드를 Pro·Max·Team 계정에서 기본값으로 전환한다고 발표했다. 작업마다 사용자 승인을 받던 흐름 대신, 에이전트가 스스로 판단해 연속 실행하는 방식이 표준 동작이 된다.",
+      "scorePct": 82
     },
     {
       "rank": 2,
-      "title": "더 교묘해진 북 김수키…AI로 해킹, LLM까지 돌린다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543510",
-      "source": "네이버",
-      "publishedDate": "2026-08-11",
-      "summary": "북한 배후 해킹조직 김수키가 독자적인 LLM 실행 환경을 구축한 정황이 포착됐다. 기존의 위조문서 작성 보조 수준을 넘어 악성코드 개발과 탈취 정보 자동 분류까지 LLM을 붙이려는 연구가 진행 중인 것으로 파악됐다.",
-      "scorePct": 18
+      "title": "Token-maxxing is dead. Agentic memory is what comes next.",
+      "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
+      "source": "VentureBeat",
+      "publishedDate": "2026-08-10",
+      "summary": "지금까지의 에이전트 메모리 도구는 한 에이전트가 한 세션 안에서 더 많이 기억하게 하는 수준에 머물렀다. 텐센트의 팀 메모리는 여러 에이전트가 경험을 공유하고 축적하는 구조를 제시하며, 컨텍스트 창을 키우는 '토큰 맥싱' 경쟁이 한계에 왔다는 진단을 내놓는다.",
+      "scorePct": 27
     },
     {
       "rank": 3,
-      "title": "과학계 팩트체커 된 AI…75년간 잘못 전해진 끓는점 찾아냈다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003992217",
+      "title": "엔비디아, '1조 파라미터' 네모트론4 AI 모델 개발",
+      "url": "https://n.news.naver.com/mnews/article/031/0001048949",
       "source": "네이버",
-      "publishedDate": "2026-08-10",
-      "summary": "AI로 분자 끓는점을 예측하던 연구 과정에서 75년간 잘못 전해져 온 값이 발견됐다. AI가 찾아낸 논문 오류는 2021년 3.8건에서 2025년 5.9건으로 늘며, AI가 생성 도구를 넘어 기존 지식의 검증자 역할로 확장되고 있다.",
-      "scorePct": 9
+      "publishedDate": "2026-08-12",
+      "summary": "엔비디아가 파라미터 1조개 안팎의 차세대 모델 '네모트론4' 개발에 나섰다. GPU를 공급하는 하드웨어 사업에 머물지 않고 모델 계층까지 직접 올라가겠다는 행보다.",
+      "scorePct": 18
     },
     {
       "rank": 4,
-      "title": "스마트폰 이을 차세대 기기는 ‘터치’ 아닌 ‘목소리’로 작동… 빅테크 음성 AI 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185364",
-      "source": "네이버",
+      "title": "Anthropic, Macquarie and GIC Launch Theseus Infrastructure for AI Data Centers",
+      "url": "https://www.hpcwire.com/off-the-wire/anthropic-macquarie-and-gic-launch-theseus-infrastructure-for-ai-data-centers/",
+      "source": "HPCwire",
       "publishedDate": "2026-08-10",
-      "summary": "오픈AI와 구글이 말을 끊어도 맥락을 이어가고 감정까지 파악하는 음성 AI 고도화 경쟁에 들어갔다. 스마트폰을 이을 차세대 기기의 조작 방식이 터치가 아닌 목소리가 될 것이라는 전망이 배경이다.",
-      "scorePct": 9
+      "summary": "앤스로픽이 맥쿼리자산운용, 싱가포르 국부펀드 GIC와 손잡고 AI 데이터센터 전용 인프라 회사 '테세우스'를 설립한다. 모델 개발사가 외부 인프라 자본을 직접 끌어와 연산 능력을 확보하는 구조다.",
+      "scorePct": 18
     }
   ]
 }
