@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Moonshot AI's Kimi K3: A New Contender in the US-China AI Race",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/moonshot-ai-s-kimi-k3-a-new-contender-in-the-us-china-ai-race-podcast",
+    "source": "Bloomberg",
+    "publishedDate": "2026-08-11",
+    "summary": "문샷 AI의 오픈웨이트 모델 Kimi K3가 2.8조 파라미터 규모로 미중 AI 경쟁의 새로운 변수로 부상했다. 블룸버그는 오픈웨이트 전략이 폐쇄형 프론티어 모델의 가격 구조를 어떻게 압박하는지를 짚었다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 2,
+    "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+    "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+    "source": "VentureBeat",
+    "publishedDate": "2026-08-12",
+    "summary": "SpaceXAI가 그록 4.6을 출시해 Artificial Analysis 지능 지수 61점을 기록, 문샷의 Kimi K3를 추월하고 GPT-5.6 Sol과 동률로 세계 3위에 올랐다. 프론티어 모델 순위가 몇 주 단위로 뒤집히는 국면이 이어지고 있다.",
+    "scorePct": 45
+  },
+  {
+    "rank": 3,
+    "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+    "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+    "source": "Google Developers Blog",
+    "publishedDate": "2026-08-11",
+    "summary": "구글이 Gemini Enterprise Agent Platform의 에이전트·모델 평가(Evaluations) 기능을 정식 출시(GA)했다. 에이전트의 실제 태스크 수행 품질을 정량 측정하고 모델 간 비교까지 한 플랫폼에서 처리할 수 있다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI Ships GPT-5.6-Cyber, Its First 'Offense-Grade' Hacking Model",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/08/11/openai-ships-gpt-56-cyber-its-first-offense-grade-hacking-model/",
+    "source": "Forbes",
+    "publishedDate": "2026-08-11",
+    "summary": "오픈AI가 취약점 연구와 익스플로잇 개발에 특화된 첫 '공격 등급' 모델 GPT-5.6-Cyber를 공개했다. 일반 공개가 아니라 'Daybreak Red'라는 신설 티어를 통해 인가된 트러스티드 파트너에게만 제공되며, 고난도 보안 과제에서 95% 완수율을 기록했다. 거부율(refusal)을 의도적으로 낮춘 첫 상용 모델군이라는 점에서 안전성 논쟁도 함께 불붙었다.",
+    "scorePct": 36
+  }
+]
