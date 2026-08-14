@@ -1,42 +1,33 @@
 {
-  "date": "2026-08-14",
-  "headline": "> 오픈AI가 공격형 사이버 모델 GPT-5.6-Cyber를 트러스티드 파트너 한정으로 출시하고, 그록 4.6이 Kimi K3를 제치며 프론티어 경쟁이 다시 뒤집혔다.\n> 엔터프라이즈 쪽에서는 OpenAI가 후원한 Thrive Holdings가 20억 달러를 조달해 서비스 기업을 AI로 재설계하는 전략을 본격화했고, AI 에이전트 평가·거버넌스 플랫폼이 잇따라 GA에 올랐다.\n> 국내는 공공 AX 플랫폼 쟁탈전(삼성SDS vs 네이버클라우드)과 네이버의 해상 데이터센터 투자, 모티프 3의 국내 1위 기록이 겹치며 인프라·모델 양쪽에서 판이 커지고 있다.",
+  "date": "2026-08-15",
+  "headline": "> 구글 제미나이 3.7 플래시와 업스테이지 솔라 프로 4가 나란히 '에이전트 성능'을 전면에 내세우며, 경량·저비용 에이전트 모델이 경쟁의 축으로 굳어졌다.\n> IBM이 OpenAI와 손잡고 컨설팅 전 과정에 GPT-5.6을 심는 등 기업용 AI는 모델 판매에서 '업무 내재화' 단계로 넘어갔다.\n> OpenAI 실측 데이터는 선도 기업이 일반 기업의 8.3배 토큰을 쓰며 격차를 벌리고 있음을 보여준다 — 도입 여부가 아니라 사용 강도가 승부처다.",
   "items": [
     {
       "rank": 1,
-      "title": "Moonshot AI's Kimi K3: A New Contender in the US-China AI Race",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/moonshot-ai-s-kimi-k3-a-new-contender-in-the-us-china-ai-race-podcast",
-      "source": "Bloomberg",
-      "publishedDate": "2026-08-11",
-      "summary": "문샷 AI의 오픈웨이트 모델 Kimi K3가 2.8조 파라미터 규모로 미중 AI 경쟁의 새로운 변수로 부상했다. 블룸버그는 오픈웨이트 전략이 폐쇄형 프론티어 모델의 가격 구조를 어떻게 압박하는지를 짚었다.",
-      "scorePct": 55
-    },
-    {
-      "rank": 2,
-      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-      "source": "VentureBeat",
-      "publishedDate": "2026-08-12",
-      "summary": "SpaceXAI가 그록 4.6을 출시해 Artificial Analysis 지능 지수 61점을 기록, 문샷의 Kimi K3를 추월하고 GPT-5.6 Sol과 동률로 세계 3위에 올랐다. 프론티어 모델 순위가 몇 주 단위로 뒤집히는 국면이 이어지고 있다.",
+      "title": "업스테이지 '솔라 프로4', 美·中 중심 AI 리더보드 첫 진입",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457669",
+      "source": "네이버",
+      "publishedDate": "2026-08-15",
+      "summary": "업스테이지가 차세대 상용 LLM '솔라 프로 4'를 공개했다. 전작 대비 추론과 AI 에이전트 역량, 문서이해·정보추출 성능을 강화했으며 미·중 기업이 장악한 글로벌 AI 리더보드에 처음 진입했다.",
       "scorePct": 45
     },
     {
-      "rank": 3,
-      "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
-      "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-      "source": "Google Developers Blog",
-      "publishedDate": "2026-08-11",
-      "summary": "구글이 Gemini Enterprise Agent Platform의 에이전트·모델 평가(Evaluations) 기능을 정식 출시(GA)했다. 에이전트의 실제 태스크 수행 품질을 정량 측정하고 모델 간 비교까지 한 플랫폼에서 처리할 수 있다.",
+      "rank": 2,
+      "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects",
+      "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
+      "source": "SiliconANGLE",
+      "publishedDate": "2026-08-13",
+      "summary": "구글이 자율 에이전트 워크플로우를 겨냥한 저비용 경량 모델 '제미나이 3.7 플래시'를 공개했다. 코딩과 장기 실행 에이전트 작업 성능을 끌어올리면서도 단가를 낮춘 것이 핵심으로, 지난달 3.6 플래시 공개 후 한 달 만의 후속작이다.",
       "scorePct": 36
     },
     {
-      "rank": 4,
-      "title": "OpenAI Ships GPT-5.6-Cyber, Its First 'Offense-Grade' Hacking Model",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/11/openai-ships-gpt-56-cyber-its-first-offense-grade-hacking-model/",
-      "source": "Forbes",
-      "publishedDate": "2026-08-11",
-      "summary": "오픈AI가 취약점 연구와 익스플로잇 개발에 특화된 첫 '공격 등급' 모델 GPT-5.6-Cyber를 공개했다. 일반 공개가 아니라 'Daybreak Red'라는 신설 티어를 통해 인가된 트러스티드 파트너에게만 제공되며, 고난도 보안 과제에서 95% 완수율을 기록했다. 거부율(refusal)을 의도적으로 낮춘 첫 상용 모델군이라는 점에서 안전성 논쟁도 함께 불붙었다.",
-      "scorePct": 36
+      "rank": 3,
+      "title": "애플, 알리바바 손잡고 중국 전용 자체 AI 개발",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186458",
+      "source": "네이버",
+      "publishedDate": "2026-08-14",
+      "summary": "애플이 알리바바와 협력해 중국 시장 전용 AI 모델을 개발했다고 로이터가 보도했다. 알리바바는 모델 개발뿐 아니라 규제 대응까지 함께 맡은 것으로 알려졌다.",
+      "scorePct": 9
     }
   ]
 }
