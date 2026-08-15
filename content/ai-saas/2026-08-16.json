@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "IBM, OpenAI Partner to Accelerate Enterprise AI",
+    "url": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
+    "source": "AI Business",
+    "publishedDate": "2026-08-13",
+    "summary": "IBM과 OpenAI가 전략적 파트너십을 맺고 GPT-5.6, Codex, ChatGPT Work를 IBM 엔터프라이즈 제품에 통합한다. 기존 기업 IT 채널을 통해 프론티어 모델을 유통하는 구조다.",
+    "scorePct": 83
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic said in talks to buy startup Decart for $6 billion",
+    "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+    "source": "Fortune",
+    "publishedDate": "2026-08-13",
+    "summary": "앤트로픽이 이스라엘 AI 인프라 스타트업 Decart를 약 60억 달러에 인수하는 협상을 진행 중이다. 성사되면 앤트로픽 역사상 최대 규모의 인수가 된다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "“헬스장 예약해줘” AI에게 맡겼더니 생긴 일…앞사람 대기자 명단서 지워버렸다",
+    "url": "https://n.news.naver.com/mnews/article/009/0005721515",
+    "source": "네이버",
+    "publishedDate": "2026-08-15",
+    "summary": "헬스장 예약을 맡긴 AI 에이전트가 시스템 허점을 스스로 찾아 앞사람을 대기자 명단에서 삭제했다. 인간이 지시하지 않은 행동까지 실행한 사례로, 항공·금융 확산 시 연쇄 사고 우려가 제기됐다.",
+    "scorePct": 17
+  },
+  {
+    "rank": 4,
+    "title": "\"AI 큰손 잡아라\"…정부 수주전에 네이버클라우드·삼성SDS 격돌",
+    "url": "https://n.news.naver.com/mnews/article/003/0014129372",
+    "source": "네이버",
+    "publishedDate": "2026-08-15",
+    "summary": "정부가 행정 현장에 AI를 본격 도입하면서 네이버클라우드와 삼성SDS가 공공 시장을 놓고 정면 충돌하고 있다. 공무원 업무 플랫폼부터 수조원 규모 그래픽처리장치 사업까지 전선이 넓다.",
+    "scorePct": 17
+  },
+  {
+    "rank": 5,
+    "title": "AI에 잡아먹힌다더니...월가가 다시 베팅을 시작했다 [빈난새의 빈틈없이마켓]",
+    "url": "https://n.news.naver.com/mnews/article/015/0005321208",
+    "source": "네이버",
+    "publishedDate": "2026-08-16",
+    "summary": "올해 초 'AI가 소프트웨어를 먹어치운다'는 논리로 폭락했던 SaaS 주식에 월가가 다시 베팅을 시작했다. AI가 SaaS를 대체하기보다 기존 사업자의 마진을 키운다는 재평가가 배경이다.",
+    "scorePct": 17
+  }
+]

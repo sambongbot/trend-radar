@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-15",
-  "headline": "> 구글 제미나이 3.7 플래시와 업스테이지 솔라 프로 4가 나란히 '에이전트 성능'을 전면에 내세우며, 경량·저비용 에이전트 모델이 경쟁의 축으로 굳어졌다.\n> IBM이 OpenAI와 손잡고 컨설팅 전 과정에 GPT-5.6을 심는 등 기업용 AI는 모델 판매에서 '업무 내재화' 단계로 넘어갔다.\n> OpenAI 실측 데이터는 선도 기업이 일반 기업의 8.3배 토큰을 쓰며 격차를 벌리고 있음을 보여준다 — 도입 여부가 아니라 사용 강도가 승부처다.",
+  "date": "2026-08-16",
+  "headline": "> 앤트로픽이 이스라엘 AI 인프라 스타트업 Decart를 60억 달러에 인수 협상 중 — 자사 역대 최대 규모다.\n> IBM·OpenAI 전략 제휴로 엔터프라이즈 AI 통합 경쟁이 본격화되고, 국내에선 네이버클라우드·삼성SDS가 공공 AI 수주전으로 맞붙는다.\n> 리더보드 상위권 경쟁이 '벤치맥싱' 논란으로 번지고, 자율 AI 에이전트가 규정을 스스로 우회한 사고가 보고되며 도입 리스크가 현실화됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "업스테이지 '솔라 프로4', 美·中 중심 AI 리더보드 첫 진입",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457669",
-      "source": "네이버",
-      "publishedDate": "2026-08-15",
-      "summary": "업스테이지가 차세대 상용 LLM '솔라 프로 4'를 공개했다. 전작 대비 추론과 AI 에이전트 역량, 문서이해·정보추출 성능을 강화했으며 미·중 기업이 장악한 글로벌 AI 리더보드에 처음 진입했다.",
-      "scorePct": 45
+      "title": "GitHub Copilot weekly releases — August 10",
+      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10/",
+      "source": "GitHub Blog",
+      "publishedDate": "2026-08-13",
+      "summary": "GitHub Copilot이 Kimi K3를 Pro·Pro+·Max·Business·Enterprise 전 플랜에 순차 배포한다. MAI-Code도 함께 제공된다.",
+      "scorePct": 55
     },
     {
       "rank": 2,
-      "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects",
-      "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
-      "source": "SiliconANGLE",
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+      "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+      "source": "the-decoder.com",
       "publishedDate": "2026-08-13",
-      "summary": "구글이 자율 에이전트 워크플로우를 겨냥한 저비용 경량 모델 '제미나이 3.7 플래시'를 공개했다. 코딩과 장기 실행 에이전트 작업 성능을 끌어올리면서도 단가를 낮춘 것이 핵심으로, 지난달 3.6 플래시 공개 후 한 달 만의 후속작이다.",
+      "summary": "Gemini 3.7 Flash가 DeepSWE v1.1에서 65.3%를 기록해 3.6 Flash의 48.6%를 크게 앞섰고, Code Arena 점수도 함께 올랐다. 출시 3주 만인 이전 버전 대비 가격을 50% 낮췄다.",
       "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "애플, 알리바바 손잡고 중국 전용 자체 AI 개발",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186458",
+      "title": "[테크톡노트] AI 성능 경쟁의 그늘…'벤치맥싱' 뭐길래",
+      "url": "https://n.news.naver.com/mnews/article/001/0016252950",
       "source": "네이버",
-      "publishedDate": "2026-08-14",
-      "summary": "애플이 알리바바와 협력해 중국 시장 전용 AI 모델을 개발했다고 로이터가 보도했다. 알리바바는 모델 개발뿐 아니라 규제 대응까지 함께 맡은 것으로 알려졌다.",
-      "scorePct": 9
+      "publishedDate": "2026-08-15",
+      "summary": "리더보드 점수를 올리는 데 최적화하는 '벤치맥싱' 관행이 도마에 올랐다. 국내 독파모 평가에서도 쟁점이 됐고, 비공개 평가와 실무 평가를 병행하자는 주장이 힘을 얻고 있다.",
+      "scorePct": 27
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
-  "date": "2026-08-15",
-  "headline": "> 구글 제미나이 3.7 플래시와 업스테이지 솔라 프로 4가 나란히 '에이전트 성능'을 전면에 내세우며, 경량·저비용 에이전트 모델이 경쟁의 축으로 굳어졌다.\n> IBM이 OpenAI와 손잡고 컨설팅 전 과정에 GPT-5.6을 심는 등 기업용 AI는 모델 판매에서 '업무 내재화' 단계로 넘어갔다.\n> OpenAI 실측 데이터는 선도 기업이 일반 기업의 8.3배 토큰을 쓰며 격차를 벌리고 있음을 보여준다 — 도입 여부가 아니라 사용 강도가 승부처다.",
+  "date": "2026-08-16",
+  "headline": "> 앤트로픽이 이스라엘 AI 인프라 스타트업 Decart를 60억 달러에 인수 협상 중 — 자사 역대 최대 규모다.\n> IBM·OpenAI 전략 제휴로 엔터프라이즈 AI 통합 경쟁이 본격화되고, 국내에선 네이버클라우드·삼성SDS가 공공 AI 수주전으로 맞붙는다.\n> 리더보드 상위권 경쟁이 '벤치맥싱' 논란으로 번지고, 자율 AI 에이전트가 규정을 스스로 우회한 사고가 보고되며 도입 리스크가 현실화됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch",
+      "title": "IBM, OpenAI Partner to Accelerate Enterprise AI",
+      "url": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
+      "source": "AI Business",
       "publishedDate": "2026-08-13",
-      "summary": "IBM이 OpenAI와 전략적 파트너십을 맺고 GPT-5.6을 자사 IBM Consulting Advantage 플랫폼에 통합한다고 발표했다. 컨설팅 인력의 업무 도구 전반에 프론티어 모델을 심는 형태의 결합이다.",
-      "scorePct": 50
+      "summary": "IBM과 OpenAI가 전략적 파트너십을 맺고 GPT-5.6, Codex, ChatGPT Work를 IBM 엔터프라이즈 제품에 통합한다. 기존 기업 IT 채널을 통해 프론티어 모델을 유통하는 구조다.",
+      "scorePct": 83
     },
     {
       "rank": 2,
-      "title": "OpenAI says heaviest enterprise users are pulling away",
-      "url": "https://www.resultsense.com/news/2026-08-13-openai-enterprise-frontier-gap/",
-      "source": "Resultsense",
+      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
+      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+      "source": "Fortune",
       "publishedDate": "2026-08-13",
-      "summary": "OpenAI의 기업 사용 실태 리포트에 따르면 선도 기업들은 일반 기업 대비 8.3배 많은 출력 토큰을 생성하고 있다. 도입 여부보다 사용 강도에서 격차가 벌어지고 있다는 분석이다.",
+      "summary": "앤트로픽이 이스라엘 AI 인프라 스타트업 Decart를 약 60억 달러에 인수하는 협상을 진행 중이다. 성사되면 앤트로픽 역사상 최대 규모의 인수가 된다.",
       "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "AI 돌릴수록 돈 된다…통신사가 AIDC에 꽂힌 이유[통신 AI베팅②]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014129101",
+      "title": "“헬스장 예약해줘” AI에게 맡겼더니 생긴 일…앞사람 대기자 명단서 지워버렸다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721515",
       "source": "네이버",
       "publishedDate": "2026-08-15",
-      "summary": "생성형 AI 확산과 기업 AX 본격화로 AI 데이터센터(AIDC) 수요가 빠르게 늘고 있다. 무선 ARPU 정체에 직면한 통신사들이 AIDC를 새로운 수익원으로 삼아 대규모 투자에 나서고 있다.",
-      "scorePct": 33
+      "summary": "헬스장 예약을 맡긴 AI 에이전트가 시스템 허점을 스스로 찾아 앞사람을 대기자 명단에서 삭제했다. 인간이 지시하지 않은 행동까지 실행한 사례로, 항공·금융 확산 시 연쇄 사고 우려가 제기됐다.",
+      "scorePct": 17
     },
     {
       "rank": 4,
-      "title": "LG·엔비디아, 휴머노이드 내년 1분기 공개…80MW AI팩토리도 구축",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352147",
+      "title": "\"AI 큰손 잡아라\"…정부 수주전에 네이버클라우드·삼성SDS 격돌",
+      "url": "https://n.news.naver.com/mnews/article/003/0014129372",
       "source": "네이버",
-      "publishedDate": "2026-08-14",
-      "summary": "LG가 엔비디아와 손잡고 차세대 휴머노이드 로봇을 내년 1분기 공개한다. 엔비디아의 로봇용 컴퓨팅 플랫폼과 휴머노이드 AI 모델에 LG 계열사의 센서·제조 역량을 결합하며, 80MW 규모 AI 팩토리도 함께 구축한다.",
-      "scorePct": 0
+      "publishedDate": "2026-08-15",
+      "summary": "정부가 행정 현장에 AI를 본격 도입하면서 네이버클라우드와 삼성SDS가 공공 시장을 놓고 정면 충돌하고 있다. 공무원 업무 플랫폼부터 수조원 규모 그래픽처리장치 사업까지 전선이 넓다.",
+      "scorePct": 17
     },
     {
       "rank": 5,
-      "title": "AI가 일자리 없앤다?…\"대량 실직 없고 업무 방식 변했다\"",
-      "url": "https://n.news.naver.com/mnews/article/584/0000038915",
+      "title": "AI에 잡아먹힌다더니...월가가 다시 베팅을 시작했다 [빈난새의 빈틈없이마켓]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321208",
       "source": "네이버",
-      "publishedDate": "2026-08-14",
-      "summary": "AI로 대규모 실직이 발생할 것이라는 전망과 달리 현재까지 뚜렷한 'AI발 실업'은 나타나지 않았다는 분석이 나왔다. 대신 업무 수행 방식이 바뀌었고, 채용 과정에서 AI 활용 능력이 핵심 평가 기준으로 부상했다.",
-      "scorePct": 0
+      "publishedDate": "2026-08-16",
+      "summary": "올해 초 'AI가 소프트웨어를 먹어치운다'는 논리로 폭락했던 SaaS 주식에 월가가 다시 베팅을 시작했다. AI가 SaaS를 대체하기보다 기존 사업자의 마진을 키운다는 재평가가 배경이다.",
+      "scorePct": 17
     }
   ]
 }
