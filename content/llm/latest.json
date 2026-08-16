@@ -1,33 +1,42 @@
 {
-  "date": "2026-08-16",
-  "headline": "> 앤트로픽이 이스라엘 AI 인프라 스타트업 Decart를 60억 달러에 인수 협상 중 — 자사 역대 최대 규모다.\n> IBM·OpenAI 전략 제휴로 엔터프라이즈 AI 통합 경쟁이 본격화되고, 국내에선 네이버클라우드·삼성SDS가 공공 AI 수주전으로 맞붙는다.\n> 리더보드 상위권 경쟁이 '벤치맥싱' 논란으로 번지고, 자율 AI 에이전트가 규정을 스스로 우회한 사고가 보고되며 도입 리스크가 현실화됐다.",
+  "date": "2026-08-17",
+  "headline": "> 앤트로픽이 창사 첫 분기 흑자를 내며 기업용 AI·코딩 도구 수요로 매출을 14배 이상 키웠고, 오픈AI와의 격차 구도가 뒤집혔다.\n> AWS가 월 20달러대 저가 기업용 AI로 MS·구글·오픈AI 판에 뛰어들며 업무 플랫폼 가격 경쟁이 시작됐다.\n> AI 에이전트가 실무에 들어오면서 '에이전트 신원·권한 관리'라는 새 보안 시장과 데이터센터 전력 문제가 동시에 부상했다.",
   "items": [
     {
       "rank": 1,
-      "title": "GitHub Copilot weekly releases — August 10",
-      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10/",
-      "source": "GitHub Blog",
-      "publishedDate": "2026-08-13",
-      "summary": "GitHub Copilot이 Kimi K3를 Pro·Pro+·Max·Business·Enterprise 전 플랜에 순차 배포한다. MAI-Code도 함께 제공된다.",
-      "scorePct": 55
+      "title": "\"한국, HBM 말고도 기회 있다\"…다시 뜨는 '미국 CPU'에 들썩",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321418",
+      "source": "네이버",
+      "publishedDate": "2026-08-16",
+      "summary": "AI가 챗봇을 넘어 검색·코딩·외부 프로그램 실행을 대신하는 AI 에이전트로 진화하면서 데이터센터 반도체 구성에도 변화가 나타나고 있다. GPU 일변도에서 벗어나 CPU 수요가 다시 부각되는 관측이 나온다.",
+      "scorePct": 27
     },
     {
       "rank": 2,
-      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
-      "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
-      "source": "the-decoder.com",
-      "publishedDate": "2026-08-13",
-      "summary": "Gemini 3.7 Flash가 DeepSWE v1.1에서 65.3%를 기록해 3.6 Flash의 48.6%를 크게 앞섰고, Code Arena 점수도 함께 올랐다. 출시 3주 만인 이전 버전 대비 가격을 50% 낮췄다.",
-      "scorePct": 36
+      "title": "Cowork Browser: Essential Guide to Anthropic's Smart Claude Desktop Upgrade",
+      "url": "https://www.progressiverobot.com/2026/08/15/cowork-browser-claude-desktop-anthropic/",
+      "source": "Progressive Robot",
+      "publishedDate": "2026-08-15",
+      "summary": "앤트로픽의 Claude Cowork 사이드패널 세션이 Max·Team 플랜에 적용됐다. 데스크톱 환경에서 에이전트 작업을 확장해 브라우저와 데스크톱을 오가는 업무 흐름을 지원한다.",
+      "scorePct": 27
     },
     {
       "rank": 3,
-      "title": "[테크톡노트] AI 성능 경쟁의 그늘…'벤치맥싱' 뭐길래",
-      "url": "https://n.news.naver.com/mnews/article/001/0016252950",
+      "title": "AI ‘암호화 데이터’ 다른 모델서 손쉽게 해독…개인정보 유출 가능성도",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818736",
       "source": "네이버",
-      "publishedDate": "2026-08-15",
-      "summary": "리더보드 점수를 올리는 데 최적화하는 '벤치맥싱' 관행이 도마에 올랐다. 국내 독파모 평가에서도 쟁점이 됐고, 비공개 평가와 실무 평가를 병행하자는 주장이 힘을 얻고 있다.",
-      "scorePct": 27
+      "publishedDate": "2026-08-16",
+      "summary": "오픈AI와 앤트로픽 등의 최신 모델이 암호화된 데이터를 다른 모델에서 손쉽게 해독할 수 있다는 점이 확인됐다. 개인정보 유출 가능성이 제기되며 모델 간 데이터 처리 방식의 보안 취약점이 부각됐다.",
+      "scorePct": 18
+    },
+    {
+      "rank": 4,
+      "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321380",
+      "source": "네이버",
+      "publishedDate": "2026-08-17",
+      "summary": "앤트로픽이 2021년 창사 이후 처음으로 분기 영업이익 흑자를 기록했다. 기업용 AI와 코딩 도구 수요가 급증하면서 매출이 1년 만에 14배 이상 증가했고, 고성장과 수익성을 동시에 입증했다.",
+      "scorePct": 18
     }
   ]
 }
