@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-15",
+    "summary": "SpaceX가 AI 코딩 스타트업 Cursor 인수를 600억 달러 규모로 최종 완료했다. 일론 머스크의 AI 수직계열화 전략의 일부로, 코딩 에이전트가 독립 스타트업이 아닌 빅테크 자산으로 편입되는 흐름을 확정했다.",
+    "scorePct": 73
+  },
+  {
+    "rank": 2,
+    "title": "AI boss fires first human worker in San Francisco",
+    "url": "https://americanbazaaronline.com/2026/08/16/ai-boss-fires-human-worker-in-san-francisco-486475/",
+    "source": "American Bazaar Online",
+    "publishedDate": "2026-08-16",
+    "summary": "앤트로픽 Claude 기반 AI 에이전트 '루나'가 샌프란시스코 Andon Market의 운영을 맡아 인간 직원 해고를 권고하고 그대로 집행됐다. AI가 인사 결정 주체로 실제 작동한 첫 사례로 보고됐다.",
+    "scorePct": 73
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI Disbands Team Assessing Catastrophic AI Risks",
+    "url": "https://kernel.news/2026/08/17/openai-disbands-team-assessing-catastrophic-ai-risks/",
+    "source": "Kernel Tech News",
+    "publishedDate": "2026-08-17",
+    "summary": "오픈AI가 모델의 심각한 위험 가능성을 평가해온 중앙 조직 Preparedness 팀을 해체했다. 평가 기능을 각 부문으로 분산하는 개편이라는 설명이지만, 프런티어 모델 안전 검증의 독립성이 약해졌다는 지적이 따른다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic Upgrades Misalignment Risk as Key Safety Benchmarks Saturate",
+    "url": "https://www.techtimes.com/articles/324573/20260815/anthropic-upgrades-misalignment-risk-key-safety-benchmarks-saturate.htm",
+    "source": "Tech Times",
+    "publishedDate": "2026-08-15",
+    "summary": "앤트로픽이 두 번째 전사 리스크 보고서에서 정렬 실패(misalignment)로 인한 파국적 피해 등급을 상향했다. 주요 안전 벤치마크가 포화 상태에 이르러 더 이상 위험을 구분해내지 못한다는 판단이 근거다.",
+    "scorePct": 18
+  }
+]

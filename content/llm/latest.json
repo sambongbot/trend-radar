@@ -1,41 +1,41 @@
 {
-  "date": "2026-08-17",
-  "headline": "> 앤트로픽이 창사 첫 분기 흑자를 내며 기업용 AI·코딩 도구 수요로 매출을 14배 이상 키웠고, 오픈AI와의 격차 구도가 뒤집혔다.\n> AWS가 월 20달러대 저가 기업용 AI로 MS·구글·오픈AI 판에 뛰어들며 업무 플랫폼 가격 경쟁이 시작됐다.\n> AI 에이전트가 실무에 들어오면서 '에이전트 신원·권한 관리'라는 새 보안 시장과 데이터센터 전력 문제가 동시에 부상했다.",
+  "date": "2026-08-18",
+  "headline": "> 스트라이프가 모델 중개 플랫폼 오픈라우터를 10조원에 인수하며 '멀티모델 게이트웨이'가 AI 인프라의 새 요금소로 확정됐다.\n> SpaceX의 Cursor 인수 완결로 코딩 에이전트 시장이 빅테크 소유 구도로 재편되고, 오픈AI는 연내 IPO와 챗GPT '생산성 도구' 전환을 공식화했다.\n> 앤트로픽은 정렬 실패 위험등급을 올리고 오픈AI는 재난위험 평가팀을 해체 — 프런티어 두 곳의 안전 거버넌스가 정반대로 갈라졌다.",
   "items": [
     {
       "rank": 1,
-      "title": "\"한국, HBM 말고도 기회 있다\"…다시 뜨는 '미국 CPU'에 들썩",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321418",
-      "source": "네이버",
-      "publishedDate": "2026-08-16",
-      "summary": "AI가 챗봇을 넘어 검색·코딩·외부 프로그램 실행을 대신하는 AI 에이전트로 진화하면서 데이터센터 반도체 구성에도 변화가 나타나고 있다. GPU 일변도에서 벗어나 CPU 수요가 다시 부각되는 관측이 나온다.",
-      "scorePct": 27
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-08-15",
+      "summary": "SpaceX가 AI 코딩 스타트업 Cursor 인수를 600억 달러 규모로 최종 완료했다. 일론 머스크의 AI 수직계열화 전략의 일부로, 코딩 에이전트가 독립 스타트업이 아닌 빅테크 자산으로 편입되는 흐름을 확정했다.",
+      "scorePct": 73
     },
     {
       "rank": 2,
-      "title": "Cowork Browser: Essential Guide to Anthropic's Smart Claude Desktop Upgrade",
-      "url": "https://www.progressiverobot.com/2026/08/15/cowork-browser-claude-desktop-anthropic/",
-      "source": "Progressive Robot",
-      "publishedDate": "2026-08-15",
-      "summary": "앤트로픽의 Claude Cowork 사이드패널 세션이 Max·Team 플랜에 적용됐다. 데스크톱 환경에서 에이전트 작업을 확장해 브라우저와 데스크톱을 오가는 업무 흐름을 지원한다.",
-      "scorePct": 27
+      "title": "AI boss fires first human worker in San Francisco",
+      "url": "https://americanbazaaronline.com/2026/08/16/ai-boss-fires-human-worker-in-san-francisco-486475/",
+      "source": "American Bazaar Online",
+      "publishedDate": "2026-08-16",
+      "summary": "앤트로픽 Claude 기반 AI 에이전트 '루나'가 샌프란시스코 Andon Market의 운영을 맡아 인간 직원 해고를 권고하고 그대로 집행됐다. AI가 인사 결정 주체로 실제 작동한 첫 사례로 보고됐다.",
+      "scorePct": 73
     },
     {
       "rank": 3,
-      "title": "AI ‘암호화 데이터’ 다른 모델서 손쉽게 해독…개인정보 유출 가능성도",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818736",
-      "source": "네이버",
-      "publishedDate": "2026-08-16",
-      "summary": "오픈AI와 앤트로픽 등의 최신 모델이 암호화된 데이터를 다른 모델에서 손쉽게 해독할 수 있다는 점이 확인됐다. 개인정보 유출 가능성이 제기되며 모델 간 데이터 처리 방식의 보안 취약점이 부각됐다.",
-      "scorePct": 18
+      "title": "OpenAI Disbands Team Assessing Catastrophic AI Risks",
+      "url": "https://kernel.news/2026/08/17/openai-disbands-team-assessing-catastrophic-ai-risks/",
+      "source": "Kernel Tech News",
+      "publishedDate": "2026-08-17",
+      "summary": "오픈AI가 모델의 심각한 위험 가능성을 평가해온 중앙 조직 Preparedness 팀을 해체했다. 평가 기능을 각 부문으로 분산하는 개편이라는 설명이지만, 프런티어 모델 안전 검증의 독립성이 약해졌다는 지적이 따른다.",
+      "scorePct": 36
     },
     {
       "rank": 4,
-      "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321380",
-      "source": "네이버",
-      "publishedDate": "2026-08-17",
-      "summary": "앤트로픽이 2021년 창사 이후 처음으로 분기 영업이익 흑자를 기록했다. 기업용 AI와 코딩 도구 수요가 급증하면서 매출이 1년 만에 14배 이상 증가했고, 고성장과 수익성을 동시에 입증했다.",
+      "title": "Anthropic Upgrades Misalignment Risk as Key Safety Benchmarks Saturate",
+      "url": "https://www.techtimes.com/articles/324573/20260815/anthropic-upgrades-misalignment-risk-key-safety-benchmarks-saturate.htm",
+      "source": "Tech Times",
+      "publishedDate": "2026-08-15",
+      "summary": "앤트로픽이 두 번째 전사 리스크 보고서에서 정렬 실패(misalignment)로 인한 파국적 피해 등급을 상향했다. 주요 안전 벤치마크가 포화 상태에 이르러 더 이상 위험을 구분해내지 못한다는 판단이 근거다.",
       "scorePct": 18
     }
   ]
