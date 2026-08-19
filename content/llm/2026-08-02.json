@@ -6,7 +6,7 @@
     "source": "네이버",
     "publishedDate": "2026-08-02",
     "summary": "WSJ 보도에 따르면 오픈AI가 소비자용 챗봇 챗GPT에 집중하는 사이 앤트로픽이 AI 업계 주도권을 가져갔다는 진단이 나왔다. 기업용 AI 도구와 개발자 생태계에서 앤트로픽의 영향력이 커지고 있다는 분석이다.",
-    "scorePct": 18
+    "scorePct": 22
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "Simon Willison's Weblog",
     "publishedDate": "2026-07-31",
     "summary": "딥시크가 기존 V4를 재학습한 경량 모델 V4-Flash-0731의 공개 베타를 API로 출시했다. Simon Willison은 이 모델의 재학습 방식과 성능 특성을 상세히 분석했다.",
-    "scorePct": 18
+    "scorePct": 22
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "Dataconomy",
     "publishedDate": "2026-07-31",
     "summary": "전 오픈AI CTO 미라 무라티가 설립한 Thinking Machines Lab이 경량 오픈소스 모델 'Inkling-Small'을 공개했다. 대형 모델 대비 효율성을 앞세운 신생 연구소의 첫 오픈소스 행보다.",
-    "scorePct": 18
+    "scorePct": 22
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "네이버",
     "publishedDate": "2026-08-01",
     "summary": "깃허브가 AI로 늘어난 코드 생성량에 대응해 '스택형 풀 리퀘스트' 기능을 퍼블릭 프리뷰로 출시했다. 코드 리뷰 병목을 줄이기 위한 워크플로 개선 조치다.",
-    "scorePct": 9
+    "scorePct": 11
   }
 ]

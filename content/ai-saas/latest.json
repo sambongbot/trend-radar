@@ -1,51 +1,33 @@
 {
-  "date": "2026-08-19",
-  "headline": "> 앤스로픽 연환산 매출 650억 달러 돌파, IPO를 앞두고 오픈AI를 앞질렀다.\n> 국내는 '모두의 AI' 6파전 확정, '독자 AI 파운데이션 모델'은 모티프 탈락으로 LG·SKT·업스테이지 3파전으로 압축됐다.\n> 학습 데이터 고갈이 현실화되며 빅테크가 전문가 생성 데이터와 파산기업 자료까지 사들이기 시작했다.",
+  "date": "2026-08-20",
+  "headline": "> AI 개발 인프라가 '툴'에서 '공장'으로 이동 — Warp Factories·Claude Code 한도 확대가 같은 방향을 가리킨다.\n> Stripe의 OpenRouter 70억 달러 인수와 SKT의 앤트로픽 추가 투자로 AI 결제·모델 게이트웨이 계층이 인프라 자산으로 재평가받는 중.\n> 벤치마크 점수보다 현장 실사용이 모델 선택 기준으로 굳어지는 한편, 6개 에이전트 프레임워크에서 11건의 취약점이 공개돼 도입 기업의 보안 숙제가 드러났다.",
   "items": [
     {
       "rank": 1,
-      "title": "'모두의 AI' 공모 마감…네이버·코난 불참 속 통신 3사·AI 기업 총출동",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434292",
+      "title": "SKT, 앤트로픽에 1400억 추가 배팅…AIDC부터 보안까지 협력",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089283",
       "source": "네이버",
-      "publishedDate": "2026-08-18",
-      "summary": "전 국민 무료 AI 챗봇을 만드는 '모두의 AI' 사업 공모가 마감돼 통신 3사, 카카오, 이스트소프트 등 6개 컨소시엄이 참여했다. 유력 후보로 거론되던 네이버클라우드와 코난테크놀로지는 불참했다. 정부는 이달 말 사업자를 선정한다.",
-      "scorePct": 50
-    },
-    {
-      "rank": 2,
-      "title": "Anthropic's Annualized Revenue Tops $65 Billion Ahead of IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-      "source": "Bloomberg",
-      "publishedDate": "2026-08-17",
-      "summary": "앤스로픽의 연환산 매출 런레이트가 650억 달러를 넘어서며 오픈AI가 최근 공개한 수치를 앞질렀다. IPO를 앞둔 시점에 나온 지표로, 성장의 상당 부분이 기업용 API와 코딩 워크로드에서 나온 것으로 분석된다. 월가의 밸류에이션 관심도 함께 커지고 있다.",
-      "scorePct": 50
-    },
-    {
-      "rank": 3,
-      "title": "인터넷 데이터 고갈… AI, ‘인간의 머릿속’ 파고든다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993593",
-      "source": "네이버",
-      "publishedDate": "2026-08-18",
-      "summary": "AI 데이터 스타트업 마이크로1은 의사·변호사 등 전문가를 직접 고용해 모델 학습용 데이터를 생성하고 있다. 인터넷 데이터 고갈에 대응해 전문 지식을 사람의 머릿속에서 직접 뽑아내는 방식이 새 산업으로 자리 잡는 모습이다.",
-      "scorePct": 33
-    },
-    {
-      "rank": 4,
-      "title": "빅테크들 \"사람이 만든 데이터 삽니다\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722472",
-      "source": "네이버",
-      "publishedDate": "2026-08-18",
-      "summary": "공개 인터넷 데이터가 바닥을 드러내면서 빅테크가 사람이 만든 데이터를 직접 사들이기 시작했다. 구글은 기업 업무 학습용으로 파산기업 자료를 140억원에 인수했고, 아마존은 희귀서적을 대량 구매하며 언론사·SNS 제휴도 확대하고 있다.",
+      "publishedDate": "2026-08-19",
+      "summary": "SK텔레콤이 앤트로픽에 약 1400억원을 추가 투자하며 AI 데이터센터부터 보안까지 협력 범위를 넓혔다. AI 풀스택 전략의 일환으로 모델 파트너십을 강화하는 행보다.",
       "scorePct": 17
     },
     {
-      "rank": 5,
-      "title": "[속보] '국가대표 AI' 2차 평가서 모티프 탈락…3파전 압축",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321870",
+      "rank": 2,
+      "title": "레시피 찾고 품의서 쓰고…스타벅스, 매장 업무에 'AI 팥' 안착",
+      "url": "https://n.news.naver.com/mnews/article/030/0003458604",
       "source": "네이버",
-      "publishedDate": "2026-08-19",
-      "summary": "정부의 독자 AI 파운데이션 모델 프로젝트 2차 평가에서 모티프가 탈락하고 LG AI연구원·SK텔레콤·업스테이지 3파전으로 압축됐다. 국가대표 AI 모델 선발이 최종 국면에 접어들었다.",
-      "scorePct": 0
+      "publishedDate": "2026-08-20",
+      "summary": "스타벅스가 사내 AI '에이전트 팥'을 정보 검색에서 품의서 작성·유지보수 신청 등 실제 업무 처리까지 확장했다. 매장 업무 전반으로 적용 범위를 넓히는 단계다.",
+      "scorePct": 17
+    },
+    {
+      "rank": 3,
+      "title": "Stripe Acquires OpenRouter For More Than $7 Billion",
+      "url": "https://dataconomy.com/2026/08/17/stripe-acquire-openrouter-deal-7-billion/",
+      "source": "Dataconomy",
+      "publishedDate": "2026-08-17",
+      "summary": "스트라이프가 AI 모델 게이트웨이 오픈라우터를 70억 달러 이상에 인수했다. 결제 인프라 기업이 AI 모델 라우팅 계층을 직접 확보하는 구도다.",
+      "scorePct": 17
     }
   ]
 }

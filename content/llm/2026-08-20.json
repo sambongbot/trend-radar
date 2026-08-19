@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code Limits Boosted Through August 31 (2026)",
+    "url": "https://explainx.ai/blog/claude-fable-5-max-team-premium-limits-extended-august-19-july-2026",
+    "source": "explainx.ai",
+    "publishedDate": "2026-08-19",
+    "summary": "앤트로픽이 8월 19일 Claude Code 주간 사용 한도 50% 상향 조치를 8월 31일까지 연장한다고 발표했다. 한도 확대는 Max·Team·Premium 등급 사용자에게 적용된다.",
+    "scorePct": 89
+  },
+  {
+    "rank": 2,
+    "title": "Warp's new system is an out-of-the-box software factory for AI development",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-18",
+    "summary": "Warp가 클라우드 인프라 기반의 'Warp Factories'를 출시해 코드 생성·테스트·배포를 반복 가능한 파이프라인으로 묶었다. 개별 코딩 어시스턴트를 넘어 AI 개발 과정 전체를 공장식 파이프라인으로 표준화하려는 시도다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 3,
+    "title": "오픈AI·딥마인드가 짚은 벤치마크 함정, AI 승부는 '현장'서 갈린다",
+    "url": "https://zdnet.co.kr/view/?no=20260819110352",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-08-19",
+    "summary": "오픈AI와 딥마인드가 벤치마크 점수와 실제 업무 성능의 괴리를 공개적으로 지적했다. 아티피셜 애널리시스 AAII 최고점 모델이 실사용성 평가에서는 순위가 밀리는 사례가 근거로 제시됐다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 4,
+    "title": "AI Agents News Brief: August 18, 2026",
+    "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-august-18-2026",
+    "source": "AI Agents Directory",
+    "publishedDate": "2026-08-18",
+    "summary": "체크포인트가 LangChain·LangGraph 등 주요 에이전트 프레임워크 6종에서 11건의 취약점을 공개했다. 프레임워크 계층 자체가 공격면이 된다는 점이 확인됐다.",
+    "scorePct": 22
+  }
+]

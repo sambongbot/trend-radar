@@ -6,7 +6,7 @@
     "source": "Simon Willison's TILs",
     "publishedDate": "2026-07-29",
     "summary": "Simon Willison이 인증 없는 커스텀 MCP 서버를 Claude.ai와 ChatGPT에 연결하는 구체적 방법을 상세히 설명했다. MCP 표준이 여러 LLM 플랫폼에서 공통으로 채택되며 실무 적용 사례가 늘고 있음을 보여준다.",
-    "scorePct": 64
+    "scorePct": 78
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "네이버",
     "publishedDate": "2026-07-30",
     "summary": "전 세계 개발자들이 실제로 가장 많이 사용한 AI 모델을 집계한 결과 샤오미의 'MiMo-V2.5'가 1위를 차지하는 등 사용량 상위권을 중국 모델들이 휩쓸었다. 다만 성능 평가에서는 미국 모델이 여전히 우위를 보였다.",
-    "scorePct": 9
+    "scorePct": 11
   },
   {
     "rank": 3,
@@ -24,6 +24,6 @@
     "source": "네이버",
     "publishedDate": "2026-07-30",
     "summary": "김준모 KAIST 교수 연구팀이 생성형 AI의 위험한 답변과 공격 루트를 미리 찾아내는 화이트해커 AI를 개발해 기존 대비 7배 많은 공격 경로를 탐지하고 방어율 99.8%를 달성했다. AI 시스템의 취약점을 AI로 선제 방어하는 접근이다.",
-    "scorePct": 9
+    "scorePct": 11
   }
 ]

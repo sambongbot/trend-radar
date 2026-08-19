@@ -6,7 +6,7 @@
     "source": "Model Context Protocol Blog",
     "publishedDate": "2026-07-28",
     "summary": "MCP 공식 블로그가 2026-07-28 릴리스 후보 스펙을 공개했다. 스테이트리스 프로토콜 코어와 확장(Extension) 구조 도입이 핵심 변경 사항이다.",
-    "scorePct": 27
+    "scorePct": 33
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "네이버",
     "publishedDate": "2026-07-28",
     "summary": "오픈AI와 앤트로픽이 AI 코딩 도구의 이용 한도를 잇달아 확대하며 개발자 시장 선점 경쟁에 나섰다. 모델 성능이 빠르게 상향 평준화되는 가운데 개발자의 작업 중단을 막기 위한 조치다.",
-    "scorePct": 18
+    "scorePct": 22
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "Quartz",
     "publishedDate": "2026-07-27",
     "summary": "중국 문샷AI가 2.8조 파라미터 규모의 오픈웨이트 모델 '키미 K3'의 가중치를 무료로 공개했다. 대형 오픈소스 모델의 등장으로 글로벌 LLM 오픈소스 생태계 경쟁이 한층 격화되고 있다.",
-    "scorePct": 18
+    "scorePct": 22
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "네이버",
     "publishedDate": "2026-07-29",
     "summary": "카카오가 스마트폰·PC 등 기기에서 직접 구동 가능한 경량 언어모델(SLM) '카나나-2' 시리즈 4종을 오픈소스로 공개했다. 대화·통화 요약 등 온디바이스 AI 비서 기능에 최적화됐다.",
-    "scorePct": 9
+    "scorePct": 11
   }
 ]

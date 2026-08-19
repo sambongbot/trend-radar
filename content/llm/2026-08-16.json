@@ -6,7 +6,7 @@
     "source": "GitHub Blog",
     "publishedDate": "2026-08-13",
     "summary": "GitHub Copilot이 Kimi K3를 Pro·Pro+·Max·Business·Enterprise 전 플랜에 순차 배포한다. MAI-Code도 함께 제공된다.",
-    "scorePct": 55
+    "scorePct": 67
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "the-decoder.com",
     "publishedDate": "2026-08-13",
     "summary": "Gemini 3.7 Flash가 DeepSWE v1.1에서 65.3%를 기록해 3.6 Flash의 48.6%를 크게 앞섰고, Code Arena 점수도 함께 올랐다. 출시 3주 만인 이전 버전 대비 가격을 50% 낮췄다.",
-    "scorePct": 36
+    "scorePct": 44
   },
   {
     "rank": 3,
@@ -24,6 +24,6 @@
     "source": "네이버",
     "publishedDate": "2026-08-15",
     "summary": "리더보드 점수를 올리는 데 최적화하는 '벤치맥싱' 관행이 도마에 올랐다. 국내 독파모 평가에서도 쟁점이 됐고, 비공개 평가와 실무 평가를 병행하자는 주장이 힘을 얻고 있다.",
-    "scorePct": 27
+    "scorePct": 33
   }
 ]
