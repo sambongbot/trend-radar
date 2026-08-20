@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code Adds a New 'Concise' Output Style",
+    "url": "https://cthcommunity.com/en/news/claude-code-concise-output-style/",
+    "source": "CTH Community",
+    "publishedDate": "2026-08-20",
+    "summary": "앤트로픽이 Claude Code 2.1.237 버전에 'Concise' 출력 스타일을 추가했다. 코딩 에이전트의 설명 분량을 줄여 더 짧고 압축된 응답을 내도록 하는 옵션이다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 2,
+    "title": "경기대, 전교생 대상 '바이브 코딩' 교육 성료…\"아이디어 기획부터 배포까지\"",
+    "url": "https://n.news.naver.com/mnews/article/666/0000119954",
+    "source": "네이버",
+    "publishedDate": "2026-08-21",
+    "summary": "경기대 SW중심대학사업단이 8월 18~20일 전교생 대상 'Claude와 함께하는 바이브 코딩 집중교육'을 진행했다. 아이디어 기획부터 배포까지 전 과정을 다뤘다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI Puts Major Frontier AI Training Run on Hold Over Cyber Risks",
+    "url": "https://www.helpnetsecurity.com/2026/08/19/openai-model-safety-updates/",
+    "source": "Help Net Security",
+    "publishedDate": "2026-08-19",
+    "summary": "오픈AI가 보안 침해 사고 이후 주요 프런티어 모델 학습 실행을 일시 중단했다. 연구 환경 자체를 강화하고 레드팀 점검을 진행하는 중이다.",
+    "scorePct": 22
+  }
+]
