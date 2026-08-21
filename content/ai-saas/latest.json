@@ -1,51 +1,42 @@
 {
-  "date": "2026-08-21",
-  "headline": "> 오픈AI가 코딩 없이 사내 도구를 만드는 '챗GPT 워크'와 외부 SW 1400개 커넥터를 서울에서 공개하며 기업 내부 워크플로 장악에 나섰다.\n> AI 추론 클라우드에 3.5억 달러가 몰리고 세일즈포스는 '에이전틱 분석'으로 분석 이후의 실행까지 자동화를 선언했다.\n> 앤트로픽은 Claude Code에 Concise 출력 스타일을 추가했고, 오픈AI는 사이버 침해 사고로 프런티어 모델 학습을 일시 중단했다.",
+  "date": "2026-08-22",
+  "headline": "> 카카오가 카카오톡·AI를 떼어낸 '카카오AI'와 투자회사 '카카오X'로 인적분할하며 국내 B2C AI 지형이 재편된다.\n> OpenAI가 기업 사용자 증가율에서 Anthropic을 앞서기 시작한 가운데, Anthropic은 SpaceX 기록에 맞먹는 규모의 IPO를 준비 중이다.\n> 슬랙이 Claude Code·Devin을 채널에 심은 'Slack Code'를 내놓으며 에이전틱 코딩이 팀 협업 도구 안으로 들어왔다.",
   "items": [
     {
       "rank": 1,
-      "title": "코딩 몰라도 업무용 홈피 뚝딱…AI에 1400개 외부 SW 연결도",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545787",
+      "title": "“은행도 AI가 스스로 일한다”…핀다 이혜민 “AI 네이티브 뱅크 온다”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355824",
       "source": "네이버",
-      "publishedDate": "2026-08-21",
-      "summary": "오픈AI가 서울에서 '챗GPT 워크' 행사를 열고 개발자가 아니어도 업무용 도구·사이트를 직접 만들 수 있는 기능을 공개했다. 외부 SW 1400개를 커넥터로 연결해 사내 데이터와 업무 시스템을 챗GPT 안에서 다루도록 했다.",
+      "publishedDate": "2026-08-22",
+      "summary": "핀다 이혜민 대표가 생성형 AI와 AI 에이전트 확산이 모바일 네이티브 뱅크에 이어 'AI 네이티브 뱅크' 시대를 열 것이라고 전망했다. 사람의 조작 없이 AI가 스스로 금융 업무를 수행하는 구조로의 전환을 짚었다.",
       "scorePct": 57
     },
     {
       "rank": 2,
-      "title": "“AI가 인사이트 찾고 행동까지”…세일즈포스, '에이전틱 분석' 전략 공개",
-      "url": "https://n.news.naver.com/mnews/article/030/0003459030",
+      "title": "앤트로픽 지분 늘린 SKT…AI 기업 투자 성과 가시화",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050040",
       "source": "네이버",
       "publishedDate": "2026-08-21",
-      "summary": "세일즈포스가 태블로를 축으로 한 '에이전틱 분석' 전략을 공개했다. 인사이트 도출에서 끝나지 않고 조직 내 의사결정과 후속 업무 실행까지 에이전트가 이어받는 구조다.",
+      "summary": "SK텔레콤의 AI 기업 투자가 성과로 드러나고 있다. 앤트로픽은 기업가치 2조 달러를 바라보고 있고 스캐터랩·페르소AI 등 국내 투자처도 성장 중이어서, 통신사의 AI 포트폴리오 전략이 재평가받고 있다.",
       "scorePct": 29
     },
     {
       "rank": 3,
-      "title": "\"코드 수정 없이 최대 4배\"…클라우데라, 엔비디아 손잡고 AI 데이터 비용 낮춘다",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434601",
-      "source": "네이버",
+      "title": "Anthropic Expects to Match or Top SpaceX's Record IPO Size",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+      "source": "Bloomberg",
       "publishedDate": "2026-08-20",
-      "summary": "클라우데라가 엔비디아와 협력해 아파치 스파크 기반 데이터 처리 속도를 코드 수정 없이 최대 4배까지 끌어올린다고 밝혔다. AI 활용 확대로 커진 데이터 준비·인프라 비용 부담을 낮추는 것이 목표다.",
+      "summary": "Anthropic이 SpaceX가 세운 사상 최대 규모 IPO에 맞먹거나 그를 넘어서는 규모의 상장을 준비 중인 것으로 알려졌다. 기업용 AI 매출을 기반으로 한 실적이 이 밸류에이션을 뒷받침하고 있다.",
       "scorePct": 29
     },
     {
       "rank": 4,
-      "title": "추론 클라우드 그록, 3억5천만 달러 시리즈A 유치",
-      "url": "https://wowtale.net/2026/08/18/263114/",
-      "source": "와우테일",
-      "publishedDate": "2026-08-18",
-      "summary": "AI 추론 클라우드 인프라 기업이 디스럽티브 주도로 3억5000만 달러 규모 시리즈A를 유치하며 기업가치 35억 달러를 인정받았다. 엔비디아도 투자자로 참여했다.",
-      "scorePct": 14
-    },
-    {
-      "rank": 5,
-      "title": "카카오, 지주사로 전환하고 … '국민메신저' 카톡 떼어낸다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005723793",
+      "title": "둘로 나뉜 카카오, ‘풀스택 AI’ 강화… AI 업계 “확장성·비용 절감 관건”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002238598",
       "source": "네이버",
       "publishedDate": "2026-08-21",
-      "summary": "카카오가 지주회사 전환과 함께 카카오톡을 별도 법인으로 분리하는 지배구조 개편에 나선다. AI 전담법인을 세워 AI 사업에 힘을 싣는 구조로, 21일 임직원 간담회에서 공개된다.",
-      "scorePct": 0
+      "summary": "카카오가 신설법인 '카카오AI' 출범을 계기로 자체 모델과 외부 AI를 조합하는 오케스트레이션 전략에 온디바이스 AI와 지능형 모델을 더한 '풀스택 AI'로 나아간다. 업계는 확장성과 비용 절감이 성패를 가를 것으로 본다. 카카오톡을 AI 법인에 붙여 B2C AI 선두를 노리는 구조다.",
+      "scorePct": 14
     }
   ]
 }

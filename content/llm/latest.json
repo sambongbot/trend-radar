@@ -1,32 +1,41 @@
 {
-  "date": "2026-08-21",
-  "headline": "> 오픈AI가 코딩 없이 사내 도구를 만드는 '챗GPT 워크'와 외부 SW 1400개 커넥터를 서울에서 공개하며 기업 내부 워크플로 장악에 나섰다.\n> AI 추론 클라우드에 3.5억 달러가 몰리고 세일즈포스는 '에이전틱 분석'으로 분석 이후의 실행까지 자동화를 선언했다.\n> 앤트로픽은 Claude Code에 Concise 출력 스타일을 추가했고, 오픈AI는 사이버 침해 사고로 프런티어 모델 학습을 일시 중단했다.",
+  "date": "2026-08-22",
+  "headline": "> 카카오가 카카오톡·AI를 떼어낸 '카카오AI'와 투자회사 '카카오X'로 인적분할하며 국내 B2C AI 지형이 재편된다.\n> OpenAI가 기업 사용자 증가율에서 Anthropic을 앞서기 시작한 가운데, Anthropic은 SpaceX 기록에 맞먹는 규모의 IPO를 준비 중이다.\n> 슬랙이 Claude Code·Devin을 채널에 심은 'Slack Code'를 내놓으며 에이전틱 코딩이 팀 협업 도구 안으로 들어왔다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Code Adds a New 'Concise' Output Style",
-      "url": "https://cthcommunity.com/en/news/claude-code-concise-output-style/",
-      "source": "CTH Community",
+      "title": "Salesforce introduces Slack Code to bring agentic team coding into the open",
+      "url": "https://siliconangle.com/2026/08/20/salesforce-introduces-slack-code-to-bring-agentic-team-coding-into-the-open/",
+      "source": "SiliconANGLE",
       "publishedDate": "2026-08-20",
-      "summary": "앤트로픽이 Claude Code 2.1.237 버전에 'Concise' 출력 스타일을 추가했다. 코딩 에이전트의 설명 분량을 줄여 더 짧고 압축된 응답을 내도록 하는 옵션이다.",
-      "scorePct": 67
+      "summary": "세일즈포스 산하 슬랙이 Claude Code, Devin, GitHub Copilot 등 AI 코딩 에이전트를 슬랙 채널 안에 직접 심는 'Slack Code'를 공개했다. 개발자가 IDE를 떠나지 않고도 팀 대화 맥락에서 에이전트에게 작업을 지시하고 결과를 공유할 수 있는 구조다. 에이전틱 코딩을 개인 도구에서 팀 협업 레이어로 끌어올리려는 시도다.",
+      "scorePct": 44
     },
     {
       "rank": 2,
-      "title": "경기대, 전교생 대상 '바이브 코딩' 교육 성료…\"아이디어 기획부터 배포까지\"",
-      "url": "https://n.news.naver.com/mnews/article/666/0000119954",
-      "source": "네이버",
-      "publishedDate": "2026-08-21",
-      "summary": "경기대 SW중심대학사업단이 8월 18~20일 전교생 대상 'Claude와 함께하는 바이브 코딩 집중교육'을 진행했다. 아이디어 기획부터 배포까지 전 과정을 다뤘다.",
-      "scorePct": 33
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-08-20",
+      "summary": "Ramp 데이터에 따르면 3분기 들어 OpenAI가 기업 고객 확산 속도에서 Anthropic을 앞지르기 시작했다. 그간 코딩·기업용 시장에서 우위를 지켜온 Anthropic의 점유율 흐름에 변화 조짐이 나타났다는 분석이다.",
+      "scorePct": 22
     },
     {
       "rank": 3,
-      "title": "OpenAI Puts Major Frontier AI Training Run on Hold Over Cyber Risks",
-      "url": "https://www.helpnetsecurity.com/2026/08/19/openai-model-safety-updates/",
-      "source": "Help Net Security",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch",
       "publishedDate": "2026-08-19",
-      "summary": "오픈AI가 보안 침해 사고 이후 주요 프런티어 모델 학습 실행을 일시 중단했다. 연구 환경 자체를 강화하고 레드팀 점검을 진행하는 중이다.",
+      "summary": "OpenAI가 오남용 탐지를 사람 검토 없이 자동으로 처리하는 'Private Safety Processing'을 미리 공개했다. 기업 고객 데이터에 사람 눈이 닿지 않도록 하면서도 안전 정책은 유지하겠다는 설계로, Anthropic의 프라이버시 정책과 정면 경쟁하는 카드다.",
+      "scorePct": 22
+    },
+    {
+      "rank": 4,
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-08-19",
+      "summary": "구글이 검색과 Gemini 전반에 AI 생성 인터랙티브 시각자료를 포함한 학습 도구를 추가했다. 단순 답변 제공을 넘어 사용자가 개념을 익히도록 돕는 방향으로 인터페이스를 확장하고 있다.",
       "scorePct": 22
     }
   ]
