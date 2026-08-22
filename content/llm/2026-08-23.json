@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+    "url": "https://www.investing.com/news/stock-market-news/openai-cuts-developer-pricing-for-frontier-gpt56-sol-model-by-more-than-20-4872186",
+    "source": "Investing.com (Reuters)",
+    "publishedDate": "2026-08-21",
+    "summary": "오픈AI가 프런티어 모델 GPT-5.6 Sol의 개발자 API 가격을 20% 넘게 인하했다. 최상위 모델 가격이 내려가면서 프런티어급 성능을 상시 호출하는 제품 설계의 단가 계산이 달라진다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 2,
+    "title": "[테크톡노트] 같은 AI인데 결과는 왜 다를까…답은 '컨텍스트'",
+    "url": "https://n.news.naver.com/mnews/article/001/0016264791",
+    "source": "네이버",
+    "publishedDate": "2026-08-22",
+    "summary": "같은 모델을 써도 결과가 갈리는 이유는 프롬프트 문구가 아니라 어떤 정보와 도구를 쥐여주느냐, 즉 컨텍스트 설계에 있다는 분석이다. 에이전트 시대의 새 경쟁력으로 '컨텍스트 엔지니어링'이 부상하고 있다.",
+    "scorePct": 56
+  },
+  {
+    "rank": 3,
+    "title": "'다중 AI 에이전트' 위협 현실로, 편의 좇다 통제 불능",
+    "url": "https://n.news.naver.com/mnews/article/092/0002434728",
+    "source": "네이버",
+    "publishedDate": "2026-08-22",
+    "summary": "여러 AI 에이전트를 동시에 자율 실행하는 다중 에이전트 방식이 확산되면서 개별 에이전트 단위로는 잡히지 않는 통제 불능 문제가 현실화되고 있다. 편의를 좇아 자율성을 키운 만큼 감사·차단 장치의 부재가 리스크로 되돌아온다는 지적이다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+    "source": "Bloomberg",
+    "publishedDate": "2026-08-20",
+    "summary": "앤트로픽이 최상위 모델 사용 시 기업 고객이 자사 데이터에 대해 더 큰 통제권을 갖도록 데이터 보존 정책을 변경할 계획이다. 기업의 데이터 거버넌스 요구가 커지면서 프런티어 모델 공급사들이 프라이버시 조건을 경쟁 축으로 삼기 시작했다.",
+    "scorePct": 22
+  }
+]

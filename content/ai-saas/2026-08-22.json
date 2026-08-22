@@ -34,5 +34,14 @@
     "publishedDate": "2026-08-21",
     "summary": "카카오가 신설법인 '카카오AI' 출범을 계기로 자체 모델과 외부 AI를 조합하는 오케스트레이션 전략에 온디바이스 AI와 지능형 모델을 더한 '풀스택 AI'로 나아간다. 업계는 확장성과 비용 절감이 성패를 가를 것으로 본다. 카카오톡을 AI 법인에 붙여 B2C AI 선두를 노리는 구조다.",
     "scorePct": 14
+  },
+  {
+    "rank": 5,
+    "title": "AI data giant Alation confirms cyberattack",
+    "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-20",
+    "summary": "기업용 데이터 카탈로그·자연어 검색 소프트웨어를 공급하는 알레이션이 사이버 공격을 당해 서비스 가용성이 저하됐다고 확인했다. 사내 파일과 데이터에 광범위하게 접근하는 AI 데이터 계층이 공격 표면이 될 수 있음을 보여준 사고다.",
+    "scorePct": 0
   }
 ]
