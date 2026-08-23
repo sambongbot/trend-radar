@@ -1,42 +1,33 @@
 {
-  "date": "2026-08-23",
-  "headline": "> 앤트로픽이 기업 고객에게 데이터 보존 통제권을 넘기고, 오픈AI는 프런티어 모델 API 가격을 20% 넘게 내리며 B2B 도입 장벽을 동시에 낮추고 있다.\n> 에이전트는 이제 '어떻게 만드나'보다 '어떻게 통제하나'가 쟁점 — 컨텍스트 엔지니어링이 성과를 가르고, 다중 에이전트 자율 운용은 통제 불능 리스크로 청구서가 돌아온다.\n> 국내에서는 공공 AI 의사결정의 법적 근거가 마련되며 에이전틱 AI·RAG 공공사업 시장이 열리는 반면, AI 데이터 벤더 해킹은 공급망 리스크를 다시 드러냈다.",
+  "date": "2026-08-24",
+  "headline": "> 오픈AI·앤트로픽 가격·IPO 경쟁이 격화되는 가운데, 국내에서는 금감원까지 클로드를 업무에 도입하며 공공·금융권 생성형 AI 사용이 공식화됐다.\n> 미스트랄의 에이전틱 서치, DeepMind 출신 Inherent의 연구복제 에이전트 등 '근거 검증형 AI 에이전트'가 새 경쟁 축으로 부상했다.\n> 카카오는 카카오톡·AI를 떼어내는 창사 최대 인적분할로 AI 중심 재편에 나섰고, AI 슬롭·감별기 오탐 같은 신뢰성 리스크도 실무 과제로 떠올랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "url": "https://www.investing.com/news/stock-market-news/openai-cuts-developer-pricing-for-frontier-gpt56-sol-model-by-more-than-20-4872186",
-      "source": "Investing.com (Reuters)",
-      "publishedDate": "2026-08-21",
-      "summary": "오픈AI가 프런티어 모델 GPT-5.6 Sol의 개발자 API 가격을 20% 넘게 인하했다. 최상위 모델 가격이 내려가면서 프런티어급 성능을 상시 호출하는 제품 설계의 단가 계산이 달라진다.",
-      "scorePct": 67
-    },
-    {
-      "rank": 2,
-      "title": "[테크톡노트] 같은 AI인데 결과는 왜 다를까…답은 '컨텍스트'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016264791",
+      "title": "[AI is]공부 돕고 유해물 막는다…오픈AI, 챗GPT 포 틴스 출시",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089426",
       "source": "네이버",
-      "publishedDate": "2026-08-22",
-      "summary": "같은 모델을 써도 결과가 갈리는 이유는 프롬프트 문구가 아니라 어떤 정보와 도구를 쥐여주느냐, 즉 컨텍스트 설계에 있다는 분석이다. 에이전트 시대의 새 경쟁력으로 '컨텍스트 엔지니어링'이 부상하고 있다.",
-      "scorePct": 56
-    },
-    {
-      "rank": 3,
-      "title": "'다중 AI 에이전트' 위협 현실로, 편의 좇다 통제 불능",
-      "url": "https://n.news.naver.com/mnews/article/092/0002434728",
-      "source": "네이버",
-      "publishedDate": "2026-08-22",
-      "summary": "여러 AI 에이전트를 동시에 자율 실행하는 다중 에이전트 방식이 확산되면서 개별 에이전트 단위로는 잡히지 않는 통제 불능 문제가 현실화되고 있다. 편의를 좇아 자율성을 키운 만큼 감사·차단 장치의 부재가 리스크로 되돌아온다는 지적이다.",
+      "publishedDate": "2026-08-24",
+      "summary": "오픈AI가 청소년 전용 '챗GPT 포 틴스'를 출시했다. 유해 콘텐츠를 차단하는 동시에 비판적 사고력과 학습 이해도를 높이도록 설계된, 연령대별로 분리된 제품 버전이다.",
       "scorePct": 33
     },
     {
-      "rank": 4,
-      "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-      "source": "Bloomberg",
-      "publishedDate": "2026-08-20",
-      "summary": "앤트로픽이 최상위 모델 사용 시 기업 고객이 자사 데이터에 대해 더 큰 통제권을 갖도록 데이터 보존 정책을 변경할 계획이다. 기업의 데이터 거버넌스 요구가 커지면서 프런티어 모델 공급사들이 프라이버시 조건을 경쟁 축으로 삼기 시작했다.",
+      "rank": 2,
+      "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-08-22",
+      "summary": "딥마인드 출신들이 세운 런던 AI 랩 Inherent가 자사의 AI '팀메이트' 에이전트가 연구 논문 복제 과제에서 앤트로픽·오픈AI의 대형 모델을 앞섰다고 발표했다. 모델 크기가 아니라 에이전트 설계로 프론티어 랩을 능가할 수 있다는 주장이다.",
       "scorePct": 22
+    },
+    {
+      "rank": 3,
+      "title": "AI 슬롭 잡으려다 사람 잡는다…'AI 감별기'의 두 얼굴[AI슬롭 비상③]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014142511",
+      "source": "네이버",
+      "publishedDate": "2026-08-23",
+      "summary": "생성형 AI로 대량 생산된 저품질 콘텐츠 'AI 슬롭'이 확산되며 이를 판별하는 'AI 감별기'가 주목받고 있다. 그러나 감별기가 사람이 쓴 글을 AI 생성물로 오판하는 오탐 문제가 함께 불거지며 판별 기술 자체의 신뢰성이 도마에 올랐다.",
+      "scorePct": 11
     }
   ]
 }

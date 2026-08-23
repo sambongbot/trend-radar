@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "\"챗GPT 써도 됩니다”…금감원 직원들도 업무 중 생성형 AI 활용",
+    "url": "https://n.news.naver.com/mnews/article/018/0006356302",
+    "source": "네이버",
+    "publishedDate": "2026-08-24",
+    "summary": "금융위원회에 이어 금융감독원도 직원들의 업무 중 생성형 AI 사용을 공식 허용했다. 특히 앤트로픽의 클로드가 실사용 도구로 언급되며, 보안·규제에 가장 보수적인 금융 감독기관까지 생성형 AI를 업무에 들였다는 신호다.",
+    "scorePct": 86
+  },
+  {
+    "rank": 2,
+    "title": "\"AI가 문서 열고 근거까지 검증\"…미스트랄, '에이전틱 서치' 공개",
+    "url": "https://n.news.naver.com/mnews/article/092/0002434765",
+    "source": "네이버",
+    "publishedDate": "2026-08-23",
+    "summary": "미스트랄AI가 기업 내부 문서를 자동 탐색하고 답변 근거까지 검증하는 '에이전틱 서치'를 공개했다. 여러 데이터 소스를 넘나들며 정보를 찾고 조사한 뒤 출처를 검증하는 방식으로, 단순 RAG를 넘어선 기업용 검색을 지향한다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "'100명의 CEO'서 '두 개의 엔진'으로…AI가 바꾼 카카오 4.0 시대",
+    "url": "https://n.news.naver.com/mnews/article/018/0006356434",
+    "source": "네이버",
+    "publishedDate": "2026-08-23",
+    "summary": "카카오가 계열사 확장 전략을 접고 카카오톡·AI 중심의 '카카오AI'와 금융·콘텐츠·모빌리티를 묶은 투자 회사, 두 축으로 재편한다. 창사 20년 만의 최대 지배구조 개편으로, AI를 성장의 단일 엔진으로 삼겠다는 선언이다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "금융 AI기업 웹케시, 공공기관 재정 AX 전략 세미나",
+    "url": "https://n.news.naver.com/mnews/article/658/0000153139",
+    "source": "네이버",
+    "publishedDate": "2026-08-24",
+    "summary": "B2B 금융 AI 기업 웹케시가 부산·서울·대전·나주에서 공공기관 재정 AX 전략 세미나를 연다. 'ERP 오페리아 AI에이전트' 활용을 포함한 4개 세션으로 공공 재정 업무의 AI 전환 실전 사례를 다룬다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-22",
+    "summary": "오픈AI가 캘리포니아의 AI 안전 법안에 오히려 더 강한 안전장치를 추가할 것을 요구하고 나섰다. 규제 완화를 요구해온 업계 통념과 반대되는 행보로, 프론티어 랩이 규제 기준 설정에 직접 개입하는 양상이다.",
+    "scorePct": 29
+  }
+]
