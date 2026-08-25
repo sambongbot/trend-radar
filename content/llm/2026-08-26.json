@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "오픈AI, 기업용 AI 모델료 최대 80% 인하…가격 경쟁 격화",
+    "url": "https://www.etoday.co.kr/news/view/2609825",
+    "source": "이투데이",
+    "publishedDate": "2026-08-24",
+    "summary": "오픈AI가 중위 모델 'GPT-5.6 테라' 요금을 20%, 보급형 '루나'를 80% 인하해 100만 토큰당 0.2~1.2달러 수준까지 낮췄다. 프런티어 모델 인하에 이어 중·보급형까지 가격 경쟁이 전선을 넓혔다.",
+    "scorePct": 44
+  },
+  {
+    "rank": 2,
+    "title": "From chatbots to collaborators: How AI agents are reshaping enterprise work",
+    "url": "https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work",
+    "source": "VentureBeat",
+    "publishedDate": "2026-08-24",
+    "summary": "앤스로픽 엔터프라이즈 제품 총괄 스콧 화이트가 여러 AI 에이전트를 동시에 운용하는 '멀티플레이어' 구상을 제시했다. 챗봇형 응답을 넘어 에이전트가 실제 업무 협업자로 편입되는 단계를 회사의 엔터프라이즈 전략 축으로 삼았다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI is building an AI agent for everything. Will everyone use them?",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-24",
+    "summary": "오픈AI가 코딩에 국한됐던 AI 에이전트를 일반 사무 업무 전반으로 확장하려 한다. 다만 개발자 밖의 일반 직원이 실제로 에이전트를 일상적으로 쓸지는 여전히 미검증 과제로 남아 있다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic's Claude AI Suffers Another Outage With Elevated Errors",
+    "url": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
+    "source": "Cybersecurity News",
+    "publishedDate": "2026-08-24",
+    "summary": "앤스로픽 클로드 플랫폼이 8월 24일 오류율 급증을 동반한 장애를 다시 겪으며 주력 모델 이용에 영향을 줬다. 짧은 간격으로 반복된 장애로 서비스 안정성 문제가 부각됐다.",
+    "scorePct": 22
+  }
+]
