@@ -1,41 +1,41 @@
 {
-  "date": "2026-08-26",
-  "headline": "> 오픈AI가 보급형 모델 요금을 최대 80% 인하하며 LLM 가격 경쟁이 추론 비용 구조 자체를 흔들고 있다.\n> 앤스로픽·오픈AI 모두 '에이전트'를 소프트웨어 개발 밖 일반 업무로 확장 중이고, 구글은 금융 특화 에이전틱 AI로 버티컬을 파고든다.\n> 국내는 에이전틱 OS 실증(한컴·남양유업)과 교육·채용 기업의 AX 시장 진입으로 실수요 단계에 진입했다.",
+  "date": "2026-08-27",
+  "headline": "> 뤼튼이 1000억원 시리즈C로 유니콘에 오르며 국내 AI 서비스 플랫폼 투자가 재점화됐다.\n> Anthropic은 Claude Tag를 슬랙 전체 대화를 읽고 먼저 끼어드는 에이전트로 확장했고, IPO 몸값 4경원을 내걸며 오픈AI와 정면 충돌 구도를 만들었다.\n> 에이전틱 AI 확산이 GPU를 넘어 CPU·메모리·전력·냉각까지 인프라 병목을 옮기고 있다는 경고가 잇따랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "한컴, 남양유업에 자체 개발 '에이전틱 OS' 적용…기업 AX 실증 본격화",
-      "url": "https://www.hellot.net/news/article.html?no=114523",
-      "source": "헬로티",
-      "publishedDate": "2026-08-25",
-      "summary": "한컴이 8월 25일 남양유업과 MOU를 맺고 자체 개발 '에이전틱 OS'를 적용하기로 했다. 여러 AI 에이전트와 기업 데이터, 업무 시스템을 통합 운영하는 구조를 실제 제조·유통 현장에서 실증한다.",
+      "title": "[스마트클라우드쇼 2026] 신정규 래블업 대표 “에이전틱 AI 확산에 CPU·메모리·전력도 비상”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188518",
+      "source": "네이버",
+      "publishedDate": "2026-08-26",
+      "summary": "래블업 신정규 대표는 사람 1명당 AI 에이전트 100개 시대가 오면서 GPU뿐 아니라 CPU·메모리·전력 수요까지 급증한다고 경고했다. 데이터센터의 전력과 자원 격리가 새로운 과제로 떠올랐다.",
       "scorePct": 86
     },
     {
       "rank": 2,
-      "title": "밤낮없이 일하는 AI 직원에…창업자들도 잠 못자",
-      "url": "https://www.hankyung.com/article/202608247544i",
-      "source": "한국경제",
-      "publishedDate": "2026-08-24",
-      "summary": "24시간 쉬지 않고 작업하는 AI 에이전트 '직원'이 늘면서 스타트업 창업자의 업무 강도와 의사결정 부담이 오히려 커졌다는 분석이 나왔다. 산출물 검토와 판단이 병목으로 이동한 것이 원인이다.",
+      "title": "뤼튼, 1000억원 규모 투자 유치…유니콘 도약",
+      "url": "https://n.news.naver.com/mnews/article/015/0005325059",
+      "source": "네이버",
+      "publishedDate": "2026-08-27",
+      "summary": "뤼튼테크놀로지스가 1000억원 규모 시리즈C 투자를 유치하며 누적 투자액 2300억원을 기록했다. 이번 라운드로 국내 AI 서비스 플랫폼 기업 중 유니콘 반열에 올랐다.",
       "scorePct": 29
     },
     {
       "rank": 3,
-      "title": "Google Cloud Launches Gemini Enterprise for Financial Services",
-      "url": "https://www.googlecloudpresscorner.com/2026-08-25-Google-Cloud-Launches-Gemini-Enterprise-for-Financial-Services",
-      "source": "Google Cloud Press Corner",
-      "publishedDate": "2026-08-25",
-      "summary": "구글 클라우드가 금융 서비스 전용으로 설계한 에이전틱 AI 솔루션 '제미나이 엔터프라이즈 for 파이낸셜 서비스'를 공개했다. 범용 모델이 아니라 산업 규제와 업무 흐름에 맞춘 버티컬 패키지 형태다.",
+      "title": "[스마트클라우드쇼 2026] 이해석 폴라리스오피스 부사장 “SaaS 종말 아냐… 사람 대신 AI가 소프트웨어 쓴다”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188519",
+      "source": "네이버",
+      "publishedDate": "2026-08-26",
+      "summary": "폴라리스오피스 이해석 부사장은 SaaS의 시대가 끝난 것이 아니라 사람 대신 AI가 소프트웨어를 쓰는 형태로 바뀐다고 밝혔다. 대체 불가능한 데이터를 보유하고 실제 업무를 수행하는 SaaS만 살아남는다는 진단이다.",
       "scorePct": 29
     },
     {
       "rank": 4,
-      "title": "교육·채용 기업까지 'AX 시장' 뛰어든다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725713",
-      "source": "네이버",
+      "title": "Alice raises $140M as its AI security business grows more than 500%",
+      "url": "https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/",
+      "source": "SiliconANGLE",
       "publishedDate": "2026-08-25",
-      "summary": "패스트캠퍼스가 AI 전문기업을 인수하고 팀스파르타가 AX 사업본부를 신설하는 등 교육·채용 기업들이 AX 시장에 뛰어들고 있다. 2032년 41조원으로 전망되는 국내 AI 시장을 두고 전통 SI 기업과의 경쟁이 격화될 전망이다.",
+      "summary": "AI 신뢰·안전 기업 Alice(구 ActiveFence)가 Apax 주도로 1억 4000만 달러를 유치했다. AI 보안 사업 부문이 500% 이상 성장한 것이 투자 근거가 됐다.",
       "scorePct": 14
     }
   ]

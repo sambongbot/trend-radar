@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-26",
-  "headline": "> 오픈AI가 보급형 모델 요금을 최대 80% 인하하며 LLM 가격 경쟁이 추론 비용 구조 자체를 흔들고 있다.\n> 앤스로픽·오픈AI 모두 '에이전트'를 소프트웨어 개발 밖 일반 업무로 확장 중이고, 구글은 금융 특화 에이전틱 AI로 버티컬을 파고든다.\n> 국내는 에이전틱 OS 실증(한컴·남양유업)과 교육·채용 기업의 AX 시장 진입으로 실수요 단계에 진입했다.",
+  "date": "2026-08-27",
+  "headline": "> 뤼튼이 1000억원 시리즈C로 유니콘에 오르며 국내 AI 서비스 플랫폼 투자가 재점화됐다.\n> Anthropic은 Claude Tag를 슬랙 전체 대화를 읽고 먼저 끼어드는 에이전트로 확장했고, IPO 몸값 4경원을 내걸며 오픈AI와 정면 충돌 구도를 만들었다.\n> 에이전틱 AI 확산이 GPU를 넘어 CPU·메모리·전력·냉각까지 인프라 병목을 옮기고 있다는 경고가 잇따랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "오픈AI, 기업용 AI 모델료 최대 80% 인하…가격 경쟁 격화",
-      "url": "https://www.etoday.co.kr/news/view/2609825",
-      "source": "이투데이",
+      "title": "Anthropic's new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "source": "VentureBeat",
       "publishedDate": "2026-08-24",
-      "summary": "오픈AI가 중위 모델 'GPT-5.6 테라' 요금을 20%, 보급형 '루나'를 80% 인하해 100만 토큰당 0.2~1.2달러 수준까지 낮췄다. 프런티어 모델 인하에 이어 중·보급형까지 가격 경쟁이 전선을 넓혔다.",
-      "scorePct": 44
+      "summary": "Anthropic이 슬랙 채널에 상주하는 에이전트 Claude Tag를 업데이트해 채널 전체 대화 맥락을 읽도록 했다. 이제 호출하지 않아도 스스로 판단해 대화에 개입할 수 있다.",
+      "scorePct": 22
     },
     {
       "rank": 2,
-      "title": "From chatbots to collaborators: How AI agents are reshaping enterprise work",
-      "url": "https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work",
-      "source": "VentureBeat",
-      "publishedDate": "2026-08-24",
-      "summary": "앤스로픽 엔터프라이즈 제품 총괄 스콧 화이트가 여러 AI 에이전트를 동시에 운용하는 '멀티플레이어' 구상을 제시했다. 챗봇형 응답을 넘어 에이전트가 실제 업무 협업자로 편입되는 단계를 회사의 엔터프라이즈 전략 축으로 삼았다.",
-      "scorePct": 33
+      "title": "Perplexity AI launches Portable Computer on-device AI agent",
+      "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
+      "source": "SiliconANGLE",
+      "publishedDate": "2026-08-25",
+      "summary": "Perplexity가 클라우드 기반 Computer 에이전트의 온디바이스 버전인 Portable Computer를 공개했다. 사용자 기기에서 직접 작업을 수행해 데이터를 외부로 보내지 않는다.",
+      "scorePct": 22
     },
     {
       "rank": 3,
-      "title": "OpenAI is building an AI agent for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-08-24",
-      "summary": "오픈AI가 코딩에 국한됐던 AI 에이전트를 일반 사무 업무 전반으로 확장하려 한다. 다만 개발자 밖의 일반 직원이 실제로 에이전트를 일상적으로 쓸지는 여전히 미검증 과제로 남아 있다.",
-      "scorePct": 22
+      "title": "앤트로픽 \"AI가치 4경원\" IPO 속도 … 오픈AI, 자체칩으로 맹추격",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726301",
+      "source": "네이버",
+      "publishedDate": "2026-08-26",
+      "summary": "Anthropic이 다음 달 말 상장을 목표로 1000억 달러 규모 사상 최대 IPO에 도전하며 'AI가 모든 인간 업무를 대체한다'는 청사진을 제시했다. 오픈AI는 자체 칩 '할라페뇨'를 공개하며 인프라 원가 경쟁으로 맞불을 놨다.",
+      "scorePct": 11
     },
     {
       "rank": 4,
-      "title": "Anthropic's Claude AI Suffers Another Outage With Elevated Errors",
-      "url": "https://cybersecuritynews.com/claude-ai-suffers-outage/",
-      "source": "Cybersecurity News",
-      "publishedDate": "2026-08-24",
-      "summary": "앤스로픽 클로드 플랫폼이 8월 24일 오류율 급증을 동반한 장애를 다시 겪으며 주력 모델 이용에 영향을 줬다. 짧은 간격으로 반복된 장애로 서비스 안정성 문제가 부각됐다.",
-      "scorePct": 22
+      "title": "[K-미토스①] 국산 보안 AI 주도권 경쟁 점화, 네이버·SK 양강 대결",
+      "url": "https://zdnet.co.kr/view/?no=20260826093717",
+      "source": "ZDNet Korea",
+      "publishedDate": "2026-08-26",
+      "summary": "과기정통부의 사이버보안 특화 AI 파운데이션 모델 개발 사업에 네이버클라우드와 SK텔레콤 컨소시엄이 2파전으로 맞붙었다. 정부는 서류 검토와 외부 전문가 평가를 거쳐 사업자를 선정한다.",
+      "scorePct": 11
     }
   ]
 }
