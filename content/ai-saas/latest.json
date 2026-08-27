@@ -1,42 +1,51 @@
 {
-  "date": "2026-08-27",
-  "headline": "> 뤼튼이 1000억원 시리즈C로 유니콘에 오르며 국내 AI 서비스 플랫폼 투자가 재점화됐다.\n> Anthropic은 Claude Tag를 슬랙 전체 대화를 읽고 먼저 끼어드는 에이전트로 확장했고, IPO 몸값 4경원을 내걸며 오픈AI와 정면 충돌 구도를 만들었다.\n> 에이전틱 AI 확산이 GPU를 넘어 CPU·메모리·전력·냉각까지 인프라 병목을 옮기고 있다는 경고가 잇따랐다.",
+  "date": "2026-08-28",
+  "headline": "> 오픈AI가 챗GPT 작업 예약·자동 실행을 무료 계정까지 열며 에이전트 자동화를 대중화했고, 세일즈포스는 앤트로픽과 'Claudeforce'로 손잡아 SaaS의 앞단을 AI 채팅으로 내주는 실험에 들어갔다.\n> 앤트로픽은 모델 크기 경쟁 대신 엔터프라이즈 워크플로 침투로 방향을 틀었고, Claude Cowork·chat 메모리 통합과 Claude Code 릴리스가 그 실행 단면을 보여준다.\n> 국내는 독파모 2차 평가 점수 전면 공개(SKT 1위)와 학습데이터 3,544만건 개방, 뤼튼 1,000억 시리즈C, SKT의 AI DC 분사로 판이 재편되는 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "[스마트클라우드쇼 2026] 신정규 래블업 대표 “에이전틱 AI 확산에 CPU·메모리·전력도 비상”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188518",
-      "source": "네이버",
-      "publishedDate": "2026-08-26",
-      "summary": "래블업 신정규 대표는 사람 1명당 AI 에이전트 100개 시대가 오면서 GPU뿐 아니라 CPU·메모리·전력 수요까지 급증한다고 경고했다. 데이터센터의 전력과 자원 격리가 새로운 과제로 떠올랐다.",
+      "title": "\"알아서 일한다\"…오픈AI, 챗GPT 예약·자동화 전면 개방",
+      "url": "https://www.tech42.co.kr/%EC%95%8C%EC%95%84%EC%84%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4%EC%98%A4%ED%94%88ai-%EC%B1%97gpt-%EC%98%88%EC%95%BD%C2%B7%EC%9E%90%EB%8F%99%ED%99%94-%EC%A0%84%EB%A9%B4-%EA%B0%9C%EB%B0%A9/",
+      "source": "테크42",
+      "publishedDate": "2026-08-25",
+      "summary": "오픈AI가 8월 25일부터 챗GPT의 작업 예약·자동 실행 기능을 무료 계정까지 확대했다. 유료 구독자는 지메일·슬랙·깃허브와 연동해 특정 이벤트가 발생하면 프롬프트가 자동 실행되는 고급 자동화를 쓸 수 있다. 대화형 챗봇이 상시 대기하는 백그라운드 워커로 성격을 바꾸는 변화다.",
       "scorePct": 86
     },
     {
       "rank": 2,
-      "title": "뤼튼, 1000억원 규모 투자 유치…유니콘 도약",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325059",
-      "source": "네이버",
-      "publishedDate": "2026-08-27",
-      "summary": "뤼튼테크놀로지스가 1000억원 규모 시리즈C 투자를 유치하며 누적 투자액 2300억원을 기록했다. 이번 라운드로 국내 AI 서비스 플랫폼 기업 중 유니콘 반열에 올랐다.",
-      "scorePct": 29
+      "title": "AI 서비스 스타트업 뤼튼, 1,000억 원 투자 유치",
+      "url": "https://www.hankookilbo.com/news/article/A2026082616520005169",
+      "source": "한국일보",
+      "publishedDate": "2026-08-26",
+      "summary": "AI 서비스 스타트업 뤼튼테크놀로지스가 1,000억 원 규모 시리즈C 투자를 유치했다고 26일 발표했다. 코어라인벤처스, 유진자산운용, 굿워터캐피탈, 앤틀러 등이 참여했다. 국내 AI 서비스 기업 중 손꼽히는 대형 라운드다.",
+      "scorePct": 71
     },
     {
       "rank": 3,
-      "title": "[스마트클라우드쇼 2026] 이해석 폴라리스오피스 부사장 “SaaS 종말 아냐… 사람 대신 AI가 소프트웨어 쓴다”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188519",
+      "title": "독파모 5개팀 AI 데이터 3544만건 푼다…기업·연구자 누구나 활용",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359227",
       "source": "네이버",
-      "publishedDate": "2026-08-26",
-      "summary": "폴라리스오피스 이해석 부사장은 SaaS의 시대가 끝난 것이 아니라 사람 대신 AI가 소프트웨어를 쓰는 형태로 바뀐다고 밝혔다. 대체 불가능한 데이터를 보유하고 실제 업무를 수행하는 SaaS만 살아남는다는 진단이다.",
-      "scorePct": 29
+      "publishedDate": "2026-08-28",
+      "summary": "정부가 독자 AI 파운데이션 모델 사업 5개 정예팀이 구축한 AI 학습데이터 3,544만 건을 민간에 개방한다. 대규모 학습데이터 확보가 어려운 국내 AI 스타트업과 연구자 누구나 활용할 수 있다. 데이터 확보 장벽을 낮추려는 조치다.",
+      "scorePct": 57
     },
     {
       "rank": 4,
-      "title": "Alice raises $140M as its AI security business grows more than 500%",
-      "url": "https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/",
-      "source": "SiliconANGLE",
-      "publishedDate": "2026-08-25",
-      "summary": "AI 신뢰·안전 기업 Alice(구 ActiveFence)가 Apax 주도로 1억 4000만 달러를 유치했다. AI 보안 사업 부문이 500% 이상 성장한 것이 투자 근거가 됐다.",
-      "scorePct": 14
+      "title": "Salesforce, Anthropic expand partnership as Benioff responds to 'SaaSpocalypse' concerns",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+      "source": "CNBC",
+      "publishedDate": "2026-08-26",
+      "summary": "세일즈포스와 앤트로픽이 파트너십을 확대해 'Claudeforce'를 공개했다. 핵심은 37개 기능을 담은 'Salesforce in Claude' 플러그인으로, 클로드 안에서 세일즈포스 데이터를 다루게 된다. 베니오프는 AI가 SaaS를 대체한다는 'SaaS 종말론' 우려에 직접 대응했다.",
+      "scorePct": 43
+    },
+    {
+      "rank": 5,
+      "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089684",
+      "source": "네이버",
+      "publishedDate": "2026-08-28",
+      "summary": "KB국민은행이 AI 도입을 추진하다 부서별로 흩어지고 정형·비정형이 뒤섞인 데이터 문제에 부딪혔다. 결국 스노우플레이크와 함께 데이터 구조부터 다시 설계했다. AI 도입의 병목이 모델이 아니라 데이터 정비였음을 보여주는 사례다.",
+      "scorePct": 29
     }
   ]
 }

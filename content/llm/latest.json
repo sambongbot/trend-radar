@@ -1,42 +1,24 @@
 {
-  "date": "2026-08-27",
-  "headline": "> 뤼튼이 1000억원 시리즈C로 유니콘에 오르며 국내 AI 서비스 플랫폼 투자가 재점화됐다.\n> Anthropic은 Claude Tag를 슬랙 전체 대화를 읽고 먼저 끼어드는 에이전트로 확장했고, IPO 몸값 4경원을 내걸며 오픈AI와 정면 충돌 구도를 만들었다.\n> 에이전틱 AI 확산이 GPU를 넘어 CPU·메모리·전력·냉각까지 인프라 병목을 옮기고 있다는 경고가 잇따랐다.",
+  "date": "2026-08-28",
+  "headline": "> 오픈AI가 챗GPT 작업 예약·자동 실행을 무료 계정까지 열며 에이전트 자동화를 대중화했고, 세일즈포스는 앤트로픽과 'Claudeforce'로 손잡아 SaaS의 앞단을 AI 채팅으로 내주는 실험에 들어갔다.\n> 앤트로픽은 모델 크기 경쟁 대신 엔터프라이즈 워크플로 침투로 방향을 틀었고, Claude Cowork·chat 메모리 통합과 Claude Code 릴리스가 그 실행 단면을 보여준다.\n> 국내는 독파모 2차 평가 점수 전면 공개(SKT 1위)와 학습데이터 3,544만건 개방, 뤼튼 1,000억 시리즈C, SKT의 AI DC 분사로 판이 재편되는 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic's new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-      "source": "VentureBeat",
-      "publishedDate": "2026-08-24",
-      "summary": "Anthropic이 슬랙 채널에 상주하는 에이전트 Claude Tag를 업데이트해 채널 전체 대화 맥락을 읽도록 했다. 이제 호출하지 않아도 스스로 판단해 대화에 개입할 수 있다.",
-      "scorePct": 22
+      "title": "Inside Anthropic: Moving Beyond Bigger AI Models To Win The Enterprise AI Race",
+      "url": "https://www.forbes.com/sites/victordey/2026/08/25/inside-anthropic-moving-beyond-bigger-ai-models-to-win-the-enterprise-ai-race/",
+      "source": "Forbes",
+      "publishedDate": "2026-08-25",
+      "summary": "앤트로픽이 엔터프라이즈 전략을 더 큰 모델 경쟁에서 벗어나 실제 업무 워크플로에 깊이 결합하는 방향으로 전환하고 있다. 모델 파라미터 규모보다 기업 시스템과의 통합과 배포 방식이 승부처라는 판단이다. 엔터프라이즈 AI 경쟁 구도의 축이 이동하는 신호다.",
+      "scorePct": 44
     },
     {
       "rank": 2,
-      "title": "Perplexity AI launches Portable Computer on-device AI agent",
-      "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
-      "source": "SiliconANGLE",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch",
       "publishedDate": "2026-08-25",
-      "summary": "Perplexity가 클라우드 기반 Computer 에이전트의 온디바이스 버전인 Portable Computer를 공개했다. 사용자 기기에서 직접 작업을 수행해 데이터를 외부로 보내지 않는다.",
-      "scorePct": 22
-    },
-    {
-      "rank": 3,
-      "title": "앤트로픽 \"AI가치 4경원\" IPO 속도 … 오픈AI, 자체칩으로 맹추격",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726301",
-      "source": "네이버",
-      "publishedDate": "2026-08-26",
-      "summary": "Anthropic이 다음 달 말 상장을 목표로 1000억 달러 규모 사상 최대 IPO에 도전하며 'AI가 모든 인간 업무를 대체한다'는 청사진을 제시했다. 오픈AI는 자체 칩 '할라페뇨'를 공개하며 인프라 원가 경쟁으로 맞불을 놨다.",
-      "scorePct": 11
-    },
-    {
-      "rank": 4,
-      "title": "[K-미토스①] 국산 보안 AI 주도권 경쟁 점화, 네이버·SK 양강 대결",
-      "url": "https://zdnet.co.kr/view/?no=20260826093717",
-      "source": "ZDNet Korea",
-      "publishedDate": "2026-08-26",
-      "summary": "과기정통부의 사이버보안 특화 AI 파운데이션 모델 개발 사업에 네이버클라우드와 SK텔레콤 컨소시엄이 2파전으로 맞붙었다. 정부는 서류 검토와 외부 전문가 평가를 거쳐 사업자를 선정한다.",
-      "scorePct": 11
+      "summary": "앤트로픽이 Claude 채팅과 Claude Cowork의 메모리 시스템을 통합했다. 이제 채팅에서 알려준 내용을 Cowork에서도 그대로 기억한다. 제품 간 컨텍스트 단절이라는 실사용 불편이 해소됐다.",
+      "scorePct": 44
     }
   ]
 }

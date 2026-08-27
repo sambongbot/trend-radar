@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "\"알아서 일한다\"…오픈AI, 챗GPT 예약·자동화 전면 개방",
+    "url": "https://www.tech42.co.kr/%EC%95%8C%EC%95%84%EC%84%9C-%EC%9D%BC%ED%95%9C%EB%8B%A4%EC%98%A4%ED%94%88ai-%EC%B1%97gpt-%EC%98%88%EC%95%BD%C2%B7%EC%9E%90%EB%8F%99%ED%99%94-%EC%A0%84%EB%A9%B4-%EA%B0%9C%EB%B0%A9/",
+    "source": "테크42",
+    "publishedDate": "2026-08-25",
+    "summary": "오픈AI가 8월 25일부터 챗GPT의 작업 예약·자동 실행 기능을 무료 계정까지 확대했다. 유료 구독자는 지메일·슬랙·깃허브와 연동해 특정 이벤트가 발생하면 프롬프트가 자동 실행되는 고급 자동화를 쓸 수 있다. 대화형 챗봇이 상시 대기하는 백그라운드 워커로 성격을 바꾸는 변화다.",
+    "scorePct": 86
+  },
+  {
+    "rank": 2,
+    "title": "AI 서비스 스타트업 뤼튼, 1,000억 원 투자 유치",
+    "url": "https://www.hankookilbo.com/news/article/A2026082616520005169",
+    "source": "한국일보",
+    "publishedDate": "2026-08-26",
+    "summary": "AI 서비스 스타트업 뤼튼테크놀로지스가 1,000억 원 규모 시리즈C 투자를 유치했다고 26일 발표했다. 코어라인벤처스, 유진자산운용, 굿워터캐피탈, 앤틀러 등이 참여했다. 국내 AI 서비스 기업 중 손꼽히는 대형 라운드다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 3,
+    "title": "독파모 5개팀 AI 데이터 3544만건 푼다…기업·연구자 누구나 활용",
+    "url": "https://n.news.naver.com/mnews/article/018/0006359227",
+    "source": "네이버",
+    "publishedDate": "2026-08-28",
+    "summary": "정부가 독자 AI 파운데이션 모델 사업 5개 정예팀이 구축한 AI 학습데이터 3,544만 건을 민간에 개방한다. 대규모 학습데이터 확보가 어려운 국내 AI 스타트업과 연구자 누구나 활용할 수 있다. 데이터 확보 장벽을 낮추려는 조치다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 4,
+    "title": "Salesforce, Anthropic expand partnership as Benioff responds to 'SaaSpocalypse' concerns",
+    "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+    "source": "CNBC",
+    "publishedDate": "2026-08-26",
+    "summary": "세일즈포스와 앤트로픽이 파트너십을 확대해 'Claudeforce'를 공개했다. 핵심은 37개 기능을 담은 'Salesforce in Claude' 플러그인으로, 클로드 안에서 세일즈포스 데이터를 다루게 된다. 베니오프는 AI가 SaaS를 대체한다는 'SaaS 종말론' 우려에 직접 대응했다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다",
+    "url": "https://n.news.naver.com/mnews/article/293/0000089684",
+    "source": "네이버",
+    "publishedDate": "2026-08-28",
+    "summary": "KB국민은행이 AI 도입을 추진하다 부서별로 흩어지고 정형·비정형이 뒤섞인 데이터 문제에 부딪혔다. 결국 스노우플레이크와 함께 데이터 구조부터 다시 설계했다. AI 도입의 병목이 모델이 아니라 데이터 정비였음을 보여주는 사례다.",
+    "scorePct": 29
+  }
+]

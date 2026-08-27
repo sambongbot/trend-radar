@@ -5,7 +5,7 @@
     "url": "https://www.havoptic.com/tools/claude-code",
     "source": "Havoptic",
     "publishedDate": "2026-08-05",
-    "summary": "Claude Code v2.1.234가 사용 한도가 리셋되면 세션을 자동으로 이어가는 기능을 추가했다. 장시간 실행되는 작업이 한도에 걸려 중단되던 흐름이 개선됐다.",
+    "summary": "Claude Code v2.1.245가 8월 25일 릴리스됐다. glibc 2.44를 탑재한 아치 리눅스 등 일부 배포판에서 발생하던 시작 크래시가 수정됐다. 리눅스 환경 사용자에게 직접적인 안정성 개선이다.",
     "scorePct": 44
   },
   {
