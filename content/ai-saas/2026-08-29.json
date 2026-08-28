@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Salesforce and Anthropic launch Claudeforce",
+    "url": "https://technode.global/2026/08/27/salesforce-anthropic-launch-claudeforce-connect-claude-crm-workflows/",
+    "source": "TechNode Global",
+    "publishedDate": "2026-08-27",
+    "summary": "세일즈포스와 앤트로픽이 전략적 제휴를 확대해 'Claudeforce'를 공개했다. 세일즈포스 CRM 워크플로우를 Claude에 직접 연결해, 별도 앱 진입 없이 대화형으로 영업 업무를 처리하도록 만드는 것이 핵심이다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "SKT·카카오·KT, ‘모두의 AI’ 사업자 선정…연내 서비스 출시",
+    "url": "https://n.news.naver.com/mnews/article/081/0003674394",
+    "source": "네이버",
+    "publishedDate": "2026-08-29",
+    "summary": "SK텔레콤·카카오·KT가 전 국민 대상 국산 AI 챗봇과 공공 AI 에이전트를 제공하는 정부 '모두의 AI' 프로젝트 사업자로 선정됐다. 연내 서비스 출시를 목표로 통신·메신저·IPTV 등 기존 채널에 결합하는 형태다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "앤트로픽 초대형 IPO 신청 앞두고 테크업계 기대... 누가 먼저 득 볼까",
+    "url": "https://n.news.naver.com/mnews/article/469/0000950787",
+    "source": "네이버",
+    "publishedDate": "2026-08-28",
+    "summary": "앤트로픽이 SEC에 신청서를 제출하고 9월 투자설명서를 공개하는 초대형 IPO 수순에 들어갔다. 상장 시 수혜를 볼 테크 업계 파트너들에 대한 기대가 함께 커지고 있다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 4,
+    "title": "같은 AI 지원에도…“매출 15% 급등”“우린 10% 감소” 왜",
+    "url": "https://n.news.naver.com/mnews/article/353/0000056463",
+    "source": "네이버",
+    "publishedDate": "2026-08-29",
+    "summary": "같은 규모의 AI 투자를 집행하고도 매출이 15% 뛴 기업과 10% 줄어든 기업이 갈리는 현상을 짚었다. 투자 총량이 아니라 적용 방식과 조직 흡수 역량이 성과를 가른다는 분석이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "모티프 \"독파모 평가 기준 공개하라\"",
+    "url": "https://n.news.naver.com/mnews/article/015/0005325691",
+    "source": "네이버",
+    "publishedDate": "2026-08-29",
+    "summary": "독자 AI 파운데이션 모델 2차 평가에서 최고 성능 점수를 받고도 탈락한 모티프테크놀로지스가 평가 기준과 세부 점수 공개를 요구했다. 국가대표 AI 선발 과정 전반의 평가 방식 논란으로 번지는 중이다.",
+    "scorePct": 13
+  }
+]

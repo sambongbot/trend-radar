@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-26",
+    "summary": "앤트로픽이 영국 Nscale로부터 6년간 450억 달러 규모의 AI 컴퓨팅 용량을 임차하기로 합의했다. 아마존·구글 인프라 외에 공급처를 추가로 확보하며 컴퓨트 확보 경쟁을 이어가는 모습이다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 2,
+    "title": "Z.ai's Shares Soar After Claiming Surprise AI Hit Ox Alpha",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "source": "Bloomberg",
+    "publishedDate": "2026-08-26",
+    "summary": "중국 AI 기업 Z.ai가 코딩 벤치마크 상단을 차지한 정체불명의 스텔스 모델 'Ox Alpha'의 개발사가 자사임을 확인했다. 발표 직후 주가가 급등했으며 딥시크에 견줄 성능이라는 평가가 나온다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 3,
+    "title": "Claude, 채팅·Cowork 기억 하나로 통합…\"같은 설명 반복할 필요 없다\"",
+    "url": "https://www.devtimes.co.kr/news/516566",
+    "source": "청년개발자신문",
+    "publishedDate": "2026-08-26",
+    "summary": "앤트로픽이 Claude 채팅과 Cowork의 메모리를 하나로 통합했다. 이전 대화나 작업 맥락을 다시 설명할 필요 없이 두 환경에서 동일한 기억을 공유한다.",
+    "scorePct": 22
+  }
+]
