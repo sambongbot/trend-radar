@@ -1,50 +1,41 @@
 {
-  "date": "2026-08-29",
-  "headline": "> 세일즈포스가 CRM 전체를 Claude 안에 넣는 'Claudeforce'를 내놓으며 SaaS UI 자체가 에이전트로 대체되는 흐름이 가시화됐다.\n> 앤트로픽은 Nscale과 6년 450억 달러 컴퓨트 계약에 IPO 수순까지 겹치며 몸집을 키우는 중이고, 중국 Z.ai의 스텔스 모델 'Ox Alpha'가 코딩 벤치마크 상단을 차지했다.\n> 국내는 '모두의 AI' 사업자 선정과 독파모 평가 불복이 동시에 터지며 정부 AI 사업의 공정성 논란이 확산됐고, 뤼튼은 AI 서비스 스타트업 최초 유니콘에 올랐다.",
+  "date": "2026-08-30",
+  "headline": "> AI 에이전트 확산이 조직 운영 지표까지 바꾸고 있다 — SK는 ROI 대신 '토큰당 성과'를 사내 표준으로 들고나왔다.\n> OpenAI가 SpaceX에 인수된 Cursor와의 모델 제휴를 끊으면서, 코딩 도구 시장이 모델 공급사 진영별로 갈라지기 시작했다.\n> 기업들의 모델 선택 기준은 '최고 성능'에서 '속도·비용 대비 실속'으로 이동했고, 정부·규제·법원 판결까지 AI 공급망 리스크를 재정의하는 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "Salesforce and Anthropic launch Claudeforce",
-      "url": "https://technode.global/2026/08/27/salesforce-anthropic-launch-claudeforce-connect-claude-crm-workflows/",
-      "source": "TechNode Global",
-      "publishedDate": "2026-08-27",
-      "summary": "세일즈포스와 앤트로픽이 전략적 제휴를 확대해 'Claudeforce'를 공개했다. 세일즈포스 CRM 워크플로우를 Claude에 직접 연결해, 별도 앱 진입 없이 대화형으로 영업 업무를 처리하도록 만드는 것이 핵심이다.",
-      "scorePct": 100
+      "title": "“AI 에이전트 시대, '토큰 거버넌스' 필요”…SK, '토큰 이코노미' 사내서 낸다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003461453",
+      "source": "네이버",
+      "publishedDate": "2026-08-29",
+      "summary": "SK가 AI 에이전트 업무 투입이 본격화되면서 투입 토큰 대비 성과를 측정하는 '토큰 이코노미' 체계를 사내에 도입한다. 기존 ROI를 대체하는 새 경영 지표로 토큰 거버넌스를 제시했다.",
+      "scorePct": 75
     },
     {
       "rank": 2,
-      "title": "SKT·카카오·KT, ‘모두의 AI’ 사업자 선정…연내 서비스 출시",
-      "url": "https://n.news.naver.com/mnews/article/081/0003674394",
+      "title": "팔로알토, IAM 전략 전환…\"휴먼 넘어 머신·AI 에이전트까지 통합\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002435512",
       "source": "네이버",
-      "publishedDate": "2026-08-29",
-      "summary": "SK텔레콤·카카오·KT가 전 국민 대상 국산 AI 챗봇과 공공 AI 에이전트를 제공하는 정부 '모두의 AI' 프로젝트 사업자로 선정됐다. 연내 서비스 출시를 목표로 통신·메신저·IPTV 등 기존 채널에 결합하는 형태다.",
+      "publishedDate": "2026-08-30",
+      "summary": "팔로알토네트웍스가 사이버아크 인수 후 보안 전략의 축을 네트워크·엔드포인트에서 아이덴티티로 옮기며, 사람뿐 아니라 머신과 AI 에이전트까지 IAM 대상에 포함시킨다. AI 에이전트의 권한·인증 관리가 별도 보안 카테고리로 분화하는 흐름이다.",
       "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "앤트로픽 초대형 IPO 신청 앞두고 테크업계 기대... 누가 먼저 득 볼까",
-      "url": "https://n.news.naver.com/mnews/article/469/0000950787",
+      "title": "야놀자, AI·데이터 중심 사업 재편…고강도 체질 개선",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656403",
       "source": "네이버",
-      "publishedDate": "2026-08-28",
-      "summary": "앤트로픽이 SEC에 신청서를 제출하고 9월 투자설명서를 공개하는 초대형 IPO 수순에 들어갔다. 상장 시 수혜를 볼 테크 업계 파트너들에 대한 기대가 함께 커지고 있다.",
-      "scorePct": 38
-    },
-    {
-      "rank": 4,
-      "title": "같은 AI 지원에도…“매출 15% 급등”“우린 10% 감소” 왜",
-      "url": "https://n.news.naver.com/mnews/article/353/0000056463",
-      "source": "네이버",
-      "publishedDate": "2026-08-29",
-      "summary": "같은 규모의 AI 투자를 집행하고도 매출이 15% 뛴 기업과 10% 줄어든 기업이 갈리는 현상을 짚었다. 투자 총량이 아니라 적용 방식과 조직 흡수 역량이 성과를 가른다는 분석이다.",
+      "publishedDate": "2026-08-30",
+      "summary": "야놀자가 여행·숙박 조직을 슬림화하고 데이터·AI 기반 사업에 역량을 집중하는 전면 재편에 들어갔다. 기존 버티컬 플랫폼이 AI·데이터 회사로 정체성을 옮기는 체질 개선 사례다.",
       "scorePct": 25
     },
     {
-      "rank": 5,
-      "title": "모티프 \"독파모 평가 기준 공개하라\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325691",
+      "rank": 4,
+      "title": "AI에 진심인 크래프톤…AI 인재까지 자체 개발 솔루션으로 뽑는다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656422",
       "source": "네이버",
       "publishedDate": "2026-08-29",
-      "summary": "독자 AI 파운데이션 모델 2차 평가에서 최고 성능 점수를 받고도 탈락한 모티프테크놀로지스가 평가 기준과 세부 점수 공개를 요구했다. 국가대표 AI 선발 과정 전반의 평가 방식 논란으로 번지는 중이다.",
+      "summary": "크래프톤이 AI 기반 채용·평가 솔루션을 자체 개발해 지원자가 AI로 만든 결과물뿐 아니라 AI와 협업하는 과정까지 평가한다. AI 활용 능력 자체를 채용 기준으로 삼는 실무 사례다.",
       "scorePct": 13
     }
   ]

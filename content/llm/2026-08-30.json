@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+    "source": "NPR",
+    "publishedDate": "2026-08-28",
+    "summary": "미 연방법원이 국방부가 앤트로픽에 부과한 공급망 리스크 지정을 '불법적이고 근거 없다'고 판단했다. 정부 조달에서 앤트로픽을 배제하던 조치의 법적 기반이 무너진 셈이다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+    "source": "Bloomberg",
+    "publishedDate": "2026-08-29",
+    "summary": "OpenAI가 Cursor의 SpaceX 피인수 이후 Cursor에 대한 모델 접근 제휴를 종료하겠다고 밝혔다. AI 코딩 도구가 모델 공급사의 전략적 이해관계에 따라 공급망이 끊길 수 있음을 보여준 첫 대형 사례다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 3,
+    "title": "\"비싸고 똑똑한 AI? 우린 빠르고 싼 놈 쓴다\"…기업들 '실속형' AI로 갈아탄다",
+    "url": "https://n.news.naver.com/mnews/article/003/0014156059",
+    "source": "네이버",
+    "publishedDate": "2026-08-29",
+    "summary": "기업들이 모델을 고를 때 최고 성능 대신 실제 업무에 필요한 정확도·응답속도·비용을 따지는 '실속형' 도입으로 옮겨가고 있다. 프리미엄 모델 일변도에서 벗어나 업무별로 경량 모델을 섞어 쓰는 구성이 대세가 됐다.",
+    "scorePct": 11
+  }
+]

@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-29",
-  "headline": "> 세일즈포스가 CRM 전체를 Claude 안에 넣는 'Claudeforce'를 내놓으며 SaaS UI 자체가 에이전트로 대체되는 흐름이 가시화됐다.\n> 앤트로픽은 Nscale과 6년 450억 달러 컴퓨트 계약에 IPO 수순까지 겹치며 몸집을 키우는 중이고, 중국 Z.ai의 스텔스 모델 'Ox Alpha'가 코딩 벤치마크 상단을 차지했다.\n> 국내는 '모두의 AI' 사업자 선정과 독파모 평가 불복이 동시에 터지며 정부 AI 사업의 공정성 논란이 확산됐고, 뤼튼은 AI 서비스 스타트업 최초 유니콘에 올랐다.",
+  "date": "2026-08-30",
+  "headline": "> AI 에이전트 확산이 조직 운영 지표까지 바꾸고 있다 — SK는 ROI 대신 '토큰당 성과'를 사내 표준으로 들고나왔다.\n> OpenAI가 SpaceX에 인수된 Cursor와의 모델 제휴를 끊으면서, 코딩 도구 시장이 모델 공급사 진영별로 갈라지기 시작했다.\n> 기업들의 모델 선택 기준은 '최고 성능'에서 '속도·비용 대비 실속'으로 이동했고, 정부·규제·법원 판결까지 AI 공급망 리스크를 재정의하는 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-08-26",
-      "summary": "앤트로픽이 영국 Nscale로부터 6년간 450억 달러 규모의 AI 컴퓨팅 용량을 임차하기로 합의했다. 아마존·구글 인프라 외에 공급처를 추가로 확보하며 컴퓨트 확보 경쟁을 이어가는 모습이다.",
+      "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+      "source": "NPR",
+      "publishedDate": "2026-08-28",
+      "summary": "미 연방법원이 국방부가 앤트로픽에 부과한 공급망 리스크 지정을 '불법적이고 근거 없다'고 판단했다. 정부 조달에서 앤트로픽을 배제하던 조치의 법적 기반이 무너진 셈이다.",
       "scorePct": 22
     },
     {
       "rank": 2,
-      "title": "Z.ai's Shares Soar After Claiming Surprise AI Hit Ox Alpha",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
       "source": "Bloomberg",
-      "publishedDate": "2026-08-26",
-      "summary": "중국 AI 기업 Z.ai가 코딩 벤치마크 상단을 차지한 정체불명의 스텔스 모델 'Ox Alpha'의 개발사가 자사임을 확인했다. 발표 직후 주가가 급등했으며 딥시크에 견줄 성능이라는 평가가 나온다.",
+      "publishedDate": "2026-08-29",
+      "summary": "OpenAI가 Cursor의 SpaceX 피인수 이후 Cursor에 대한 모델 접근 제휴를 종료하겠다고 밝혔다. AI 코딩 도구가 모델 공급사의 전략적 이해관계에 따라 공급망이 끊길 수 있음을 보여준 첫 대형 사례다.",
       "scorePct": 22
     },
     {
       "rank": 3,
-      "title": "Claude, 채팅·Cowork 기억 하나로 통합…\"같은 설명 반복할 필요 없다\"",
-      "url": "https://www.devtimes.co.kr/news/516566",
-      "source": "청년개발자신문",
-      "publishedDate": "2026-08-26",
-      "summary": "앤트로픽이 Claude 채팅과 Cowork의 메모리를 하나로 통합했다. 이전 대화나 작업 맥락을 다시 설명할 필요 없이 두 환경에서 동일한 기억을 공유한다.",
-      "scorePct": 22
+      "title": "\"비싸고 똑똑한 AI? 우린 빠르고 싼 놈 쓴다\"…기업들 '실속형' AI로 갈아탄다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014156059",
+      "source": "네이버",
+      "publishedDate": "2026-08-29",
+      "summary": "기업들이 모델을 고를 때 최고 성능 대신 실제 업무에 필요한 정확도·응답속도·비용을 따지는 '실속형' 도입으로 옮겨가고 있다. 프리미엄 모델 일변도에서 벗어나 업무별로 경량 모델을 섞어 쓰는 구성이 대세가 됐다.",
+      "scorePct": 11
     }
   ]
 }
