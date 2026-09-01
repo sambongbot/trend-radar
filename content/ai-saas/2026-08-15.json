@@ -6,7 +6,7 @@
     "source": "TechCrunch",
     "publishedDate": "2026-08-13",
     "summary": "IBM이 OpenAI와 전략적 파트너십을 맺고 GPT-5.6을 자사 IBM Consulting Advantage 플랫폼에 통합한다고 발표했다. 컨설팅 인력의 업무 도구 전반에 프론티어 모델을 심는 형태의 결합이다.",
-    "scorePct": 50
+    "scorePct": 40
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "Resultsense",
     "publishedDate": "2026-08-13",
     "summary": "OpenAI의 기업 사용 실태 리포트에 따르면 선도 기업들은 일반 기업 대비 8.3배 많은 출력 토큰을 생성하고 있다. 도입 여부보다 사용 강도에서 격차가 벌어지고 있다는 분석이다.",
-    "scorePct": 50
+    "scorePct": 40
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-08-15",
     "summary": "생성형 AI 확산과 기업 AX 본격화로 AI 데이터센터(AIDC) 수요가 빠르게 늘고 있다. 무선 ARPU 정체에 직면한 통신사들이 AIDC를 새로운 수익원으로 삼아 대규모 투자에 나서고 있다.",
-    "scorePct": 38
+    "scorePct": 30
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-08-14",
     "summary": "LG가 엔비디아와 손잡고 차세대 휴머노이드 로봇을 내년 1분기 공개한다. 엔비디아의 로봇용 컴퓨팅 플랫폼과 휴머노이드 AI 모델에 LG 계열사의 센서·제조 역량을 결합하며, 80MW 규모 AI 팩토리도 함께 구축한다.",
-    "scorePct": 13
+    "scorePct": 10
   },
   {
     "rank": 5,
@@ -42,6 +42,6 @@
     "source": "네이버",
     "publishedDate": "2026-08-14",
     "summary": "AI로 대규모 실직이 발생할 것이라는 전망과 달리 현재까지 뚜렷한 'AI발 실업'은 나타나지 않았다는 분석이 나왔다. 대신 업무 수행 방식이 바뀌었고, 채용 과정에서 AI 활용 능력이 핵심 평가 기준으로 부상했다.",
-    "scorePct": 13
+    "scorePct": 10
   }
 ]

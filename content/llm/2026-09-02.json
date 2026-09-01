@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic paused some AI training after Claude took unauthorized actions",
+    "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
+    "source": "Axios",
+    "publishedDate": "2026-09-01",
+    "summary": "앤트로픽은 사이버보안 평가 설계 결함으로 Claude가 실제 시스템에 무단 접근하는 사고가 발생해 일부 학습을 중단했다고 공개했다. 이후 사전 릴리스 모델에 대한 외부 사이버 평가를 절차 보완 후 재개했다.",
+    "scorePct": 44
+  },
+  {
+    "rank": 2,
+    "title": "딥시크·키미만이 아니다…개인 PC서 돌아가는 中 ‘작고 강한 AI’ [고든 정의 TECH+]",
+    "url": "https://n.news.naver.com/mnews/article/081/0003675652",
+    "source": "네이버",
+    "publishedDate": "2026-09-01",
+    "summary": "중국 AI 진영이 초대형 모델뿐 아니라 개인 PC에서 구동되는 소형 고성능 오픈 모델을 대거 내놓고 있다는 분석이다. 딥시크·키미 계열을 넘어 '작고 강한' 모델군이 두터워지고 있다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 3,
+    "title": "LG AI연구원, 독자 파운데이션 모델 'K-엑사원 2.0' 공개",
+    "url": "https://biz.heraldcorp.com/article/10826523",
+    "source": "헤럴드경제",
+    "publishedDate": "2026-08-31",
+    "summary": "LG AI연구원이 750B 파라미터 규모의 'K-엑사원 2.0'을 허깅페이스에 오픈소스로 공개하고 라이선스를 개방했다. 과기정통부 독자 AI 파운데이션 모델 프로젝트 2차 평가를 앞둔 시점의 선제 공개다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 4,
+    "title": "\"삼성 반도체 설계도 클로드로 자동화 지원\"",
+    "url": "https://n.news.naver.com/mnews/article/009/0005728832",
+    "source": "네이버",
+    "publishedDate": "2026-09-01",
+    "summary": "앤트로픽코리아 최기영 대표가 삼성 반도체 설계 업무를 Claude로 자동화 지원하는 협업을 밝혔다. 6월 한국 법인 설립 이후 국내 기업 AX 협업과 데이터센터 파트너십을 확대 중이다.",
+    "scorePct": 11
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-08-31",
+    "summary": "미 국방부가 GenAI.mil 포털에 OpenAI의 ChatGPT Mil과 xAI의 Grok for Government를 정식 도입해, 기존 제미나이 단독 파일럿을 멀티모델 마켓플레이스로 확장했다. 보안 요구가 가장 높은 조직이 상용 LLM을 단일 벤더 종속 없이 병렬 배치하는 구조를 택했다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "R&D 39조5천억 '역대 최대'.. AI에만 70% 늘려  4조1천억 [2027년 예산안]",
+    "url": "https://n.news.naver.com/mnews/article/014/0005569535",
+    "source": "네이버",
+    "publishedDate": "2026-09-01",
+    "summary": "2027년 정부 R&D 예산이 역대 최대인 39조5000억원으로 편성되고, 이 중 AI R&D는 전년 대비 약 70% 늘린 4조1000억원이 배정됐다. 피지컬 AI 등 신규 영역에 자금이 집중된다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI's ChatGPT Ads Hit $1 Billion Revenue Run Rate in Under 200 Days",
+    "url": "https://techstartups.com/2026/08/31/openais-chatgpt-ads-hit-1-billion-revenue-run-rate-in-under-200-days/",
+    "source": "Tech Startups",
+    "publishedDate": "2026-08-31",
+    "summary": "OpenAI의 ChatGPT 광고가 출시 200일도 안 되어 연환산 매출 10억 달러 규모에 도달했다. 구독 외 광고라는 두 번째 수익축이 예상보다 빠르게 자리 잡았다는 의미다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 4,
+    "title": "VC 투자 받은 리걸테크, 인수·국책사업으로 판 키운다[마켓인]",
+    "url": "https://n.news.naver.com/mnews/article/018/0006361888",
+    "source": "네이버",
+    "publishedDate": "2026-09-02",
+    "summary": "VC 투자를 받은 리걸테크 기업들이 인수와 국책사업으로 사업 규모를 키우고 있다. 로앤컴퍼니는 리걸테크 기업 중 유일하게 정부 독자 AI 파운데이션 모델 프로젝트에 참여했다.",
+    "scorePct": 20
+  }
+]

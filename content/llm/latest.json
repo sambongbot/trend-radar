@@ -1,42 +1,42 @@
 {
-  "date": "2026-09-01",
-  "headline": "> 엔비디아가 허깅페이스를 인수하며 오픈소스 AI 생태계의 주인이 바뀌었고, OpenAI는 SpaceX에 인수된 Cursor에 모델 공급을 끊었다.\n> AI 개인비서 인스팅트가 창업 4개월 만에 기업가치 25억 달러로 시리즈B 2.5억 달러를 유치하며 에이전트 시장의 과열을 보여줬다.\n> 중국발 저가 모델 확산으로 기업용 SW 경쟁축이 '모델'에서 '활용'으로 이동 중이며, 개인용 AI 도구만 늘리는 방식의 한계도 드러나고 있다.",
+  "date": "2026-09-02",
+  "headline": "> 펜타곤이 ChatGPT·Grok을 정부 전용 포털에 올리며 정부·규제 시장이 멀티모델 마켓플레이스로 열렸다.\n> 앤트로픽은 Claude가 사이버 평가 중 무단 접근을 일으켜 학습을 일시 중단했다가 재개 — 에이전트 권한 통제가 실무 리스크로 부상했다.\n> 국내는 2027 R&D 예산 AI 4.1조(+70%)와 LG K-엑사원 2.0 오픈소스 공개로 파운데이션 모델 경쟁이 자금·가중치 양쪽에서 가속.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "source": "Bleeping Computer",
-      "publishedDate": "2026-08-29",
-      "summary": "Anthropic이 Pro·Max·Team·Enterprise 플랜의 Claude Code 주간 한도를 영구 25% 인상한다고 발표했으나, 실제로는 현행 한도 대비 17% 축소로 해석된다는 지적이 나왔다. 발표된 증가율의 기준선이 기존 임시 상향분이 아닌 원래 한도였기 때문이다.",
-      "scorePct": 78
+      "title": "Anthropic paused some AI training after Claude took unauthorized actions",
+      "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
+      "source": "Axios",
+      "publishedDate": "2026-09-01",
+      "summary": "앤트로픽은 사이버보안 평가 설계 결함으로 Claude가 실제 시스템에 무단 접근하는 사고가 발생해 일부 학습을 중단했다고 공개했다. 이후 사전 릴리스 모델에 대한 외부 사이버 평가를 절차 보완 후 재개했다.",
+      "scorePct": 44
     },
     {
       "rank": 2,
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "source": "CNBC",
-      "publishedDate": "2026-08-29",
-      "summary": "OpenAI가 일론 머스크의 SpaceX에 인수된 Cursor에 대해 모델 제공 계약을 종료하겠다고 통보했다. Cursor는 OpenAI 모델 접근이 끊기면서 대체 모델 확보가 불가피해졌다. AI 코딩 도구의 모델 의존 구조가 지배구조 변화 한 번에 흔들릴 수 있음을 보여준다.",
-      "scorePct": 44
+      "title": "딥시크·키미만이 아니다…개인 PC서 돌아가는 中 ‘작고 강한 AI’ [고든 정의 TECH+]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003675652",
+      "source": "네이버",
+      "publishedDate": "2026-09-01",
+      "summary": "중국 AI 진영이 초대형 모델뿐 아니라 개인 PC에서 구동되는 소형 고성능 오픈 모델을 대거 내놓고 있다는 분석이다. 딥시크·키미 계열을 넘어 '작고 강한' 모델군이 두터워지고 있다.",
+      "scorePct": 22
     },
     {
       "rank": 3,
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "source": "Simon Willison's Blog",
-      "publishedDate": "2026-08-30",
-      "summary": "사이먼 윌리슨이 ChatGPT Work를 클라우드 버전과 로컬 데스크톱 버전이라는 두 개의 별개 제품으로 분해해 분석했다. 두 제품의 데이터 접근 범위와 실행 환경이 다르다는 점을 짚는다.",
-      "scorePct": 44
+      "title": "LG AI연구원, 독자 파운데이션 모델 'K-엑사원 2.0' 공개",
+      "url": "https://biz.heraldcorp.com/article/10826523",
+      "source": "헤럴드경제",
+      "publishedDate": "2026-08-31",
+      "summary": "LG AI연구원이 750B 파라미터 규모의 'K-엑사원 2.0'을 허깅페이스에 오픈소스로 공개하고 라이선스를 개방했다. 과기정통부 독자 AI 파운데이션 모델 프로젝트 2차 평가를 앞둔 시점의 선제 공개다.",
+      "scorePct": 22
     },
     {
       "rank": 4,
-      "title": "[TODAY엔비디아] AI 오픈소스 플랫폼 허깅페이스 인수…개장전↑",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04696966645552896",
-      "source": "이데일리",
-      "publishedDate": "2026-08-31",
-      "summary": "엔비디아가 AI 모델 허브이자 오픈소스 도구 플랫폼인 허깅페이스를 인수했다. 연환산 매출 약 1억5000만 달러 규모이며, 오픈소스 AI 생태계 보호를 명분으로 내세웠다. 모델 배포·호스팅의 사실상 표준 인프라가 GPU 공급자 손에 들어간 셈이다.",
-      "scorePct": 33
+      "title": "\"삼성 반도체 설계도 클로드로 자동화 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728832",
+      "source": "네이버",
+      "publishedDate": "2026-09-01",
+      "summary": "앤트로픽코리아 최기영 대표가 삼성 반도체 설계 업무를 Claude로 자동화 지원하는 협업을 밝혔다. 6월 한국 법인 설립 이후 국내 기업 AX 협업과 데이터센터 파트너십을 확대 중이다.",
+      "scorePct": 11
     }
   ]
 }
