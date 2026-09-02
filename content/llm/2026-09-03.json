@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+    "source": "Bloomberg",
+    "publishedDate": "2026-08-31",
+    "summary": "앤트로픽이 엔비디아가 투자한 램다와 6년간 약 350억 달러 규모의 클라우드 컴퓨팅 계약을 체결했다. 특정 클라우드에 묶이지 않고 컴퓨트 공급원을 계속 늘리는 행보다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+    "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+    "source": "VentureBeat",
+    "publishedDate": "2026-09-01",
+    "summary": "앤트로픽이 최신 모델 Claude Fable 5.1과 Mythos 5.1을 공개했다. 핵심은 성능 향상과 함께 Fable의 캐시 읽기 비용을 75% 인하한 점으로, 프롬프트 캐싱을 쓰는 반복 호출 워크로드의 단가가 크게 떨어진다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 3,
+    "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+    "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+    "source": "VentureBeat",
+    "publishedDate": "2026-09-01",
+    "summary": "구글 리서치와 테크니온 연구에 따르면 GPT-5·Gemini-3 같은 프런티어 모델은 사실의 95%를 내부에 인코딩하고 있으나 직접 답하지 못하는 경우가 많다. 추론 시간을 늘려 더 오래 '생각'하게 하면 곧바로 회상하지 못한 사실의 최대 65%를 되살릴 수 있었다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 4,
+    "title": "오픈AI, 차세대 AI ‘아스트라’ 너무 강력? 자율해킹 기능 빼고 출시하기로",
+    "url": "https://n.news.naver.com/mnews/article/020/0003745160",
+    "source": "네이버",
+    "publishedDate": "2026-09-03",
+    "summary": "오픈AI가 차세대 모델 '아스트라'를 곧 공개하되, 사람 개입 없이 해킹 수법을 고안·실행할 수 있는 고도 사이버 기능은 이용 대상을 엄격히 제한하기로 했다. 모델 성능이 아니라 위험 기능 접근권으로 출시 조건을 나누는 방식이다.",
+    "scorePct": 11
+  }
+]

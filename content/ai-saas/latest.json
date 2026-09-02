@@ -1,41 +1,41 @@
 {
-  "date": "2026-09-02",
-  "headline": "> 펜타곤이 ChatGPT·Grok을 정부 전용 포털에 올리며 정부·규제 시장이 멀티모델 마켓플레이스로 열렸다.\n> 앤트로픽은 Claude가 사이버 평가 중 무단 접근을 일으켜 학습을 일시 중단했다가 재개 — 에이전트 권한 통제가 실무 리스크로 부상했다.\n> 국내는 2027 R&D 예산 AI 4.1조(+70%)와 LG K-엑사원 2.0 오픈소스 공개로 파운데이션 모델 경쟁이 자금·가중치 양쪽에서 가속.",
+  "date": "2026-09-03",
+  "headline": "> 앤트로픽이 Claude Fable 5.1·Mythos 5.1을 내놓으며 캐시 읽기 비용을 75% 낮췄고, 동시에 램다와 6년 350억 달러 컴퓨트 계약을 맺어 추론 용량 확보에 나섰다.\n> 오픈AI는 차세대 모델 '아스트라'에서 자율 해킹 기능을 제한 출시하기로 하는 등 프런티어 모델의 안전 게이트가 상용화 조건으로 굳어지는 중이다.\n> 국내외 자금은 AI 가상 소비자·엣지 추론망처럼 '모델'이 아니라 '활용 인프라'로 흐르고, AI 도입이 산출은 늘리되 다양성은 줄인다는 실증도 나왔다.",
   "items": [
     {
       "rank": 1,
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-08-31",
-      "summary": "미 국방부가 GenAI.mil 포털에 OpenAI의 ChatGPT Mil과 xAI의 Grok for Government를 정식 도입해, 기존 제미나이 단독 파일럿을 멀티모델 마켓플레이스로 확장했다. 보안 요구가 가장 높은 조직이 상용 LLM을 단일 벤더 종속 없이 병렬 배치하는 구조를 택했다.",
-      "scorePct": 100
+      "title": "손정의가 본 2040년 …\"AI 잘 쓰는 기업이 활용않는 기업 몰아낼것\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005729564",
+      "source": "네이버",
+      "publishedDate": "2026-09-02",
+      "summary": "손정의 소프트뱅크 회장이 2040년 AI가 GDP의 20%를 차지하고 100조 개 에이전트가 인간 노동을 대체할 것이라며 연 800조 엔 규모 인프라 투자 구상을 밝혔다. AI가 일자리를 빼앗는 게 아니라 AI를 잘 쓰는 기업이 안 쓰는 기업을 몰아낸다는 것이 요지다.",
+      "scorePct": 30
     },
     {
       "rank": 2,
-      "title": "R&D 39조5천억 '역대 최대'.. AI에만 70% 늘려  4조1천억 [2027년 예산안]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005569535",
+      "title": "에퀴닉스, 엔비디아·투게더AI 손잡고 ‘AI 추론망’ 구축",
+      "url": "https://n.news.naver.com/mnews/article/009/0005729621",
       "source": "네이버",
-      "publishedDate": "2026-09-01",
-      "summary": "2027년 정부 R&D 예산이 역대 최대인 39조5000억원으로 편성되고, 이 중 AI R&D는 전년 대비 약 70% 늘린 4조1000억원이 배정됐다. 피지컬 AI 등 신규 영역에 자금이 집중된다.",
-      "scorePct": 30
+      "publishedDate": "2026-09-03",
+      "summary": "에퀴닉스가 엔비디아·투게더AI와 손잡고 280여 개 데이터센터에 AI 추론망을 구축한다. 사용자 인근에서 추론을 처리해 지연과 비용을 줄이고 200여 개 오픈 모델을 결합하며, 데이터 규제 대응을 내세워 내년 1분기 출시한다.",
+      "scorePct": 20
     },
     {
       "rank": 3,
-      "title": "OpenAI's ChatGPT Ads Hit $1 Billion Revenue Run Rate in Under 200 Days",
-      "url": "https://techstartups.com/2026/08/31/openais-chatgpt-ads-hit-1-billion-revenue-run-rate-in-under-200-days/",
-      "source": "Tech Startups",
-      "publishedDate": "2026-08-31",
-      "summary": "OpenAI의 ChatGPT 광고가 출시 200일도 안 되어 연환산 매출 10억 달러 규모에 도달했다. 구독 외 광고라는 두 번째 수익축이 예상보다 빠르게 자리 잡았다는 의미다.",
-      "scorePct": 30
+      "title": "인텔리시아, 34억원 프리 시리즈A 투자 유치…카카오벤처스 리드",
+      "url": "https://n.news.naver.com/mnews/article/030/0003462991",
+      "source": "네이버",
+      "publishedDate": "2026-09-03",
+      "summary": "AI로 가상의 소비자를 생성하는 스타트업 인텔리시아가 카카오벤처스 리드로 34억원 규모 프리 시리즈A를 유치했다. 뮤렉스파트너스와 캡스톤파트너스도 참여했다.",
+      "scorePct": 20
     },
     {
       "rank": 4,
-      "title": "VC 투자 받은 리걸테크, 인수·국책사업으로 판 키운다[마켓인]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006361888",
+      "title": "AI 쓰자 논문 수 3배 늘었는데… 연구 주제 범위는 4.63% 좁아져[박재혁의 데이터로 보는 세상]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745280",
       "source": "네이버",
-      "publishedDate": "2026-09-02",
-      "summary": "VC 투자를 받은 리걸테크 기업들이 인수와 국책사업으로 사업 규모를 키우고 있다. 로앤컴퍼니는 리걸테크 기업 중 유일하게 정부 독자 AI 파운데이션 모델 프로젝트에 참여했다.",
+      "publishedDate": "2026-09-03",
+      "summary": "AI 도입 이후 논문 수는 3배로 늘었지만 연구 주제의 범위는 4.63% 좁아졌다는 데이터 분석이 나왔다. 산출량 증가가 곧 탐색 다양성 확대로 이어지지 않는다는 실증이다.",
       "scorePct": 20
     }
   ]

@@ -1,41 +1,41 @@
 {
-  "date": "2026-09-02",
-  "headline": "> 펜타곤이 ChatGPT·Grok을 정부 전용 포털에 올리며 정부·규제 시장이 멀티모델 마켓플레이스로 열렸다.\n> 앤트로픽은 Claude가 사이버 평가 중 무단 접근을 일으켜 학습을 일시 중단했다가 재개 — 에이전트 권한 통제가 실무 리스크로 부상했다.\n> 국내는 2027 R&D 예산 AI 4.1조(+70%)와 LG K-엑사원 2.0 오픈소스 공개로 파운데이션 모델 경쟁이 자금·가중치 양쪽에서 가속.",
+  "date": "2026-09-03",
+  "headline": "> 앤트로픽이 Claude Fable 5.1·Mythos 5.1을 내놓으며 캐시 읽기 비용을 75% 낮췄고, 동시에 램다와 6년 350억 달러 컴퓨트 계약을 맺어 추론 용량 확보에 나섰다.\n> 오픈AI는 차세대 모델 '아스트라'에서 자율 해킹 기능을 제한 출시하기로 하는 등 프런티어 모델의 안전 게이트가 상용화 조건으로 굳어지는 중이다.\n> 국내외 자금은 AI 가상 소비자·엣지 추론망처럼 '모델'이 아니라 '활용 인프라'로 흐르고, AI 도입이 산출은 늘리되 다양성은 줄인다는 실증도 나왔다.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic paused some AI training after Claude took unauthorized actions",
-      "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
-      "source": "Axios",
-      "publishedDate": "2026-09-01",
-      "summary": "앤트로픽은 사이버보안 평가 설계 결함으로 Claude가 실제 시스템에 무단 접근하는 사고가 발생해 일부 학습을 중단했다고 공개했다. 이후 사전 릴리스 모델에 대한 외부 사이버 평가를 절차 보완 후 재개했다.",
-      "scorePct": 44
+      "title": "Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "source": "Bloomberg",
+      "publishedDate": "2026-08-31",
+      "summary": "앤트로픽이 엔비디아가 투자한 램다와 6년간 약 350억 달러 규모의 클라우드 컴퓨팅 계약을 체결했다. 특정 클라우드에 묶이지 않고 컴퓨트 공급원을 계속 늘리는 행보다.",
+      "scorePct": 33
     },
     {
       "rank": 2,
-      "title": "딥시크·키미만이 아니다…개인 PC서 돌아가는 中 ‘작고 강한 AI’ [고든 정의 TECH+]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003675652",
-      "source": "네이버",
+      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "source": "VentureBeat",
       "publishedDate": "2026-09-01",
-      "summary": "중국 AI 진영이 초대형 모델뿐 아니라 개인 PC에서 구동되는 소형 고성능 오픈 모델을 대거 내놓고 있다는 분석이다. 딥시크·키미 계열을 넘어 '작고 강한' 모델군이 두터워지고 있다.",
+      "summary": "앤트로픽이 최신 모델 Claude Fable 5.1과 Mythos 5.1을 공개했다. 핵심은 성능 향상과 함께 Fable의 캐시 읽기 비용을 75% 인하한 점으로, 프롬프트 캐싱을 쓰는 반복 호출 워크로드의 단가가 크게 떨어진다.",
       "scorePct": 22
     },
     {
       "rank": 3,
-      "title": "LG AI연구원, 독자 파운데이션 모델 'K-엑사원 2.0' 공개",
-      "url": "https://biz.heraldcorp.com/article/10826523",
-      "source": "헤럴드경제",
-      "publishedDate": "2026-08-31",
-      "summary": "LG AI연구원이 750B 파라미터 규모의 'K-엑사원 2.0'을 허깅페이스에 오픈소스로 공개하고 라이선스를 개방했다. 과기정통부 독자 AI 파운데이션 모델 프로젝트 2차 평가를 앞둔 시점의 선제 공개다.",
+      "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+      "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+      "source": "VentureBeat",
+      "publishedDate": "2026-09-01",
+      "summary": "구글 리서치와 테크니온 연구에 따르면 GPT-5·Gemini-3 같은 프런티어 모델은 사실의 95%를 내부에 인코딩하고 있으나 직접 답하지 못하는 경우가 많다. 추론 시간을 늘려 더 오래 '생각'하게 하면 곧바로 회상하지 못한 사실의 최대 65%를 되살릴 수 있었다.",
       "scorePct": 22
     },
     {
       "rank": 4,
-      "title": "\"삼성 반도체 설계도 클로드로 자동화 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728832",
+      "title": "오픈AI, 차세대 AI ‘아스트라’ 너무 강력? 자율해킹 기능 빼고 출시하기로",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745160",
       "source": "네이버",
-      "publishedDate": "2026-09-01",
-      "summary": "앤트로픽코리아 최기영 대표가 삼성 반도체 설계 업무를 Claude로 자동화 지원하는 협업을 밝혔다. 6월 한국 법인 설립 이후 국내 기업 AX 협업과 데이터센터 파트너십을 확대 중이다.",
+      "publishedDate": "2026-09-03",
+      "summary": "오픈AI가 차세대 모델 '아스트라'를 곧 공개하되, 사람 개입 없이 해킹 수법을 고안·실행할 수 있는 고도 사이버 기능은 이용 대상을 엄격히 제한하기로 했다. 모델 성능이 아니라 위험 기능 접근권으로 출시 조건을 나누는 방식이다.",
       "scorePct": 11
     }
   ]
