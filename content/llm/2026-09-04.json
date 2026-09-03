@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Release v2.1.259 · anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+    "source": "GitHub",
+    "publishedDate": "2026-09-02",
+    "summary": "Claude Code 2.1.259가 조직 차원에서 HTTP/SSE MCP 서버를 구성원에게 일괄 배포할 수 있는 managedMcpServers 설정을 추가했다. 개인이 각자 MCP를 설정하던 방식에서 벗어나 관리자가 중앙에서 도구 접근을 통제하는 구조로 바뀐다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "Claude Fable 5.1 made me a really nice animated pelican",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "source": "Simon Willison's blog",
+    "publishedDate": "2026-09-01",
+    "summary": "Simon Willison이 Claude Fable 5.1을 low부터 max까지 5단계 추론 레벨로 돌려 SVG 생성 품질을 비교했다. 레벨별로 결과물과 비용·지연이 어떻게 달라지는지 실제 출력으로 드러난다.",
+    "scorePct": 56
+  },
+  {
+    "rank": 3,
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "source": "Google Blog",
+    "publishedDate": "2026-09-02",
+    "summary": "구글이 Gemini 3.8 Flash와 보안 특화 3.8 Flash Cyber를 공개했다. 소프트웨어 엔지니어링 벤치마크에서 3.7 Flash 대비 상당한 개선을 보였다고 밝혔다.",
+    "scorePct": 44
+  },
+  {
+    "rank": 4,
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra/",
+    "source": "OpenAI",
+    "publishedDate": "2026-09-01",
+    "summary": "OpenAI가 미출시 모델 Astra가 Preparedness Framework의 임계치를 처음으로 넘어선 과정과 그에 맞춘 안전장치를 공개했다. 프런티어 역량 판정과 완화 조치의 구체적 기준이 문서화됐다.",
+    "scorePct": 44
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+    "url": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-09-01",
+    "summary": "Anthropic이 Claude Fable 5.1과 Mythos 5.1을 공개하며 Terminal-Bench-Science 52.6%를 기록했다. 캐시 읽기 비용이 75% 저렴해져 성능과 단가가 동시에 개선됐다.",
+    "scorePct": 22
+  }
+]
