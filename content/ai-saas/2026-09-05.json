@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-03",
+    "summary": "오픈AI·마이크로소프트 등과 거래하는 클라우드·데이터센터 기업 Crusoe가 300억 달러 기업가치에 30억 달러를 조달한 것으로 알려졌다. AI 전용 인프라 사업자에 대한 자본 집중이 이어지고 있다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "네이버 1GW AI 팩토리 사업 속도…이해진, 브룩필드 회장과 회동",
+    "url": "https://n.news.naver.com/mnews/article/119/0003129283",
+    "source": "네이버",
+    "publishedDate": "2026-09-04",
+    "summary": "이해진 네이버 의장이 브룩필드 코퍼레이션 회장과 만나 1기가와트급 AI 팩토리 구축의 후속 논의를 진행했다. 브룩필드는 1단계 사업에 최대 90억 달러 투자를 결정한 상태다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "\"휴가철엔 여행, 갤럭시 뜨자 IT\"…네이버 AI에 찍힌 '사람들 관심사'",
+    "url": "https://n.news.naver.com/mnews/article/015/0005328801",
+    "source": "네이버",
+    "publishedDate": "2026-09-04",
+    "summary": "네이버 AI 검색이 인용하는 창작자 콘텐츠가 이용자 관심사 변화를 보여주는 지표로 쓰이고 있다. 휴가철에는 여행 콘텐츠 인용이, 갤럭시 신제품 시기에는 IT 콘텐츠 인용이 늘었다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "모두의AI가 꺼낸 승부수는 ‘韓 생활데이터’…외산 AI 넘을수 있을까 [종합]",
+    "url": "https://n.news.naver.com/mnews/article/138/0002240267",
+    "source": "네이버",
+    "publishedDate": "2026-09-04",
+    "summary": "SKT·KT·카카오 3사가 '모두의 AI' 플랫폼의 청사진을 공개하며 생활·공공데이터와 기존 플랫폼 접점을 결합한 '실행형 AI'를 승부수로 내걸었다. 10월 비공개 베타를 거쳐 12월 정식 출시하며, 검색·신청·결제까지 처리하는 것을 목표로 한다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 5,
+    "title": "중기부, 제조AI 인재 1600명 키운다… 지방 中企 취업 청년 지원도 확대",
+    "url": "https://n.news.naver.com/mnews/article/022/0004156462",
+    "source": "네이버",
+    "publishedDate": "2026-09-05",
+    "summary": "중기부가 제5차 중소기업인력지원기본계획을 통해 제조 AI 전문인력 1600명 양성 계획을 발표했다. 지방 중소기업에 취업하는 청년 지원도 함께 확대한다.",
+    "scorePct": 10
+  }
+]

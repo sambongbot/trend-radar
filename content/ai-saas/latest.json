@@ -1,33 +1,51 @@
 {
-  "date": "2026-09-04",
-  "headline": "> Anthropic Fable 5.1·Google Gemini 3.8 Flash가 같은 주에 나오며 프런티어 모델 가격·성능 경쟁이 한 단계 더 내려앉았다.\n> Claude Code는 조직 단위 MCP 서버 배포 설정을 추가해 기업 도입 단계로 진입했고, OpenAI는 미출시 Astra의 위험 임계 돌파를 공개했다.\n> 국내는 KT·네이버클라우드·LG CNS가 '모델'이 아닌 '데이터 체계·보안 파운데이션·피지컬 AI'로 각자 승부처를 갈랐다.",
+  "date": "2026-09-05",
+  "headline": "> 오픈AI가 GPT-6 아스트라를 출시하며 AGI 시대를 선언, 동시에 토큰 가격은 중국발 경쟁으로 하락 중이다.\n> 정부 '모두의 AI'가 SKT·KT·카카오 3사 체제로 10월 베타·12월 정식 일정을 확정하며 국내 AI 에이전트 시장 판이 짜였다.\n> Crusoe 3조원 조달·네이버 1GW AI 팩토리 등 추론 인프라 자본이 계속 몰리고, MS는 음성 전사 모델로 벤치마크 1위를 가져갔다.",
   "items": [
     {
       "rank": 1,
-      "title": "윤성호 마키나락스 대표 \"기업 AI 경쟁력, 벤치마크 아닌 현장에서 나온다\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436086",
-      "source": "네이버",
-      "publishedDate": "2026-09-04",
-      "summary": "마키나락스 윤성호 대표가 기업 AI 경쟁력은 벤치마크 점수가 아니라 제조·국방 등 실제 현장 데이터와 도메인 지식에서 나온다고 밝혔다. 범용 모델 성능 경쟁과 다른 축으로 AX 시장을 공략한다는 전략이다.",
-      "scorePct": 60
-    },
-    {
-      "rank": 2,
-      "title": "KT, 에이전틱 AI 맞춤 데이터 체계 구축…AX 플랫폼 전환 가속",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089997",
-      "source": "네이버",
-      "publishedDate": "2026-09-04",
-      "summary": "KT가 AI 에이전트가 실제 업무를 수행할 수 있도록 기업 데이터와 업무 노하우를 정리하는 데이터 활용 체계를 구축했다. 단순 검색·응답을 넘어 판단과 실행이 가능한 AX 플랫폼으로의 전환을 노린다.",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-09-03",
+      "summary": "오픈AI·마이크로소프트 등과 거래하는 클라우드·데이터센터 기업 Crusoe가 300억 달러 기업가치에 30억 달러를 조달한 것으로 알려졌다. AI 전용 인프라 사업자에 대한 자본 집중이 이어지고 있다.",
       "scorePct": 40
     },
     {
-      "rank": 3,
-      "title": "네이버클라우드, 국가 '보안 AI' 맡는다…700B급 공격·방어 모델 2종 개발",
-      "url": "https://n.news.naver.com/mnews/article/119/0003128736",
+      "rank": 2,
+      "title": "네이버 1GW AI 팩토리 사업 속도…이해진, 브룩필드 회장과 회동",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129283",
       "source": "네이버",
       "publishedDate": "2026-09-04",
-      "summary": "네이버클라우드 컨소시엄이 정부의 사이버 보안 특화 AI 파운데이션 모델 사업자로 선정돼 공격·방어 각각에 특화된 700B급 모델 2종을 개발한다. 하이퍼클로바X와 엑사원이 기반이 된다.",
+      "summary": "이해진 네이버 의장이 브룩필드 코퍼레이션 회장과 만나 1기가와트급 AI 팩토리 구축의 후속 논의를 진행했다. 브룩필드는 1단계 사업에 최대 90억 달러 투자를 결정한 상태다.",
       "scorePct": 20
+    },
+    {
+      "rank": 3,
+      "title": "\"휴가철엔 여행, 갤럭시 뜨자 IT\"…네이버 AI에 찍힌 '사람들 관심사'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328801",
+      "source": "네이버",
+      "publishedDate": "2026-09-04",
+      "summary": "네이버 AI 검색이 인용하는 창작자 콘텐츠가 이용자 관심사 변화를 보여주는 지표로 쓰이고 있다. 휴가철에는 여행 콘텐츠 인용이, 갤럭시 신제품 시기에는 IT 콘텐츠 인용이 늘었다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 4,
+      "title": "모두의AI가 꺼낸 승부수는 ‘韓 생활데이터’…외산 AI 넘을수 있을까 [종합]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240267",
+      "source": "네이버",
+      "publishedDate": "2026-09-04",
+      "summary": "SKT·KT·카카오 3사가 '모두의 AI' 플랫폼의 청사진을 공개하며 생활·공공데이터와 기존 플랫폼 접점을 결합한 '실행형 AI'를 승부수로 내걸었다. 10월 비공개 베타를 거쳐 12월 정식 출시하며, 검색·신청·결제까지 처리하는 것을 목표로 한다.",
+      "scorePct": 10
+    },
+    {
+      "rank": 5,
+      "title": "중기부, 제조AI 인재 1600명 키운다… 지방 中企 취업 청년 지원도 확대",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156462",
+      "source": "네이버",
+      "publishedDate": "2026-09-05",
+      "summary": "중기부가 제5차 중소기업인력지원기본계획을 통해 제조 AI 전문인력 1600명 양성 계획을 발표했다. 지방 중소기업에 취업하는 청년 지원도 함께 확대한다.",
+      "scorePct": 10
     }
   ]
 }

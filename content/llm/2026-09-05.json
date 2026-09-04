@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "중국 AI 때문에? 오픈AI가 '이용가격' 낮춘 까닭 [경제용어사전: LLM 토큰 지출 지수]",
+    "url": "https://n.news.naver.com/mnews/article/665/0000008092",
+    "source": "네이버",
+    "publishedDate": "2026-09-04",
+    "summary": "오픈AI가 플래그십 모델에 프로모션 가격을 적용하는 등 주요 생성형 AI 기업들이 이용 가격을 잇따라 낮추고 있다. 기사는 중국발 저가 모델 경쟁을 배경으로 지목하며 LLM 토큰 지출 지수라는 관점으로 시장을 분석한다.",
+    "scorePct": 67
+  },
+  {
+    "rank": 2,
+    "title": "MAI-Transcribe-2 Tops FLEURS Benchmark Across 60 Languages, Microsoft Says",
+    "url": "https://www.unite.ai/mai-transcribe-2-tops-fleurs-benchmark-across-60-languages-microsoft-says/",
+    "source": "Unite.AI",
+    "publishedDate": "2026-09-03",
+    "summary": "마이크로소프트의 새 전사 모델 MAI-Transcribe-2가 60개 언어 FLEURS 벤치마크에서 1위를 기록했다. 화자 분리(diarization)와 전사 스타일 설정 기능이 추가됐다.",
+    "scorePct": 22
+  },
+  {
+    "rank": 3,
+    "title": "\"AGI의 도래\" 오픈AI, GPT-6 아스트라 출시",
+    "url": "https://byline.network/2026/09/4-467/",
+    "source": "바이라인네트워크",
+    "publishedDate": "2026-09-04",
+    "summary": "오픈AI가 차세대 플래그십 GPT-6 아스트라를 공식 출시했다. 입력 100만 토큰당 10달러, 출력 100만 토큰당 50달러이며 컨텍스트 윈도우는 105만 토큰이다. 오픈AI는 이 모델과 함께 AGI 시대의 도래를 선언했다.",
+    "scorePct": 22
+  }
+]
