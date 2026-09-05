@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "source": "OpenAI",
+    "publishedDate": "2026-09-03",
+    "summary": "오픈AI가 차세대 모델 GPT-6 아스트라를 공개했다. 컴퓨터 사용, 브라우징, 문서·스프레드시트 생성에서 최고 수준 성능을 기록했으며 ChatGPT와 Codex에 함께 적용된다. 사이버 역량이 위험 수준이라 자율 해킹 기능은 제외하고 단계적으로 배포한다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 2,
+    "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外",
+    "url": "https://n.news.naver.com/mnews/article/584/0000039216",
+    "source": "네이버",
+    "publishedDate": "2026-09-05",
+    "summary": "KAIST 김민수 교수팀이 자연어 질문을 SQL로 바꿀 때 틀린 부분만 찾아 단계적으로 수정하는 AI 비서 'SafeQL'을 개발했다. 전체 재생성 대신 오류 구간만 교정하는 방식으로 정확도를 높였다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
+    "url": "https://www.axios.com/2026/09/03/house-bill-ai-agents-security",
+    "source": "Axios",
+    "publishedDate": "2026-09-03",
+    "summary": "미 하원의원들이 오픈AI의 허깅페이스 침해 사고 이후 AI 에이전트 보안을 규율하는 'Stop Rogue AI Act'를 발의했다. NIST가 자율 에이전트에 대한 국가 표준을 작성하도록 지시하는 내용이 담겼다.",
+    "scorePct": 36
+  }
+]

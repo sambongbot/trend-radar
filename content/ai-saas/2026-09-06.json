@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "“엔비디아, 오픈AI CTO가 만든 AI 스타트업에 3.4조 투자”",
+    "url": "https://n.news.naver.com/mnews/article/022/0004156593",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "엔비디아가 오픈AI 전 CTO가 설립한 개방형 AI 스타트업에 25억달러(약 3조4000억원) 투자를 논의 중이라고 디인포메이션이 보도했다. 폐쇄형 프런티어 모델에 맞서는 개방형 진영에 대형 자본이 유입되는 흐름이다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "[테크톡노트] 기업도 정부도 '특화 AI'에 꽂혔다…왜 지금일까",
+    "url": "https://n.news.naver.com/mnews/article/001/0016291611",
+    "source": "네이버",
+    "publishedDate": "2026-09-05",
+    "summary": "범용 AI를 오픈AI·구글이 선점하면서 기업과 정부가 산업 데이터와 현장 노하우를 결합한 '버티컬 AI'로 방향을 틀고 있다. 후발주자가 정면승부 대신 특화 영역에서 차별화를 노리는 구도다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "Crusoe Raises Over $3 Billion in Funding at $30 Billion Valuation",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
+    "source": "Bloomberg",
+    "publishedDate": "2026-09-03",
+    "summary": "AI 데이터센터·클라우드 기업 Crusoe가 300억달러 밸류에이션으로 30억달러 이상을 조달했다. 오픈AI를 포함한 대형 AI 고객사를 확보하며 추론 인프라 수요 급증의 수혜를 입고 있다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”",
+    "url": "https://n.news.naver.com/mnews/article/030/0003463802",
+    "source": "네이버",
+    "publishedDate": "2026-09-05",
+    "summary": "소프트웨어정책연구소(SPRi)는 기업의 AI 도입이 보편화됐지만 실제 업무 성과로 이어지지 못하는 '파일럿의 벽'이 존재한다고 진단했다. GPU·모델 확보 중심의 정책만으로는 부족하며 확산 단계 지원이 필요하다고 지적했다.",
+    "scorePct": 10
+  }
+]

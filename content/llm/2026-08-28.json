@@ -6,7 +6,7 @@
     "source": "Forbes",
     "publishedDate": "2026-08-25",
     "summary": "앤트로픽이 엔터프라이즈 전략을 더 큰 모델 경쟁에서 벗어나 실제 업무 워크플로에 깊이 결합하는 방향으로 전환하고 있다. 모델 파라미터 규모보다 기업 시스템과의 통합과 배포 방식이 승부처라는 판단이다. 엔터프라이즈 AI 경쟁 구도의 축이 이동하는 신호다.",
-    "scorePct": 44
+    "scorePct": 55
   },
   {
     "rank": 2,
@@ -15,6 +15,6 @@
     "source": "TechCrunch",
     "publishedDate": "2026-08-25",
     "summary": "앤트로픽이 Claude 채팅과 Claude Cowork의 메모리 시스템을 통합했다. 이제 채팅에서 알려준 내용을 Cowork에서도 그대로 기억한다. 제품 간 컨텍스트 단절이라는 실사용 불편이 해소됐다.",
-    "scorePct": 44
+    "scorePct": 55
   }
 ]
