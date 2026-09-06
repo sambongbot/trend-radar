@@ -1,6 +1,15 @@
 [
   {
     "rank": 1,
+    "title": "\"데이터는 따로, AI는 하나로\"…BNK금융, 공동 생성형 AI 플랫폼 구축 나선다",
+    "url": "https://n.news.naver.com/mnews/article/138/0002240342",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "BNK금융그룹이 부산은행·경남은행 등 10개 계열사가 함께 쓰는 생성형 AI 플랫폼을 구축한다. 계열사별로 흩어져 있던 AI 투자를 그룹 차원에서 한 번에 묶겠다는 구상이다. BNK시스템이 '그룹 공동 생성형 AI ",
+    "scorePct": 70
+  },
+  {
+    "rank": 2,
     "title": "“엔비디아, 오픈AI CTO가 만든 AI 스타트업에 3.4조 투자”",
     "url": "https://n.news.naver.com/mnews/article/022/0004156593",
     "source": "네이버",
@@ -9,7 +18,43 @@
     "scorePct": 50
   },
   {
-    "rank": 2,
+    "rank": 3,
+    "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]",
+    "url": "https://n.news.naver.com/mnews/article/015/0005328967",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "정부가 지난달 28일 '모두의 AI' 사업자로 SK텔레콤·카카오·KT 컨소시엄을 선정했습니다. 국산 인공지능(AI) 모델을 활용해 국민 누구나 비용 부담 없이 쓸 수 있는 AI 챗봇과 공공 AI 에이전트를 만드는 사",
+    "scorePct": 40
+  },
+  {
+    "rank": 4,
+    "title": "AI가 대신 사보고 말해준다…바이브컴퍼니 'AI 트윈 컨슈머' 공개",
+    "url": "https://n.news.naver.com/mnews/article/293/0000090081",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "실제 구매 이력과 소셜 데이터, 인공지능(AI) 모델링을 결합해 현실 소비자를 미러링하는 AI 플랫폼이 첫선을 보였다. 신제품 검증부터 소비자 심층 면접까지 실시간 시뮬레이션이 가능해져 기업 마켓 리서치 방식에 큰 ",
+    "scorePct": 40
+  },
+  {
+    "rank": 5,
+    "title": "‘코코’ 뭐길래 주가 16% 뛰었다…스노우플레이크 “성장 가속 절반은 AI 덕” [투자360]",
+    "url": "https://n.news.naver.com/mnews/article/016/0002693232",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "미국 클라우드 데이터 기업 스노우플레이크가 인공지능(AI)을 등에 업고 성장세에 속도를 내고 있다. 2분기 시장 예상을 웃도는 실적을 내놓은 데 이어 연간 전망치까지 상향하자 주가는 하루 만에 16% 넘게 급등했다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 6,
+    "title": "우주·로봇에 뭉칫돈 몰렸다…9월 첫째주 투자시장 달군 '딥테크'",
+    "url": "https://n.news.naver.com/mnews/article/008/0005410011",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "9월 1주차 국내 벤처투자 시장의 자금이 우주·방산과 로보틱스를 아우르는 딥테크에 집중됐다. 100억원 이상 메가딜이 3건 성사됐고 투자 단계도 다양하게 분포했다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 7,
     "title": "[테크톡노트] 기업도 정부도 '특화 AI'에 꽂혔다…왜 지금일까",
     "url": "https://n.news.naver.com/mnews/article/001/0016291611",
     "source": "네이버",
@@ -18,7 +63,7 @@
     "scorePct": 20
   },
   {
-    "rank": 3,
+    "rank": 8,
     "title": "Crusoe Raises Over $3 Billion in Funding at $30 Billion Valuation",
     "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
     "source": "Bloomberg",
@@ -27,7 +72,16 @@
     "scorePct": 20
   },
   {
-    "rank": 4,
+    "rank": 9,
+    "title": "허깅페이스가 주목한 韓 '비드래프트'…글로벌 AI 무대서 기술력 입증",
+    "url": "https://n.news.naver.com/mnews/article/030/0003463971",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "글로벌 인공지능(AI) 플랫폼 '허깅페이스'가 매주 전 세계에서 주목할 만한 AI 프로젝트를 선정하는 'Space of the Week'에 국내 AI 스타트업 비드래프트(VIDRAFT)가 이름을 올렸다. AI 업계에",
+    "scorePct": 10
+  },
+  {
+    "rank": 10,
     "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”",
     "url": "https://n.news.naver.com/mnews/article/030/0003463802",
     "source": "네이버",

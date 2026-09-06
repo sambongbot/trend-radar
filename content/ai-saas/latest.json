@@ -1,42 +1,42 @@
 {
-  "date": "2026-09-06",
-  "headline": "> 오픈AI가 GPT-6 아스트라를 공개하며 AGI 도래를 선언, 컴퓨터 사용·문서 작성 성능이 2배 빨라졌다.\n> 엔비디아가 오픈AI 전 CTO의 개방형 AI 스타트업에 3.4조원, Crusoe가 30조 밸류로 3조원을 유치하며 AI 인프라 자금이 폭증했다.\n> 국내는 '모두의 AI' 3사 컨소시엄 개발 착수와 버티컬 AI 전환이 화두이며, SPRi는 'PoC의 벽'을 정책 과제로 지목했다.",
+  "date": "2026-09-07",
+  "headline": "> 국내 AI 기업들이 온프레미스·소버린 에이전트 OS로 B2B 기업시장을 정조준하고 있다.\n> AI가 SW를 죽인다는 예측과 달리 미국 SaaS 4대장은 구독형 AI로 매출이 오히려 급증했다.\n> 앤트로픽-오픈AI의 기업시장 패권 경쟁이 2조달러 IPO와 아스트라 출시로 정면충돌 국면에 들어섰다.",
   "items": [
     {
       "rank": 1,
-      "title": "“엔비디아, 오픈AI CTO가 만든 AI 스타트업에 3.4조 투자”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156593",
-      "source": "네이버",
-      "publishedDate": "2026-09-06",
-      "summary": "엔비디아가 오픈AI 전 CTO가 설립한 개방형 AI 스타트업에 25억달러(약 3조4000억원) 투자를 논의 중이라고 디인포메이션이 보도했다. 폐쇄형 프런티어 모델에 맞서는 개방형 진영에 대형 자본이 유입되는 흐름이다.",
-      "scorePct": 50
+      "title": "\"자동차 엔진처럼 '맞춤형 AI 솔루션' 공급…B2B 확장 본격화\"",
+      "url": "https://www.mt.co.kr/future/2026/09/05/2026081913432297169",
+      "source": "머니투데이",
+      "publishedDate": "2026-09-05",
+      "summary": "업스테이지가 대기업 대상 AX 서비스 '엔터프라이즈' 사업을 확대하며 기업별 요구에 맞춰 AI 모델과 솔루션을 온프레미스로 구축하는 방식으로 매출을 늘리고 있다. 범용 모델 판매가 아니라 자동차 엔진처럼 맞춤형 부품을 공급하는 구조로 B2B 확장을 본격화한다.",
+      "scorePct": 40
     },
     {
       "rank": 2,
-      "title": "[테크톡노트] 기업도 정부도 '특화 AI'에 꽂혔다…왜 지금일까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016291611",
-      "source": "네이버",
-      "publishedDate": "2026-09-05",
-      "summary": "범용 AI를 오픈AI·구글이 선점하면서 기업과 정부가 산업 데이터와 현장 노하우를 결합한 '버티컬 AI'로 방향을 틀고 있다. 후발주자가 정면승부 대신 특화 영역에서 차별화를 노리는 구도다.",
-      "scorePct": 20
+      "title": "한컴, '소버린 에이전틱 OS'로 글로벌 AI 기업 도약",
+      "url": "https://www.hankyung.com/article/2026090663861",
+      "source": "한국경제",
+      "publishedDate": "2026-09-06",
+      "summary": "한글과컴퓨터가 사명을 '한컴'으로 바꾸고 여러 AI 에이전트를 통합 관리하는 '소버린 에이전틱 OS'를 내세워 유럽 공공·금융 시장 공략에 나선다. 상반기 AI 매출은 135억원을 기록했다.",
+      "scorePct": 40
     },
     {
       "rank": 3,
-      "title": "Crusoe Raises Over $3 Billion in Funding at $30 Billion Valuation",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
-      "source": "Bloomberg",
-      "publishedDate": "2026-09-03",
-      "summary": "AI 데이터센터·클라우드 기업 Crusoe가 300억달러 밸류에이션으로 30억달러 이상을 조달했다. 오픈AI를 포함한 대형 AI 고객사를 확보하며 추론 인프라 수요 급증의 수혜를 입고 있다.",
+      "title": "AI 등장때 죽는다 했는데 … 美SW주 4대장 실적 살아있네",
+      "url": "https://n.news.naver.com/mnews/article/009/0005731138",
+      "source": "네이버",
+      "publishedDate": "2026-09-06",
+      "summary": "AI 등장으로 몰락이 예상됐던 미국 소프트웨어 4대장(보안·데이터 처리·인프라 SW)의 실적이 오히려 견조하게 나왔다. MS는 코파일럿 요금제 출시 후 분기 매출 900억 달러대를 유지 중이고, 세일즈포스는 구독형 AI 상품으로 연간반복매출(ARR)이 크게 늘었다.",
       "scorePct": 20
     },
     {
       "rank": 4,
-      "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003463802",
+      "title": "‘2조달러 IPO’가 쏜 AI 쩐의 전쟁",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468741",
       "source": "네이버",
-      "publishedDate": "2026-09-05",
-      "summary": "소프트웨어정책연구소(SPRi)는 기업의 AI 도입이 보편화됐지만 실제 업무 성과로 이어지지 못하는 '파일럿의 벽'이 존재한다고 진단했다. GPU·모델 확보 중심의 정책만으로는 부족하며 확산 단계 지원이 필요하다고 지적했다.",
-      "scorePct": 10
+      "publishedDate": "2026-09-07",
+      "summary": "기업 시장 점유율을 뒤집은 앤트로픽이 사상 최대 규모인 2조달러 기업공개(IPO)를 추진하며 오픈AI와 정면충돌하고 있다. AI 패권 경쟁이 모델 성능을 넘어 자본 조달 규모의 싸움으로 번지는 양상이다.",
+      "scorePct": 0
     }
   ]
 }

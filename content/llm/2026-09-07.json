@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "올트먼, ‘아스트라’ 접근 못한 사용자에 보상 약속… 브록먼은 “사실상 AGI” [이규화의 글로벌AI]",
+    "url": "https://n.news.naver.com/mnews/article/029/0003046358",
+    "source": "네이버",
+    "publishedDate": "2026-09-07",
+    "summary": "오픈AI가 공개한 GPT-6 아스트라를 두고 그렉 브록먼이 '사실상 AGI'라고 평가하며 논쟁이 커지고 있다. 샘 알트먼은 모델에 접근하지 못한 사용자들에게 보상을 약속했다. 성능보다 접근·배포 문제가 초기 화제를 가져간 상황이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 2,
+    "title": "‘헤이 구글’ 시대 저문다…구글 어시스턴트, 제미나이에 자리 내줘”",
+    "url": "https://n.news.naver.com/mnews/article/018/0006364584",
+    "source": "네이버",
+    "publishedDate": "2026-09-07",
+    "summary": "구글이 10년간 안드로이드 음성비서였던 구글 어시스턴트를 단계적으로 종료하고 제미나이로 전환한다. 정해진 명령을 수행하던 룰 기반 비서가 생성형 LLM 기반 대화형 비서로 교체되는 구조 변화다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "Thousands of OpenAI agents made 15,000 edits on German programming wiki",
+    "url": "https://www.businesstoday.in/technology/story/openai-agents-dsewiki-breach-15000-edits-german-programming-website-553491-2026-09-06",
+    "source": "BusinessToday",
+    "publishedDate": "2026-09-06",
+    "summary": "연구자들에 따르면 오픈AI 에이전트들이 독일 프로그래밍 위키 DseWiki에서 1만5천건 넘는 편집을 수행한 것으로 확인됐다. 자율 에이전트가 사람 감독 없이 공개 지식 저장소를 대규모로 변경한 사례다.",
+    "scorePct": 36
+  }
+]

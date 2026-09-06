@@ -10,6 +10,51 @@
   },
   {
     "rank": 2,
+    "title": "AI 토큰가격 '사상 최저'…5월 최고점 대비 반토막",
+    "url": "https://n.news.naver.com/mnews/article/015/0005329192",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "중국산 오픈소스 모델 확산과 오픈AI·앤트로픽의 가격 인하 경쟁이 겹치면서 AI 모델의 실질 사용료가 사상 최저로 떨어졌다. 5월 최고점 대비 절반 수준이다.",
+    "scorePct": 45
+  },
+  {
+    "rank": 3,
+    "title": "[단독] 카카오, 1550억개 ‘카나나’ 승부수…“외부 AI 의존 벗고 서빙비 낮춘다”",
+    "url": "https://n.news.naver.com/mnews/article/018/0006364550",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "카카오가 155B 파라미터 규모의 자체 LLM '카나나' 학습을 사실상 마쳤다. 기존 공개한 30B 모델보다 5배 이상 큰 규모로, 외부 AI 의존을 줄이고 서빙 비용을 낮추는 것이 목표다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "\"성능 좋고 저렴하다\"…글로벌 빅테크, 中 AI 잇달아 도입",
+    "url": "https://n.news.naver.com/mnews/article/015/0005329242",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "전문직 40만 명이 쓰는 미국 스타트업 린디가 주력 모델을 클로드 소넷에서 딥시크 v4 플래시로 교체했다. 수 주간의 자체 평가를 거친 결정으로, 글로벌 빅테크들도 성능 대비 저렴한 중국산 모델 도입을 늘리고 있다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+    "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+    "source": "The Hacker News",
+    "publishedDate": "2026-09-04",
+    "summary": "GPT-6 아스트라가 ExploitBench에서 100% 만점을 기록해 전작 GPT-5.6의 78.5%를 크게 넘어섰다. 오픈AI는 이에 대응해 PoC 익스플로잇 생성 요청을 차단하는 가드레일을 적용했다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 6,
+    "title": "Anthropic uses Claude to formalize proof of Fermat's Last Theorem",
+    "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+    "source": "SiliconANGLE",
+    "publishedDate": "2026-09-04",
+    "summary": "앤트로픽은 Prove2Me 플랫폼에서 클로드가 약 11일간 대부분 자율적으로 작동하며 페르마의 마지막 정리 증명을 형식화했다고 밝혔다. 사람의 개입을 최소화한 상태에서 장기간 이어지는 추론 작업을 완주했다는 점이 핵심이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 7,
     "title": "[과기원NOW] KAIST, 틀린 곳만 고치는 AI 비서 'SafeQL' 개발 外",
     "url": "https://n.news.naver.com/mnews/article/584/0000039216",
     "source": "네이버",
@@ -18,12 +63,30 @@
     "scorePct": 36
   },
   {
-    "rank": 3,
+    "rank": 8,
     "title": "Lawmakers unveil new bill to secure AI agents after OpenAI's Hugging Face breach",
     "url": "https://www.axios.com/2026/09/03/house-bill-ai-agents-security",
     "source": "Axios",
     "publishedDate": "2026-09-03",
     "summary": "미 하원의원들이 오픈AI의 허깅페이스 침해 사고 이후 AI 에이전트 보안을 규율하는 'Stop Rogue AI Act'를 발의했다. NIST가 자율 에이전트에 대한 국가 표준을 작성하도록 지시하는 내용이 담겼다.",
     "scorePct": 36
+  },
+  {
+    "rank": 9,
+    "title": "데이터센터 없이도 AI 된다…오히려 더 빠르고 안전하게 [가장 쉬운 인공지능 안내서]",
+    "url": "https://n.news.naver.com/mnews/article/009/0005731131",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "스마트폰과 PC에서 모델을 직접 구동하는 온디바이스 AI가 데이터센터 의존 없이 확산되고 있다. 인터넷 없이 작동하고 응답이 빠르며 데이터가 기기를 벗어나지 않아 보안 면에서도 유리하다는 점이 정리됐다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 10,
+    "title": "전화·검색·카톡 파고드는 ‘모두의 AI’… 생활 속 실행력 승부수",
+    "url": "https://n.news.naver.com/mnews/article/029/0003046422",
+    "source": "네이버",
+    "publishedDate": "2026-09-06",
+    "summary": "SK텔레콤·KT·카카오 3개 컨소시엄이 '모두의 AI'를 통해 연내 전화·검색·메신저에 국산 AI를 투입한다. 챗봇 수준을 넘어 실제 작업을 실행하는 능력을 공통 목표로 내걸었다.",
+    "scorePct": 18
   }
 ]
