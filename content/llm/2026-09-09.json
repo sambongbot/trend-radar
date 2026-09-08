@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "LLM Daily: September 06, 2026",
+    "url": "https://buttondown.com/agent-k/archive/llm-daily-september-06-2026/",
+    "source": "LLM Daily (Buttondown)",
+    "publishedDate": "2026-09-06",
+    "summary": "OpenAI의 GPT-6 Astra가 출시된 뒤 24시간 이내에 탈옥(jailbreak)됐다는 소식을 비롯해 당일 LLM 업계 동향을 정리한 데일리 라운드업이다. 신규 프런티어 모델의 안전장치가 공개 직후 어떻게 뚫렸는지를 사례 중심으로 다룬다.",
+    "scorePct": 73
+  },
+  {
+    "rank": 2,
+    "title": "A quote from Jakub Pachocki",
+    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-09-07",
+    "summary": "OpenAI 수석과학자 Jakub Pachocki가 초지능 전환에 \"누구도 준비되지 않았다\"고 경고한 에세이에 대한 사이먼 윌리슨의 논평이다. 모델 능력 증가 속도와 사회적·기술적 대비 사이의 격차를 짚는다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "AI 클로드, 10년 걸릴 '페르마의 마지막 정리' 증명 검증 11일 만에",
+    "url": "https://n.news.naver.com/mnews/article/584/0000039251",
+    "source": "네이버",
+    "publishedDate": "2026-09-08",
+    "summary": "앤스로픽 클로드가 페르마의 마지막 정리를 컴퓨터 검증 가능한 코드로 옮기는 형식화 작업을 11일 만에 완료했다. 인간 수학자 기준 약 10년이 걸릴 것으로 예상된 작업이었다. 장기 추론과 대규모 코드 생성이 결합된 과제에서 LLM의 실증 사례로 평가된다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 4,
+    "title": "노타, 휴머노이드 AI 최적화 주관…LG전자 로봇과 국산 NPU 잇는다",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645578152",
+    "source": "이데일리",
+    "publishedDate": "2026-09-08",
+    "summary": "노타가 토큰 압축·양자화·프루닝·지식증류를 조합해 VLA(비전-언어-행동) 모델을 경량화하고, 이를 국산 NPU에서 구동해 LG전자 휴머노이드에 공급한다. 온디바이스 추론을 위한 모델 압축 기법이 상용 하드웨어에 실제 적용되는 사례다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 5,
+    "title": "미스트랄, 삼성 주도 4.7조원 투자 유치…유럽 IT 사상 최대 규모",
+    "url": "https://n.news.naver.com/mnews/article/001/0016298164",
+    "source": "네이버",
+    "publishedDate": "2026-09-09",
+    "summary": "프랑스 AI 스타트업 미스트랄이 삼성전자가 주도한 라운드에서 약 4.7조원을 조달해 기업가치 32조8천억원을 기록했다. 유럽 IT 사상 최대 규모 투자로, 1년 만에 기업가치가 두 배로 뛰었다. 'AI 주권' 수요를 겨냥한 전략적 투자로 해석된다.",
+    "scorePct": 18
+  }
+]

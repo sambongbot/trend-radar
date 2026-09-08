@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-08",
-  "headline": "> GPT-6 아스트라 실사용 리뷰가 나오며 코딩·에이전트 성능이 실제로 한 세대 앞섰다는 평가가 굳어졌다.\n> xAI는 Grok 4.7(2.1조 파라미터)을 9월 12일 출시 예고하며 프론티어 경쟁을 이어간다.\n> 동시에 AI 코딩 에이전트가 실제 공격에 동원되고 프롬프트 인젝션 방어가 논의되며, 에이전트 보안이 실무 과제로 올라왔다.",
+  "date": "2026-09-09",
+  "headline": "> OpenAI GPT-6 Astra가 출시 24시간 만에 탈옥되며 프런티어 모델의 안전 마진이 실전에서 시험대에 올랐다.\n> OpenAI 수석과학자 Jakub Pachocki가 \"누구도 준비되지 않았다\"며 초지능 전환 속도에 공개 경고를 냈다.\n> 앤스로픽 클로드가 페르마의 마지막 정리 형식화를 11일 만에 끝내며 AI의 장기 추론 실용성이 수학 영역에서 입증됐고, 국내에서는 토큰 압축·양자화·증류로 VLA 모델을 온디바이스 NPU에 올리는 경량화 상용화가 시작됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
-      "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
-      "source": "Decrypt",
+      "title": "LLM Daily: September 06, 2026",
+      "url": "https://buttondown.com/agent-k/archive/llm-daily-september-06-2026/",
+      "source": "LLM Daily (Buttondown)",
       "publishedDate": "2026-09-06",
-      "summary": "GPT-6 아스트라를 직접 써본 리뷰로, 이전 오픈AI 모델 대비 특히 코딩과 복잡한 추론에서 실질적 진전을 보였다고 평가한다. 마케팅 발표가 아닌 실사용 관점의 검증이라는 점에서 참고 가치가 크다.",
-      "scorePct": 91
+      "summary": "OpenAI의 GPT-6 Astra가 출시된 뒤 24시간 이내에 탈옥(jailbreak)됐다는 소식을 비롯해 당일 LLM 업계 동향을 정리한 데일리 라운드업이다. 신규 프런티어 모델의 안전장치가 공개 직후 어떻게 뚫렸는지를 사례 중심으로 다룬다.",
+      "scorePct": 73
     },
     {
       "rank": 2,
-      "title": "xAI Weekly: Grok 4.7 Targets September 12 Launch",
-      "url": "https://www.bighatgroup.com/blog/xai-weekly-2026-09-06/",
-      "source": "Big Hat Group",
-      "publishedDate": "2026-09-06",
-      "summary": "xAI가 2.1조 파라미터 규모의 Grok 4.7을 9월 12일 출시 목표로 발표했다. 스페이스X 엔지니어링 데이터로 학습했다는 점이 특징으로, 도메인 특화 데이터를 프론티어 모델에 투입한 사례다.",
-      "scorePct": 91
+      "title": "A quote from Jakub Pachocki",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "source": "Simon Willison's Weblog",
+      "publishedDate": "2026-09-07",
+      "summary": "OpenAI 수석과학자 Jakub Pachocki가 초지능 전환에 \"누구도 준비되지 않았다\"고 경고한 에세이에 대한 사이먼 윌리슨의 논평이다. 모델 능력 증가 속도와 사회적·기술적 대비 사이의 격차를 짚는다.",
+      "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-      "source": "Simon Willison's Blog",
-      "publishedDate": "2026-09-06",
-      "summary": "오픈AI 내부의 'RSI day' 자료를 통해 코딩 에이전트가 사내 연구 속도를 어떻게 끌어올리고 있는지 들여다본 글이다. 모델 자체보다 에이전트를 연구·개발 워크플로에 녹여 넣는 운영 방식에 초점이 있다.",
-      "scorePct": 55
+      "title": "AI 클로드, 10년 걸릴 '페르마의 마지막 정리' 증명 검증 11일 만에",
+      "url": "https://n.news.naver.com/mnews/article/584/0000039251",
+      "source": "네이버",
+      "publishedDate": "2026-09-08",
+      "summary": "앤스로픽 클로드가 페르마의 마지막 정리를 컴퓨터 검증 가능한 코드로 옮기는 형식화 작업을 11일 만에 완료했다. 인간 수학자 기준 약 10년이 걸릴 것으로 예상된 작업이었다. 장기 추론과 대규모 코드 생성이 결합된 과제에서 LLM의 실증 사례로 평가된다.",
+      "scorePct": 27
     },
     {
       "rank": 4,
-      "title": "北해킹조직 김수키, AI로 ‘미끼 문서’ 뚝딱…공격 자동화 단계로",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746223",
-      "source": "네이버",
+      "title": "노타, 휴머노이드 AI 최적화 주관…LG전자 로봇과 국산 NPU 잇는다",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645578152",
+      "source": "이데일리",
       "publishedDate": "2026-09-08",
-      "summary": "북한 연계 해킹 조직 김수키가 AI 코딩 에이전트를 공격 준비에 활용한 정황이 처음 포착됐다. 로컬 LLM 활용을 넘어 미끼 문서 생성 등 공격 자동화 단계로 넘어갔다는 분석이다.",
-      "scorePct": 45
+      "summary": "노타가 토큰 압축·양자화·프루닝·지식증류를 조합해 VLA(비전-언어-행동) 모델을 경량화하고, 이를 국산 NPU에서 구동해 LG전자 휴머노이드에 공급한다. 온디바이스 추론을 위한 모델 압축 기법이 상용 하드웨어에 실제 적용되는 사례다.",
+      "scorePct": 27
     },
     {
       "rank": 5,
-      "title": "\"'인다이렉트 인젝션' 해커 공격, 듀얼 LLM으로 방어 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002436507",
+      "title": "미스트랄, 삼성 주도 4.7조원 투자 유치…유럽 IT 사상 최대 규모",
+      "url": "https://n.news.naver.com/mnews/article/001/0016298164",
       "source": "네이버",
-      "publishedDate": "2026-09-07",
-      "summary": "서울대 이병영 교수가 AI 리스크 컨퍼런스에서 '듀얼 LLM' 구조로 인다이렉트 프롬프트 인젝션 공격을 효과적으로 막을 수 있다고 발표했다. 신뢰할 수 없는 입력을 처리하는 LLM과 권한을 가진 LLM을 분리하는 접근이다.",
-      "scorePct": 36
+      "publishedDate": "2026-09-09",
+      "summary": "프랑스 AI 스타트업 미스트랄이 삼성전자가 주도한 라운드에서 약 4.7조원을 조달해 기업가치 32조8천억원을 기록했다. 유럽 IT 사상 최대 규모 투자로, 1년 만에 기업가치가 두 배로 뛰었다. 'AI 주권' 수요를 겨냥한 전략적 투자로 해석된다.",
+      "scorePct": 18
     }
   ]
 }

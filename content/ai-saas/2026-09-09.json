@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "프랜차이즈 원가 설계 돕는 '푸드로직', 농식품부 '그린 유니콘 G-Corn' 최종 선정",
+    "url": "https://n.news.naver.com/mnews/article/030/0003464816",
+    "source": "네이버",
+    "publishedDate": "2026-09-09",
+    "summary": "외식업 메뉴 원가계산과 수익성 분석을 자동화하는 B2B SaaS 기업 푸드로직이 농식품부 '2026년 그린 유니콘 G-Corn'에 최종 선정됐다. 프랜차이즈 원가 설계라는 좁은 업무를 자동화하는 버티컬 SaaS다.",
+    "scorePct": 40
+  },
+  {
+    "rank": 2,
+    "title": "한컴, 퓨리오사AI·한컴이노스트림과 NPU 기반 AX 시장 공략",
+    "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252855",
+    "source": "넥스트데일리",
+    "publishedDate": "2026-09-08",
+    "summary": "한컴이 한컴이노스트림·퓨리오사AI와 3자 업무협약을 맺고 NPU 기반 AX 시장 공략에 나선다. 한컴의 에이전틱 OS와 퓨리오사AI의 AI 가속기 'RNGD'를 결합해 기업·공공기관 대상 온프레미스 AX를 겨냥한다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "\"범용 AI로는 안돼\"…에이아이매틱스, 퀵서비스 전용 AI챗봇 출시",
+    "url": "https://n.news.naver.com/mnews/article/008/0005411122",
+    "source": "네이버",
+    "publishedDate": "2026-09-09",
+    "summary": "에이아이매틱스가 퀵서비스 플랫폼 인성데이타와 협력해 퀵서비스 콜센터 전용 AI 챗봇을 정식 출시했다. 범용 AI로는 업종 특수 상황 대응이 어렵다는 판단에서 버티컬 특화 모델을 택했다.",
+    "scorePct": 10
+  },
+  {
+    "rank": 4,
+    "title": "AI가 일하고 로봇이 움직인다…새 판 짠 삼성SDS",
+    "url": "https://n.news.naver.com/mnews/article/025/0003550024",
+    "source": "네이버",
+    "publishedDate": "2026-09-09",
+    "summary": "삼성SDS가 AX를 넘어 제조 현장 로봇까지 제어하는 '로봇 전환(RX)' 사업에 진출한다. 한국·미국·중국 로보틱스 기업들과 연합을 구성해 내년 로봇 오케스트레이션 플랫폼을 출시할 계획이다. AI가 문서 업무를 처리하는 단계에서 물리 작업 제어로 사업 영역을 확장하는 구도다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "김태진 라온시큐어 CTO \"에이전트 생성 즉시 DID 기반 고유 식별자 발급\"",
+    "url": "https://n.news.naver.com/mnews/article/092/0002436678",
+    "source": "네이버",
+    "publishedDate": "2026-09-08",
+    "summary": "라온시큐어 CTO가 AI 에이전트 생성 즉시 DID 기반 고유 식별자를 발급하는 신원·권한 체계를 제시했다. HR 에이전트는 HR 영역에서만 동작하도록 역할과 권한을 발급 시점에 묶어야 한다는 구상이다.",
+    "scorePct": 0
+  }
+]
