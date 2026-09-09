@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-09-08",
+    "summary": "OpenAI가 2026년 9월 8일 ChatGPT Images 2.5를 공개했다. 생성 속도가 빨라지고 이미지 품질과 지시 반영도가 개선된 신형 이미지 모델이다. Simon Willison이 실제 출력물로 이전 세대와의 차이를 짚었다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 2,
+    "title": "\"남의 GPU·클라우드로 AI 돌린다\"…신종 해킹 'LLM재킹' 비상",
+    "url": "https://n.news.naver.com/mnews/article/003/0014180444",
+    "source": "네이버",
+    "publishedDate": "2026-09-10",
+    "summary": "해커들이 타인의 GPU와 클라우드 계정을 탈취해 LLM을 무단 구동하는 'LLM재킹'이 확산되고 있다. 악성코드 작성이나 취약점 탐색을 넘어 공격 전 과정에 에이전틱 AI를 결합하는 단계로 진입했다.",
+    "scorePct": 45
+  },
+  {
+    "rank": 3,
+    "title": "'에이전트의 경험'을 학습한 모델이 온다",
+    "url": "https://n.news.naver.com/mnews/article/047/0002528328",
+    "source": "네이버",
+    "publishedDate": "2026-09-10",
+    "summary": "전 화웨이 판구모델 연구소장 왕윈허가 창업한 토큰리듬이 '에이전트의 경험'을 학습한 모델을 예고했다. 정적 텍스트 코퍼스가 아니라 에이전트가 도구를 쓰며 쌓은 실행 궤적을 학습 데이터로 삼는 방향이며, 스트라이프의 75억 달러 규모 AI 모델 인수 흐름과 맞물린다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-08",
+    "summary": "미스트랄 AI가 삼성전자가 주도한 시리즈D에서 €30억을 조달했다. 유럽 기업·정부가 자국 통제권 아래 두는 '소버린 AI' 수요가 실제 대형 매출로 전환되면서 프랑스 대표 AI 기업의 기업가치를 끌어올렸다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "AI 에이전트 1만개 투입…88시간 만에 ‘90년 수학 난제’ 풀었다",
+    "url": "https://n.news.naver.com/mnews/article/011/0004660285",
+    "source": "네이버",
+    "publishedDate": "2026-09-09",
+    "summary": "오픈AI가 AI 에이전트 1만 개를 동시 투입해 90년 넘게 미해결이던 수학 난제의 해법을 88시간 만에 도출했다고 발표했다. 국제 수학계 검증을 통과하면 AI가 밀레니엄급 난제를 실제로 해결한 첫 사례가 된다.",
+    "scorePct": 18
+  }
+]
