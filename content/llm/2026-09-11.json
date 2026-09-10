@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "source": "OpenAI",
+    "publishedDate": "2026-09-08",
+    "summary": "OpenAI가 자율 에이전트 그룹을 동원해 3D 나비에-스토크스 밀레니엄 문제의 특이점 해를 도출했다고 공개했다. 약 1만 개 에이전트가 협업한 결과물로, 오케스트레이션 규모 자체가 결과의 핵심 변수였다. 다만 기존 연구 성과의 기여도를 두고 크레딧 논란도 함께 제기됐다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 2,
+    "title": "Mistral Raises €3B to Expand AI Research and Infrastructure",
+    "url": "https://www.hpcwire.com/aiwire/2026/09/08/mistral-raises-e3b-to-expand-ai-research-and-infrastructure/",
+    "source": "AIwire (HPCwire)",
+    "publishedDate": "2026-09-08",
+    "summary": "미스트랄이 30억 유로를 조달해 컴퓨팅 용량 확충과 인프라 구축, 연구 인력 확대에 투입한다고 밝혔다. 유럽 소버린 AI 진영이 프론티어 경쟁에 필요한 자본을 확보한 국면이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030",
+    "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+    "source": "CoinDesk",
+    "publishedDate": "2026-09-09",
+    "summary": "OpenAI와 앤스로픽 양쪽에서 프리트레이닝 연구를 했던 Jacob Coxon이 앤스로픽을 떠나며 초인적 AI의 위험을 공개 경고했다. 내부 인사들이 2030년경 인류 존속 리스크를 우려한다는 취지의 발언이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "source": "OpenAI",
+    "publishedDate": "2026-09-08",
+    "summary": "MIT 연구진이 Codex를 통해 GPT-5.6 Sol에게 6큐비트 초전도 프로세서의 특성 측정을 자율로 맡긴 사례를 OpenAI가 공개했다. 모델이 실험 장비를 직접 제어하며 루틴한 측정 과정을 사람 개입 없이 수행했다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "Tool: .blend URL Viewer",
+    "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+    "source": "Simon Willison",
+    "publishedDate": "2026-09-09",
+    "summary": "Simon Willison이 Codex 상의 GPT-6 아스트라로 Blender 3D 모델을 생성하고, 이를 브라우저에서 바로 확인할 수 있는 .blend URL 뷰어까지 함께 만들었다. 모델이 낯선 도메인의 코드를 작성하고 결과물을 검증하는 도구까지 한 번에 구성한 워크플로 기록이다.",
+    "scorePct": 36
+  }
+]

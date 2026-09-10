@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-10",
-  "headline": "> OpenAI가 ChatGPT Images 2.5로 이미지 모델 세대를 교체하고, 별도로 AI 에이전트 1만 개를 90년 묵은 수학 난제에 투입해 88시간 만에 해법을 도출했다.\n> 미스트랄이 삼성 주도 €30억 시리즈D를 유치하며 '소버린 AI'가 실제 매출이 되는 시장임을 증명했다.\n> 공격 측에서는 에이전틱 AI를 결합한 LLM재킹이, 모델 측에서는 '에이전트의 경험'을 학습 데이터로 삼는 차세대 학습 패러다임이 동시에 부상 중이다.",
+  "date": "2026-09-11",
+  "headline": "> OpenAI가 약 1만 개 자율 에이전트로 나비에-스토크스 밀레니엄 문제 해를 내놓으며 '에이전트 군집 연구'가 실증 단계에 진입했다.\n> GPT-6 아스트라·GPT-5.6 Sol이 Codex를 통해 양자 실험 자동화, 3D 모델링 등 실제 작업 파이프라인으로 흘러들어가고 있다.\n> 미스트랄 30억 유로 조달로 소버린 AI 진영이 자본을 확보했고, 앤스로픽 출신 연구자의 이탈 경고로 안전 논쟁도 재점화됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-      "source": "Simon Willison's Weblog",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "source": "OpenAI",
       "publishedDate": "2026-09-08",
-      "summary": "OpenAI가 2026년 9월 8일 ChatGPT Images 2.5를 공개했다. 생성 속도가 빨라지고 이미지 품질과 지시 반영도가 개선된 신형 이미지 모델이다. Simon Willison이 실제 출력물로 이전 세대와의 차이를 짚었다.",
+      "summary": "OpenAI가 자율 에이전트 그룹을 동원해 3D 나비에-스토크스 밀레니엄 문제의 특이점 해를 도출했다고 공개했다. 약 1만 개 에이전트가 협업한 결과물로, 오케스트레이션 규모 자체가 결과의 핵심 변수였다. 다만 기존 연구 성과의 기여도를 두고 크레딧 논란도 함께 제기됐다.",
       "scorePct": 55
     },
     {
       "rank": 2,
-      "title": "\"남의 GPU·클라우드로 AI 돌린다\"…신종 해킹 'LLM재킹' 비상",
-      "url": "https://n.news.naver.com/mnews/article/003/0014180444",
-      "source": "네이버",
-      "publishedDate": "2026-09-10",
-      "summary": "해커들이 타인의 GPU와 클라우드 계정을 탈취해 LLM을 무단 구동하는 'LLM재킹'이 확산되고 있다. 악성코드 작성이나 취약점 탐색을 넘어 공격 전 과정에 에이전틱 AI를 결합하는 단계로 진입했다.",
-      "scorePct": 45
+      "title": "Mistral Raises €3B to Expand AI Research and Infrastructure",
+      "url": "https://www.hpcwire.com/aiwire/2026/09/08/mistral-raises-e3b-to-expand-ai-research-and-infrastructure/",
+      "source": "AIwire (HPCwire)",
+      "publishedDate": "2026-09-08",
+      "summary": "미스트랄이 30억 유로를 조달해 컴퓨팅 용량 확충과 인프라 구축, 연구 인력 확대에 투입한다고 밝혔다. 유럽 소버린 AI 진영이 프론티어 경쟁에 필요한 자본을 확보한 국면이다.",
+      "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "'에이전트의 경험'을 학습한 모델이 온다",
-      "url": "https://n.news.naver.com/mnews/article/047/0002528328",
-      "source": "네이버",
-      "publishedDate": "2026-09-10",
-      "summary": "전 화웨이 판구모델 연구소장 왕윈허가 창업한 토큰리듬이 '에이전트의 경험'을 학습한 모델을 예고했다. 정적 텍스트 코퍼스가 아니라 에이전트가 도구를 쓰며 쌓은 실행 궤적을 학습 데이터로 삼는 방향이며, 스트라이프의 75억 달러 규모 AI 모델 인수 흐름과 맞물린다.",
+      "title": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030",
+      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+      "source": "CoinDesk",
+      "publishedDate": "2026-09-09",
+      "summary": "OpenAI와 앤스로픽 양쪽에서 프리트레이닝 연구를 했던 Jacob Coxon이 앤스로픽을 떠나며 초인적 AI의 위험을 공개 경고했다. 내부 인사들이 2030년경 인류 존속 리스크를 우려한다는 취지의 발언이다.",
       "scorePct": 36
     },
     {
       "rank": 4,
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "source": "OpenAI",
       "publishedDate": "2026-09-08",
-      "summary": "미스트랄 AI가 삼성전자가 주도한 시리즈D에서 €30억을 조달했다. 유럽 기업·정부가 자국 통제권 아래 두는 '소버린 AI' 수요가 실제 대형 매출로 전환되면서 프랑스 대표 AI 기업의 기업가치를 끌어올렸다.",
+      "summary": "MIT 연구진이 Codex를 통해 GPT-5.6 Sol에게 6큐비트 초전도 프로세서의 특성 측정을 자율로 맡긴 사례를 OpenAI가 공개했다. 모델이 실험 장비를 직접 제어하며 루틴한 측정 과정을 사람 개입 없이 수행했다.",
       "scorePct": 36
     },
     {
       "rank": 5,
-      "title": "AI 에이전트 1만개 투입…88시간 만에 ‘90년 수학 난제’ 풀었다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660285",
-      "source": "네이버",
+      "title": "Tool: .blend URL Viewer",
+      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "source": "Simon Willison",
       "publishedDate": "2026-09-09",
-      "summary": "오픈AI가 AI 에이전트 1만 개를 동시 투입해 90년 넘게 미해결이던 수학 난제의 해법을 88시간 만에 도출했다고 발표했다. 국제 수학계 검증을 통과하면 AI가 밀레니엄급 난제를 실제로 해결한 첫 사례가 된다.",
-      "scorePct": 18
+      "summary": "Simon Willison이 Codex 상의 GPT-6 아스트라로 Blender 3D 모델을 생성하고, 이를 브라우저에서 바로 확인할 수 있는 .blend URL 뷰어까지 함께 만들었다. 모델이 낯선 도메인의 코드를 작성하고 결과물을 검증하는 도구까지 한 번에 구성한 워크플로 기록이다.",
+      "scorePct": 36
     }
   ]
 }

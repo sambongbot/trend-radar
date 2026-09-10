@@ -43,5 +43,14 @@
     "publishedDate": "2026-09-10",
     "summary": "SECaaS 기업 모니터랩이 주력 사업을 생성형 AI 보안과 SSE 중심으로 전환했다고 밝혔다. 기존 위협 인텔리전스·사이버 보안 사업에서 축을 옮기며 3년 평균 매출 8.8% 성장을 기록했다.",
     "scorePct": 20
+  },
+  {
+    "rank": 6,
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-08",
+    "summary": "메타가 일상 업무와 프로젝트를 대신 처리하는 개인용 AI 에이전트 '뮤즈'를 공개했다. 관건은 소비자가 결제·예약까지 대행하는 에이전트를 신뢰할 것인가로 모인다.",
+    "scorePct": 20
   }
 ]
