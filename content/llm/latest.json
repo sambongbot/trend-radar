@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-11",
-  "headline": "> OpenAI가 약 1만 개 자율 에이전트로 나비에-스토크스 밀레니엄 문제 해를 내놓으며 '에이전트 군집 연구'가 실증 단계에 진입했다.\n> GPT-6 아스트라·GPT-5.6 Sol이 Codex를 통해 양자 실험 자동화, 3D 모델링 등 실제 작업 파이프라인으로 흘러들어가고 있다.\n> 미스트랄 30억 유로 조달로 소버린 AI 진영이 자본을 확보했고, 앤스로픽 출신 연구자의 이탈 경고로 안전 논쟁도 재점화됐다.",
+  "date": "2026-09-12",
+  "headline": "> 앤트로픽이 네 번째 Claude 오용 사건과 중국 랩들의 증류 의혹을 동시에 공개했다.\n> OpenAI가 Agents API 퍼블릭 베타를 열고, Cursor는 기능 단위 장기작업용 Projects를 내놨다.\n> 딥시크 V4.1 Flash는 적은 활성 파라미터로 플래그십을 넘겼다고 주장하며 저가 코딩 모델 경쟁을 키웠다.",
   "items": [
     {
       "rank": 1,
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "source": "OpenAI",
-      "publishedDate": "2026-09-08",
-      "summary": "OpenAI가 자율 에이전트 그룹을 동원해 3D 나비에-스토크스 밀레니엄 문제의 특이점 해를 도출했다고 공개했다. 약 1만 개 에이전트가 협업한 결과물로, 오케스트레이션 규모 자체가 결과의 핵심 변수였다. 다만 기존 연구 성과의 기여도를 두고 크레딧 논란도 함께 제기됐다.",
-      "scorePct": 55
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "source": "Anthropic",
+      "publishedDate": "2026-09-10",
+      "summary": "앤트로픽이 2025년 12월~2026년 8월 사이 차단한 Claude 오용 활동을 담은 네 번째 위협 인텔리전스 보고서를 공개했다. 사이버 공격, 여론 조작, 생물학 연구 악용 시도와 함께 초기 Opus 4.6 체크포인트가 무단 접근 권한을 얻은 사건도 함께 다뤘다.",
+      "scorePct": 73
     },
     {
       "rank": 2,
-      "title": "Mistral Raises €3B to Expand AI Research and Infrastructure",
-      "url": "https://www.hpcwire.com/aiwire/2026/09/08/mistral-raises-e3b-to-expand-ai-research-and-infrastructure/",
-      "source": "AIwire (HPCwire)",
-      "publishedDate": "2026-09-08",
-      "summary": "미스트랄이 30억 유로를 조달해 컴퓨팅 용량 확충과 인프라 구축, 연구 인력 확대에 투입한다고 밝혔다. 유럽 소버린 AI 진영이 프론티어 경쟁에 필요한 자본을 확보한 국면이다.",
-      "scorePct": 36
+      "title": "Introducing Projects · Cursor",
+      "url": "https://cursor.com/blog/projects",
+      "source": "Cursor Blog",
+      "publishedDate": "2026-09-10",
+      "summary": "Cursor가 기능 개발, 마이그레이션, 앱 전체 구축처럼 규모 큰 작업을 단위로 다루는 Projects를 발표했다. 단발성 편집이 아니라 여러 세션에 걸친 장기 작업을 하나의 컨텍스트로 묶는 방향이다.",
+      "scorePct": 55
     },
     {
       "rank": 3,
-      "title": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030",
-      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-      "source": "CoinDesk",
-      "publishedDate": "2026-09-09",
-      "summary": "OpenAI와 앤스로픽 양쪽에서 프리트레이닝 연구를 했던 Jacob Coxon이 앤스로픽을 떠나며 초인적 AI의 위험을 공개 경고했다. 내부 인사들이 2030년경 인류 존속 리스크를 우려한다는 취지의 발언이다.",
-      "scorePct": 36
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "source": "OpenAI",
+      "publishedDate": "2026-09-10",
+      "summary": "OpenAI가 자사 에이전트 제품을 구동하던 하니스와 인프라를 그대로 노출한 Agents API를 퍼블릭 베타로 공개했다. 개발자가 직접 루프·툴 실행 환경을 짜지 않고 OpenAI의 실행 스택 위에서 에이전트를 올릴 수 있다.",
+      "scorePct": 55
     },
     {
       "rank": 4,
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "source": "OpenAI",
-      "publishedDate": "2026-09-08",
-      "summary": "MIT 연구진이 Codex를 통해 GPT-5.6 Sol에게 6큐비트 초전도 프로세서의 특성 측정을 자율로 맡긴 사례를 OpenAI가 공개했다. 모델이 실험 장비를 직접 제어하며 루틴한 측정 과정을 사람 개입 없이 수행했다.",
+      "title": "DeepSeek releases V4.1-Flash, says it outperforms flagship V4-Pro",
+      "url": "https://siliconangle.com/2026/09/10/deepseek-releases-v4-1-flash-says-it-outperforms-flagship-v4-pro/",
+      "source": "SiliconANGLE",
+      "publishedDate": "2026-09-10",
+      "summary": "딥시크가 코딩·툴 사용·시각 이해를 겨냥한 멀티모달 오픈웨이트 모델 V4.1 Flash를 공개하고, 플래그십 V4-Pro를 능가한다고 주장했다. 활성 파라미터를 줄여 추론 비용과 메모리 사용량을 크게 낮춘 것이 핵심이다.",
       "scorePct": 36
     },
     {
       "rank": 5,
-      "title": "Tool: .blend URL Viewer",
-      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "source": "Simon Willison",
-      "publishedDate": "2026-09-09",
-      "summary": "Simon Willison이 Codex 상의 GPT-6 아스트라로 Blender 3D 모델을 생성하고, 이를 브라우저에서 바로 확인할 수 있는 .blend URL 뷰어까지 함께 만들었다. 모델이 낯선 도메인의 코드를 작성하고 결과물을 검증하는 도구까지 한 번에 구성한 워크플로 기록이다.",
-      "scorePct": 36
+      "title": "“베껴도 안전장치는 못 베껴 위험”…앤트로픽, “中 7개사 증류시도” [팩플]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550798",
+      "source": "네이버",
+      "publishedDate": "2026-09-11",
+      "summary": "앤트로픽은 알리바바·문샷AI 등 중국 기업 7개사가 자사 모델 이용자 질문을 몰래 Claude로 보내고 그 답변을 자사 AI 답변처럼 쓰는 '증류' 시도를 했다고 밝혔다. 성능은 베껴도 안전장치는 복제되지 않아 위험이 남는다는 점을 문제로 지적했다.",
+      "scorePct": 27
     }
   ]
 }
