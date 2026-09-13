@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+    "source": "Bloomberg",
+    "publishedDate": "2026-09-12",
+    "summary": "앤트로픽 CEO 다리오 아모데이가 장문의 블로그를 통해 업계 전반이 AI 모델 성능 개선 속도를 의도적으로 늦춰야 한다고 주장했다. 외부 검증과 공동 안전 기준 마련을 제안했으며, 올트먼·머스크·허사비스도 공감을 표했다. 모델이 스스로 AI 개발을 가속하는 단계에 진입했다는 인식이 배경이다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 2,
+    "title": "Grok 4.7 Release Date: Postponed Past September 12",
+    "url": "https://www.orcarouter.ai/blog/grok-4-7-release-date",
+    "source": "OrcaRouter",
+    "publishedDate": "2026-09-12",
+    "summary": "일론 머스크가 예고한 9월 12일 Grok 4.7 출시가 연기됐다. 2.1조 파라미터 규모로 알려진 이 모델은 xAI의 일정 지연으로 공개 시점이 불확실해졌다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 3,
+    "title": "앤트로픽 \"후티 반군, 클로드로 첨단 미사일 개발 시도\"",
+    "url": "https://n.news.naver.com/mnews/article/003/0014186716",
+    "source": "네이버",
+    "publishedDate": "2026-09-14",
+    "summary": "앤트로픽은 이란의 지원을 받는 예멘 후티 반군이 클로드를 이용해 첨단 미사일 개발을 시도한 정황을 확인했다고 밝혔다. 모델 오남용 탐지 체계를 통해 해당 계정을 차단했다고 설명했다.",
+    "scorePct": 45
+  },
+  {
+    "rank": 4,
+    "title": "구글, ‘추론 특화’ AI 코딩에 2조원 베팅…‘가상 직장’ 만든 메카나이즈",
+    "url": "https://n.news.naver.com/mnews/article/018/0006368607",
+    "source": "네이버",
+    "publishedDate": "2026-09-13",
+    "summary": "구글이 AI 에이전트 스타트업 메카나이즈(Mechanize)의 핵심 인력과 기술에 2조원 규모를 투자했다. 단순 코드 생성이 아니라 실제 개발자처럼 추론하고 업무를 수행하도록 훈련하는 '가상 직장' 방식이 핵심이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+    "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+    "source": "Axios",
+    "publishedDate": "2026-09-12",
+    "summary": "오픈AI가 2026년 중 기업공개(IPO) 계획을 접고 2027년으로 미뤘다. 샘 올트먼은 고성능 모델을 둘러싼 미해결 안전성 문제를 이유로 들었다. 같은 시기 업계 CEO들의 속도조절론과 맞물린 결정이다.",
+    "scorePct": 36
+  }
+]

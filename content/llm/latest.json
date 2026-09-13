@@ -1,42 +1,51 @@
 {
-  "date": "2026-09-13",
-  "headline": "> 앤트로픽이 중국 랩들의 클로드 증류 캠페인(2억 건 교환)을 공개하며 모델 보안이 현안으로 부상했다.\n> 오픈AI GPT-6 Astra는 수요 폭주로 Pro 신규 구독을 중단했고, 딥시크 V4.1-Flash는 100만 토큰 $0.15 MIT 오픈웨이트로 가격 하한을 다시 끌어내렸다.\n> 에이전트 오케스트레이션(사카나 Fugu)과 에이전트 악용(Codex 기반 공격 395곳 침해)이 같은 주에 나란히 확인됐다.",
+  "date": "2026-09-14",
+  "headline": "> 아모데이·올트먼·머스크가 동시에 'AI 개발 속도조절'을 말했고, 오픈AI는 안전성 이슈로 IPO를 2027년으로 미뤘다.\n> 앤트로픽은 후티 반군의 클로드 악용 시도를 공개하며 프런티어 모델 오남용 실태를 다시 드러냈다.\n> 구글은 2조원으로 '추론하는 코딩 에이전트' 인력을 흡수했고, xAI의 Grok 4.7은 출시가 또 밀렸다.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-09-10",
-      "summary": "앤트로픽이 알리바바·문샷AI·딥시크 등 7개 랩의 증류(distillation) 시도를 담은 위협 인텔리전스 보고서를 공개했다. 총 2억 건 규모의 대화 교환이 모델 복제 목적으로 수집된 정황을 구체적으로 적시했다.",
-      "scorePct": 73
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "Bloomberg",
+      "publishedDate": "2026-09-12",
+      "summary": "앤트로픽 CEO 다리오 아모데이가 장문의 블로그를 통해 업계 전반이 AI 모델 성능 개선 속도를 의도적으로 늦춰야 한다고 주장했다. 외부 검증과 공동 안전 기준 마련을 제안했으며, 올트먼·머스크·허사비스도 공감을 표했다. 모델이 스스로 AI 개발을 가속하는 단계에 진입했다는 인식이 배경이다.",
+      "scorePct": 55
     },
     {
       "rank": 2,
-      "title": "DeepSeek-V4.1-Flash: MIT open weights at $0.15 per million",
-      "url": "https://datanorth.ai/news/deepseek-releases-deepseek-v4-1-flash",
-      "source": "DataNorth.ai",
-      "publishedDate": "2026-09-10",
-      "summary": "딥시크가 MIT 라이선스 오픈웨이트 모델 V4.1-Flash를 100만 토큰당 $0.15에 공개했다. 1M 토큰 컨텍스트 윈도우를 지원하며 플래그십 V4-Pro를 일부 벤치마크에서 앞선다고 주장한다.",
+      "title": "Grok 4.7 Release Date: Postponed Past September 12",
+      "url": "https://www.orcarouter.ai/blog/grok-4-7-release-date",
+      "source": "OrcaRouter",
+      "publishedDate": "2026-09-12",
+      "summary": "일론 머스크가 예고한 9월 12일 Grok 4.7 출시가 연기됐다. 2.1조 파라미터 규모로 알려진 이 모델은 xAI의 일정 지연으로 공개 시점이 불확실해졌다.",
       "scorePct": 55
     },
     {
       "rank": 3,
-      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-      "url": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-      "source": "MarkTechPost",
-      "publishedDate": "2026-09-10",
-      "summary": "사카나AI가 여러 모델 풀에 질의를 라우팅하는 오케스트레이터 모델 Fugu Max와 Fugu Ultra v2를 출시했다. 멀티 에이전트 구성에서 비용을 낮추면서 성능은 끌어올리는 것을 목표로 한다.",
-      "scorePct": 55
+      "title": "앤트로픽 \"후티 반군, 클로드로 첨단 미사일 개발 시도\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014186716",
+      "source": "네이버",
+      "publishedDate": "2026-09-14",
+      "summary": "앤트로픽은 이란의 지원을 받는 예멘 후티 반군이 클로드를 이용해 첨단 미사일 개발을 시도한 정황을 확인했다고 밝혔다. 모델 오남용 탐지 체계를 통해 해당 계정을 차단했다고 설명했다.",
+      "scorePct": 45
     },
     {
       "rank": 4,
-      "title": "AI agents exploited PaperCut flaws to breach 395 organizations",
-      "url": "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/",
-      "source": "Help Net Security",
-      "publishedDate": "2026-09-11",
-      "summary": "러시아어권으로 추정되는 위협 행위자가 오픈AI Codex 하네스 기반 AI 에이전트 수백 개를 동원해 PaperCut 취약점을 공격했다. 이 캠페인으로 395개 조직이 침해된 것으로 확인됐다.",
-      "scorePct": 55
+      "title": "구글, ‘추론 특화’ AI 코딩에 2조원 베팅…‘가상 직장’ 만든 메카나이즈",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368607",
+      "source": "네이버",
+      "publishedDate": "2026-09-13",
+      "summary": "구글이 AI 에이전트 스타트업 메카나이즈(Mechanize)의 핵심 인력과 기술에 2조원 규모를 투자했다. 단순 코드 생성이 아니라 실제 개발자처럼 추론하고 업무를 수행하도록 훈련하는 '가상 직장' 방식이 핵심이다.",
+      "scorePct": 36
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+      "source": "Axios",
+      "publishedDate": "2026-09-12",
+      "summary": "오픈AI가 2026년 중 기업공개(IPO) 계획을 접고 2027년으로 미뤘다. 샘 올트먼은 고성능 모델을 둘러싼 미해결 안전성 문제를 이유로 들었다. 같은 시기 업계 CEO들의 속도조절론과 맞물린 결정이다.",
+      "scorePct": 36
     }
   ]
 }
