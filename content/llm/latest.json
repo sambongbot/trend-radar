@@ -1,42 +1,51 @@
 {
-  "date": "2026-09-15",
-  "headline": "> Cognition이 Kimi K3 기반 SWE-2를 내놓으며 코딩 모델 가격 경쟁이 한 단계 더 내려갔다.\n> Claude Code는 주간 사용량 25% 영구 상향과 deny 규칙·권한 회귀 버그 수정을 연달아 내놨다.\n> Grok 4.7은 RL 학습 부작용으로 또 연기되며 xAI의 릴리스 리듬이 흔들리고 있다.",
+  "date": "2026-09-16",
+  "headline": "> 앤트로픽이 금융 어드바이저용 Claude를 내놓으며 커넥터 기반 도메인 특화 패키징 경쟁에 합류했다.\n> 프론티어 AI 속도조절론이 실제 기업 정책 문서로 굳어지는 국면 — 아모데이 에세이에 이어 MS가 1.5만 단어 개발지침을 냈다.\n> AI 에이전트가 스스로 취약점을 찾아 침투한 사례가 국내 컨퍼런스에서 공유되며, AI 코딩 결과물의 보안 테스팅 자동화가 실무 과제로 떠올랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
-      "url": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
-      "source": "MarkTechPost",
-      "publishedDate": "2026-09-12",
-      "summary": "Cognition이 2.8T 파라미터 Kimi K3를 포스트트레이닝한 코딩 모델 SWE-2를 공개했다. FrontierCode에서 50.0%로 Fable 5.1급 성능을 내면서 비용은 64% 낮다고 밝혔다.",
+      "title": "Anthropic Targets Financial Advisers With New Claude Tool",
+      "url": "https://money.usnews.com/investing/news/articles/2026-09-14/anthropic-targets-financial-advisers-with-new-claude-tool",
+      "source": "U.S. News (Reuters)",
+      "publishedDate": "2026-09-14",
+      "summary": "앤트로픽이 금융 어드바이저 전용 제품 'Claude for Financial Advisors'를 출시했다. 찰스 슈왑·블랙록·Addepar·Envestnet·Orion 등 수탁기관과 자산운용사 커넥터를 묶어 리서치·포트폴리오 분석·컴플라이언스 워크플로를 스킬 형태로 제공한다. 오픈AI가 금융권 특화 ChatGPT를 내놓은 직후의 대응이다.",
       "scorePct": 55
     },
     {
       "rank": 2,
-      "title": "Claude Code Limits: 25% Permanent Increase Starting September 14",
-      "url": "https://aicatchup.com/news/claude-code-weekly-limits-permanent-25-percent-september-2026",
-      "source": "AI Catchup",
-      "publishedDate": "2026-09-14",
-      "summary": "앤트로픽이 9월 14일부터 Claude Code의 주간 사용량 한도를 25% 영구 상향한다. 일시적 프로모션이 아닌 영구 조정이라 기존 한도에 걸리던 워크플로의 여유가 늘어난다.",
-      "scorePct": 55
+      "title": "Anthropic CEO Dario Amodei Calls For A Slowdown In Frontier AI",
+      "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/",
+      "source": "Forbes",
+      "publishedDate": "2026-09-13",
+      "summary": "다리오 아모데이 CEO가 약 3,900단어 에세이 'We Must Pace the Frontier'를 통해 프론티어 AI 개발 속도 조절을 공개 제안했다. 앤트로픽 스스로에게 적용할 구체적 약속과 업계 전반에 대한 권고를 함께 담았으나, 구속력 있는 부분은 자사 정책에 한정된다는 분석이 나온다.",
+      "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "This week in Claude Code, Codex and Gemini CLI (week of September 13, 2026)",
-      "url": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-september-13-2026-1ob5",
-      "source": "DEV Community",
-      "publishedDate": "2026-09-13",
-      "summary": "Claude Code 2.1.268이 deny 규칙이 조용히 적용되지 않던 두 가지 케이스를 수정했다. 같은 주 Codex와 Gemini CLI 릴리스도 함께 정리되어 세 CLI의 변화를 한 번에 비교할 수 있다.",
-      "scorePct": 55
+      "title": "GPU 없이 돌리는 AI…비드래프트 '포켓', 7주 만에 100만 다운로드",
+      "url": "https://n.news.naver.com/mnews/article/092/0002437564",
+      "source": "네이버",
+      "publishedDate": "2026-09-15",
+      "summary": "비드래프트의 350억 파라미터 온디바이스 모델 '포켓(POCKET)'이 GPU 없이 개인 기기에서 구동되며 7주 만에 100만 다운로드를 기록했다. 별도 가속기 없이 소비자 기기에서 대형 모델을 돌리는 수요가 실제로 존재함을 보여준다.",
+      "scorePct": 27
     },
     {
       "rank": 4,
-      "title": "xAI Weekly: Grok 4.7 Slips, Grok Bot Galaxy, Microsoft Copilot",
-      "url": "https://www.bighatgroup.com/blog/xai-weekly-2026-09-13/",
-      "source": "Big Hat Group",
-      "publishedDate": "2026-09-13",
-      "summary": "Grok 4.7이 9월 12일 목표를 다시 넘겼다. RL 학습이 응답 길이에 페널티를 주면서 품질 문제가 생긴 것이 원인으로 지목됐다.",
-      "scorePct": 36
+      "title": "[오픈테크넷 2026] AI 코딩으로 개발하는 시대…\"보안 테스팅 자동화 필수\"",
+      "url": "https://n.news.naver.com/mnews/article/138/0002241487",
+      "source": "네이버",
+      "publishedDate": "2026-09-16",
+      "summary": "오픈테크넷 2026에서 AI 코딩 확산에 따른 보안 취약점 증가와 보안 테스팅 자동화 필요성이 논의됐다. 개발 속도는 빨라졌지만 생성된 코드와 개발 과정 모두에 대한 검증 체계가 뒤따르지 못하고 있다는 진단이다.",
+      "scorePct": 27
+    },
+    {
+      "rank": 5,
+      "title": "MS, 새 AI 개발지침 발표 \"사람이 AI보다 중요하다\" 대원칙",
+      "url": "https://n.news.naver.com/mnews/article/448/0000639503",
+      "source": "네이버",
+      "publishedDate": "2026-09-16",
+      "summary": "마이크로소프트가 15,000단어 분량의 최첨단 AI 모델 개발 행동강령을 발표하며 '사람이 AI보다 중요하다'를 대원칙으로 내세웠다. 프론티어 랩들의 속도조절론이 확산되는 가운데 나온 자체 개발 지침이다.",
+      "scorePct": 27
     }
   ]
 }
