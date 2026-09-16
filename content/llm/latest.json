@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-16",
-  "headline": "> 앤트로픽이 금융 어드바이저용 Claude를 내놓으며 커넥터 기반 도메인 특화 패키징 경쟁에 합류했다.\n> 프론티어 AI 속도조절론이 실제 기업 정책 문서로 굳어지는 국면 — 아모데이 에세이에 이어 MS가 1.5만 단어 개발지침을 냈다.\n> AI 에이전트가 스스로 취약점을 찾아 침투한 사례가 국내 컨퍼런스에서 공유되며, AI 코딩 결과물의 보안 테스팅 자동화가 실무 과제로 떠올랐다.",
+  "date": "2026-09-17",
+  "headline": "> 앤트로픽이 Claude를 자산관리 워크플로에 직접 꽂으며 금융 버티컬 공략을 본격화했다.\n> 구글은 Gemini 3.8 Live로 프로덕션급 음성 에이전트 시장에 저가 공세를 걸었고, 메타는 WhatsApp Business MCP 서버로 코딩 에이전트를 온보딩 작업에 투입했다.\n> 한편 OpenAI의 대화 검수 프로젝트가 드러나며 학습·평가 데이터의 프라이버시 경계가 다시 쟁점이 됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic Targets Financial Advisers With New Claude Tool",
-      "url": "https://money.usnews.com/investing/news/articles/2026-09-14/anthropic-targets-financial-advisers-with-new-claude-tool",
-      "source": "U.S. News (Reuters)",
-      "publishedDate": "2026-09-14",
-      "summary": "앤트로픽이 금융 어드바이저 전용 제품 'Claude for Financial Advisors'를 출시했다. 찰스 슈왑·블랙록·Addepar·Envestnet·Orion 등 수탁기관과 자산운용사 커넥터를 묶어 리서치·포트폴리오 분석·컴플라이언스 워크플로를 스킬 형태로 제공한다. 오픈AI가 금융권 특화 ChatGPT를 내놓은 직후의 대응이다.",
-      "scorePct": 55
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-09-15",
+      "summary": "메타가 WhatsApp Business Tools MCP 서버를 공개해 Claude, Cursor 같은 코딩 에이전트가 비즈니스 계정 설정 작업을 직접 처리할 수 있게 했다. 카탈로그 등록이나 메시지 템플릿 구성 같은 반복 세팅이 에이전트 자동화 대상이 된다.",
+      "scorePct": 82
     },
     {
       "rank": 2,
-      "title": "Anthropic CEO Dario Amodei Calls For A Slowdown In Frontier AI",
-      "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/",
-      "source": "Forbes",
-      "publishedDate": "2026-09-13",
-      "summary": "다리오 아모데이 CEO가 약 3,900단어 에세이 'We Must Pace the Frontier'를 통해 프론티어 AI 개발 속도 조절을 공개 제안했다. 앤트로픽 스스로에게 적용할 구체적 약속과 업계 전반에 대한 권고를 함께 담았으나, 구속력 있는 부분은 자사 정책에 한정된다는 분석이 나온다.",
-      "scorePct": 36
+      "title": "Anthropic Releases Claude for Financial Advisors",
+      "url": "https://www.thinkadvisor.com/2026/09/15/anthropic-releases-claude-for-financial-advisors/",
+      "source": "ThinkAdvisor",
+      "publishedDate": "2026-09-15",
+      "summary": "앤트로픽이 자산관리 전문가용 도구 묶음 'Claude for Financial Advisors'를 출시해 커스터디 데이터, 모델 포트폴리오, 기존 업무 소프트웨어에 Claude를 직접 연결했다. 범용 챗봇이 아니라 규제 산업의 실제 워크플로 안에 모델을 끼워 넣는 방식이다.",
+      "scorePct": 73
     },
     {
       "rank": 3,
-      "title": "GPU 없이 돌리는 AI…비드래프트 '포켓', 7주 만에 100만 다운로드",
-      "url": "https://n.news.naver.com/mnews/article/092/0002437564",
-      "source": "네이버",
-      "publishedDate": "2026-09-15",
-      "summary": "비드래프트의 350억 파라미터 온디바이스 모델 '포켓(POCKET)'이 GPU 없이 개인 기기에서 구동되며 7주 만에 100만 다운로드를 기록했다. 별도 가속기 없이 소비자 기기에서 대형 모델을 돌리는 수요가 실제로 존재함을 보여준다.",
-      "scorePct": 27
+      "title": "Inside 'Project Lily': The Humans Reading Your ChatGPT Chats",
+      "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+      "source": "404 Media",
+      "publishedDate": "2026-09-14",
+      "summary": "수백 명의 계약직 작업자가 실제 ChatGPT 대화를 읽고 평가하는 'Project Lily'의 운영 실태가 보도됐다. 품질 평가 과정에서 이용자 대화에 포함된 개인정보가 검수자에게 노출될 수 있다는 점이 쟁점이다.",
+      "scorePct": 73
     },
     {
       "rank": 4,
-      "title": "[오픈테크넷 2026] AI 코딩으로 개발하는 시대…\"보안 테스팅 자동화 필수\"",
-      "url": "https://n.news.naver.com/mnews/article/138/0002241487",
-      "source": "네이버",
+      "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215351",
+      "source": "AI타임스",
       "publishedDate": "2026-09-16",
-      "summary": "오픈테크넷 2026에서 AI 코딩 확산에 따른 보안 취약점 증가와 보안 테스팅 자동화 필요성이 논의됐다. 개발 속도는 빨라졌지만 생성된 코드와 개발 과정 모두에 대한 검증 체계가 뒤따르지 못하고 있다는 진단이다.",
-      "scorePct": 27
+      "summary": "세일즈포스가 드림포스 2026에서 엔비디아와 협력해 만든 CRM 특화 추론 모델 '코아(Koa)'를 공개했다. 영업·마케팅·고객지원 업무에 맞춰 튜닝해 외부 프런티어 모델 의존도를 낮추겠다는 전략이다.",
+      "scorePct": 55
     },
     {
       "rank": 5,
-      "title": "MS, 새 AI 개발지침 발표 \"사람이 AI보다 중요하다\" 대원칙",
-      "url": "https://n.news.naver.com/mnews/article/448/0000639503",
-      "source": "네이버",
-      "publishedDate": "2026-09-16",
-      "summary": "마이크로소프트가 15,000단어 분량의 최첨단 AI 모델 개발 행동강령을 발표하며 '사람이 AI보다 중요하다'를 대원칙으로 내세웠다. 프론티어 랩들의 속도조절론이 확산되는 가운데 나온 자체 개발 지침이다.",
-      "scorePct": 27
+      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
+      "url": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+      "source": "MarkTechPost",
+      "publishedDate": "2026-09-15",
+      "summary": "구글이 프로덕션급 음성 에이전트를 겨냥한 Gemini 3.8 Live와 추론 강도를 높인 3.8 Live Extended Thinking을 공개했다. 시간당 1.38달러 수준의 가격으로 경쟁 실시간 음성 API보다 낮은 단가를 제시했다.",
+      "scorePct": 55
     }
   ]
 }
