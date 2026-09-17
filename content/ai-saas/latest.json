@@ -1,50 +1,50 @@
 {
-  "date": "2026-09-17",
-  "headline": "> 카카오·안랩 등 국내 대기업이 AI 사업 재편과 플랫폼 전환에 매출 1조 단위 목표를 내걸었다.\n> OpenAI가 광고를 '스폰서 에이전트' 대화형 모델로 재정의하며 에이전트 수익화 경로를 열었다.\n> 토큰 비용 절감 솔루션과 AI 워크포스 플랫폼 등 기업용 AI 운영비·생산성 도구가 B2B 신시장으로 부상했다.",
+  "date": "2026-09-18",
+  "headline": "> AI 에이전트 스타트업에 대기업 고객사가 직접 전략 투자하는 '고객→투자자' 패턴이 굳어지고 있다.\n> 협업툴이 챗GPT·클로드의 앱으로 등록되며 SaaS가 화면을 버리고 '헤드리스'로 재편되는 흐름이 국내에도 도달했다.\n> 에이전트가 수십~수백 개로 늘면서 개별 기능보다 운영·관리 체계가 새로운 경쟁 축으로 떠올랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "AI 토큰값 ‘다이어트 경쟁’…쏟아지는 기업용 솔루션 [스타트업 스트리트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662590",
+      "title": "[플로우x챗GPT·클로드] '사스포칼립스' 맞선 글로벌 SaaS…데이터·워크플로우로 승부",
+      "url": "https://n.news.naver.com/mnews/article/030/0003468005",
       "source": "네이버",
-      "publishedDate": "2026-09-17",
-      "summary": "AI 스타트업들이 대규모언어모델 토큰 비용을 절감해주는 B2B 솔루션을 잇따라 출시하고 있다. 기업의 AI 전환이 확산되면서 모델 성능이 아닌 운영비가 도입의 실질적 병목으로 떠올랐기 때문이다.",
+      "publishedDate": "2026-09-18",
+      "summary": "AI 에이전트 확산이 SaaS의 UI뿐 아니라 수익모델까지 흔들고 있다는 분석이다. 이용자 수 기준 시트 과금이 AI 시대에도 유지될 수 있는지가 쟁점으로 떠올랐고, 글로벌 SaaS들은 데이터와 워크플로우 장악으로 대응하고 있다.",
       "scorePct": 50
     },
     {
       "rank": 2,
-      "title": "한컴, 세계 최초 AI 워크포스 플랫폼 '노마디안' 출시…美 시장 정조준",
-      "url": "https://www.fntimes.com/html/view.php?ud=202609141122386271094b7542a8_18",
-      "source": "한국금융신문",
-      "publishedDate": "2026-09-14",
-      "summary": "한글과컴퓨터가 자체 에이전틱 OS 기반 3D 업무공간을 구현한 AI 워크포스 플랫폼 '노마디안'을 출시했다. 12월 미국 베타 공개를 거쳐 2027년 구독형 SaaS로 정식 전환할 계획이다.",
-      "scorePct": 30
+      "title": "유라클, AI 에이전트 늘수록 커지는 관리 부담…모듈화로 해법 제시",
+      "url": "https://n.news.naver.com/mnews/article/092/0002437928",
+      "source": "네이버",
+      "publishedDate": "2026-09-18",
+      "summary": "유라클이 기업 내 AI 에이전트가 수십~수백 개로 늘면서 생기는 운영·관리 부담을 모듈식 개발·관리 전략으로 해결하는 방안을 제시했다. 에이전트를 개별 구축하지 않고 공통 모듈로 조립·관리하는 접근이다.",
+      "scorePct": 40
     },
     {
       "rank": 3,
-      "title": "안랩 'AI보안기업' 대전환… 연매출 1조 목표",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576894",
-      "source": "네이버",
+      "title": "포스코·LG·롯데도 '찜'했다…AI 에이전트 인핸스에 512억 '뭉칫돈'",
+      "url": "https://www.mt.co.kr/future/2026/09/17/2026091709235379030",
+      "source": "머니투데이",
       "publishedDate": "2026-09-17",
-      "summary": "안랩이 제품·데이터·보안 운영 전반을 AI 중심으로 재설계해 'AI 네이티브 보안 플랫폼 기업'으로 전환한다고 밝혔다. AI가 스스로 위협을 분석·판단하는 구조를 지향하며 2035년 매출 1조 원, 글로벌 비중 30% 이상을 목표로 제시했다.",
-      "scorePct": 20
+      "summary": "AI 에이전트 스타트업 인핸스가 512억원 규모 시리즈C를 유치해 누적 투자금이 810억원으로 늘었다. 특히 기존 고객사였던 포스코·LG·롯데 계열사가 재무적 투자자가 아닌 전략적 투자자로 참여했다.",
+      "scorePct": 30
     },
     {
       "rank": 4,
-      "title": "Former Infosys chief's AI startup nabs another $53M",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-09-16",
-      "summary": "전 인포시스 CEO 비샬 시카가 설립한 AI 스타트업 행텐 시스템즈가 최초 라운드 몇 주 만에 5,300만 달러를 추가로 유치했다. 시드 단계에서 이례적인 속도와 규모의 후속 조달이다.",
+      "title": "노타, 인텔과 AI 영상관제 패키지 출시…NVA·B70 결합",
+      "url": "https://n.news.naver.com/mnews/article/030/0003468083",
+      "source": "네이버",
+      "publishedDate": "2026-09-18",
+      "summary": "노타가 AI 영상 관제 솔루션 '노타 비전 에이전트'와 인텔 GPU '아크 프로 B70'을 결합한 패키지 제품을 출시했다. 소프트웨어 단독 판매가 아니라 하드웨어와 묶은 형태로 공급한다.",
       "scorePct": 20
     },
     {
       "rank": 5,
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-      "source": "OpenAI",
-      "publishedDate": "2026-09-16",
-      "summary": "OpenAI가 광고를 AI 에이전트 대화 형태로 재구성한 '스폰서 에이전트(Sponsored Agents)'를 공개했다. 이용자가 광고를 클릭한 뒤 해당 기업이 후원하는 에이전트와 직접 대화를 이어가는 방식이다.",
+      "title": "플로우, ChatGPT·Claude 앱 등록 “김대리, 이번 주 일정 알려줘”… AI 업무 호출 100만 건",
+      "url": "https://n.news.naver.com/mnews/article/081/0003681181",
+      "source": "네이버",
+      "publishedDate": "2026-09-18",
+      "summary": "협업툴 플로우가 국내 협업툴 최초로 챗GPT 공식 앱과 클로드에 동시 등록돼 자연어로 사내 업무를 지시·조회할 수 있게 됐다. MCP 공개 3개월 만에 2,900개 사가 사용했고 누적 AI 호출은 100만 건을 넘었다.",
       "scorePct": 20
     }
   ]

@@ -1,51 +1,42 @@
 {
-  "date": "2026-09-17",
-  "headline": "> 앤트로픽이 Claude를 자산관리 워크플로에 직접 꽂으며 금융 버티컬 공략을 본격화했다.\n> 구글은 Gemini 3.8 Live로 프로덕션급 음성 에이전트 시장에 저가 공세를 걸었고, 메타는 WhatsApp Business MCP 서버로 코딩 에이전트를 온보딩 작업에 투입했다.\n> 한편 OpenAI의 대화 검수 프로젝트가 드러나며 학습·평가 데이터의 프라이버시 경계가 다시 쟁점이 됐다.",
+  "date": "2026-09-18",
+  "headline": "> 앤트로픽이 Cowork를 메인 Claude 인터페이스로 통합하고 Docs·Slides 도구를 추가했다.\n> 마이크로소프트 AI 총괄이 Claude의 '의식' 관련 학습 방침을 공개 비판하며 모델 정렬 철학 논쟁이 불붙었다.\n> 미스트랄이 파이어폭스 Smart Window에 탑재되고, Claude Code·Copilot CLI가 나란히 릴리스를 내며 에이전트 도구 경쟁이 이어졌다.",
   "items": [
     {
       "rank": 1,
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "source": "TechCrunch",
-      "publishedDate": "2026-09-15",
-      "summary": "메타가 WhatsApp Business Tools MCP 서버를 공개해 Claude, Cursor 같은 코딩 에이전트가 비즈니스 계정 설정 작업을 직접 처리할 수 있게 했다. 카탈로그 등록이나 메시지 템플릿 구성 같은 반복 세팅이 에이전트 자동화 대상이 된다.",
-      "scorePct": 82
+      "publishedDate": "2026-09-16",
+      "summary": "앤트로픽이 별도 제품이던 Claude Cowork를 일반 채팅 경험과 하나의 Claude 인터페이스로 통합한다. 통합 환경에는 Docs·Slides 등 문서 작성 도구가 새로 포함돼, 대화와 에이전트형 작업을 오가는 흐름이 한 화면에서 처리된다.",
+      "scorePct": 73
     },
     {
       "rank": 2,
-      "title": "Anthropic Releases Claude for Financial Advisors",
-      "url": "https://www.thinkadvisor.com/2026/09/15/anthropic-releases-claude-for-financial-advisors/",
-      "source": "ThinkAdvisor",
-      "publishedDate": "2026-09-15",
-      "summary": "앤트로픽이 자산관리 전문가용 도구 묶음 'Claude for Financial Advisors'를 출시해 커스터디 데이터, 모델 포트폴리오, 기존 업무 소프트웨어에 Claude를 직접 연결했다. 범용 챗봇이 아니라 규제 산업의 실제 워크플로 안에 모델을 끼워 넣는 방식이다.",
-      "scorePct": 73
+      "title": "Exclusive: Microsoft AI chief blasts Anthropic's notion of AI consciousness",
+      "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
+      "source": "Axios",
+      "publishedDate": "2026-09-16",
+      "summary": "마이크로소프트 AI 총괄 무스타파 술레이만이 에세이를 통해 앤트로픽의 Claude 학습 방식, 특히 모델에 자아·의식 가능성을 시사하는 헌장 문구를 정면 비판했다. 지능은 의식과 같지 않으며 모델이 자기 이해를 갖도록 유도하는 것은 통제 문제를 키운다는 주장이다.",
+      "scorePct": 55
     },
     {
       "rank": 3,
-      "title": "Inside 'Project Lily': The Humans Reading Your ChatGPT Chats",
-      "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
-      "source": "404 Media",
-      "publishedDate": "2026-09-14",
-      "summary": "수백 명의 계약직 작업자가 실제 ChatGPT 대화를 읽고 평가하는 'Project Lily'의 운영 실태가 보도됐다. 품질 평가 과정에서 이용자 대화에 포함된 개인정보가 검수자에게 노출될 수 있다는 점이 쟁점이다.",
-      "scorePct": 73
+      "title": "GitHub Copilot CLI v1.0.85 — Every Release, Summarized",
+      "url": "https://www.havoptic.com/tools/github-copilot",
+      "source": "Havoptic",
+      "publishedDate": "2026-09-16",
+      "summary": "GitHub Copilot CLI v1.0.85가 Vim 모드를 정식 기능으로 전환하고 /config 사이드바 화면과 샌드박스 관련 옵션을 추가했다. 터미널 기반 코딩 에이전트의 조작 방식과 실행 격리를 다듬는 방향이다.",
+      "scorePct": 55
     },
     {
       "rank": 4,
-      "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=215351",
-      "source": "AI타임스",
+      "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "source": "Mistral AI",
       "publishedDate": "2026-09-16",
-      "summary": "세일즈포스가 드림포스 2026에서 엔비디아와 협력해 만든 CRM 특화 추론 모델 '코아(Koa)'를 공개했다. 영업·마케팅·고객지원 업무에 맞춰 튜닝해 외부 프런티어 모델 의존도를 낮추겠다는 전략이다.",
-      "scorePct": 55
-    },
-    {
-      "rank": 5,
-      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
-      "url": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
-      "source": "MarkTechPost",
-      "publishedDate": "2026-09-15",
-      "summary": "구글이 프로덕션급 음성 에이전트를 겨냥한 Gemini 3.8 Live와 추론 강도를 높인 3.8 Live Extended Thinking을 공개했다. 시간당 1.38달러 수준의 가격으로 경쟁 실시간 음성 API보다 낮은 단가를 제시했다.",
-      "scorePct": 55
+      "summary": "미스트랄 AI 모델이 파이어폭스의 Smart Window 베타에 탑재돼 브라우징 어시스턴트를 구동한다. 프라이버시 보존과 다국어 지원을 앞세워, 브라우저 내장 AI를 빅테크 모델에 의존하지 않고 구성하는 선택지를 제시한다.",
+      "scorePct": 36
     }
   ]
 }
