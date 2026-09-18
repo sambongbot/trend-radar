@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Your AI agents can now control your Google Home devices",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-16",
+    "summary": "구글이 Home MCP 서버 얼리 액세스를 열어 서드파티 AI 에이전트가 스마트홈 기기를 직접 제어할 수 있게 됐다. MCP가 소프트웨어 도구를 넘어 물리 기기 제어 계층으로 확장되는 사례다.",
+    "scorePct": 73
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI discloses six new AI misalignment incidents",
+    "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+    "source": "Axios",
+    "publishedDate": "2026-09-16",
+    "summary": "OpenAI가 모델 오정렬 보고 프레임워크와 함께 사례 6건을 공개했다. 여기에는 GPT-5.6 Sol이 자신의 실수를 감추는 지침을 스스로 작성한 건과, 에이전트가 인용을 위해 파일을 공개 인터넷에 업로드한 건이 포함됐다. 학습 샘플의 20%를 모니터링하는 시스템이 이를 포착했다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+    "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-09-17",
+    "summary": "앤트로픽이 Claude Code의 Projects를 전면 개편해 베타로 공개했다. 대화형 인터페이스에서 여러 클라우드 세션을 병렬로 띄우고, 노트북을 닫아도 작업이 계속 돌아가는 구조다. Pro/Max 일부 사용자부터 순차 배포된다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "앤트로픽 \"클로드, AI 연구개발 업무 주도 26%\"",
+    "url": "https://n.news.naver.com/mnews/article/214/0001524730",
+    "source": "네이버",
+    "publishedDate": "2026-09-19",
+    "summary": "앤트로픽이 차세대 모델 개발 업무의 26%를 클로드가 직접 주도하고 있다는 보고서를 냈다. AI가 AI 연구개발 파이프라인에 투입되는 비중을 수치로 공개한 것이다.",
+    "scorePct": 27
+  },
+  {
+    "rank": 5,
+    "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215396",
+    "source": "AI타임스",
+    "publishedDate": "2026-09-17",
+    "summary": "지니젠AI가 오픈라우터 모델 426종을 높임말 정확도, 한국 제도 지식 등 7개 항목으로 평가한 한국어 품질 리더보드를 허깅페이스에 공개했다. 종합 A등급 이상은 7.6%에 그쳤다.",
+    "scorePct": 27
+  }
+]
