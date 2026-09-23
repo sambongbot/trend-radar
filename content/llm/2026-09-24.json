@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Opus 5.5 is now available on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+    "source": "AWS Machine Learning Blog",
+    "publishedDate": "2026-09-22",
+    "summary": "클로드 오퍼스 5.5가 AWS에서 정식 제공된다. 에이전틱 코딩과 지식 작업, 장시간 실행 태스크를 겨냥한 모델을 AWS 관리형 인프라에서 바로 호출할 수 있게 됐다.",
+    "scorePct": 91
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-22",
+    "summary": "오픈AI가 GPT-6 계열을 확장해 솔(Sol)과 루나(Luna) 모델을 업데이트했다. 솔은 복잡한 작업에 맞춰 설계됐으며, 양쪽 모두 비용 절감과 오류 감소를 내세웠다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 3,
+    "title": "Grok 4.7 is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/",
+    "source": "GitHub Changelog",
+    "publishedDate": "2026-09-21",
+    "summary": "xAI의 그록 4.7이 깃허브 코파일럿의 신규 모델 옵션으로 추가됐다. 입력 100만 토큰당 2달러 가격으로 책정돼 코파일럿 내 다른 모델들과 직접 비교가 가능해졌다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 4,
+    "title": "[르포] \"中 AI 루프 여기까지 왔다\"…알리바바 큐원 OS와 화웨이 하모니 완성",
+    "url": "https://n.news.naver.com/mnews/article/138/0002242572",
+    "source": "네이버",
+    "publishedDate": "2026-09-24",
+    "summary": "알리바바가 큐원 모델을 구동하기 위해 설계한 전용 OS를 공개하며, OS를 '거대 모델을 제어하고 구동하는 하네스'로 정의했다. 화웨이 하모니와 함께 중국 AI 스택의 수직통합 구도가 드러났다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+    "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-09-22",
+    "summary": "앤트로픽이 클로드 오퍼스 5.5를 공개하며 페이블 5.1급 성능을 오퍼스 5 대비 약 40% 낮은 운용 비용으로 제공한다고 밝혔다. 아키텍처 개선과 가격 조정, 벤치마크 결과를 함께 공개해 에이전틱 코딩과 장시간 실행 작업을 주요 타깃으로 삼았다.",
+    "scorePct": 36
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "가격 비교·회원가입 AI가 척척…뮤즈 열풍에 우는 이 회사들",
+    "url": "https://n.news.naver.com/mnews/article/018/0006375046",
+    "source": "네이버",
+    "publishedDate": "2026-09-24",
+    "summary": "메타 '뮤즈' 같은 개인 AI 에이전트가 가격 비교와 회원가입을 대신 처리하면서, 이른바 '소비자 관성'에 기대 온 사업 모델이 흔들릴 수 있다는 우려가 커지고 있다. 더 나은 대안이 있어도 익숙함 때문에 유지되던 고객 기반이 에이전트 앞에서는 지켜지지 않는다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 2,
+    "title": "라인웍스, 日 AI ‘팀 정액제’ 도입…국내도 개편 검토",
+    "url": "https://n.news.naver.com/mnews/article/018/0006375044",
+    "source": "네이버",
+    "publishedDate": "2026-09-24",
+    "summary": "일본 라인웍스가 생성형 AI 서비스 과금 기준을 이용자 수(시트) 기반에서 이용 규모(사용량) 기반으로 전환한다. 국내 AI스튜디오도 연내 요금제 개편을 검토 중이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 3,
+    "title": "The AI Agent Management Gap Is Growing",
+    "url": "https://www.globenewswire.com/news-release/2026/09/22/3366611/0/en/the-ai-agent-management-gap-is-growing.html",
+    "source": "GlobeNewswire",
+    "publishedDate": "2026-09-22",
+    "summary": "IT 의사결정자의 96.4%가 조직 내 AI 에이전트 인벤토리를 완전히 파악하고 있다고 답했으나, 실제 관리 체계는 그 자신감에 못 미친다는 조사 결과가 나왔다. 에이전트 도입 속도와 관리·통제 역량 사이의 격차가 벌어지고 있다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "지미션, AI 영상 분석으로 공공·금융 시장 공략…GS인증 1등급 획득",
+    "url": "https://n.news.naver.com/mnews/article/092/0002438653",
+    "source": "네이버",
+    "publishedDate": "2026-09-24",
+    "summary": "지미션이 비전언어모델(VLM) 기반 AI 영상 분석 솔루션으로 GS인증 1등급을 획득했다. 기존 CCTV 인프라를 그대로 쓰면서 쓰러짐·침입 등 이상 상황을 탐지하는 방식으로 공공·금융 시장을 공략한다.",
+    "scorePct": 10
+  }
+]
