@@ -1,51 +1,42 @@
 {
-  "date": "2026-09-24",
-  "headline": "> 앤트로픽 Opus 5.5와 오픈AI GPT-6 Sol·Luna가 같은 주에 맞붙으며 경쟁축이 성능에서 '가성비'로 이동했다.\n> xAI Grok 4.7이 출시 직후 깃허브 코파일럿에 100만 토큰당 2달러로 편입되며 코딩 어시스턴트 모델 선택지가 넓어졌다.\n> 알리바바는 큐원 모델 전용 OS로 '모델을 구동하는 하네스' 개념을 내세워 중국식 수직통합 스택을 공개했다.",
+  "date": "2026-09-25",
+  "headline": "> 앤트로픽이 Opus 5.5를 공개하며 1M 컨텍스트·비용 인하를 동시에 내걸었다.\n> OpenAI는 GPT-6 Sol·Luna로 저가 티어까지 상위 모델 성능을 끌어내렸다.\n> 모델 경쟁의 무대가 채팅을 넘어 자율 과학 연구와 에이전트 실행으로 옮겨가고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Opus 5.5 is now available on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
-      "source": "AWS Machine Learning Blog",
-      "publishedDate": "2026-09-22",
-      "summary": "클로드 오퍼스 5.5가 AWS에서 정식 제공된다. 에이전틱 코딩과 지식 작업, 장시간 실행 태스크를 겨냥한 모델을 AWS 관리형 인프라에서 바로 호출할 수 있게 됐다.",
-      "scorePct": 91
+      "title": "Claude.ai is about 3x faster after 3,000+ changes",
+      "url": "https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster/",
+      "source": "Help Net Security",
+      "publishedDate": "2026-09-24",
+      "summary": "앤트로픽이 2주간의 집중 작업으로 claude.ai의 응답 속도를 약 3배 끌어올렸다. 3,000건이 넘는 변경 대부분을 Claude 자신이 작성했다고 설명했다.",
+      "scorePct": 55
     },
     {
       "rank": 2,
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch",
+      "title": "OpenAI upgrading ChatGPT and Codex with two more GPT-6 models",
+      "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
+      "source": "9to5Mac",
       "publishedDate": "2026-09-22",
-      "summary": "오픈AI가 GPT-6 계열을 확장해 솔(Sol)과 루나(Luna) 모델을 업데이트했다. 솔은 복잡한 작업에 맞춰 설계됐으며, 양쪽 모두 비용 절감과 오류 감소를 내세웠다.",
-      "scorePct": 55
+      "summary": "OpenAI가 GPT-6 Sol과 Luna를 ChatGPT Work와 Codex의 대부분 유료 계정에 배포했다. 상위 모델 Astra의 신뢰성·정확도 개선을 더 저렴한 티어로 내리는 것이 핵심이며, Luna는 더 넓은 사용자층까지 확대된다.",
+      "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "Grok 4.7 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/",
-      "source": "GitHub Changelog",
-      "publishedDate": "2026-09-21",
-      "summary": "xAI의 그록 4.7이 깃허브 코파일럿의 신규 모델 옵션으로 추가됐다. 입력 100만 토큰당 2달러 가격으로 책정돼 코파일럿 내 다른 모델들과 직접 비교가 가능해졌다.",
-      "scorePct": 55
+      "title": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
+      "url": "https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says",
+      "source": "Al Jazeera",
+      "publishedDate": "2026-09-24",
+      "summary": "앤트로픽은 Claude가 21시간에 걸친 자율 작업 끝에 CRISPR와 유사한 프로그래머블 효소 시스템을 새로 발견했다고 밝혔다. 모델이 문헌 요약을 넘어 가설 수립과 검증까지 수행한 사례로 제시됐다.",
+      "scorePct": 36
     },
     {
       "rank": 4,
-      "title": "[르포] \"中 AI 루프 여기까지 왔다\"…알리바바 큐원 OS와 화웨이 하모니 완성",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242572",
+      "title": "추론하고 가설 세우고 실험까지···‘Scientific AI’, 과학 연구 판 바꾼다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001140212",
       "source": "네이버",
-      "publishedDate": "2026-09-24",
-      "summary": "알리바바가 큐원 모델을 구동하기 위해 설계한 전용 OS를 공개하며, OS를 '거대 모델을 제어하고 구동하는 하네스'로 정의했다. 화웨이 하모니와 함께 중국 AI 스택의 수직통합 구도가 드러났다.",
-      "scorePct": 36
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
-      "source": "MarkTechPost",
-      "publishedDate": "2026-09-22",
-      "summary": "앤트로픽이 클로드 오퍼스 5.5를 공개하며 페이블 5.1급 성능을 오퍼스 5 대비 약 40% 낮은 운용 비용으로 제공한다고 밝혔다. 아키텍처 개선과 가격 조정, 벤치마크 결과를 함께 공개해 에이전틱 코딩과 장시간 실행 작업을 주요 타깃으로 삼았다.",
-      "scorePct": 36
+      "publishedDate": "2026-09-25",
+      "summary": "AI의 활용 범위가 텍스트·코드 생성을 넘어 과학 연구 전반으로 확장되고 있다. 논문 검색이나 요약 수준을 넘어 복잡한 문제를 추론하고 가설을 세워 실험까지 설계하는 'Scientific AI' 흐름이 자리 잡는 모습이다.",
+      "scorePct": 27
     }
   ]
 }

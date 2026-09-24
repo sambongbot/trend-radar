@@ -10,6 +10,15 @@
   },
   {
     "rank": 2,
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-22",
+    "summary": "앤트로픽이 새로운 Claude 5.5 제품군의 첫 모델로 Opus 5.5를 공개했다. 상위 모델급 성능을 유지하면서 가격은 낮췄고, 1M 토큰 컨텍스트 윈도우와 128k 최대 출력, 상시 적응형 사고(adaptive thinking)를 지원한다.",
+    "scorePct": 55
+  },
+  {
+    "rank": 3,
     "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
     "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "scorePct": 55
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Grok 4.7 is now available in GitHub Copilot",
     "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/",
     "source": "GitHub Changelog",
@@ -27,7 +36,7 @@
     "scorePct": 55
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "[르포] \"中 AI 루프 여기까지 왔다\"…알리바바 큐원 OS와 화웨이 하모니 완성",
     "url": "https://n.news.naver.com/mnews/article/138/0002242572",
     "source": "네이버",
@@ -36,7 +45,7 @@
     "scorePct": 36
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
     "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
     "source": "MarkTechPost",

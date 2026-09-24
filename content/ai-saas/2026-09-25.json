@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "뤼튼, IPO 주관사에 미래에셋·NH투자증권 선정",
+    "url": "https://www.fnnews.com/news/202609231631440988",
+    "source": "파이낸셜뉴스",
+    "publishedDate": "2026-09-23",
+    "summary": "국내 AI 서비스 최초 유니콘에 오른 뤼튼테크놀로지스가 IPO 대표주관사로 미래에셋증권, 공동주관사로 NH투자증권을 선정했다. 내년 상장 예비심사 청구를 목표로 절차를 밟는다. 국내 생성형 AI 서비스 기업의 첫 상장 시도가 될 전망이다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "KT '모두의 AI' 컨소시엄 출범…내달 '이음 인사이드' 베타 서비스",
+    "url": "https://view.asiae.co.kr/article/2026092210232957715",
+    "source": "아시아경제",
+    "publishedDate": "2026-09-22",
+    "summary": "KT가 업스테이지·솔트룩스·무신사·직방 등 16개 기업과 '모두의 AI' 컨소시엄을 출범하고 다음 달 '이음 인사이드' 베타를 연다. 개별 서비스에 AI를 내재화해 하나의 범용 에이전트로 묶는 구상이다. 통신·커머스·부동산 등 이종 서비스를 한 접점에서 호출하는 형태를 지향한다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "Web scraping startup Firecrawl closes $75M investment",
+    "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/",
+    "source": "SiliconANGLE",
+    "publishedDate": "2026-09-22",
+    "summary": "웹 스크래핑 스타트업 파이어크롤이 스매시캐피털 주도로 7,500만 달러 시리즈 B를 유치했다. 동시에 지식 라이브러리 '알렉산드리아'를 공개하며 단순 수집에서 정제된 지식 제공으로 사업 범위를 넓혔다. AI 에이전트의 데이터 입력 계층을 겨냥한 포지셔닝이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "Pinecone BYOC: Trusted AI Knowledge in the Customer Cloud",
+    "url": "https://www.pinecone.io/blog/byoc-generally-available/",
+    "source": "Pinecone Blog",
+    "publishedDate": "2026-09-23",
+    "summary": "파인콘이 BYOC(고객 클라우드 배포) 방식을 AWS·구글클라우드 등에서 정식 출시했다. 벡터 데이터가 고객 자체 클라우드 계정 안에 머무르는 구조로, 데이터 반출을 금지하는 금융·공공 고객을 겨냥했다. 관리형 서비스의 편의성은 유지하면서 데이터 주권 요구를 충족하는 절충안이다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 5,
+    "title": "팔로알토 네트웍스, 상시 침투 시험 서비스 출시…클로드 미토스 5·GPT-5.6 사이버 투입",
+    "url": "https://aimatters.co.kr/news-report/53095/",
+    "source": "AI매터스",
+    "publishedDate": "2026-09-23",
+    "summary": "팔로알토 네트웍스가 상시 침투 시험 구독 서비스 '유닛 42 컨티뉴어스 프런티어 AI 디펜스'를 출시했다. 기업 시스템을 주기적으로 점검해 취약점을 찾고 조치 방법까지 안내하며, 내부적으로 상용 프런티어 모델들을 공격자 역할로 투입한다. 연 1~2회 수동 모의해킹을 구독형 상시 점검으로 대체하는 모델이다.",
+    "scorePct": 10
+  }
+]

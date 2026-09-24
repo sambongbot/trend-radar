@@ -1,41 +1,50 @@
 {
-  "date": "2026-09-24",
-  "headline": "> 메타 AI 비서 '뮤즈' 확산이 비교·전환 기반 사업모델을 직접 흔들기 시작했다.\n> 생성형 AI 과금 기준이 '이용자 수'에서 '이용 규모'로 이동하며 SaaS 가격 설계가 재편되고 있다.\n> 엔터프라이즈는 에이전트 도입보다 '관리·거버넌스 공백'이 실질 병목으로 드러났다.",
+  "date": "2026-09-25",
+  "headline": "> 국내 AI 서비스 1호 유니콘이 IPO 주관사를 선정하며 상장 절차에 들어갔다.\n> 대형 모델 동시 출시로 추론 단가 인하 경쟁이 본격화되며 AI 도입 비용 구조가 바뀌고 있다.\n> AI 에이전트의 데이터 수집·검색·보안 계층에 투자와 제품 출시가 몰리는 흐름이 뚜렷하다.",
   "items": [
     {
       "rank": 1,
-      "title": "가격 비교·회원가입 AI가 척척…뮤즈 열풍에 우는 이 회사들",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375046",
-      "source": "네이버",
-      "publishedDate": "2026-09-24",
-      "summary": "메타 '뮤즈' 같은 개인 AI 에이전트가 가격 비교와 회원가입을 대신 처리하면서, 이른바 '소비자 관성'에 기대 온 사업 모델이 흔들릴 수 있다는 우려가 커지고 있다. 더 나은 대안이 있어도 익숙함 때문에 유지되던 고객 기반이 에이전트 앞에서는 지켜지지 않는다.",
-      "scorePct": 30
+      "title": "뤼튼, IPO 주관사에 미래에셋·NH투자증권 선정",
+      "url": "https://www.fnnews.com/news/202609231631440988",
+      "source": "파이낸셜뉴스",
+      "publishedDate": "2026-09-23",
+      "summary": "국내 AI 서비스 최초 유니콘에 오른 뤼튼테크놀로지스가 IPO 대표주관사로 미래에셋증권, 공동주관사로 NH투자증권을 선정했다. 내년 상장 예비심사 청구를 목표로 절차를 밟는다. 국내 생성형 AI 서비스 기업의 첫 상장 시도가 될 전망이다.",
+      "scorePct": 50
     },
     {
       "rank": 2,
-      "title": "라인웍스, 日 AI ‘팀 정액제’ 도입…국내도 개편 검토",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375044",
-      "source": "네이버",
-      "publishedDate": "2026-09-24",
-      "summary": "일본 라인웍스가 생성형 AI 서비스 과금 기준을 이용자 수(시트) 기반에서 이용 규모(사용량) 기반으로 전환한다. 국내 AI스튜디오도 연내 요금제 개편을 검토 중이다.",
-      "scorePct": 20
+      "title": "KT '모두의 AI' 컨소시엄 출범…내달 '이음 인사이드' 베타 서비스",
+      "url": "https://view.asiae.co.kr/article/2026092210232957715",
+      "source": "아시아경제",
+      "publishedDate": "2026-09-22",
+      "summary": "KT가 업스테이지·솔트룩스·무신사·직방 등 16개 기업과 '모두의 AI' 컨소시엄을 출범하고 다음 달 '이음 인사이드' 베타를 연다. 개별 서비스에 AI를 내재화해 하나의 범용 에이전트로 묶는 구상이다. 통신·커머스·부동산 등 이종 서비스를 한 접점에서 호출하는 형태를 지향한다.",
+      "scorePct": 30
     },
     {
       "rank": 3,
-      "title": "The AI Agent Management Gap Is Growing",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366611/0/en/the-ai-agent-management-gap-is-growing.html",
-      "source": "GlobeNewswire",
+      "title": "Web scraping startup Firecrawl closes $75M investment",
+      "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/",
+      "source": "SiliconANGLE",
       "publishedDate": "2026-09-22",
-      "summary": "IT 의사결정자의 96.4%가 조직 내 AI 에이전트 인벤토리를 완전히 파악하고 있다고 답했으나, 실제 관리 체계는 그 자신감에 못 미친다는 조사 결과가 나왔다. 에이전트 도입 속도와 관리·통제 역량 사이의 격차가 벌어지고 있다.",
+      "summary": "웹 스크래핑 스타트업 파이어크롤이 스매시캐피털 주도로 7,500만 달러 시리즈 B를 유치했다. 동시에 지식 라이브러리 '알렉산드리아'를 공개하며 단순 수집에서 정제된 지식 제공으로 사업 범위를 넓혔다. AI 에이전트의 데이터 입력 계층을 겨냥한 포지셔닝이다.",
       "scorePct": 20
     },
     {
       "rank": 4,
-      "title": "지미션, AI 영상 분석으로 공공·금융 시장 공략…GS인증 1등급 획득",
-      "url": "https://n.news.naver.com/mnews/article/092/0002438653",
-      "source": "네이버",
-      "publishedDate": "2026-09-24",
-      "summary": "지미션이 비전언어모델(VLM) 기반 AI 영상 분석 솔루션으로 GS인증 1등급을 획득했다. 기존 CCTV 인프라를 그대로 쓰면서 쓰러짐·침입 등 이상 상황을 탐지하는 방식으로 공공·금융 시장을 공략한다.",
+      "title": "Pinecone BYOC: Trusted AI Knowledge in the Customer Cloud",
+      "url": "https://www.pinecone.io/blog/byoc-generally-available/",
+      "source": "Pinecone Blog",
+      "publishedDate": "2026-09-23",
+      "summary": "파인콘이 BYOC(고객 클라우드 배포) 방식을 AWS·구글클라우드 등에서 정식 출시했다. 벡터 데이터가 고객 자체 클라우드 계정 안에 머무르는 구조로, 데이터 반출을 금지하는 금융·공공 고객을 겨냥했다. 관리형 서비스의 편의성은 유지하면서 데이터 주권 요구를 충족하는 절충안이다.",
+      "scorePct": 20
+    },
+    {
+      "rank": 5,
+      "title": "팔로알토 네트웍스, 상시 침투 시험 서비스 출시…클로드 미토스 5·GPT-5.6 사이버 투입",
+      "url": "https://aimatters.co.kr/news-report/53095/",
+      "source": "AI매터스",
+      "publishedDate": "2026-09-23",
+      "summary": "팔로알토 네트웍스가 상시 침투 시험 구독 서비스 '유닛 42 컨티뉴어스 프런티어 AI 디펜스'를 출시했다. 기업 시스템을 주기적으로 점검해 취약점을 찾고 조치 방법까지 안내하며, 내부적으로 상용 프런티어 모델들을 공격자 역할로 투입한다. 연 1~2회 수동 모의해킹을 구독형 상시 점검으로 대체하는 모델이다.",
       "scorePct": 10
     }
   ]
