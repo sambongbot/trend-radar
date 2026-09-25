@@ -6,7 +6,7 @@
     "source": "TechCrunch",
     "publishedDate": "2026-09-15",
     "summary": "메타가 WhatsApp Business Tools MCP 서버를 공개해 Claude, Cursor 같은 코딩 에이전트가 비즈니스 계정 설정 작업을 직접 처리할 수 있게 했다. 카탈로그 등록이나 메시지 템플릿 구성 같은 반복 세팅이 에이전트 자동화 대상이 된다.",
-    "scorePct": 82
+    "scorePct": 64
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "ThinkAdvisor",
     "publishedDate": "2026-09-15",
     "summary": "앤트로픽이 자산관리 전문가용 도구 묶음 'Claude for Financial Advisors'를 출시해 커스터디 데이터, 모델 포트폴리오, 기존 업무 소프트웨어에 Claude를 직접 연결했다. 범용 챗봇이 아니라 규제 산업의 실제 워크플로 안에 모델을 끼워 넣는 방식이다.",
-    "scorePct": 73
+    "scorePct": 57
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "404 Media",
     "publishedDate": "2026-09-14",
     "summary": "수백 명의 계약직 작업자가 실제 ChatGPT 대화를 읽고 평가하는 'Project Lily'의 운영 실태가 보도됐다. 품질 평가 과정에서 이용자 대화에 포함된 개인정보가 검수자에게 노출될 수 있다는 점이 쟁점이다.",
-    "scorePct": 73
+    "scorePct": 57
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "AI타임스",
     "publishedDate": "2026-09-16",
     "summary": "세일즈포스가 드림포스 2026에서 엔비디아와 협력해 만든 CRM 특화 추론 모델 '코아(Koa)'를 공개했다. 영업·마케팅·고객지원 업무에 맞춰 튜닝해 외부 프런티어 모델 의존도를 낮추겠다는 전략이다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 5,
@@ -42,6 +42,6 @@
     "source": "MarkTechPost",
     "publishedDate": "2026-09-15",
     "summary": "구글이 프로덕션급 음성 에이전트를 겨냥한 Gemini 3.8 Live와 추론 강도를 높인 3.8 Live Extended Thinking을 공개했다. 시간당 1.38달러 수준의 가격으로 경쟁 실시간 음성 API보다 낮은 단가를 제시했다.",
-    "scorePct": 55
+    "scorePct": 43
   }
 ]

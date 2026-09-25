@@ -6,7 +6,7 @@
     "source": "Help Net Security",
     "publishedDate": "2026-09-24",
     "summary": "앤트로픽이 2주간의 집중 작업으로 claude.ai의 응답 속도를 약 3배 끌어올렸다. 3,000건이 넘는 변경 대부분을 Claude 자신이 작성했다고 설명했다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "9to5Mac",
     "publishedDate": "2026-09-22",
     "summary": "OpenAI가 GPT-6 Sol과 Luna를 ChatGPT Work와 Codex의 대부분 유료 계정에 배포했다. 상위 모델 Astra의 신뢰성·정확도 개선을 더 저렴한 티어로 내리는 것이 핵심이며, Luna는 더 넓은 사용자층까지 확대된다.",
-    "scorePct": 36
+    "scorePct": 29
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "Al Jazeera",
     "publishedDate": "2026-09-24",
     "summary": "앤트로픽은 Claude가 21시간에 걸친 자율 작업 끝에 CRISPR와 유사한 프로그래머블 효소 시스템을 새로 발견했다고 밝혔다. 모델이 문헌 요약을 넘어 가설 수립과 검증까지 수행한 사례로 제시됐다.",
-    "scorePct": 36
+    "scorePct": 29
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "네이버",
     "publishedDate": "2026-09-25",
     "summary": "AI의 활용 범위가 텍스트·코드 생성을 넘어 과학 연구 전반으로 확장되고 있다. 논문 검색이나 요약 수준을 넘어 복잡한 문제를 추론하고 가설을 세워 실험까지 설계하는 'Scientific AI' 흐름이 자리 잡는 모습이다.",
-    "scorePct": 27
+    "scorePct": 21
   }
 ]

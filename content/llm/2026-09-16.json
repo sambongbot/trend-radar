@@ -6,7 +6,7 @@
     "source": "U.S. News (Reuters)",
     "publishedDate": "2026-09-14",
     "summary": "앤트로픽이 금융 어드바이저 전용 제품 'Claude for Financial Advisors'를 출시했다. 찰스 슈왑·블랙록·Addepar·Envestnet·Orion 등 수탁기관과 자산운용사 커넥터를 묶어 리서치·포트폴리오 분석·컴플라이언스 워크플로를 스킬 형태로 제공한다. 오픈AI가 금융권 특화 ChatGPT를 내놓은 직후의 대응이다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "Forbes",
     "publishedDate": "2026-09-13",
     "summary": "다리오 아모데이 CEO가 약 3,900단어 에세이 'We Must Pace the Frontier'를 통해 프론티어 AI 개발 속도 조절을 공개 제안했다. 앤트로픽 스스로에게 적용할 구체적 약속과 업계 전반에 대한 권고를 함께 담았으나, 구속력 있는 부분은 자사 정책에 한정된다는 분석이 나온다.",
-    "scorePct": 36
+    "scorePct": 29
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-09-15",
     "summary": "비드래프트의 350억 파라미터 온디바이스 모델 '포켓(POCKET)'이 GPU 없이 개인 기기에서 구동되며 7주 만에 100만 다운로드를 기록했다. 별도 가속기 없이 소비자 기기에서 대형 모델을 돌리는 수요가 실제로 존재함을 보여준다.",
-    "scorePct": 27
+    "scorePct": 21
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-09-16",
     "summary": "오픈테크넷 2026에서 AI 코딩 확산에 따른 보안 취약점 증가와 보안 테스팅 자동화 필요성이 논의됐다. 개발 속도는 빨라졌지만 생성된 코드와 개발 과정 모두에 대한 검증 체계가 뒤따르지 못하고 있다는 진단이다.",
-    "scorePct": 27
+    "scorePct": 21
   },
   {
     "rank": 5,
@@ -42,6 +42,6 @@
     "source": "네이버",
     "publishedDate": "2026-09-16",
     "summary": "마이크로소프트가 15,000단어 분량의 최첨단 AI 모델 개발 행동강령을 발표하며 '사람이 AI보다 중요하다'를 대원칙으로 내세웠다. 프론티어 랩들의 속도조절론이 확산되는 가운데 나온 자체 개발 지침이다.",
-    "scorePct": 27
+    "scorePct": 21
   }
 ]

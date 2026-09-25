@@ -6,7 +6,7 @@
     "source": "MarkTechPost",
     "publishedDate": "2026-09-12",
     "summary": "Cognition이 2.8T 파라미터 Kimi K3를 포스트트레이닝한 코딩 모델 SWE-2를 공개했다. FrontierCode에서 50.0%로 Fable 5.1급 성능을 내면서 비용은 64% 낮다고 밝혔다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "AI Catchup",
     "publishedDate": "2026-09-14",
     "summary": "앤트로픽이 9월 14일부터 Claude Code의 주간 사용량 한도를 25% 영구 상향한다. 일시적 프로모션이 아닌 영구 조정이라 기존 한도에 걸리던 워크플로의 여유가 늘어난다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "DEV Community",
     "publishedDate": "2026-09-13",
     "summary": "Claude Code 2.1.268이 deny 규칙이 조용히 적용되지 않던 두 가지 케이스를 수정했다. 같은 주 Codex와 Gemini CLI 릴리스도 함께 정리되어 세 CLI의 변화를 한 번에 비교할 수 있다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "Big Hat Group",
     "publishedDate": "2026-09-13",
     "summary": "Grok 4.7이 9월 12일 목표를 다시 넘겼다. RL 학습이 응답 길이에 페널티를 주면서 품질 문제가 생긴 것이 원인으로 지목됐다.",
-    "scorePct": 36
+    "scorePct": 29
   }
 ]

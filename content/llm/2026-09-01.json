@@ -6,7 +6,7 @@
     "source": "Bleeping Computer",
     "publishedDate": "2026-08-29",
     "summary": "Anthropic이 Pro·Max·Team·Enterprise 플랜의 Claude Code 주간 한도를 영구 25% 인상한다고 발표했으나, 실제로는 현행 한도 대비 17% 축소로 해석된다는 지적이 나왔다. 발표된 증가율의 기준선이 기존 임시 상향분이 아닌 원래 한도였기 때문이다.",
-    "scorePct": 82
+    "scorePct": 64
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "CNBC",
     "publishedDate": "2026-08-29",
     "summary": "OpenAI가 일론 머스크의 SpaceX에 인수된 Cursor에 대해 모델 제공 계약을 종료하겠다고 통보했다. Cursor는 OpenAI 모델 접근이 끊기면서 대체 모델 확보가 불가피해졌다. AI 코딩 도구의 모델 의존 구조가 지배구조 변화 한 번에 흔들릴 수 있음을 보여준다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "Simon Willison's Blog",
     "publishedDate": "2026-08-30",
     "summary": "사이먼 윌리슨이 ChatGPT Work를 클라우드 버전과 로컬 데스크톱 버전이라는 두 개의 별개 제품으로 분해해 분석했다. 두 제품의 데이터 접근 범위와 실행 환경이 다르다는 점을 짚는다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "이데일리",
     "publishedDate": "2026-08-31",
     "summary": "엔비디아가 AI 모델 허브이자 오픈소스 도구 플랫폼인 허깅페이스를 인수했다. 연환산 매출 약 1억5000만 달러 규모이며, 오픈소스 AI 생태계 보호를 명분으로 내세웠다. 모델 배포·호스팅의 사실상 표준 인프라가 GPU 공급자 손에 들어간 셈이다.",
-    "scorePct": 45
+    "scorePct": 36
   }
 ]

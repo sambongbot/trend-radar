@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-25",
-  "headline": "> 국내 AI 서비스 1호 유니콘이 IPO 주관사를 선정하며 상장 절차에 들어갔다.\n> 대형 모델 동시 출시로 추론 단가 인하 경쟁이 본격화되며 AI 도입 비용 구조가 바뀌고 있다.\n> AI 에이전트의 데이터 수집·검색·보안 계층에 투자와 제품 출시가 몰리는 흐름이 뚜렷하다.",
+  "date": "2026-09-26",
+  "headline": "> 데이터 플랫폼·코딩 도구가 에이전트를 흡수하며 기업 SaaS 진입점이 재편되고 있다.\n> MS 코파일럿은 챗봇에서 '업무 OS'로 전환해 앱 중심 워크플로를 대체하려 한다.\n> 메타 뮤즈의 서드파티 연동 확산과 AI 인프라 초대형 계약이 에이전트 생태계의 실체를 보여준다.",
   "items": [
     {
       "rank": 1,
-      "title": "뤼튼, IPO 주관사에 미래에셋·NH투자증권 선정",
-      "url": "https://www.fnnews.com/news/202609231631440988",
-      "source": "파이낸셜뉴스",
-      "publishedDate": "2026-09-23",
-      "summary": "국내 AI 서비스 최초 유니콘에 오른 뤼튼테크놀로지스가 IPO 대표주관사로 미래에셋증권, 공동주관사로 NH투자증권을 선정했다. 내년 상장 예비심사 청구를 목표로 절차를 밟는다. 국내 생성형 AI 서비스 기업의 첫 상장 시도가 될 전망이다.",
+      "title": "데이터브릭스, 로우제로 인수…\"기업 데이터 분석 편의↑\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002438753",
+      "source": "네이버",
+      "publishedDate": "2026-09-26",
+      "summary": "데이터브릭스가 클라우드 스프레드시트 스타트업 로우제로를 인수해 데이터 분석 편의성을 높인다. 스프레드시트 인터페이스와 AI 에이전트를 결합해 비개발자도 데이터 플랫폼에 접근할 수 있게 하려는 포석이다.",
       "scorePct": 50
     },
     {
       "rank": 2,
-      "title": "KT '모두의 AI' 컨소시엄 출범…내달 '이음 인사이드' 베타 서비스",
-      "url": "https://view.asiae.co.kr/article/2026092210232957715",
-      "source": "아시아경제",
-      "publishedDate": "2026-09-22",
-      "summary": "KT가 업스테이지·솔트룩스·무신사·직방 등 16개 기업과 '모두의 AI' 컨소시엄을 출범하고 다음 달 '이음 인사이드' 베타를 연다. 개별 서비스에 AI를 내재화해 하나의 범용 에이전트로 묶는 구상이다. 통신·커머스·부동산 등 이종 서비스를 한 접점에서 호출하는 형태를 지향한다.",
+      "title": "'뮤즈'로 분위기 바꾼 메타, AI 에이전트 열풍, CPU까지 번졌다",
+      "url": "https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923500301",
+      "source": "서울신문",
+      "publishedDate": "2026-09-23",
+      "summary": "메타의 개인 AI 에이전트 '뮤즈'가 출시 12일 만에 280만회 다운로드를 기록하며 서드파티 연동이 확산되고 있다. 스포티파이는 서비스를 연동한 반면 아마존은 뮤즈를 통한 쇼핑을 차단해, 플랫폼별 대응이 갈리고 있다.",
       "scorePct": 30
     },
     {
       "rank": 3,
-      "title": "Web scraping startup Firecrawl closes $75M investment",
-      "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/",
-      "source": "SiliconANGLE",
-      "publishedDate": "2026-09-22",
-      "summary": "웹 스크래핑 스타트업 파이어크롤이 스매시캐피털 주도로 7,500만 달러 시리즈 B를 유치했다. 동시에 지식 라이브러리 '알렉산드리아'를 공개하며 단순 수집에서 정제된 지식 제공으로 사업 범위를 넓혔다. AI 에이전트의 데이터 입력 계층을 겨냥한 포지셔닝이다.",
-      "scorePct": 20
+      "title": "MS, 코파일럿에 ‘코드·상시 에이전트’ 통합…‘업무 OS’ 노린다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194414",
+      "source": "네이버",
+      "publishedDate": "2026-09-26",
+      "summary": "마이크로소프트가 코파일럿을 챗봇에서 업무를 직접 수행하는 에이전트 플랫폼으로 전면 개편했다. 대화·문서작업·소프트웨어 제작·장기 업무 수행을 하나의 계층으로 묶어 '업무 OS'를 지향한다.",
+      "scorePct": 10
     },
     {
       "rank": 4,
-      "title": "Pinecone BYOC: Trusted AI Knowledge in the Customer Cloud",
-      "url": "https://www.pinecone.io/blog/byoc-generally-available/",
-      "source": "Pinecone Blog",
-      "publishedDate": "2026-09-23",
-      "summary": "파인콘이 BYOC(고객 클라우드 배포) 방식을 AWS·구글클라우드 등에서 정식 출시했다. 벡터 데이터가 고객 자체 클라우드 계정 안에 머무르는 구조로, 데이터 반출을 금지하는 금융·공공 고객을 겨냥했다. 관리형 서비스의 편의성은 유지하면서 데이터 주권 요구를 충족하는 절충안이다.",
-      "scorePct": 20
+      "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002438759",
+      "source": "네이버",
+      "publishedDate": "2026-09-26",
+      "summary": "깃허브가 폐쇄망 환경에서도 AI 코딩 도구를 활용할 수 있도록 지원을 확대했다. 사용자 권한 관리와 코드 검토 절차도 개선해 기업 개발팀의 도입·운영 부담을 낮추는 데 초점을 맞췄다.",
+      "scorePct": 10
     },
     {
       "rank": 5,
-      "title": "팔로알토 네트웍스, 상시 침투 시험 서비스 출시…클로드 미토스 5·GPT-5.6 사이버 투입",
-      "url": "https://aimatters.co.kr/news-report/53095/",
-      "source": "AI매터스",
-      "publishedDate": "2026-09-23",
-      "summary": "팔로알토 네트웍스가 상시 침투 시험 구독 서비스 '유닛 42 컨티뉴어스 프런티어 AI 디펜스'를 출시했다. 기업 시스템을 주기적으로 점검해 취약점을 찾고 조치 방법까지 안내하며, 내부적으로 상용 프런티어 모델들을 공격자 역할로 투입한다. 연 1~2회 수동 모의해킹을 구독형 상시 점검으로 대체하는 모델이다.",
-      "scorePct": 10
+      "title": "이마트 프로모션 AI로 바꾼 코르카…이젠 기업 AX 공략",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375487",
+      "source": "네이버",
+      "publishedDate": "2026-09-26",
+      "summary": "코르카가 대형 유통사의 프로모션 의사결정을 AI로 대체해 할인 여부까지 판단하는 사례를 만들었다. 이 경험을 기반으로 기업 AX(AI 전환) 시장 공략으로 사업 범위를 넓히고 있다.",
+      "scorePct": 0
     }
   ]
 }

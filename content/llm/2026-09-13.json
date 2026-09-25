@@ -6,7 +6,7 @@
     "source": "TechCrunch",
     "publishedDate": "2026-09-10",
     "summary": "앤트로픽이 알리바바·문샷AI·딥시크 등 7개 랩의 증류(distillation) 시도를 담은 위협 인텔리전스 보고서를 공개했다. 총 2억 건 규모의 대화 교환이 모델 복제 목적으로 수집된 정황을 구체적으로 적시했다.",
-    "scorePct": 73
+    "scorePct": 57
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "DataNorth.ai",
     "publishedDate": "2026-09-10",
     "summary": "딥시크가 MIT 라이선스 오픈웨이트 모델 V4.1-Flash를 100만 토큰당 $0.15에 공개했다. 1M 토큰 컨텍스트 윈도우를 지원하며 플래그십 V4-Pro를 일부 벤치마크에서 앞선다고 주장한다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "MarkTechPost",
     "publishedDate": "2026-09-10",
     "summary": "사카나AI가 여러 모델 풀에 질의를 라우팅하는 오케스트레이터 모델 Fugu Max와 Fugu Ultra v2를 출시했다. 멀티 에이전트 구성에서 비용을 낮추면서 성능은 끌어올리는 것을 목표로 한다.",
-    "scorePct": 55
+    "scorePct": 43
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "Help Net Security",
     "publishedDate": "2026-09-11",
     "summary": "러시아어권으로 추정되는 위협 행위자가 오픈AI Codex 하네스 기반 AI 에이전트 수백 개를 동원해 PaperCut 취약점을 공격했다. 이 캠페인으로 395개 조직이 침해된 것으로 확인됐다.",
-    "scorePct": 55
+    "scorePct": 43
   }
 ]

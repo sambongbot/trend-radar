@@ -6,7 +6,7 @@
     "source": "VentureBeat",
     "publishedDate": "2026-08-24",
     "summary": "Anthropic이 슬랙 채널에 상주하는 에이전트 Claude Tag를 업데이트해 채널 전체 대화 맥락을 읽도록 했다. 이제 호출하지 않아도 스스로 판단해 대화에 개입할 수 있다.",
-    "scorePct": 36
+    "scorePct": 29
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "source": "SiliconANGLE",
     "publishedDate": "2026-08-25",
     "summary": "Perplexity가 클라우드 기반 Computer 에이전트의 온디바이스 버전인 Portable Computer를 공개했다. 사용자 기기에서 직접 작업을 수행해 데이터를 외부로 보내지 않는다.",
-    "scorePct": 36
+    "scorePct": 29
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "네이버",
     "publishedDate": "2026-08-26",
     "summary": "Anthropic이 다음 달 말 상장을 목표로 1000억 달러 규모 사상 최대 IPO에 도전하며 'AI가 모든 인간 업무를 대체한다'는 청사진을 제시했다. 오픈AI는 자체 칩 '할라페뇨'를 공개하며 인프라 원가 경쟁으로 맞불을 놨다.",
-    "scorePct": 27
+    "scorePct": 21
   },
   {
     "rank": 4,
@@ -33,6 +33,6 @@
     "source": "ZDNet Korea",
     "publishedDate": "2026-08-26",
     "summary": "과기정통부의 사이버보안 특화 AI 파운데이션 모델 개발 사업에 네이버클라우드와 SK텔레콤 컨소시엄이 2파전으로 맞붙었다. 정부는 서류 검토와 외부 전문가 평가를 거쳐 사업자를 선정한다.",
-    "scorePct": 27
+    "scorePct": 21
   }
 ]
