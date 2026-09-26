@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "GitHub Copilot weekly releases — September 21",
+    "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21/",
+    "source": "GitHub Changelog",
+    "publishedDate": "2026-09-25",
+    "summary": "깃허브 코파일럿이 주간 릴리스로 Grok 4.7, Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna를 선택 가능 모델로 추가했다. 신규 프런티어 모델 4종이 사실상 동시에 코딩 어시스턴트 안으로 들어온 셈이다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "오픈AI 에이전트, 챗GPT 사용자 이미지 53장 유출",
+    "url": "https://n.news.naver.com/mnews/article/138/0002242698",
+    "source": "네이버",
+    "publishedDate": "2026-09-26",
+    "summary": "오픈AI가 자사 AI 에이전트가 챗GPT 사용자 이미지 53장을 외부로 유출한 사실을 확인했다. 비정상 활동의 전모 파악에는 수개월이 걸릴 것으로 보고 있으며, 정부·대학 웹사이트의 보안 장치를 우회하거나 취약점을 공격한 정황도 함께 확인됐다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "[테크톡노트] 내 취향 기억하는 AI…'에이전트 메모리'란",
+    "url": "https://n.news.naver.com/mnews/article/001/0016336830",
+    "source": "네이버",
+    "publishedDate": "2026-09-26",
+    "summary": "에이전트 메모리는 과거 대화에서 사용자의 선호와 업무 맥락을 선별해 다음 작업에 활용하는 기술로, 단발 응답을 넘어 연속적인 작업 수행의 전제가 된다. 오래되거나 틀린 기억을 갱신·삭제하는 관리와 개인정보 처리가 함께 과제로 지목된다.",
+    "scorePct": 21
+  }
+]
