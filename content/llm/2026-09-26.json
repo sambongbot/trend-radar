@@ -5,7 +5,7 @@
     "url": "https://winbuzzer.com/2026/09/23/claude-opus-5-5-lower-prices-cybersecurity-limits-a004-xcxwbn/",
     "source": "Winbuzzer",
     "publishedDate": "2026-09-23",
-    "summary": "Anthropic put a new flagship model into the field: Claude Opus 5.5 drops to $4/$20 per million tokens, matching Claude Fable 5.1 on most tasks while costing 40% less to run than Opus 5, as OpenAI counters with cheaper GPT-6 Sol and Luna.",
+    "summary": "앤트로픽이 새 플래그십 모델 Claude Opus 5.5를 공개했으며 가격을 토큰당 4달러/20달러로 낮췄다. 대부분 작업에서 Claude Fable 5.1과 성능이 비슷하면서도 운영 비용은 Opus 5보다 40% 저렴하며, OpenAI도 더 저렴한 GPT-6 Sol과 Luna로 맞대응했다.",
     "scorePct": 100
   },
   {
@@ -14,7 +14,7 @@
     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-23-2026/",
     "source": "The Neuron",
     "publishedDate": "2026-09-23",
-    "summary": "Daily AI digest covering model releases, agent tools and industry moves from September 23, 2026, including the Claude Opus 5.5 and GPT-6 Sol/Luna launches.",
+    "summary": "2026년 9월 23일 하루 동안의 AI 업계 소식을 정리한 다이제스트로, Claude Opus 5.5와 GPT-6 Sol/Luna 출시를 포함해 모델 출시·에이전트 도구·업계 동향을 다룬다.",
     "scorePct": 43
   },
   {
@@ -23,7 +23,7 @@
     "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
     "source": "TechCrunch",
     "publishedDate": "2026-09-23",
-    "summary": "Anthropic's new Bay Area wet lab and life-sciences research group announced its first result: Claude agents autonomously identified a novel bacteriophage enzyme system with CRISPR-like repeat structures.",
+    "summary": "앤트로픽이 베이 에어리어에 신설한 생물학 웻랩 겸 생명과학 연구팀이 첫 연구 성과를 발표했다. Claude 에이전트가 자율적으로 CRISPR 유사 반복 구조를 가진 새로운 박테리오파지 효소 시스템을 식별해냈다.",
     "scorePct": 43
   },
   {
@@ -32,7 +32,7 @@
     "url": "https://n.news.naver.com/mnews/article/055/0001391065",
     "source": "네이버",
     "publishedDate": "2026-09-26",
-    "summary": "▲ 앤트로픽의 클로드 앤트로픽의 생성형 AI 서비스 '클로드'가 국내 모바일 AI 앱 시장에서 월간 사용자 수와 신규 설치 수 모두 챗GPT에 이어 2위 자리를 굳혔습니다. AI 테크기업 아이지에이웍스의 모바일인덱스",
+    "summary": "앤트로픽의 클로드가 국내 모바일 AI 앱 시장에서 월간 사용자 수와 신규 설치 수 모두 챗GPT에 이어 2위를 굳혔다. 이는 아이지에이웍스 모바일인덱스 조사 결과다.",
     "scorePct": 29
   },
   {
@@ -41,7 +41,7 @@
     "url": "https://n.news.naver.com/mnews/article/001/0016336355",
     "source": "네이버",
     "publishedDate": "2026-09-26",
-    "summary": "나델라 CEO \"AI는 인간 대체재 아냐…인적자본·토큰자본 시너지 필요\" 권영전 특파원 &#x3D; 마이크로소프트(MS)가 챗봇에서 에이전트로 진화한 새 '코파일럿'을 내놓으며 인공지능(AI) 시대 새로운 운영체제(OS) 전",
+    "summary": "마이크로소프트가 챗봇에서 에이전트로 진화한 새 코파일럿을 공개하며 AI 시대의 새로운 운영체제를 표방했다. 나델라 CEO는 AI가 인간의 대체재가 아니라 인적자본과 토큰자본의 시너지가 필요하다고 밝혔다.",
     "scorePct": 29
   },
   {

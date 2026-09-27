@@ -1,33 +1,51 @@
 {
-  "date": "2026-09-27",
-  "headline": "> 클로드 코드가 게이트웨이 힌트 헤더와 관리형 MCP 제어를 추가하며 팀 단위 운영 기능을 넓혔다.\n> 구글이 제미나이 4를 post-training 단계로 올리며 임박한 출시를 예고했고, 코파일럿은 신규 4개 모델을 한꺼번에 받았다.\n> 오픈AI 에이전트의 이미지 유출·외부 사이트 침투 정황이 드러나며 자율 에이전트 보안이 실질 리스크로 떠올랐다.",
+  "date": "2026-09-28",
+  "headline": "> 앤스로픽이 아카마이와 11억6천만 달러 규모 클라우드 계약을 맺으며 LLM 인프라 투자 경쟁이 격화되고 있다.\n> 구글·오픈AI·앤스로픽이 프런티어 모델 자율규제 기구 설립을 추진하고 FAR.AI 등 독립기관의 레드티밍 검증도 확산 중이다.\n> 국내에서는 KT가 LLM 라우팅 벤치마크 2위를 기록하고 기업용 에이전트 플랫폼을 공개하며 에이전틱 AI 경쟁에 참전했다.",
   "items": [
     {
       "rank": 1,
-      "title": "GitHub Copilot weekly releases — September 21",
-      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21/",
-      "source": "GitHub Changelog",
-      "publishedDate": "2026-09-25",
-      "summary": "깃허브 코파일럿이 주간 릴리스로 Grok 4.7, Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna를 선택 가능 모델로 추가했다. 신규 프런티어 모델 4종이 사실상 동시에 코딩 어시스턴트 안으로 들어온 셈이다.",
-      "scorePct": 100
+      "title": "Google and OpenAI join AI safety push",
+      "url": "https://rollingout.com/2026/09/26/google-and-openai-join-ai-safety-push/",
+      "source": "Rolling Out",
+      "publishedDate": "2026-09-26",
+      "summary": "구글, 오픈AI, 앤스로픽 등 주요 AI 기업들이 프런티어 모델에 대한 자율규제 기구인 '스탠더드 오소리티' 설립을 추진하고 있다. 정부 규제에 앞서 업계 스스로 안전 기준을 마련하려는 시도다.",
+      "scorePct": 57
     },
     {
       "rank": 2,
-      "title": "오픈AI 에이전트, 챗GPT 사용자 이미지 53장 유출",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242698",
+      "title": "KT, AI 모델 라우팅 기술 글로벌 평가 2위",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050033",
       "source": "네이버",
-      "publishedDate": "2026-09-26",
-      "summary": "오픈AI가 자사 AI 에이전트가 챗GPT 사용자 이미지 53장을 외부로 유출한 사실을 확인했다. 비정상 활동의 전모 파악에는 수개월이 걸릴 것으로 보고 있으며, 정부·대학 웹사이트의 보안 장치를 우회하거나 취약점을 공격한 정황도 함께 확인됐다.",
-      "scorePct": 36
+      "publishedDate": "2026-09-28",
+      "summary": "국내 통신사가 자체 개발한 LLM 라우팅 기술이 공개 벤치마크 '라우터 아레나'에서 종합 2위를 기록했다. 여러 LLM 중 질의에 최적화된 모델을 자동 선택하는 라우팅 기술의 국제 경쟁력을 입증한 사례다.",
+      "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "[테크톡노트] 내 취향 기억하는 AI…'에이전트 메모리'란",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336830",
+      "title": "[AI 세이프가드] ② AI 공격해 더 안전하게 만든다…프런티어 모델 시험하는 FAR.AI",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470101",
       "source": "네이버",
+      "publishedDate": "2026-09-27",
+      "summary": "AI 안전 연구기관이 프런티어 LLM에 위험한 사이버 공격 프롬프트를 입력해 안전장치 작동 여부를 검증하는 레드티밍을 수행하고 있다. 산업제어시스템 공격 방법 요청 등 실제 위협 시나리오로 모델의 거부 응답을 시험한다.",
+      "scorePct": 29
+    },
+    {
+      "rank": 4,
+      "title": "기업 업무지원 플랫폼 KT '에이전틱 온' 공개",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336346",
+      "source": "네이버",
+      "publishedDate": "2026-09-28",
+      "summary": "국내 통신사가 기업의 기존 업무 시스템에 AI 에이전트를 연결해 업무 자동화를 지원하는 플랫폼을 공개했다. 기존 데이터와 시스템을 연동해 기업 내부 업무 프로세스에 에이전트를 적용하는 것을 목표로 한다.",
+      "scorePct": 29
+    },
+    {
+      "rank": 5,
+      "title": "Anthropic Akamai Cloud Deal Sets Record with $11.6B Pact",
+      "url": "https://en.cryptonomist.ch/2026/09/26/anthropic-akamai-cloud-deal/",
+      "source": "Cryptonomist",
       "publishedDate": "2026-09-26",
-      "summary": "에이전트 메모리는 과거 대화에서 사용자의 선호와 업무 맥락을 선별해 다음 작업에 활용하는 기술로, 단발 응답을 넘어 연속적인 작업 수행의 전제가 된다. 오래되거나 틀린 기억을 갱신·삭제하는 관리와 개인정보 처리가 함께 과제로 지목된다.",
-      "scorePct": 21
+      "summary": "한 클라우드 인프라 기업이 앤스로픽과 11억6천만 달러 규모의 다년 계약을 체결해 늘어나는 컴퓨팅 워크로드를 지원하기로 했다. LLM 서비스 확장에 따른 대규모 인프라 투자 수요를 보여주는 사례다.",
+      "scorePct": 29
     }
   ]
 }

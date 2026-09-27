@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Google and OpenAI join AI safety push",
+    "url": "https://rollingout.com/2026/09/26/google-and-openai-join-ai-safety-push/",
+    "source": "Rolling Out",
+    "publishedDate": "2026-09-26",
+    "summary": "구글, 오픈AI, 앤스로픽 등 주요 AI 기업들이 프런티어 모델에 대한 자율규제 기구인 '스탠더드 오소리티' 설립을 추진하고 있다. 정부 규제에 앞서 업계 스스로 안전 기준을 마련하려는 시도다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "KT, AI 모델 라우팅 기술 글로벌 평가 2위",
+    "url": "https://n.news.naver.com/mnews/article/029/0003050033",
+    "source": "네이버",
+    "publishedDate": "2026-09-28",
+    "summary": "국내 통신사가 자체 개발한 LLM 라우팅 기술이 공개 벤치마크 '라우터 아레나'에서 종합 2위를 기록했다. 여러 LLM 중 질의에 최적화된 모델을 자동 선택하는 라우팅 기술의 국제 경쟁력을 입증한 사례다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "[AI 세이프가드] ② AI 공격해 더 안전하게 만든다…프런티어 모델 시험하는 FAR.AI",
+    "url": "https://n.news.naver.com/mnews/article/030/0003470101",
+    "source": "네이버",
+    "publishedDate": "2026-09-27",
+    "summary": "AI 안전 연구기관이 프런티어 LLM에 위험한 사이버 공격 프롬프트를 입력해 안전장치 작동 여부를 검증하는 레드티밍을 수행하고 있다. 산업제어시스템 공격 방법 요청 등 실제 위협 시나리오로 모델의 거부 응답을 시험한다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "기업 업무지원 플랫폼 KT '에이전틱 온' 공개",
+    "url": "https://n.news.naver.com/mnews/article/015/0005336346",
+    "source": "네이버",
+    "publishedDate": "2026-09-28",
+    "summary": "국내 통신사가 기업의 기존 업무 시스템에 AI 에이전트를 연결해 업무 자동화를 지원하는 플랫폼을 공개했다. 기존 데이터와 시스템을 연동해 기업 내부 업무 프로세스에 에이전트를 적용하는 것을 목표로 한다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic Akamai Cloud Deal Sets Record with $11.6B Pact",
+    "url": "https://en.cryptonomist.ch/2026/09/26/anthropic-akamai-cloud-deal/",
+    "source": "Cryptonomist",
+    "publishedDate": "2026-09-26",
+    "summary": "한 클라우드 인프라 기업이 앤스로픽과 11억6천만 달러 규모의 다년 계약을 체결해 늘어나는 컴퓨팅 워크로드를 지원하기로 했다. LLM 서비스 확장에 따른 대규모 인프라 투자 수요를 보여주는 사례다.",
+    "scorePct": 29
+  }
+]
