@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "[단독] 온라인몰 구축업체, AI 데이터 가공업체로 변신",
+    "url": "https://n.news.naver.com/mnews/article/015/0005337731",
+    "source": "네이버",
+    "publishedDate": "2026-10-01",
+    "summary": "온라인몰 구축 솔루션을 제공하던 업체가 AI 데이터 가공 전문기업으로 사업모델을 전환한 사실이 확인됐다. 기존 고객 기반과 기술 인프라를 AI 학습용 데이터 가공 사업에 활용하는 방식이다. 전통 IT 서비스 기업의 AI 피벗 흐름을 보여주는 사례다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 2,
+    "title": "링크알파, '금융 데이터 AI 마켓플레이스' 출시…대형 증권사 공급 개시",
+    "url": "https://www.mt.co.kr/future/2026/09/30/2026093009450690278",
+    "source": "머니투데이",
+    "publishedDate": "2026-09-30",
+    "summary": "금융 데이터 전문기업이 금융기관의 AI 서비스 개발에 맞춤형 데이터를 공급하는 '금융 데이터 AI 마켓플레이스'를 출시했다. 기업 공시와 실적발표 등 금융 데이터를 대형 증권사에 바로 제공하는 방식으로 서비스를 시작했다. 금융권의 AI 도입을 데이터 공급 측면에서 지원하는 B2B 모델이다.",
+    "scorePct": 30
+  },
+  {
+    "rank": 3,
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-28",
+    "summary": "반도체 기업이 오작동하는 AI 에이전트를 통제하기 위한 오픈 에이전트 세이프티 플랫폼을 공개했다. 소프트웨어와 하드웨어를 결합해 에이전트의 행동을 감시하고 제어하는 방식이다. AI 에이전트 도입이 확산되면서 안전 관리 수요가 커지고 있음을 보여준다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 4,
+    "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2B",
+    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-28",
+    "summary": "AMD가 공간 지능 AI 모델을 개발하는 월드랩스를 82억 달러에 인수하기로 했다. 월드랩스는 페이페이 리가 설립한 딥러닝 스타트업으로 물리·공간 지능 분야 모델을 연구해왔다. 반도체 기업이 대형 AI 모델 스타트업을 인수하며 수직계열화에 나선 사례다.",
+    "scorePct": 20
+  },
+  {
+    "rank": 5,
+    "title": "Manus 2.0 and Cue: What Manus Launched on Sept 28",
+    "url": "https://cellcog.ai/blog/manus-2-0/",
+    "source": "CellCog",
+    "publishedDate": "2026-09-28",
+    "summary": "AI 에이전트 서비스가 새로운 아키텍처를 적용한 2.0 버전과 클라우드 컴퓨터 환경을 함께 출시했다. 동시에 독립형 신제품도 별도로 공개했다. AI 에이전트 플랫폼 경쟁이 기능 고도화 방향으로 진행되고 있음을 보여준다.",
+    "scorePct": 20
+  }
+]

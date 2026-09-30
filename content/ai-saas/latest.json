@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-28",
-  "headline": "> 에이전틱 AI가 실행형 서비스로 확산되며 국내 스타트업 투자 유치도 이어지고 있다.\n> AI 서비스 자체를 검증하는 제3자 시험·인증 생태계가 새로운 시장으로 부상하고 있다.\n> 현장에서는 AI 자동화 성공 사례와 함께 비용 증가 같은 부작용 사례도 함께 보고된다.",
+  "date": "2026-10-01",
+  "headline": "> 금융·커머스 분야에서 AI 데이터·마켓플레이스형 B2B 서비스 출시가 이어졌다.\n> AMD의 월드랩스 인수로 반도체 기업들의 AI 모델 스타트업 확보 경쟁이 본격화됐다.\n> 에이전트 플랫폼 고도화와 에이전트 안전관리 영역에서 새로운 제품 공개가 잇따랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "대답만 하는 AI는 끝…'AI페스타'서 일하는 AI 만난다",
-      "url": "https://zdnet.co.kr/view/?no=20260927073936",
-      "source": "ZDNet Korea",
-      "publishedDate": "2026-09-27",
-      "summary": "정부 주최 AI 행사에서 단순 응답형이 아니라 계획 수립부터 실행까지 자동 수행하는 에이전틱 AI 스타트업들의 솔루션이 대거 공개됐다. 구독형 AI 빅데이터 분석 플랫폼 등 실제 업무를 대신 처리하는 B2B 서비스가 주를 이뤘다. 국내 에이전틱 AI 스타트업 생태계가 응답형에서 실행형으로 옮겨가는 흐름을 보여준다.",
-      "scorePct": 70
+      "title": "[단독] 온라인몰 구축업체, AI 데이터 가공업체로 변신",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337731",
+      "source": "네이버",
+      "publishedDate": "2026-10-01",
+      "summary": "온라인몰 구축 솔루션을 제공하던 업체가 AI 데이터 가공 전문기업으로 사업모델을 전환한 사실이 확인됐다. 기존 고객 기반과 기술 인프라를 AI 학습용 데이터 가공 사업에 활용하는 방식이다. 전통 IT 서비스 기업의 AI 피벗 흐름을 보여주는 사례다.",
+      "scorePct": 30
     },
     {
       "rank": 2,
-      "title": "국가적 '창업 실험장' 결실… AI 고치는 AI 등 투자 유치 잇달아",
-      "url": "https://www.fnnews.com/news/202609271754359811",
-      "source": "파이낸셜뉴스",
-      "publishedDate": "2026-09-27",
-      "summary": "정부의 창업 지원 프로그램을 거친 엔터프라이즈 AI 스타트업들이 잇따라 초기 투자 유치에 성공했다. 수만 명의 지원자 중 선발된 소수 팀이 약 2개월간 AI 솔루션을 고도화하는 과정을 거쳤다. AI를 진단·개선하는 엔터프라이즈 툴이 초기 투자자들의 관심을 받고 있다는 점에서 주목된다.",
-      "scorePct": 60
+      "title": "링크알파, '금융 데이터 AI 마켓플레이스' 출시…대형 증권사 공급 개시",
+      "url": "https://www.mt.co.kr/future/2026/09/30/2026093009450690278",
+      "source": "머니투데이",
+      "publishedDate": "2026-09-30",
+      "summary": "금융 데이터 전문기업이 금융기관의 AI 서비스 개발에 맞춤형 데이터를 공급하는 '금융 데이터 AI 마켓플레이스'를 출시했다. 기업 공시와 실적발표 등 금융 데이터를 대형 증권사에 바로 제공하는 방식으로 서비스를 시작했다. 금융권의 AI 도입을 데이터 공급 측면에서 지원하는 B2B 모델이다.",
+      "scorePct": 30
     },
     {
       "rank": 3,
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "source": "TechCrunch",
-      "publishedDate": "2026-09-26",
-      "summary": "병원들이 보험 청구 처리에 AI 도구를 도입한 이후 오히려 추가 의료비 부담이 발생했다는 주장이 제기됐다. 청구 자동화가 비용 절감이 아니라 청구 건수와 복잡성 증가로 이어졌다는 분석이다. AI 도입이 항상 비용 절감으로 이어지지는 않는다는 반례로 주목된다.",
+      "publishedDate": "2026-09-28",
+      "summary": "반도체 기업이 오작동하는 AI 에이전트를 통제하기 위한 오픈 에이전트 세이프티 플랫폼을 공개했다. 소프트웨어와 하드웨어를 결합해 에이전트의 행동을 감시하고 제어하는 방식이다. AI 에이전트 도입이 확산되면서 안전 관리 수요가 커지고 있음을 보여준다.",
       "scorePct": 20
     },
     {
       "rank": 4,
-      "title": "[AI 세이프가드] ② AI도 출시 전 '안전검사'…AIDX가 키우는 싱가포르 제3자 검증 생태계",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470087",
-      "source": "네이버",
+      "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2B",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch",
       "publishedDate": "2026-09-28",
-      "summary": "모델 자체의 안전성과 그 모델을 활용한 서비스의 안전성은 별개라는 문제의식에서 출발한 AI 검증 전문기업이 싱가포르를 거점으로 성장하고 있다. 출시 전 AI 서비스를 시험·검증하는 제3자 생태계가 형성되며 새로운 서비스 카테고리로 자리잡는 모습이다. 규제 강화 흐름 속에서 이러한 검증 서비스 수요는 계속 늘어날 전망이다.",
-      "scorePct": 10
+      "summary": "AMD가 공간 지능 AI 모델을 개발하는 월드랩스를 82억 달러에 인수하기로 했다. 월드랩스는 페이페이 리가 설립한 딥러닝 스타트업으로 물리·공간 지능 분야 모델을 연구해왔다. 반도체 기업이 대형 AI 모델 스타트업을 인수하며 수직계열화에 나선 사례다.",
+      "scorePct": 20
     },
     {
       "rank": 5,
-      "title": "관악구 직원들, AI로 주민센터 반복업무 자동화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665737",
-      "source": "네이버",
+      "title": "Manus 2.0 and Cue: What Manus Launched on Sept 28",
+      "url": "https://cellcog.ai/blog/manus-2-0/",
+      "source": "CellCog",
       "publishedDate": "2026-09-28",
-      "summary": "지자체 직원들이 사내 연구모임을 통해 주민센터의 반복 업무를 자동화하는 프로그램을 직접 개발해 적용했다. 별도 외주 없이 현업 직원이 AI 도구를 활용해 일정·수강료·등록자 관리 업무를 줄인 사례다. 현장 실무자가 주도하는 소규모 AI 자동화 도입 사례로 참고할 만하다.",
-      "scorePct": 10
+      "summary": "AI 에이전트 서비스가 새로운 아키텍처를 적용한 2.0 버전과 클라우드 컴퓨터 환경을 함께 출시했다. 동시에 독립형 신제품도 별도로 공개했다. AI 에이전트 플랫폼 경쟁이 기능 고도화 방향으로 진행되고 있음을 보여준다.",
+      "scorePct": 20
     }
   ]
 }
