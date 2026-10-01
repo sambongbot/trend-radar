@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-01",
-  "headline": "> 금융·커머스 분야에서 AI 데이터·마켓플레이스형 B2B 서비스 출시가 이어졌다.\n> AMD의 월드랩스 인수로 반도체 기업들의 AI 모델 스타트업 확보 경쟁이 본격화됐다.\n> 에이전트 플랫폼 고도화와 에이전트 안전관리 영역에서 새로운 제품 공개가 잇따랐다.",
+  "date": "2026-10-02",
+  "headline": "> 오픈AI가 상시 가동형 에이전트 '닷'을 공개하며 24시간 자동화 경쟁에 불을 지폈다.\n> 국내 SI·보안 기업은 해외 투자 파트너십과 클라우드 마켓플레이스 출시로 AI SaaS 생태계 확장에 나섰다.\n> 미디어·로봇 업계에서도 AI 에이전트 활용과 자동화 협력이 빠르게 확산되고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "[단독] 온라인몰 구축업체, AI 데이터 가공업체로 변신",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337731",
+      "title": "LG CNS, 제너럴 애틀랜틱과 손잡고 글로벌 SW·AI 기업 투자",
+      "url": "https://n.news.naver.com/mnews/article/018/0006378316",
       "source": "네이버",
-      "publishedDate": "2026-10-01",
-      "summary": "온라인몰 구축 솔루션을 제공하던 업체가 AI 데이터 가공 전문기업으로 사업모델을 전환한 사실이 확인됐다. 기존 고객 기반과 기술 인프라를 AI 학습용 데이터 가공 사업에 활용하는 방식이다. 전통 IT 서비스 기업의 AI 피벗 흐름을 보여주는 사례다.",
+      "publishedDate": "2026-10-02",
+      "summary": "한 국내 IT서비스 기업이 글로벌 투자사와 협력해 해외 AI·소프트웨어 유망 기업을 발굴하고 공동 투자하는 체계를 구축한다. 기업용 소프트웨어와 AI 분야에서 투자 가치가 높은 스타트업을 선별해 투자할 계획이다.",
       "scorePct": 30
     },
     {
       "rank": 2,
-      "title": "링크알파, '금융 데이터 AI 마켓플레이스' 출시…대형 증권사 공급 개시",
-      "url": "https://www.mt.co.kr/future/2026/09/30/2026093009450690278",
-      "source": "머니투데이",
-      "publishedDate": "2026-09-30",
-      "summary": "금융 데이터 전문기업이 금융기관의 AI 서비스 개발에 맞춤형 데이터를 공급하는 '금융 데이터 AI 마켓플레이스'를 출시했다. 기업 공시와 실적발표 등 금융 데이터를 대형 증권사에 바로 제공하는 방식으로 서비스를 시작했다. 금융권의 AI 도입을 데이터 공급 측면에서 지원하는 B2B 모델이다.",
-      "scorePct": 30
+      "title": "“오늘 베스트샷 모아줘”...웨이브, 국내 OTT 최초 골프 ‘AI 시청 에이전트’ 도입",
+      "url": "https://n.news.naver.com/mnews/article/009/0005742600",
+      "source": "네이버",
+      "publishedDate": "2026-10-02",
+      "summary": "한 OTT 플랫폼이 국내 최초로 골프 중계에 AI 시청 에이전트를 도입했다. 시청자가 자연어로 원하는 장면을 요청하면 AI가 맞춤형 하이라이트 영상을 자동으로 구성해준다.",
+      "scorePct": 20
     },
     {
       "rank": 3,
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-09-28",
-      "summary": "반도체 기업이 오작동하는 AI 에이전트를 통제하기 위한 오픈 에이전트 세이프티 플랫폼을 공개했다. 소프트웨어와 하드웨어를 결합해 에이전트의 행동을 감시하고 제어하는 방식이다. AI 에이전트 도입이 확산되면서 안전 관리 수요가 커지고 있음을 보여준다.",
+      "title": "기업 AI 보안 지킨다…루카스메타, 'PQCSAFE' 구글 마켓에 출시",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421302",
+      "source": "네이버",
+      "publishedDate": "2026-10-02",
+      "summary": "한 AI 전환(AX) 솔루션 기업이 제로트러스트 보안 플랫폼을 구글 클라우드 마켓플레이스에 정식 출시했다. 기업 AI 인프라 보안을 겨냥한 B2B SaaS 제품으로, 글로벌 클라우드 마켓플레이스를 유통 채널로 택했다.",
       "scorePct": 20
     },
     {
       "rank": 4,
-      "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2B",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-09-28",
-      "summary": "AMD가 공간 지능 AI 모델을 개발하는 월드랩스를 82억 달러에 인수하기로 했다. 월드랩스는 페이페이 리가 설립한 딥러닝 스타트업으로 물리·공간 지능 분야 모델을 연구해왔다. 반도체 기업이 대형 AI 모델 스타트업을 인수하며 수직계열화에 나선 사례다.",
+      "title": "오픈AI, 24시간 작업하는 AI 에이전트 '닷' 공개…전용 클라우드 컴퓨터로 앱 4,000개 연결",
+      "url": "https://aimatters.co.kr/news-report/53547/",
+      "source": "AI매터스",
+      "publishedDate": "2026-09-30",
+      "summary": "한 AI 기업이 데브데이 행사에서 24시간 상시 작동하는 AI 에이전트를 공개했다. 전용 클라우드 컴퓨터를 통해 약 4,000개 외부 앱과 연동되며, 사람의 개입 없이 지속적으로 업무를 수행하도록 설계됐다. 기업 업무 자동화 시장에서 상시형 에이전트 경쟁이 본격화될 전망이다.",
       "scorePct": 20
     },
     {
       "rank": 5,
-      "title": "Manus 2.0 and Cue: What Manus Launched on Sept 28",
-      "url": "https://cellcog.ai/blog/manus-2-0/",
-      "source": "CellCog",
-      "publishedDate": "2026-09-28",
-      "summary": "AI 에이전트 서비스가 새로운 아키텍처를 적용한 2.0 버전과 클라우드 컴퓨터 환경을 함께 출시했다. 동시에 독립형 신제품도 별도로 공개했다. AI 에이전트 플랫폼 경쟁이 기능 고도화 방향으로 진행되고 있음을 보여준다.",
-      "scorePct": 20
+      "title": "LG전자·카카오모빌리티·로보티즈, 로봇연합 확대 모색…배송 넘어 휴머노이드까지",
+      "url": "https://n.news.naver.com/mnews/article/092/0002439590",
+      "source": "네이버",
+      "publishedDate": "2026-10-01",
+      "summary": "가전·모빌리티·로봇 기업 3곳이 배송 로봇을 넘어 휴머노이드까지 아우르는 로봇 협력 확대를 모색하고 있다. 기존 배송 로봇 서비스 연합을 휴머노이드 기반 솔루션으로 넓히는 방안이 검토되고 있다.",
+      "scorePct": 0
     }
   ]
 }

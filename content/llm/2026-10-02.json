@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”",
+    "url": "https://n.news.naver.com/mnews/article/030/0003471857",
+    "source": "네이버",
+    "publishedDate": "2026-10-02",
+    "summary": "앤트로픽이 발표한 분석에 따르면 거대언어모델과 로봇을 결합하면 미국 노동시장 전체 업무의 약 81%를 자동화할 수 있는 것으로 나타났다. 이는 LLM 단독 활용 때보다 자동화 가능 범위가 크게 확대된 수치다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI's latest features take direct aim at the app store model",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-09-29",
+    "summary": "오픈AI가 데브데이에서 상시 가동되는 AI 에이전트 '닷츠'와 신규 모델, 챗GPT 내 앱형 플러그인·자동화 기능을 한꺼번에 공개했다. 이를 통해 챗GPT를 단순 대화형 서비스를 넘어 개발자 생태계를 아우르는 플랫폼으로 확장하려는 전략을 분명히 했다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic warns that China's GLM-5.3 has cyberattack capabilities on par with Claude Mythos Preview, but its security measures are inadequate",
+    "url": "https://gigazine.net/gsc_news/en/20260930-anthropic-warned-about-glm-5-3-risk",
+    "source": "GIGAZINE",
+    "publishedDate": "2026-09-30",
+    "summary": "앤트로픽이 자체 레드팀 평가에서 중국 즈푸의 오픈웨이트 모델 GLM-5.3이 사이버공격 능력 면에서 자사의 클로드 미토스 프리뷰와 비슷한 수준에 도달했다고 경고했다. 다만 GLM-5.3은 악용을 막는 보안장치가 충분히 갖춰지지 않은 것으로 나타났다고 밝혔다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "업스테이지, 소형 LLM '솔라 미니 4' 공개…350억 파라미터 규모",
+    "url": "https://www.etnews.com/20261001000457",
+    "source": "전자신문",
+    "publishedDate": "2026-10-01",
+    "summary": "업스테이지가 350억 파라미터 규모의 소형 거대언어모델 '솔라 미니 4'를 공개했다. 양자화를 적용하면 GPU 한 장만으로도 구동할 수 있어 온디바이스·경량 환경에서의 활용 가능성을 넓혔다.",
+    "scorePct": 21
+  },
+  {
+    "rank": 5,
+    "title": "“구글 제미나이 누가 씁니까” 했는데…최상위모델 ‘아르곤’ 반전노린다",
+    "url": "https://n.news.naver.com/mnews/article/009/0005742957",
+    "source": "네이버",
+    "publishedDate": "2026-10-01",
+    "summary": "구글이 반년 넘게 미뤄온 차세대 최상위 AI 모델을 공개했지만 보안 검증을 이유로 정부·보안 전문가 등 일부에게만 먼저 공개했다. 역대 최고 벤치마크 점수를 기록했다고 자평했으나 내부에서는 실제 업무 활용성에 대한 회의적인 반응도 함께 나왔다.",
+    "scorePct": 14
+  }
+]
