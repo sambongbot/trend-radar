@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "아직도 AI로 검색만 한다면, 이 방법을 써보세요",
+    "url": "https://n.news.naver.com/mnews/article/047/0002531133",
+    "source": "네이버",
+    "publishedDate": "2026-10-04",
+    "summary": "AI를 단순 검색 도구로만 쓰는 것을 넘어, 생산성 애플리케이션과 연동해 업무에 활용하는 방법을 소개하는 기사다. 클로드 등 생성형 AI를 일상 업무 폴더와 결합해 활용하는 구체적인 사용법을 다룬다. 단순 질의응답을 넘어선 AI 활용 팁에 대한 수요가 늘고 있음을 보여준다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 2,
+    "title": "“AI가 말하는 줄”…챗GPT 쓰더니 직장인 말투까지 변했다",
+    "url": "https://n.news.naver.com/mnews/article/030/0003472173",
+    "source": "네이버",
+    "publishedDate": "2026-10-04",
+    "summary": "챗GPT와 클로드 같은 생성형 AI 사용이 늘면서 사람들의 언어 습관과 말투에도 변화가 나타나고 있다는 분석이 제기됐다. 보도에 따르면 AI가 자주 쓰는 표현이 실제 직장인들의 일상 대화에도 스며들고 있다는 것이다. 이는 생성형 AI의 영향력이 텍스트 생성을 넘어 인간의 언어 습관까지 확장되고 있음을 보여준다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-10-01",
+    "summary": "오픈AI가 기밀 정보를 외부에 공유한 혐의로 안전팀 소속 연구원 3명과 관계를 정리했다는 보도가 나왔다. 해당 연구원들은 회사 내부 정책과 안전 관련 사안을 두고 이견을 보여온 것으로 알려졌다. 이번 조치는 AI 기업 내부의 안전 거버넌스를 둘러싼 긴장을 다시 부각시킨다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Barclays scales Claude to upgrade operations and improve client experience",
+    "url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "source": "Anthropic",
+    "publishedDate": "2026-10-01",
+    "summary": "글로벌 은행 바클레이즈가 앤트로픽의 클로드 모델 활용 범위를 엔지니어링, 마켓, 고객 지원 등 전사로 확대했다. 앤트로픽은 올해 말까지 바클레이즈 개발자의 절반이 클로드 코드를 사용할 것으로 전망했다. 이는 대형 금융사의 AI 코딩 도구 도입이 실험 단계를 넘어 전사 표준화 단계로 접어들고 있음을 보여준다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "[안광섭 AI 진테제] 중국의 토큰 그레이마켓...미국AI 정가 10%에 판매",
+    "url": "https://n.news.naver.com/mnews/article/092/0002439770",
+    "source": "네이버",
+    "publishedDate": "2026-10-04",
+    "summary": "중국 베이징의 일부 사무실 밀집 지역에서 미국 AI 모델의 토큰을 정가의 10% 수준으로 되파는 그레이마켓이 형성되고 있다는 보도가 나왔다. 수출 통제로 정식 접근이 어려운 상황에서 우회 경로를 통해 저렴하게 토큰을 확보하는 거래가 확산되는 모습이다. 이는 AI 토큰 가격 책정과 접근성을 둘러싼 지역 간 격차를 보여주는 사례다.",
+    "scorePct": 21
+  }
+]
