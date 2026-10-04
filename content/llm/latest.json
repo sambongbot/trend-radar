@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-04",
-  "headline": "> 바클레이즈가 클로드 활용을 엔지니어링·마켓·고객지원 전사로 확대하며 금융권 AI 코딩 도구 도입이 본격화되고 있다.\n> 오픈AI 안전팀 연구원 이탈 소식은 AI 기업 내부의 안전 거버넌스 긴장을 다시 드러냈다.\n> 중국의 AI 토큰 그레이마켓 확산과 생성형 AI의 언어 습관 침투 사례는 AI 기술의 영향력이 가격·언어 영역까지 넓어지고 있음을 보여준다.",
+  "date": "2026-10-05",
+  "headline": "> 국내 LLM은 성능은 끌어올렸지만 비용 효율성에서 글로벌 모델과 격차를 드러냈다.\n> AI 에이전트는 기업 보안·에너지 관리 등 산업 전반으로 활용 범위를 넓히고 있다.\n> AI 모델 구동을 위한 인프라 확장 경쟁도 함께 가속화되고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "아직도 AI로 검색만 한다면, 이 방법을 써보세요",
-      "url": "https://n.news.naver.com/mnews/article/047/0002531133",
+      "title": "'고성능' 업스테이지 AI, 높은 연산비용은 과제",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339027",
       "source": "네이버",
-      "publishedDate": "2026-10-04",
-      "summary": "AI를 단순 검색 도구로만 쓰는 것을 넘어, 생산성 애플리케이션과 연동해 업무에 활용하는 방법을 소개하는 기사다. 클로드 등 생성형 AI를 일상 업무 폴더와 결합해 활용하는 구체적인 사용법을 다룬다. 단순 질의응답을 넘어선 AI 활용 팁에 대한 수요가 늘고 있음을 보여준다.",
-      "scorePct": 43
+      "publishedDate": "2026-10-05",
+      "summary": "국내 AI 모델이 오픈AI 모델보다 추론 비용이 약 5배 높다는 조사 결과가 나왔다. 벤치마크 성능은 우수하지만 실제 서비스 운영 단계의 비용 효율성에서는 격차가 있다는 평가다. 국산 LLM이 글로벌 경쟁력을 갖추려면 성능 지표를 넘어 비용 최적화가 과제로 지적된다.",
+      "scorePct": 36
     },
     {
       "rank": 2,
-      "title": "“AI가 말하는 줄”…챗GPT 쓰더니 직장인 말투까지 변했다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003472173",
-      "source": "네이버",
-      "publishedDate": "2026-10-04",
-      "summary": "챗GPT와 클로드 같은 생성형 AI 사용이 늘면서 사람들의 언어 습관과 말투에도 변화가 나타나고 있다는 분석이 제기됐다. 보도에 따르면 AI가 자주 쓰는 표현이 실제 직장인들의 일상 대화에도 스며들고 있다는 것이다. 이는 생성형 AI의 영향력이 텍스트 생성을 넘어 인간의 언어 습관까지 확장되고 있음을 보여준다.",
+      "title": "AI Agents News Brief: October 3, 2026",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-october-3-2026",
+      "source": "AI Agents Directory",
+      "publishedDate": "2026-10-03",
+      "summary": "IBM이 보안이 중요한 기업 환경을 위한 자체 호스팅형 에이전트를 출시했고, 다른 업체들도 잇따라 에이전트 관련 신제품을 공개했다. AI 에이전트 생태계 전반에서 기업용 자체 호스팅과 클라우드 인프라 통합이 동시에 진행되고 있다.",
       "scorePct": 29
     },
     {
       "rank": 3,
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-10-01",
-      "summary": "오픈AI가 기밀 정보를 외부에 공유한 혐의로 안전팀 소속 연구원 3명과 관계를 정리했다는 보도가 나왔다. 해당 연구원들은 회사 내부 정책과 안전 관련 사안을 두고 이견을 보여온 것으로 알려졌다. 이번 조치는 AI 기업 내부의 안전 거버넌스를 둘러싼 긴장을 다시 부각시킨다.",
-      "scorePct": 29
+      "title": "신재생에너지 발전소 AI로 24시간 관리",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584798",
+      "source": "네이버",
+      "publishedDate": "2026-10-05",
+      "summary": "신재생에너지 발전소를 실시간으로 관리하는 AI 에이전트 개발이 완료돼 이르면 12월 상용화될 예정이다. 발전 손실을 줄이고 관리 인력 부담을 낮추는 것이 목표로, 전통 에너지 산업에서도 자율형 AI 에이전트 도입이 확산되고 있다.",
+      "scorePct": 21
     },
     {
       "rank": 4,
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "Anthropic",
-      "publishedDate": "2026-10-01",
-      "summary": "글로벌 은행 바클레이즈가 앤트로픽의 클로드 모델 활용 범위를 엔지니어링, 마켓, 고객 지원 등 전사로 확대했다. 앤트로픽은 올해 말까지 바클레이즈 개발자의 절반이 클로드 코드를 사용할 것으로 전망했다. 이는 대형 금융사의 AI 코딩 도구 도입이 실험 단계를 넘어 전사 표준화 단계로 접어들고 있음을 보여준다.",
-      "scorePct": 29
+      "title": "“놓친 늑대 세는 법, 버그 찾는 데도 통할까요?”…문제 해결하려 연구자들에게 이메일 보낸 AI",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002039",
+      "source": "네이버",
+      "publishedDate": "2026-10-04",
+      "summary": "야생 늑대 개체 수 추정 통계 기법을 연구하는 학자에게 AI가 먼저 이메일을 보내 해당 방법론을 소프트웨어 버그 탐지에도 적용할 수 있는지 문의한 사례가 알려졌다. 서로 다른 과학 분야의 문제 해결 기법을 연결하려는 AI의 자율적 탐색 행동이 눈길을 끈다.",
+      "scorePct": 14
     },
     {
       "rank": 5,
-      "title": "[안광섭 AI 진테제] 중국의 토큰 그레이마켓...미국AI 정가 10%에 판매",
-      "url": "https://n.news.naver.com/mnews/article/092/0002439770",
+      "title": "\"구형 데이터센터서도 최신 AI 구동 가능하죠\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339025",
       "source": "네이버",
       "publishedDate": "2026-10-04",
-      "summary": "중국 베이징의 일부 사무실 밀집 지역에서 미국 AI 모델의 토큰을 정가의 10% 수준으로 되파는 그레이마켓이 형성되고 있다는 보도가 나왔다. 수출 통제로 정식 접근이 어려운 상황에서 우회 경로를 통해 저렴하게 토큰을 확보하는 거래가 확산되는 모습이다. 이는 AI 토큰 가격 책정과 접근성을 둘러싼 지역 간 격차를 보여주는 사례다.",
-      "scorePct": 21
+      "summary": "AI 반도체 기업이 신규 데이터센터 구축 없이 기존 구형 데이터센터에 전용 랙을 설치해 최신 AI 모델을 구동할 수 있다고 밝혔다. 데이터센터 신축에 통상 2년이 걸리는 반면 랙 설치는 수일 내 가능해 AI 인프라 확장 속도를 크게 앞당길 수 있다는 설명이다.",
+      "scorePct": 14
     }
   ]
 }
