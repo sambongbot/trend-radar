@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "춘천 더존비즈온, 서울시 행정 AI 플랫폼 2년 연속 공급",
+    "url": "https://n.news.naver.com/mnews/article/654/0000203949",
+    "source": "네이버",
+    "publishedDate": "2026-10-06",
+    "summary": "한 소프트웨어 기업이 서울시 행정업무용 AI 플랫폼을 2년 연속 공급하며, 단순 업무 지원을 넘어 실제 행정 업무를 수행하는 AI 에이전트 구축을 지원하고 있다. 공공 부문에서 AI 에이전트 도입이 단발성이 아닌 반복 계약으로 이어지는 사례다.",
+    "scorePct": 75
+  },
+  {
+    "rank": 2,
+    "title": "김광준 에이아이트릭스 대표 \"병원 안팎 잇는 '옴니케어' 구축…세계 1등 목표\"",
+    "url": "https://n.news.naver.com/mnews/article/008/0005422140",
+    "source": "네이버",
+    "publishedDate": "2026-10-06",
+    "summary": "한 AI 헬스케어 기업이 병원 내부 진료 데이터와 외부 생활 데이터를 연결하는 AI 플랫폼을 공개하며 글로벌 1위를 목표로 사업을 확장하고 있다. 병원 안팎을 잇는 통합형 AI 서비스로 의료 AI SaaS 시장에서 차별화를 시도하는 사례다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "5번 망한 AI브라우저의 반전…실밸이 주목한 韓 3인조 [허진의 테크토닉]",
+    "url": "https://n.news.naver.com/mnews/article/015/0005339163",
+    "source": "네이버",
+    "publishedDate": "2026-10-06",
+    "summary": "여러 차례 실패를 거친 한국인 3인조 창업팀이 만든 AI 브라우저가 웹과 로그인 정보에 인간처럼 접근하는 기능으로 실리콘밸리의 주목을 받고 있다. 대형 기술기업의 프런티어 모델보다 특정 영역에서 앞선 실행력을 보여주며 스타트업의 가능성을 입증했다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "AI agents reshape identity security",
+    "url": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+    "source": "SiliconANGLE",
+    "publishedDate": "2026-10-04",
+    "summary": "기업들이 업무에 AI 에이전트를 도입하면서 기존의 단순 접근 제어 방식을 넘어 에이전트 고유의 신원·권한 관리 체계로 보안 전략을 재설계하고 있다. AI 에이전트가 늘어날수록 사람 중심으로 설계된 기존 보안 모델의 한계가 드러나고 있다는 분석이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "SK·엔비디아도 찜한 K-스타트업…\"AI 보안으로 ‘로봇 도둑’ 원천 차단\"",
+    "url": "https://n.news.naver.com/mnews/article/029/0003051471",
+    "source": "네이버",
+    "publishedDate": "2026-10-05",
+    "summary": "국내 한 스타트업이 로봇이 명령을 수행하는 과정에서 발생할 수 있는 윤리·안전 리스크를 차단하는 AI 보안 기술을 개발해 주요 대기업들의 관심을 받고 있다. 동일한 명령이라도 상황별 위험도를 반영하지 못하는 기존 로봇 제어 방식의 한계를 보완하는 접근으로 평가된다.",
+    "scorePct": 0
+  }
+]

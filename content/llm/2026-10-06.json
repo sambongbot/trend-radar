@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code Changelog (October 2026)",
+    "url": "https://www.gradually.ai/en/changelogs/claude-code/",
+    "source": "Gradually.ai",
+    "publishedDate": "2026-10-03",
+    "summary": "Claude Code 2.1.289 버전이 중첩된 셸 명령에서 deny/ask 규칙이 제대로 동작하지 않던 문제와 터미널 멈춤 현상 등을 수정했다. 실사용 중 보고된 안정성 이슈를 겨냥한 핀포인트 패치다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI's safety firings raise awkward questions",
+    "url": "https://fortune.com/2026/10/05/openai-safety-firings-raise-awkward-questions/",
+    "source": "Fortune",
+    "publishedDate": "2026-10-05",
+    "summary": "OpenAI가 안전 연구원 3명을 해고한 사실이 알려지며 AI 안전 조직 내부의 긴장과 연구 독립성에 대한 우려가 제기됐다. 해고 배경과 절차를 둘러싼 논란이 이어지고 있다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 '콜리브리' 공개...\"소버린 AI·방산용\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215951",
+    "source": "AI타임스",
+    "publishedDate": "2026-10-04",
+    "summary": "독일 알레프 알파가 범용 대형언어모델 개발을 포기한다고 선언한 지 약 1년 만에 첫 개방형 모델 '콜리브리'를 공개했다. 독일어와 영어를 지원하며 공공 행정과 방산 등 보안·주권이 요구되는 영역을 겨냥했다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 4,
+    "title": "September sponsors-only newsletter",
+    "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-10-03",
+    "summary": "Simon Willison이 Fable 계열 모델 동향과 파운데이션 모델 업체 간 가격 경쟁 등을 다룬 9월 후원자 전용 뉴스레터를 공개했다. 업계 전반의 모델 출시와 가격 변화 흐름을 압축적으로 정리했다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic Asks Claude Users to Share Voice Recordings for AI Training With a New Opt-In Setting",
+    "url": "https://www.ghacks.net/2026/10/05/anthropic-asks-claude-users-to-share-voice-recordings-for-ai-training-with-a-new-opt-in-setting/",
+    "source": "gHacks Tech News",
+    "publishedDate": "2026-10-05",
+    "summary": "Anthropic이 Claude 사용자를 대상으로 음성 대화 데이터를 모델 학습에 활용할 수 있도록 하는 별도의 옵트인 설정을 새로 도입했다. 기존 텍스트 대화 학습 동의와는 분리되어 운영되며, 사용자가 명시적으로 켜야만 음성 데이터가 수집된다.",
+    "scorePct": 29
+  }
+]
