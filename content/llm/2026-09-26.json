@@ -15,7 +15,7 @@
     "source": "The Neuron",
     "publishedDate": "2026-09-23",
     "summary": "2026년 9월 23일 하루 동안의 AI 업계 소식을 정리한 다이제스트로, Claude Opus 5.5와 GPT-6 Sol/Luna 출시를 포함해 모델 출시·에이전트 도구·업계 동향을 다룬다.",
-    "scorePct": 43
+    "scorePct": 33
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "source": "TechCrunch",
     "publishedDate": "2026-09-23",
     "summary": "앤트로픽이 베이 에어리어에 신설한 생물학 웻랩 겸 생명과학 연구팀이 첫 연구 성과를 발표했다. Claude 에이전트가 자율적으로 CRISPR 유사 반복 구조를 가진 새로운 박테리오파지 효소 시스템을 식별해냈다.",
-    "scorePct": 43
+    "scorePct": 33
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "source": "네이버",
     "publishedDate": "2026-09-26",
     "summary": "앤트로픽의 클로드가 국내 모바일 AI 앱 시장에서 월간 사용자 수와 신규 설치 수 모두 챗GPT에 이어 2위를 굳혔다. 이는 아이지에이웍스 모바일인덱스 조사 결과다.",
-    "scorePct": 29
+    "scorePct": 17
   },
   {
     "rank": 5,
@@ -42,7 +42,7 @@
     "source": "네이버",
     "publishedDate": "2026-09-26",
     "summary": "마이크로소프트가 챗봇에서 에이전트로 진화한 새 코파일럿을 공개하며 AI 시대의 새로운 운영체제를 표방했다. 나델라 CEO는 AI가 인간의 대체재가 아니라 인적자본과 토큰자본의 시너지가 필요하다고 밝혔다.",
-    "scorePct": 29
+    "scorePct": 17
   },
   {
     "rank": 6,
@@ -51,6 +51,6 @@
     "source": "9to5Google",
     "publishedDate": "2026-09-24",
     "summary": "구글이 제미나이 4가 post-training 정제 단계에 들어갔으며 \"가능한 한 빨리\" 출시하겠다고 밝혔다. 사전학습을 마치고 정렬·튜닝 공정만 남은 상태로, 프런티어 모델 경쟁의 다음 라운드가 임박했음을 시사한다.",
-    "scorePct": 29
+    "scorePct": 17
   }
 ]
