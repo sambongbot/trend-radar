@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "모노플로우 \"기관 AI 플랫폼 '모노GPT' 누적 납품 800곳 육박\"",
+    "url": "https://n.news.naver.com/mnews/article/092/0002440178",
+    "source": "네이버",
+    "publishedDate": "2026-10-08",
+    "summary": "기관용 멀티 AI 플랫폼을 운영하는 AI 서비스 기업이 누적 납품 기관 수가 750~800곳에 이른다고 밝혔다. 지난 8월 말 650곳이었던 데서 두 달여 사이 100곳 이상 늘어난 수치로, 공공·기관 영역에서 AI 플랫폼 도입이 빠르게 확산되고 있음을 보여준다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 2,
+    "title": "에이에쓰아이, AI 서비스 비교·통합 구독 플랫폼 출시",
+    "url": "https://zdnet.co.kr/view/?no=20261006110020",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-10-06",
+    "summary": "한 기업이 약 150개 AI 서비스 정보를 제공하는 AIaaS 비교·통합 구독 플랫폼을 공식 출시했다. 사용자는 최대 4개 서비스를 선택해 핵심 기능과 프롬프트, 이용료를 한 화면에서 비교할 수 있어, 난립하는 AI 서비스 중 선택에 어려움을 겪는 사용자의 부담을 줄여준다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "엔지니어링 AI '빈치', 2억5000만달러 투자유치…밸류 15억달러",
+    "url": "https://wowtale.net/2026/10/07/265966/",
+    "source": "와우테일",
+    "publishedDate": "2026-10-07",
+    "summary": "엔지니어링 분야에 특화한 AI 스타트업이 시리즈B 투자에서 2억5000만달러를 유치하며 기업가치 15억달러를 인정받았다. 산업 특화 AI 솔루션에 대형 투자가 몰리는 흐름을 보여주는 사례다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "Hadrian raises $40m to counter AI-driven hacking threats",
+    "url": "https://fintech.global/2026/10/07/hadrian-raises-40m-to-counter-ai-driven-hacking-threats",
+    "source": "Fintech.Global",
+    "publishedDate": "2026-10-07",
+    "summary": "AI 기반 공격적 보안(오펜시브 시큐리티) 플랫폼을 제공하는 스타트업이 4000만달러 규모의 투자를 유치했다. AI 에이전트가 늘어나면서 이를 겨냥한 보안 위협에 대응하는 전문 플랫폼 수요가 커지고 있다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "KT 모두의 AI, 12월 전 국민 출시",
+    "url": "https://n.news.naver.com/mnews/article/417/0001160341",
+    "source": "네이버",
+    "publishedDate": "2026-10-07",
+    "summary": "한 통신사가 질문 유형에 따라 국산 AI 모델 5종을 골라 쓰는 멀티모델 방식의 대중용 AI 서비스를 12월 전 국민 대상으로 정식 출시한다. 하나의 모델이 모든 기능을 담당하는 대신 상황에 맞는 모델을 선택하는 구조로, 대중 대상 AI 서비스의 운영 방식에 변화를 보여준다.",
+    "scorePct": 0
+  }
+]
