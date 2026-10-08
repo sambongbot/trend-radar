@@ -43,5 +43,14 @@
     "publishedDate": "2026-10-07",
     "summary": "AI 코딩 도구에 의존해 개발 생산성을 높인 팀들이 장기적으로 핵심 개발 역량을 잃을 수 있다는 우려가 제기됐다. AI가 만든 코드를 검증·유지보수할 역량이 약화되면 수년 내 더 큰 위험으로 돌아올 수 있다는 경고다.",
     "scorePct": 8
+  },
+  {
+    "rank": 6,
+    "title": "Mistral debuts Large 4 'Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release",
+    "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
+    "source": "VentureBeat",
+    "publishedDate": "2026-10-06",
+    "summary": "미스트랄이 1조 파라미터(활성 490억) 규모의 신형 모델 '라지 4(르 총크)' 프리뷰를 공개했다. 고성능 벤치마크를 내세우며 추후 오픈 웨이트 공개도 예고했다.",
+    "scorePct": 0
   }
 ]

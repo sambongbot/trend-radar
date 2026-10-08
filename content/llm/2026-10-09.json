@@ -1,0 +1,29 @@
+[
+  {
+    "rank": 1,
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-10-07",
+    "summary": "오픈AI가 신형 GPT-6 모델 출시와 함께 챗GPT에 텍스트·이미지·인터랙티브 요소를 결합한 '인텔리전트 UI'를 선보였다. 대화형 인터페이스가 한층 시각적인 형태로 전환됐다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 2,
+    "title": "Claude Platform release notes — browser/computer use tool SDK classes, Max/Team API credits",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview",
+    "source": "Claude Platform Docs",
+    "publishedDate": "2026-10-07",
+    "summary": "앤트로픽 플랫폼 릴리스 노트에 파이썬·타입스크립트 SDK용 브라우저 사용·컴퓨터 사용 도구의 베타 클래스가 추가됐다. 맥스·팀 플랜 사용자를 위한 API 크레딧 제공 내용도 함께 공개됐다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 3,
+    "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+    "source": "AI타임스",
+    "publishedDate": "2026-10-07",
+    "summary": "앤트로픽이 소형 모델 '클로드 하이쿠 5.5'를 공개했다. 10만 토큰 이하 요청 기준 입력·출력 가격을 기존보다 최대 90% 인하했으며, 하이쿠 모델 최초로 작업 강도(추론 노력) 조절 기능을 탑재했다.",
+    "scorePct": 17
+  }
+]

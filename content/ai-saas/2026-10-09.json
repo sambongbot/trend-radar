@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "클러쉬, AIDC급 풀스택 AI 플랫폼 ‘엑셀레온’ 선봬",
+    "url": "https://n.news.naver.com/mnews/article/018/0006384286",
+    "source": "네이버",
+    "publishedDate": "2026-10-09",
+    "summary": "한 AI 인프라 기업이 GPU·NPU 등 하드웨어 자원 관리부터 데이터 운영, AI 에이전트 실행까지 하나로 묶은 풀스택 AI 플랫폼을 선보였다. 여러 벤더에 흩어진 AI 인프라와 운영 도구를 단일 체계로 통합하려는 시도다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "KT, 'AI 페스타 2026'서 기업용 에이전틱 AI '에이전틱 온' 첫 공개",
+    "url": "https://www.mt.co.kr/tech/2026/10/06/2026100609035029152",
+    "source": "머니투데이",
+    "publishedDate": "2026-10-06",
+    "summary": "한 대형 통신사가 기업용 에이전틱 AI 플랫폼을 처음 공개했다. AI 에이전트 개발, 모델 활용, 기업 데이터 연동, 운영 관리 기능을 하나의 체계로 묶었다.",
+    "scorePct": 88
+  },
+  {
+    "rank": 3,
+    "title": "디오, 국내 임플란트 업계 최초 AI 기반 AX 플랫폼 공개",
+    "url": "https://n.news.naver.com/mnews/article/144/0001143012",
+    "source": "네이버",
+    "publishedDate": "2026-10-09",
+    "summary": "국내 임플란트 업계 최초로 임상 데이터와 AI 기술을 결합한 AX 플랫폼이 공개됐다. 진료 전 과정의 디지털 전환을 목표로 한다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "딥시크, 투자 수요 폭발…IPO 전 자금 조달 규모 2배 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216026",
+    "source": "AI타임스",
+    "publishedDate": "2026-10-06",
+    "summary": "한 중국 AI 스타트업이 예상보다 큰 투자 수요에 자금 조달 규모를 당초 계획의 두 배로 확대했다. 개인 투자자 참여는 제한하고 정부·기업 계열 투자기구 중심으로 조달을 진행 중이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "\"어떤 AI 쓸지 SKT가 골라준다\"…정재헌의 새 승부수",
+    "url": "https://n.news.naver.com/mnews/article/421/0009218340",
+    "source": "네이버",
+    "publishedDate": "2026-10-08",
+    "summary": "한 통신사가 기업·개인 고객의 목적에 맞춰 적합한 AI 모델과 인프라를 선택해 연결해주는 사업을 추진한다. 여러 AI 모델 중 하나를 직접 고를 필요 없이 중개받는 방식이다.",
+    "scorePct": 25
+  }
+]
