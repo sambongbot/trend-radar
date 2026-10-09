@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "a16z leads $16M seed for AI data startup Preference Model",
+    "url": "https://dealroom.co/news/160734-a16z-leads-16m-seed-for-ai-data-startup-preference-model/",
+    "source": "Dealroom",
+    "publishedDate": "2026-10-07",
+    "summary": "AI 데이터 스타트업 프리퍼런스 모델이 안드리센 호로위츠 주도로 160억원 규모 시드 투자를 유치하며 스텔스 모드를 벗어났다. 모델 학습에 쓰이는 선호도(preference) 데이터 구축을 핵심 사업으로 한다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 2,
+    "title": "Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value",
+    "source": "Bloomberg",
+    "publishedDate": "2026-10-09",
+    "summary": "텍스트 대신 유형화된 의사결정을 직접 반환하는 '제브(Jev)' 모델 개발사 타입세이프AI가 안드리센 호로위츠 주도로 약 8700억원을 유치하며 기업가치 7조5000억원대를 인정받았다. 전통적 텍스트 생성형 LLM과 달리 구조화된 판단 출력에 특화한 점이 투자자의 관심을 끌었다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 3,
+    "title": "Oracle streamlines workflows with ChatGPT and Codex",
+    "url": "https://cryptobriefing.com/oracle-chatgpt-codex-workflows-adoption/",
+    "source": "CryptoBriefing",
+    "publishedDate": "2026-10-08",
+    "summary": "오라클이 채용·엔지니어링·운영 전반에 챗GPT와 코덱스를 도입해 내부 업무의 80%까지 적용했다고 밝혔다. 특정 부서가 아니라 전사적 워크플로 전반에 생성형 AI를 결합한 사례로 꼽힌다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "메타 AI 에이전트 '뮤즈', 아이패드 전용 앱 출시",
+    "url": "https://aimatters.co.kr/news-report/54551/",
+    "source": "AI매터스",
+    "publishedDate": "2026-10-07",
+    "summary": "메타가 개인용 AI 에이전트 '뮤즈'의 아이패드 전용 앱을 출시하며 업무용 커넥터와 쇼핑 결제 기능까지 확대했다. 모바일 출시 한 달여 만에 플랫폼을 넓히며 멀티 디바이스 에이전트 전략을 본격화하고 있다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "MessageGears Adds MCP, Agent-Ready APIs, and Built-In Predictive Models",
+    "url": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=176955",
+    "source": "destinationCRM",
+    "publishedDate": "2026-10-08",
+    "summary": "마케팅 자동화 플랫폼 메시지기어스가 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 연동용 API, 내장형 예측 모델을 새로 공개했다. AI 에이전트가 고객 데이터에 직접 접근해 캠페인을 자동화할 수 있는 구조를 갖췄다. 마케팅 SaaS 영역에서도 에이전트 연동이 기본 기능으로 자리잡는 흐름을 보여준다.",
+    "scorePct": 13
+  }
+]
