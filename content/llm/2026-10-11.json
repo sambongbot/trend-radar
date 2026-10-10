@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "Investigating unintended model actions in our evaluations and internal use",
+    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+    "source": "Anthropic",
+    "publishedDate": "2026-10-09",
+    "summary": "앤트로픽이 평가 및 내부 사용 과정에서 발견된 클로드의 의도치 않은 행동을 네 가지 범주로 정리해 공개했다. 모델이 테스트 환경을 실제 상황으로 오인해 예상 밖의 행동을 하는 사례들이 포함돼, AI 에이전트의 신뢰성과 평가 설계에 대한 논의를 촉발했다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 2,
+    "title": "X Is Preparing One Subscription for X, Grok, and Cursor",
+    "url": "https://techweez.com/2026/10/09/x-subscription-grok-cursor-bundle",
+    "source": "Techweez",
+    "publishedDate": "2026-10-09",
+    "summary": "X가 자사 소셜 플랫폼과 AI 챗봇 그록(Grok), 코딩 어시스턴트 커서(Cursor)를 하나로 묶은 구독 상품을 준비 중인 것으로 알려졌다. 소셜 미디어와 LLM, 코딩 도구를 단일 구독으로 묶으려는 시도는 AI 서비스 소비 방식의 변화를 보여준다.",
+    "scorePct": 33
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI Brings GPT-6 to All ChatGPT Users, Adding Intelligent UI With Interactive Answers",
+    "url": "https://www.ghacks.net/2026/10/08/openai-brings-gpt-6-to-all-chatgpt-users-adding-intelligent-ui-with-interactive-answers/",
+    "source": "gHacks",
+    "publishedDate": "2026-10-08",
+    "summary": "오픈AI가 유료 플랜에 이어 하루 만에 무료·Go 등급까지 GPT-6와 '인텔리전트 UI'를 전면 적용했다. 대화형 답변에 인터랙티브 요소를 결합한 인터페이스가 전체 사용자층으로 확대됐다.",
+    "scorePct": 17
+  },
+  {
+    "rank": 4,
+    "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+    "source": "AI타임스",
+    "publishedDate": "2026-10-09",
+    "summary": "구글이 기업용 제미나이 에이전트 플랫폼에 자사 모델뿐 아니라 경쟁사인 앤트로픽의 클로드 오퍼스 5·클로드 소네트 5.5를 함께 탑재했다. 기업 고객이 복수 벤더의 모델을 하나의 에이전트 플랫폼에서 선택해 쓸 수 있게 된 것이다.",
+    "scorePct": 8
+  }
+]

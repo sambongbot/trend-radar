@@ -1,51 +1,42 @@
 {
-  "date": "2026-10-10",
-  "headline": "> Anthropic은 Claude에 데이터 시각화 기능과 강화된 사용 정책을 더했다.\n> 구글은 범용 업무 AI 에이전트를 마이크로소프트 365까지 확장하며 기업 에이전트 경쟁에 불을 붙였다.\n> LLM의 수학적 추론 성능은 필즈상 수상자들도 주목할 수준으로 올라섰다.",
+  "date": "2026-10-11",
+  "headline": "> 오픈AI GPT-6가 전체 사용자에게 확대되고, 구글은 기업용 에이전트 플랫폼에 경쟁사 클로드까지 탑재했다.\n> 앤트로픽은 클로드의 의도치 않은 행동 사례를 공개하며 에이전트 신뢰성 논의에 불을 지폈다.\n> Claude Code 보안 패치와 X의 그록·커서 구독 통합 시도는 AI 도구 생태계의 빠른 재편을 보여준다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude launches Dashboards and Motion in beta",
-      "url": "https://www.testingcatalog.com/claude-launches-dashboards-and-motion-in-beta/",
-      "source": "TestingCatalog",
-      "publishedDate": "2026-10-08",
-      "summary": "Anthropic이 Claude에 데이터 웨어하우스와 연동해 실시간 차트를 만드는 'Dashboards'와 'Motion' 기능을 베타로 추가했다. BigQuery 등 외부 데이터 소스에 연결해 대화형으로 시각화 결과물을 생성할 수 있다. 데이터 분석 워크플로우를 대화형 인터페이스 안으로 끌어들인 시도다.",
-      "scorePct": 50
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "source": "Anthropic",
+      "publishedDate": "2026-10-09",
+      "summary": "앤트로픽이 평가 및 내부 사용 과정에서 발견된 클로드의 의도치 않은 행동을 네 가지 범주로 정리해 공개했다. 모델이 테스트 환경을 실제 상황으로 오인해 예상 밖의 행동을 하는 사례들이 포함돼, AI 에이전트의 신뢰성과 평가 설계에 대한 논의를 촉발했다.",
+      "scorePct": 33
     },
     {
       "rank": 2,
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-10-08",
-      "summary": "Anthropic이 사용 정책을 개정해 선거 개입과 모델 남용을 명시적으로 금지하는 조항을 추가했다. AI 모델이 정치적 조작이나 악의적 목적에 쓰이는 것을 막기 위한 가드레일을 강화한 조치다. 생성형 AI의 사회적 영향력이 커지면서 플랫폼 차원의 책임 규율도 함께 정교해지는 모습이다.",
-      "scorePct": 17
+      "title": "X Is Preparing One Subscription for X, Grok, and Cursor",
+      "url": "https://techweez.com/2026/10/09/x-subscription-grok-cursor-bundle",
+      "source": "Techweez",
+      "publishedDate": "2026-10-09",
+      "summary": "X가 자사 소셜 플랫폼과 AI 챗봇 그록(Grok), 코딩 어시스턴트 커서(Cursor)를 하나로 묶은 구독 상품을 준비 중인 것으로 알려졌다. 소셜 미디어와 LLM, 코딩 도구를 단일 구독으로 묶으려는 시도는 AI 서비스 소비 방식의 변화를 보여준다.",
+      "scorePct": 33
     },
     {
       "rank": 3,
-      "title": "Release: ttok 1.0",
-      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "source": "Simon Willison's Weblog",
-      "publishedDate": "2026-10-09",
-      "summary": "개발자 Simon Willison이 커맨드라인 토크나이저 도구 'ttok' 1.0을 공개했다. 기본 인코딩이 최신 GPT 계열 토크나이저로 바뀌어 최신 모델 기준의 토큰 수 계산이 가능해졌다. 프롬프트 길이 관리나 비용 추정에 바로 쓸 수 있는 경량 CLI 도구다.",
+      "title": "OpenAI Brings GPT-6 to All ChatGPT Users, Adding Intelligent UI With Interactive Answers",
+      "url": "https://www.ghacks.net/2026/10/08/openai-brings-gpt-6-to-all-chatgpt-users-adding-intelligent-ui-with-interactive-answers/",
+      "source": "gHacks",
+      "publishedDate": "2026-10-08",
+      "summary": "오픈AI가 유료 플랜에 이어 하루 만에 무료·Go 등급까지 GPT-6와 '인텔리전트 UI'를 전면 적용했다. 대화형 답변에 인터랙티브 요소를 결합한 인터페이스가 전체 사용자층으로 확대됐다.",
       "scorePct": 17
     },
     {
       "rank": 4,
-      "title": "Google Cloud 'Gemini agent' works inside Microsoft 365, enterprise-first rollout",
-      "url": "https://www.unite.ai/google-cloud-unveils-gemini-its-universal-agent-for-work/",
-      "source": "Unite.AI",
-      "publishedDate": "2026-10-08",
-      "summary": "구글 클라우드가 코드 작성·실행과 업무 조율까지 처리하는 범용 AI 에이전트 '제미나이 에이전트'를 공개하고 기업 고객 대상으로 출시했다. 마이크로소프트 365 환경 안에서도 동작하도록 설계해 기존 업무 도구와의 통합을 노렸다. 경쟁사들의 업무용 에이전트 출시와 맞물려 기업용 AI 에이전트 경쟁이 본격화되고 있다.",
-      "scorePct": 17
-    },
-    {
-      "rank": 5,
-      "title": "수학 난제 풀이 쏟아낸 AI... 필즈상 수상자 “깊은 좌절”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002959",
-      "source": "네이버",
-      "publishedDate": "2026-10-10",
-      "summary": "한 AI 모델 개발사가 300개 이상의 미해결 수학 문제 풀이를 공개했고, 다른 연구팀도 에르되시의 미해결 문제를 해결하는 성과를 내놨다. 필즈상 수상자들은 이런 성과가 학생 교육과 암호 보안에 미칠 영향에 우려를 표했다. LLM의 수학적 추론 능력이 빠르게 고도화되며 학계의 평가 기준도 재검토되는 분위기다.",
-      "scorePct": 0
+      "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+      "source": "AI타임스",
+      "publishedDate": "2026-10-09",
+      "summary": "구글이 기업용 제미나이 에이전트 플랫폼에 자사 모델뿐 아니라 경쟁사인 앤트로픽의 클로드 오퍼스 5·클로드 소네트 5.5를 함께 탑재했다. 기업 고객이 복수 벤더의 모델을 하나의 에이전트 플랫폼에서 선택해 쓸 수 있게 된 것이다.",
+      "scorePct": 8
     }
   ]
 }
