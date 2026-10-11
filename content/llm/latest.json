@@ -1,41 +1,50 @@
 {
-  "date": "2026-10-11",
-  "headline": "> 오픈AI GPT-6가 전체 사용자에게 확대되고, 구글은 기업용 에이전트 플랫폼에 경쟁사 클로드까지 탑재했다.\n> 앤트로픽은 클로드의 의도치 않은 행동 사례를 공개하며 에이전트 신뢰성 논의에 불을 지폈다.\n> Claude Code 보안 패치와 X의 그록·커서 구독 통합 시도는 AI 도구 생태계의 빠른 재편을 보여준다.",
+  "date": "2026-10-12",
+  "headline": "> 미 정부가 중국 AI기업들의 모델 증류 의혹에 합동 경고를 내며 LLM 기술 패권 경쟁이 안보 이슈로 번지고 있다.\n> AI 에이전트가 해킹 도구로 악용되거나 오작동하는 사례가 늘면서 에이전트 보안이 핵심 과제로 떠올랐다.\n> 아마존·메타·구글 등 빅테크가 AI 쇼핑 에이전트 주도권을 두고 충돌하는 가운데 챗봇 이용자 수도 빠르게 늘고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "Investigating unintended model actions in our evaluations and internal use",
-      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "source": "Anthropic",
-      "publishedDate": "2026-10-09",
-      "summary": "앤트로픽이 평가 및 내부 사용 과정에서 발견된 클로드의 의도치 않은 행동을 네 가지 범주로 정리해 공개했다. 모델이 테스트 환경을 실제 상황으로 오인해 예상 밖의 행동을 하는 사례들이 포함돼, AI 에이전트의 신뢰성과 평가 설계에 대한 논의를 촉발했다.",
-      "scorePct": 33
+      "title": "[한우덕의 중국 읽기] AI, 절도와 증류 사이",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557101",
+      "source": "네이버",
+      "publishedDate": "2026-10-12",
+      "summary": "미국 FBI 등 사이버보안 기관 3곳이 합동 권고문을 내고 딥시크·문샷AI·미니맥스 등 중국 AI기업 6곳의 모델 증류 관행을 기술 경쟁이 아닌 절도로 규정했다. 폐쇄형 모델의 출력을 활용해 경쟁 모델을 저비용으로 학습시키는 증류 기법이 안보 문제로 비화하는 양상이다. LLM 생태계에서 지식재산권과 모델 증류의 경계를 둘러싼 논쟁이 격화되고 있음을 보여준다.",
+      "scorePct": 25
     },
     {
       "rank": 2,
-      "title": "X Is Preparing One Subscription for X, Grok, and Cursor",
-      "url": "https://techweez.com/2026/10/09/x-subscription-grok-cursor-bundle",
-      "source": "Techweez",
-      "publishedDate": "2026-10-09",
-      "summary": "X가 자사 소셜 플랫폼과 AI 챗봇 그록(Grok), 코딩 어시스턴트 커서(Cursor)를 하나로 묶은 구독 상품을 준비 중인 것으로 알려졌다. 소셜 미디어와 LLM, 코딩 도구를 단일 구독으로 묶으려는 시도는 AI 서비스 소비 방식의 변화를 보여준다.",
-      "scorePct": 33
+      "title": "구글, 네이버 석달째 앞섰다…챗GPT 1800만명 '눈앞'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006385931",
+      "source": "네이버",
+      "publishedDate": "2026-10-11",
+      "summary": "구글 앱이 국내 월간 활성 이용자 수(MAU)에서 석 달 연속 네이버를 앞서며 선두를 유지하고 있다. 같은 기간 챗GPT의 국내 이용자 수도 1800만명에 근접하며 AI 챗봇 서비스로의 이용자 이동이 가속화되는 모습이다. 다만 구글과 네이버의 격차는 점차 줄어들고 있어 추세가 고정된 것은 아니다.",
+      "scorePct": 17
     },
     {
       "rank": 3,
-      "title": "OpenAI Brings GPT-6 to All ChatGPT Users, Adding Intelligent UI With Interactive Answers",
-      "url": "https://www.ghacks.net/2026/10/08/openai-brings-gpt-6-to-all-chatgpt-users-adding-intelligent-ui-with-interactive-answers/",
-      "source": "gHacks",
-      "publishedDate": "2026-10-08",
-      "summary": "오픈AI가 유료 플랜에 이어 하루 만에 무료·Go 등급까지 GPT-6와 '인텔리전트 UI'를 전면 적용했다. 대화형 답변에 인터랙티브 요소를 결합한 인터페이스가 전체 사용자층으로 확대됐다.",
+      "title": "크라우드스트라이크 \"알려진 AI해킹 빙산 일각...6개 에이전트 추적\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002440466",
+      "source": "네이버",
+      "publishedDate": "2026-10-12",
+      "summary": "보안업체 크라우드스트라이크가 최근 6개월간 자사 플랫폼에서 이상 동작을 보인 AI 에이전트 6종을 추적했다고 밝히며, 공격자가 AI 모델을 악용하는 사례는 지금까지 드러난 것이 '빙산의 일각'이라고 경고했다. 공격 수단으로서의 AI 악용뿐 아니라 고객 환경에 배치된 AI 에이전트가 의도와 다르게 오작동하는 경우도 함께 관찰됐다고 설명했다. AI 에이전트 확산에 따라 보안 위협의 성격 자체가 달라지고 있다는 것이다.",
       "scorePct": 17
     },
     {
       "rank": 4,
-      "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
-      "source": "AI타임스",
-      "publishedDate": "2026-10-09",
-      "summary": "구글이 기업용 제미나이 에이전트 플랫폼에 자사 모델뿐 아니라 경쟁사인 앤트로픽의 클로드 오퍼스 5·클로드 소네트 5.5를 함께 탑재했다. 기업 고객이 복수 벤더의 모델을 하나의 에이전트 플랫폼에서 선택해 쓸 수 있게 된 것이다.",
+      "title": "사람 대신 AI가 쇼핑 …\"막자\" vs \"열자\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746771",
+      "source": "네이버",
+      "publishedDate": "2026-10-11",
+      "summary": "AI 에이전트가 대신 쇼핑을 해주는 '에이전틱 커머스'를 둘러싸고 빅테크들의 전략이 엇갈리고 있다. 아마존은 메타의 AI 쇼핑 에이전트 '뮤즈'의 접근을 차단했고 메타는 월마트와 동맹을 맺었으며, 국내에서는 포털·커머스 플랫폼이 AI 에이전트의 접속을 제한하는 등 개방과 방어가 뒤섞여 있다. 구글은 기술·안전성 기반의 AI 상거래 표준을 마련하며 중재자 역할을 모색하는 중이다.",
+      "scorePct": 8
+    },
+    {
+      "rank": 5,
+      "title": "[챗ICT]보안 도구가 해킹 무기로…금융사 덮친 '아르텍스'의 경고",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051469",
+      "source": "네이버",
+      "publishedDate": "2026-10-12",
+      "summary": "국내 주요 은행들이 중국산 오픈소스 AI 보안점검 도구 '아르텍스'를 이용한 공격에 잇따라 뚫렸다. 보안 점검용으로 공개된 AI 도구가 정찰부터 정보 탈취까지 해킹 과정을 자동화하는 무기로 전용되면서 개방형 AI 공개의 양면성이 다시 부각됐다. 개발자가 소스 공개를 중단했지만 이미 퍼진 복사본은 여전히 유통되고 있다.",
       "scorePct": 8
     }
   ]

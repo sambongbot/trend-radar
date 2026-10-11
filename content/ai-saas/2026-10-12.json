@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "포스코DX, 인핸스에 20억원 투자…산업 특화 에이전틱 AI 키운다",
+    "url": "https://zdnet.co.kr/view/?no=20261011121021",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-10-11",
+    "summary": "포스코DX가 포스코기술투자와 공동 조성한 CVC를 통해 온톨로지 기반 AI 에이전트 기업 인핸스에 20억원 규모 전략적 투자를 집행했다. 기업 데이터와 업무 노하우를 구조화해 실제 업무를 수행하는 에이전틱 AI 고도화가 투자 목적으로 꼽힌다.",
+    "scorePct": 63
+  },
+  {
+    "rank": 2,
+    "title": "\"SIEM 모니터링 생성AI로 확대\"...로그프레소, 연동 앱 출시",
+    "url": "https://n.news.naver.com/mnews/article/092/0002440450",
+    "source": "네이버",
+    "publishedDate": "2026-10-12",
+    "summary": "통합보안 기업 로그프레소가 생성형 AI 사용 기록을 기존 보안 로그와 통합 분석하는 챗GPT 엔터프라이즈 연동 앱을 출시했다. SIEM 플랫폼의 모니터링 범위를 AI 사용 현황까지 넓힌 것이 핵심이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 3,
+    "title": "\"룸서비스 되나요?\" 말 걸었더니…호텔 직원의 '반전 정체'",
+    "url": "https://n.news.naver.com/mnews/article/015/0005341273",
+    "source": "네이버",
+    "publishedDate": "2026-10-12",
+    "summary": "호텔업계에서 AI 활용 범위가 단순 문의 응대를 넘어 예약, 룸서비스, 결제 등 실제 운영 업무까지 확장되고 있다. 야놀자의 호스피탈리티 솔루션을 통해 AI가 직원처럼 고객 요청을 직접 처리하는 사례가 나타나고 있다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "source": "The Verge",
+    "publishedDate": "2026-10-10",
+    "summary": "주요 AI 기업들이 에이전트 서비스 경쟁에서 프라이버시 보호를 핵심 차별점으로 내세우고 있다. 사용자가 더 많은 개인정보를 공유하도록 유도하는 과정에서 실제 약속이 지켜질지에 대한 의문도 함께 제기되고 있다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "엔비디아, AI 스타트업 리플렉션 추가 투자·인수 검토…핵심 인력 확보도 논의",
+    "url": "https://n.news.naver.com/mnews/article/366/0001197201",
+    "source": "네이버",
+    "publishedDate": "2026-10-11",
+    "summary": "엔비디아가 AI 스타트업 리플렉션 AI에 대한 추가 투자 또는 인수를 검토 중인 것으로 알려졌다. 회사 전체 인수보다는 핵심 연구인력 영입과 기술 사용권 확보에 무게를 둔 협상이 진행되고 있는 것으로 전해진다.",
+    "scorePct": 0
+  }
+]
