@@ -1,6 +1,15 @@
 [
   {
     "rank": 1,
+    "title": "'버티컬AI' 파고든 초기 스타트업들…10월 첫주 벤처투자 몰렸다",
+    "url": "https://www.mt.co.kr/amp/future/2026/10/11/2026101114143790821",
+    "source": "머니투데이",
+    "publishedDate": "2026-10-11",
+    "summary": "10월 첫째 주 국내 벤처투자는 특정 산업의 문제를 해결하는 '버티컬 AI' 스타트업에 집중됐다. 영상 제작·콘텐츠 현지화, 헬스케어, 회계·문서 업무, 이커머스 데이터 분석 등 분야별 특화 기업들이 투자를 유치했다. 범용 AI 모델 경쟁을 넘어 산업별 특화 서비스로 투자 관심이 이동하는 흐름을 보여준다.",
+    "scorePct": 63
+  },
+  {
+    "rank": 2,
     "title": "포스코DX, 인핸스에 20억원 투자…산업 특화 에이전틱 AI 키운다",
     "url": "https://zdnet.co.kr/view/?no=20261011121021",
     "source": "ZDNet Korea",
@@ -9,7 +18,7 @@
     "scorePct": 63
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "\"SIEM 모니터링 생성AI로 확대\"...로그프레소, 연동 앱 출시",
     "url": "https://n.news.naver.com/mnews/article/092/0002440450",
     "source": "네이버",
@@ -18,7 +27,7 @@
     "scorePct": 25
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "\"룸서비스 되나요?\" 말 걸었더니…호텔 직원의 '반전 정체'",
     "url": "https://n.news.naver.com/mnews/article/015/0005341273",
     "source": "네이버",
@@ -27,7 +36,16 @@
     "scorePct": 25
   },
   {
-    "rank": 4,
+    "rank": 5,
+    "title": "[위클리 인텔리전스 #24] 국내는 피지컬AI·우주 확장, 해외는 AI 인프라·양자·오픈소스 메가딜",
+    "url": "https://wowtale.net/2026/10/11/266050/",
+    "source": "와우테일",
+    "publishedDate": "2026-10-11",
+    "summary": "10월 둘째 주 해외 AI 투자 시장에서는 AI 인프라 기업이 20억 달러 규모의 투자를 유치하며 주간 최대 딜을 기록했다. 동시에 오픈소스·오픈웨이트 모델을 내세운 기업들도 잇따라 대규모 자금을 조달해 공개형 모델 경쟁이 가속화되는 모습이다. AI 인프라와 오픈소스 생태계 양쪽에 대형 자금이 동시에 몰린 한 주였다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 6,
     "title": "AI agent makers are promising privacy — will they deliver?",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
     "source": "The Verge",
@@ -36,7 +54,7 @@
     "scorePct": 25
   },
   {
-    "rank": 5,
+    "rank": 7,
     "title": "엔비디아, AI 스타트업 리플렉션 추가 투자·인수 검토…핵심 인력 확보도 논의",
     "url": "https://n.news.naver.com/mnews/article/366/0001197201",
     "source": "네이버",
