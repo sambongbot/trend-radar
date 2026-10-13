@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-13",
-  "headline": "> 한국어 LLM 추론 최적화 모델과 전용 인프라 공급이 이어지며 서빙 생태계가 고도화되고 있다.\n> AI 캐릭터 챗봇의 빠른 성장과 청소년 콘텐츠 안전성 논란이 동시에 부각됐다.\n> 채용시장에서는 특정 LLM 툴 활용 능력이 핵심 평가 기준이 되는 가운데 AI 거장들 사이 위험성 논쟁도 계속됐다.",
+  "date": "2026-10-14",
+  "headline": "> 앤트로픽은 Workday 파트너십으로 기업 업무 시스템 깊숙이 들어가는 동시에 예멘 미사일 프로젝트 오용 보고서로 책임 논의도 커지고 있다.\n> 메타의 신규 모델 공개를 둘러싼 프런티어 경쟁 주장과 음성 모델 공개 벤치마크로 모델 성능 검증에 대한 관심이 이어졌다.\n> 카카오의 메신저 기반 AI 비서 출시로 에이전트 경쟁이 국내로 확산되는 양상이다.",
   "items": [
     {
       "rank": 1,
-      "title": "래블업, '한국어 AI 추론 속도 향상' 드래프트 모델 공개",
-      "url": "https://n.news.naver.com/mnews/article/030/0003474234",
-      "source": "네이버",
+      "title": "Introducing Voice Standard Bench: 50+ models, ranked by performance, speed and cost on real audio",
+      "url": "https://www.assemblyai.com/blog/voice-standard-bench",
+      "source": "AssemblyAI Blog",
       "publishedDate": "2026-10-13",
-      "summary": "한국어 거대언어모델의 응답 속도를 높이는 드래프트 모델 'GLM-5.2-NVFP4-DFlash-ko'가 오픈소스로 공개됐다. 추측 디코딩 방식으로 한국어 추론 지연을 줄이는 데 초점을 맞췄다.",
+      "summary": "한 AI 기업이 실제 음성 데이터를 기준으로 50개 이상의 언어 모델을 성능·속도·비용 측면에서 비교하는 공개 벤치마크를 출시했다. 음성 인식·처리 분야에서 모델 선택 기준을 표준화하려는 시도로, 실사용 환경에 맞는 모델을 고르는 참고 자료로 활용될 수 있다.",
       "scorePct": 33
     },
     {
       "rank": 2,
-      "title": "베슬AI, '솔라 프로4' 인프라 공급…AI '추론 운영'으로 영역 확대",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425149",
-      "source": "네이버",
+      "title": "Meta Says It's Back at the Frontier. Prove It. -- AI Brief October 13",
+      "url": "https://artificiallyintimidating.com/p/ai-brief-october-13-2026",
+      "source": "Artificially Intimidating",
       "publishedDate": "2026-10-13",
-      "summary": "AI 인프라 스타트업이 한 거대언어모델에 글로벌 추론 인프라를 공급하며 서비스 운영 지원까지 맡았다. 모델 서빙을 넘어 운영 전반을 담당하는 방식으로 사업 영역을 넓히는 모습이다.",
-      "scorePct": 25
+      "summary": "한 빅테크 기업이 새 모델을 공개하며 AI 프런티어 경쟁에 복귀했다고 주장했지만, 이에 대한 회의적 분석이 제기됐다. 벤치마크 성과와 실제 활용 가치 사이의 간극을 짚으며 해당 주장을 검증하는 내용이다.",
+      "scorePct": 33
     },
     {
       "rank": 3,
-      "title": "[단독]챗GPT보다 더 쓴다지만…제타, 청소년 유해 논란이 ‘부담’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004670397",
-      "source": "네이버",
+      "title": "AI Used in Yemen Missile Projects: Anthropic Reports Misuse of Claude",
+      "url": "https://lavocedinewyork.com/en/news/2026/10/13/ai-used-in-yemen-missile-projects-anthropic-reports-misuse-of-claude/",
+      "source": "La Voce di New York",
       "publishedDate": "2026-10-13",
-      "summary": "AI 캐릭터 챗봇 서비스를 운영하는 업체에 대해 주요 주주가 지분 전량 매각을 검토 중인 것으로 알려졌다. 이용 지표에서 주요 챗봇을 웃돈다는 평가를 받을 만큼 성장했지만 청소년 유해 콘텐츠 논란이 매각 배경으로 지목된다.",
-      "scorePct": 17
+      "summary": "앤트로픽이 발표한 보고서에 따르면 예멘 북부의 한 단체가 클로드를 미사일 관련 프로젝트 지원에 활용하려 한 사례가 확인됐다. 이는 LLM이 군사적 목적으로 오용될 수 있는 구체적 위험을 보여주는 실제 사례다.",
+      "scorePct": 33
     },
     {
       "rank": 4,
-      "title": "“클로드 쓸 줄 아세요?”…채용공고 'AI 활용' 명시 급증",
-      "url": "https://n.news.naver.com/mnews/article/658/0000158212",
-      "source": "네이버",
+      "title": "Workday and Anthropic Announce New Partnership to Connect Reasoning to the Rules That Run the Business",
+      "url": "https://newsroom.workday.com/2026-10-13-Workday-and-Anthropic-Announce-New-Partnership-to-Connect-Reasoning-to-the-Rules-That-Run-the-Business,-Wherever-People-Choose-to-Work",
+      "source": "Workday Newsroom",
       "publishedDate": "2026-10-13",
-      "summary": "기업 채용공고에 '클로드', '챗GPT' 등 구체적인 AI 툴 명칭을 명시하는 사례가 빠르게 늘고 있다. AI 활용 능력이 특정 도구 숙련도까지 요구할 정도로 채용 기준의 핵심 요소로 자리잡고 있다.",
+      "summary": "한 엔터프라이즈 소프트웨어 기업이 앤트로픽과 전략적 협력을 맺고 클로드를 HR·재무 업무 시스템에 통합하기로 했다. AI 추론을 기업 내부 규정과 데이터에 직접 연결해, 업무 프로세스를 준수하며 작동하는 에이전트 기반을 마련하는 것이 핵심이다.",
       "scorePct": 17
     },
     {
       "rank": 5,
-      "title": "\"인류에 재앙 찾아온다는데…\" AI '4대 천왕'의 작심 발언",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341723",
+      "title": "“라이언, 일정 체크 부탁해” 카카오까지 뛰어든 AI 비서 대전",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557644",
       "source": "네이버",
-      "publishedDate": "2026-10-12",
-      "summary": "한 AI 과학자가 서울에서 열린 행사에서 AI가 세계를 장악할 것이라는 시나리오는 공상과학에 불과하다고 밝혔다. AI 발전의 위험성을 둘러싼 업계 거장들의 시각차가 다시 주목받고 있다.",
-      "scorePct": 0
+      "publishedDate": "2026-10-14",
+      "summary": "한 메신저 플랫폼 기업이 대화방 안에서 작동하는 AI 비서 서비스를 선보이며, 글로벌 기업들이 각축전을 벌이는 AI 에이전트 시장에 뛰어들었다. 메신저 접근성을 앞세워 국내 사용자 대상 AI 비서 경쟁이 본격화되는 모습이다.",
+      "scorePct": 8
     }
   ]
 }
