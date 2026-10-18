@@ -19,15 +19,6 @@
   },
   {
     "rank": 3,
-    "title": "[AI혁명](215)\"韓 상품 역직구 구매·배송·통관까지 AI로 쉽고 빠르게\"",
-    "url": "https://n.news.naver.com/mnews/article/277/0005818688",
-    "source": "네이버",
-    "publishedDate": "2026-09-20",
-    "summary": "역직구 물류 기업이 상품 정보 확인, 주문 처리, 배송비 예측 등 국경 간 커머스의 다단계 업무에 AI를 접목해 자동화했다. 해외 소비자의 구매부터 배송·통관까지 이어지는 과정의 마찰을 줄이는 것이 목표다.",
-    "scorePct": 25
-  },
-  {
-    "rank": 4,
     "title": "[테크톡노트] AI에 '안전벨트'를 채워라…하네스가 필요한 이유",
     "url": "https://n.news.naver.com/mnews/article/001/0016322193",
     "source": "네이버",
@@ -36,16 +27,16 @@
     "scorePct": 25
   },
   {
-    "rank": 5,
-    "title": "[이번주투자] 인핸스 512억…신약‧방산‧로봇에도 투자 이어져",
-    "url": "https://startuprecipe.co.kr/archives/5834578",
-    "source": "스타트업레시피",
-    "publishedDate": "2026-09-19",
-    "summary": "9월 셋째 주 국내 스타트업 31곳이 투자를 유치했고, 금액을 공개한 14곳의 합계는 2,227억원이다. 엔터프라이즈 에이전틱 AI 기업이 512억원으로 최대 규모를 기록했으며 신약·방산·로봇 분야로도 자금이 이어졌다.",
-    "scorePct": 0
+    "rank": 4,
+    "title": "[AI혁명](215)\"韓 상품 역직구 구매·배송·통관까지 AI로 쉽고 빠르게\"",
+    "url": "https://n.news.naver.com/mnews/article/277/0005818688",
+    "source": "네이버",
+    "publishedDate": "2026-09-20",
+    "summary": "역직구 물류 기업이 상품 정보 확인, 주문 처리, 배송비 예측 등 국경 간 커머스의 다단계 업무에 AI를 접목해 자동화했다. 해외 소비자의 구매부터 배송·통관까지 이어지는 과정의 마찰을 줄이는 것이 목표다.",
+    "scorePct": 25
   },
   {
-    "rank": 6,
+    "rank": 5,
     "title": "업스테이지 “GPU 격차, 효율로 좁힌다”…韓 AI 3사 프런티어 전략",
     "url": "https://n.news.naver.com/mnews/article/138/0002242073",
     "source": "네이버",

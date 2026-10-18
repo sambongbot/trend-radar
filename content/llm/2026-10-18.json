@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code May 23 Update: Background Sessions Improvements and /code-review Command",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "source": "Anthropic Claude Code Changelog",
+    "publishedDate": "2026-05-23",
+    "summary": "Claude Code 2.1.302 버전이 공개되며 클라이언트 측에서 자동 모델을 선택하는 기능과 유휴 시간 코드 압축 제어, Vim 괄호 매칭 등 편집 기능이 추가됐다. 개발자 워크플로우의 세부 편의성을 높이는 업데이트다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 2,
+    "title": "[AI is] 코딩부터 보안까지…구글의 실무형AI '제미나이4 아르곤'",
+    "url": "https://n.news.naver.com/mnews/article/293/0000091725",
+    "source": "네이버",
+    "publishedDate": "2026-10-18",
+    "summary": "구글이 코딩과 보안 업무에 특화된 신규 모델 '제미나이 4 아르곤'을 공개했다. 실무 적용에 초점을 맞춘 성능 개선으로 제미나이 라인업의 실용성을 강화했다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "Cloud Agent Canvases and Environment Improvements",
+    "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+    "source": "Cursor Changelog",
+    "publishedDate": "2026-10-16",
+    "summary": "커서의 클라우드 에이전트가 작업을 수행하는 동안 대시보드나 리포트 같은 인터랙티브 캔버스를 직접 생성할 수 있게 됐다. 에이전트 실행 환경도 함께 개선돼 결과물을 더 풍부하게 확인할 수 있다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+    "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations",
+    "source": "The Quantum Insider",
+    "publishedDate": "2026-10-17",
+    "summary": "클로드 모델이 폐쇄 루프 환경에서 8개의 양자 회로를 재설계해 핵심 연산에 필요한 자원을 크게 줄이는 성과를 냈다는 연구 결과가 공개됐다. 비용이 큰 양자 연산을 줄여 양자 컴퓨팅의 자원 병목 문제를 완화할 가능성을 보여준다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "DeepSeek V4.1 Flash 1017: Terminal-Bench 31.2 to 42.3",
+    "url": "https://www.explainx.ai/blog/deepseek-v4-1-flash-1017-open-weights-mit-terminal-bench-4-42-benchmarks-pricing-2026",
+    "source": "ExplainX.ai",
+    "publishedDate": "2026-10-17",
+    "summary": "딥시크의 V4.1-Flash-1017 업데이트가 터미널벤치 점수를 31.2에서 42.3으로 끌어올리면서도 비용 수준은 유지했다. 오픈 가중치와 MIT 라이선스를 유지해 개발자가 자유롭게 활용할 수 있다는 점도 특징이다.",
+    "scorePct": 29
+  }
+]

@@ -19,6 +19,15 @@
   },
   {
     "rank": 3,
+    "title": "\"어떤 AI 쓸지 SKT가 골라준다\"…정재헌의 새 승부수",
+    "url": "https://n.news.naver.com/mnews/article/421/0009218340",
+    "source": "네이버",
+    "publishedDate": "2026-10-08",
+    "summary": "한 통신사가 기업·개인 고객의 목적에 맞춰 적합한 AI 모델과 인프라를 선택해 연결해주는 사업을 추진한다. 여러 AI 모델 중 하나를 직접 고를 필요 없이 중개받는 방식이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
     "title": "디오, 국내 임플란트 업계 최초 AI 기반 AX 플랫폼 공개",
     "url": "https://n.news.naver.com/mnews/article/144/0001143012",
     "source": "네이버",
@@ -27,21 +36,12 @@
     "scorePct": 25
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "딥시크, 투자 수요 폭발…IPO 전 자금 조달 규모 2배 확대",
     "url": "https://www.aitimes.com/news/articleView.html?idxno=216026",
     "source": "AI타임스",
     "publishedDate": "2026-10-06",
     "summary": "한 중국 AI 스타트업이 예상보다 큰 투자 수요에 자금 조달 규모를 당초 계획의 두 배로 확대했다. 개인 투자자 참여는 제한하고 정부·기업 계열 투자기구 중심으로 조달을 진행 중이다.",
-    "scorePct": 25
-  },
-  {
-    "rank": 5,
-    "title": "\"어떤 AI 쓸지 SKT가 골라준다\"…정재헌의 새 승부수",
-    "url": "https://n.news.naver.com/mnews/article/421/0009218340",
-    "source": "네이버",
-    "publishedDate": "2026-10-08",
-    "summary": "한 통신사가 기업·개인 고객의 목적에 맞춰 적합한 AI 모델과 인프라를 선택해 연결해주는 사업을 추진한다. 여러 AI 모델 중 하나를 직접 고를 필요 없이 중개받는 방식이다.",
     "scorePct": 25
   }
 ]

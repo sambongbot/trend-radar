@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-10-17",
+    "summary": "코딩 에이전트 플랫폼 Replit이 OpenAI 모델을 기본값으로 전환하며 기존 Anthropic과의 협력 관계를 사실상 종료했다. 비용과 성능을 둘러싼 모델 공급사 교체가 코딩 에이전트 생태계에서 빈번해지고 있음을 보여주는 사례다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "Claude cracks a 25-year NSA number mystery",
+    "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+    "source": "CoinDesk",
+    "publishedDate": "2026-10-17",
+    "summary": "Claude가 1990년대 말 NSA가 제공한 NIST 타원곡선 시드값의 생성 방식을 추적해 25년간 미제로 남아있던 암호학적 의문을 해소했다. 암호학자 필리포 발소르다가 걸었던 현상금도 이번 성과로 해결됐다고 확인됐다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 3,
+    "title": "엔비디아 ‘네모트론 3.5 슈퍼 VL’ 공개…성능보다 속도에 중점을 둔 미국 오픈 모델 [고든 정의 TECH+]",
+    "url": "https://n.news.naver.com/mnews/article/081/0003689999",
+    "source": "네이버",
+    "publishedDate": "2026-10-18",
+    "summary": "엔비디아가 성능보다 처리 속도에 초점을 맞춘 오픈 모델 '네모트론 3.5 슈퍼 VL'을 공개했다. 폐쇄형 모델과 중국산 오픈 모델이 양분하던 시장에 미국발 오픈 모델 선택지를 늘렸다는 평가다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 4,
+    "title": "딥시크, AI 모델 성능 높이고 비용 줄였다…미 빅테크에 ‘저가 공세’",
+    "url": "https://n.news.naver.com/mnews/article/032/0003476876",
+    "source": "네이버",
+    "publishedDate": "2026-10-18",
+    "summary": "중국 딥시크가 성능을 높이고 운영 비용은 대폭 낮춘 신규 모델을 공개했다. 복잡한 작업을 스스로 처리하는 AI 에이전트 시장을 겨냥한 행보로, 미국 주요 모델 대비 낮은 비용이 핵심 경쟁력으로 제시됐다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "AI 쓰라면서 토큰은 아껴라?..삼성도 고민하는 'AX 청구서'[이슈속으로]",
+    "url": "https://n.news.naver.com/mnews/article/008/0005427839",
+    "source": "네이버",
+    "publishedDate": "2026-10-18",
+    "summary": "기업들이 AI 전환에 속도를 내면서 급증하는 토큰 사용 비용이 새로운 경영 부담으로 떠오르고 있다. 대기업들도 부서별 AI 토큰 사용량을 점검하고 비용 최적화 방안을 모색하는 단계에 들어섰다.",
+    "scorePct": 21
+  }
+]

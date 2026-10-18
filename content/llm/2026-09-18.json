@@ -6,33 +6,42 @@
     "source": "TechCrunch",
     "publishedDate": "2026-09-16",
     "summary": "앤트로픽이 별도 제품이던 Claude Cowork를 일반 채팅 경험과 하나의 Claude 인터페이스로 통합한다. 통합 환경에는 Docs·Slides 등 문서 작성 도구가 새로 포함돼, 대화와 에이전트형 작업을 오가는 흐름이 한 화면에서 처리된다.",
-    "scorePct": 50
+    "scorePct": 57
   },
   {
     "rank": 2,
+    "title": "Claude Code v2.1.223 (Aug 5, 2026) — Every Release, Summarized",
+    "url": "https://www.havoptic.com/tools/claude-code",
+    "source": "Havoptic",
+    "publishedDate": "2026-08-05",
+    "summary": "Claude Code v2.1.274가 메모리 사용량이 임계치에 달하면 경고를 표시하는 기능과 MCP 서버 기동을 제어하는 CLAUDE_CODE_MCP_STARTUP 설정을 추가했다. 장시간 세션에서의 안정성과 MCP 연동 제어권을 손보는 업데이트다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
     "title": "Exclusive: Microsoft AI chief blasts Anthropic's notion of AI consciousness",
     "url": "https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness",
     "source": "Axios",
     "publishedDate": "2026-09-16",
     "summary": "마이크로소프트 AI 총괄 무스타파 술레이만이 에세이를 통해 앤트로픽의 Claude 학습 방식, 특히 모델에 자아·의식 가능성을 시사하는 헌장 문구를 정면 비판했다. 지능은 의식과 같지 않으며 모델이 자기 이해를 갖도록 유도하는 것은 통제 문제를 키운다는 주장이다.",
-    "scorePct": 33
+    "scorePct": 43
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "GitHub Copilot CLI v1.0.85 — Every Release, Summarized",
     "url": "https://www.havoptic.com/tools/github-copilot",
     "source": "Havoptic",
     "publishedDate": "2026-09-16",
     "summary": "GitHub Copilot CLI v1.0.85가 Vim 모드를 정식 기능으로 전환하고 /config 사이드바 화면과 샌드박스 관련 옵션을 추가했다. 터미널 기반 코딩 에이전트의 조작 방식과 실행 격리를 다듬는 방향이다.",
-    "scorePct": 33
+    "scorePct": 43
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
     "url": "https://mistral.ai/news/mistral-x-mozilla/",
     "source": "Mistral AI",
     "publishedDate": "2026-09-16",
     "summary": "미스트랄 AI 모델이 파이어폭스의 Smart Window 베타에 탑재돼 브라우징 어시스턴트를 구동한다. 프라이버시 보존과 다국어 지원을 앞세워, 브라우저 내장 AI를 빅테크 모델에 의존하지 않고 구성하는 선택지를 제시한다.",
-    "scorePct": 17
+    "scorePct": 29
   }
 ]
