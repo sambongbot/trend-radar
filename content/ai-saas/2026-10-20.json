@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "\"국산 LLM AI 에이전트 글로벌 상용화\"…K-유니콘들 손잡았다",
+    "url": "https://n.news.naver.com/mnews/article/008/0005428418",
+    "source": "네이버",
+    "publishedDate": "2026-10-20",
+    "summary": "국내 AI 에이전트 플랫폼 기업과 LLM 기업이 손잡고 국산 거대언어모델을 기업 현장에 적용해 AI 에이전트 상용화를 확대하기로 했다. 양사는 이번 협약을 통해 기업용 AI 에이전트의 해외 진출까지 함께 추진할 계획이다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "엘로리안, 시각 추론 AI '글림프스' 공개…일부 평가서 아스트라 앞서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216403",
+    "source": "AI타임스",
+    "publishedDate": "2026-10-19",
+    "summary": "한 AI 스타트업이 시각 추론에 특화한 새로운 AI 모델을 공개하며 일부 벤치마크에서 기존 경쟁 모델을 앞서는 성능을 보였다. 이 기업은 제품 공개 전부터 3억달러의 기업가치를 인정받아 5500만달러의 시드 투자를 유치한 바 있다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "10주만에 고객·PoC 확보하고 첫 매출까지…'스파크클로 1기' 성과",
+    "url": "https://n.news.naver.com/mnews/article/008/0005428614",
+    "source": "네이버",
+    "publishedDate": "2026-10-20",
+    "summary": "한 액셀러레이터의 AI 네이티브 창업가 육성 프로그램에서 참여 팀들이 10주 만에 고객과 PoC를 확보하고 첫 매출까지 올리는 성과를 냈다. 다수의 참여 팀이 신규 고객 확보와 PoC 계약 실적을 함께 보고했다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "SK  AX \"영업 분석, 3일→3분으로 단축\"⋯기업 AI 네이티브 엔터프라이즈 전환 속도",
+    "url": "https://n.news.naver.com/mnews/article/031/0001067316",
+    "source": "네이버",
+    "publishedDate": "2026-10-20",
+    "summary": "한 기업이 자체 구축한 AI 어시스턴트를 통해 수일이 걸리던 영업 분석 업무를 약 3분으로 단축하는 성과를 거뒀다. 기업용 AI 도입이 실질적인 업무 효율화로 이어진 구체적 사례로 꼽힌다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "[단독] 누군가 당신의 리뷰를 팔고 있다…쿠팡·올영 덮친 ‘AI크롤링’",
+    "url": "https://n.news.naver.com/mnews/article/005/0001879624",
+    "source": "네이버",
+    "publishedDate": "2026-10-20",
+    "summary": "대형 온라인 쇼핑 플랫폼의 소비자 리뷰를 AI 크롤링 기술로 수집해 정리·분석한 뒤 판매하는 서비스가 확산하고 있다. 이는 플랫폼과 판매자 모두에게 데이터 활용 기회와 함께 저작권·약관 위반 우려를 동시에 제기한다.",
+    "scorePct": 13
+  }
+]

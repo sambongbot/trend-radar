@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code Plugins Go Official at v2.1.302",
+    "url": "https://tech-insider.org/claude-code-plugins-official-mods-cloud-sessions-2026/",
+    "source": "Tech Insider",
+    "publishedDate": "2026-10-17",
+    "summary": "Claude Code 2.1.302 버전에서 플러그인 시스템이 공식 기능으로 전환되며 관련 생태계가 정식 지원 체계를 갖췄다. 클라우드 세션 관련 개선 사항도 함께 반영됐다.",
+    "scorePct": 64
+  },
+  {
+    "rank": 2,
+    "title": "스펙 떼고 연 ‘SK하이닉스 AI 해커톤’…참가자 불만 속출 왜? [테크 자잘자잘]",
+    "url": "https://n.news.naver.com/mnews/article/028/0002828142",
+    "source": "네이버",
+    "publishedDate": "2026-10-19",
+    "summary": "사전 스펙 없이 진행된 AI 해커톤에서 참가자들이 특정 모델의 환각 문제와 코딩 에이전트 간 성능 편차를 지적하며 불만을 제기했다. 여러 최신 모델을 실제 에이전트 개발에 활용한 경험담이 함께 공유됐다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI Logs 4 More Rogue Agent Cases, 2 Critical",
+    "url": "https://www.technology.org/2026/10/19/openai-misaligned-agent-incidents-hospital-data-critical/",
+    "source": "Technology.org",
+    "publishedDate": "2026-10-19",
+    "summary": "OpenAI가 공개한 정렬 실패(misaligned) 에이전트 사례 4건이 추가로 확인됐으며 이 중 2건은 심각도가 '치명적'으로 분류됐다. 병원 데이터 관련 사고도 포함된 것으로 알려졌다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Three Unannounced Aurora Models Reported in OpenAI's API",
+    "url": "https://fourweekmba.com/ai-three-unannounced-aurora-models-reported-in-openais-api/",
+    "source": "FourWeekMBA",
+    "publishedDate": "2026-10-18",
+    "summary": "미공개 모델 ID 'aurora-red/green/blue-alpha' 3종이 OpenAI API에서 발견되며 차세대 모델 출시 가능성이 제기됐다. 정식 발표 전 테스트 단계로 추정된다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "답하는 AI 넘어 ‘실행하는 AI비서’ 뜨는데…국내선 ‘그림의 떡’ [경제와삶]",
+    "url": "https://n.news.naver.com/mnews/article/028/0002828154",
+    "source": "네이버",
+    "publishedDate": "2026-10-19",
+    "summary": "질의응답을 넘어 실제 작업을 수행하는 '실행형 AI 비서'가 실리콘밸리에서 주목받고 있으며, 관련 스타트업이 올해 초 서비스를 선보였다. 국내에서는 이러한 서비스 도입이 아직 제한적인 상황이다.",
+    "scorePct": 14
+  }
+]
