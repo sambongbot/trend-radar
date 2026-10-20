@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "AI 추론 비용 최대 10분의 1로…오픈소스 'llm-d 1.0' 공개, 기업용 AI 대규모 운영 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
+    "source": "인공지능신문(AI타임스kr)",
+    "publishedDate": "2026-10-20",
+    "summary": "IBM, 레드햇, 구글클라우드, 엔비디아 등이 참여한 오픈소스 분산 추론 프로젝트 llm-d 1.0이 정식 공개됐다. 쿠버네티스 네이티브 구조로 대규모 모델 서빙을 지원하며, 에이전트 기반 작업의 토큰당 추론 비용을 상용 API 대비 최대 5~10배 낮출 수 있다고 밝혔다. 대형 클라우드·칩 업체들이 공동 참여한 만큼 기업용 LLM 운영 표준으로 자리잡을 가능성이 주목된다.",
+    "scorePct": 64
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic wants outside input on Claude's values. But who gets the final say?",
+    "url": "https://www.nbcnews.com/tech/innovation/anthropic-wants-input-claudes-values-gets-final-say-rcna603440",
+    "source": "NBC News",
+    "publishedDate": "2026-10-18",
+    "summary": "앤트로픽이 Claude의 가치 판단 기준을 어떻게 설정할지에 대해 외부 전문가와 이해관계자의 의견을 수렴하는 공개 협의 절차를 시작했다고 밝혔다. 윤리학자와 커뮤니티 대표 등이 참여해 모델의 응답 원칙 수립에 관여하게 된다. 다만 최종 결정권을 누가 갖는지는 여전히 불분명하다는 지적이 나온다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "통합 AI 인프라 개발 위해 5社 손잡아",
+    "url": "https://hankyung.com/article/2026101914691",
+    "source": "한국경제",
+    "publishedDate": "2026-10-19",
+    "summary": "한 클라우드 업체가 NPU·LLM·시스템 통합 업체 등 4개사와 손잡고 NPU 기반 소버린 AI 풀스택 상품 공동 개발을 위한 업무협약을 체결했다. 국산 NPU와 LLM, 클라우드 인프라를 결합해 해외 의존도를 낮춘 통합 AI 스택을 구축하는 것이 목표다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "트럼프 행정부, 미 연방기관서 중국 딥시크 퇴출 추진",
+    "url": "https://n.news.naver.com/mnews/article/028/0002828360",
+    "source": "네이버",
+    "publishedDate": "2026-10-21",
+    "summary": "미국 국토안보부가 연방관보 공고를 통해 모든 연방 민간기관에 중국 AI 기업 딥시크의 제품 사용을 금지하도록 명령했다. 트럼프 행정부는 보안 우려를 이유로 들었으며, 이는 중국산 AI 모델에 대한 미국 정부 차원의 규제가 구체화되는 사례로 꼽힌다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "한국, 미국·중국·영국 등 6개국과 'AI 준비도' 최상위 평가",
+    "url": "https://n.news.naver.com/mnews/article/030/0003476810",
+    "source": "네이버",
+    "publishedDate": "2026-10-21",
+    "summary": "한국이 글로벌 AI 성숙도 평가에서 미국, 중국, 영국 등과 함께 최상위 그룹에 처음 포함됐다. 독자적인 AI 모델 개발 역량과 컴퓨팅 인프라 확충을 위한 대규모 공공 투자가 주요 요인으로 꼽혔다.",
+    "scorePct": 21
+  }
+]

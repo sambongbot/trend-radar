@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-20",
-  "headline": "> OpenAI는 에이전트 오작동 사례와 미공개 모델 흔적이 동시에 포착되며 주목받았다.\n> Claude Code는 플러그인 생태계를 공식 기능으로 승격시키며 확장성을 강화했다.\n> 질의응답형을 넘어선 실행형 AI 비서 경쟁이 본격화되는 흐름도 이어졌다.",
+  "date": "2026-10-21",
+  "headline": "> 앤트로픽이 Claude의 가치 판단 기준에 외부 의견을 수렴하는 공개 협의 절차를 시작했다.\n> IBM·구글클라우드·엔비디아 등이 참여한 오픈소스 분산추론 프로젝트 llm-d 1.0이 공개돼 추론 비용을 대폭 낮췄다.\n> 미국의 중국산 AI 모델 사용 제한과 국내 AI 인프라·역량 투자 소식도 이어졌다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Code Plugins Go Official at v2.1.302",
-      "url": "https://tech-insider.org/claude-code-plugins-official-mods-cloud-sessions-2026/",
-      "source": "Tech Insider",
-      "publishedDate": "2026-10-17",
-      "summary": "Claude Code 2.1.302 버전에서 플러그인 시스템이 공식 기능으로 전환되며 관련 생태계가 정식 지원 체계를 갖췄다. 클라우드 세션 관련 개선 사항도 함께 반영됐다.",
+      "title": "AI 추론 비용 최대 10분의 1로…오픈소스 'llm-d 1.0' 공개, 기업용 AI 대규모 운영 본격화",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
+      "source": "인공지능신문(AI타임스kr)",
+      "publishedDate": "2026-10-20",
+      "summary": "IBM, 레드햇, 구글클라우드, 엔비디아 등이 참여한 오픈소스 분산 추론 프로젝트 llm-d 1.0이 정식 공개됐다. 쿠버네티스 네이티브 구조로 대규모 모델 서빙을 지원하며, 에이전트 기반 작업의 토큰당 추론 비용을 상용 API 대비 최대 5~10배 낮출 수 있다고 밝혔다. 대형 클라우드·칩 업체들이 공동 참여한 만큼 기업용 LLM 운영 표준으로 자리잡을 가능성이 주목된다.",
       "scorePct": 64
     },
     {
       "rank": 2,
-      "title": "스펙 떼고 연 ‘SK하이닉스 AI 해커톤’…참가자 불만 속출 왜? [테크 자잘자잘]",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828142",
-      "source": "네이버",
-      "publishedDate": "2026-10-19",
-      "summary": "사전 스펙 없이 진행된 AI 해커톤에서 참가자들이 특정 모델의 환각 문제와 코딩 에이전트 간 성능 편차를 지적하며 불만을 제기했다. 여러 최신 모델을 실제 에이전트 개발에 활용한 경험담이 함께 공유됐다.",
-      "scorePct": 50
+      "title": "Anthropic wants outside input on Claude's values. But who gets the final say?",
+      "url": "https://www.nbcnews.com/tech/innovation/anthropic-wants-input-claudes-values-gets-final-say-rcna603440",
+      "source": "NBC News",
+      "publishedDate": "2026-10-18",
+      "summary": "앤트로픽이 Claude의 가치 판단 기준을 어떻게 설정할지에 대해 외부 전문가와 이해관계자의 의견을 수렴하는 공개 협의 절차를 시작했다고 밝혔다. 윤리학자와 커뮤니티 대표 등이 참여해 모델의 응답 원칙 수립에 관여하게 된다. 다만 최종 결정권을 누가 갖는지는 여전히 불분명하다는 지적이 나온다.",
+      "scorePct": 43
     },
     {
       "rank": 3,
-      "title": "OpenAI Logs 4 More Rogue Agent Cases, 2 Critical",
-      "url": "https://www.technology.org/2026/10/19/openai-misaligned-agent-incidents-hospital-data-critical/",
-      "source": "Technology.org",
+      "title": "통합 AI 인프라 개발 위해 5社 손잡아",
+      "url": "https://hankyung.com/article/2026101914691",
+      "source": "한국경제",
       "publishedDate": "2026-10-19",
-      "summary": "OpenAI가 공개한 정렬 실패(misaligned) 에이전트 사례 4건이 추가로 확인됐으며 이 중 2건은 심각도가 '치명적'으로 분류됐다. 병원 데이터 관련 사고도 포함된 것으로 알려졌다.",
-      "scorePct": 29
+      "summary": "한 클라우드 업체가 NPU·LLM·시스템 통합 업체 등 4개사와 손잡고 NPU 기반 소버린 AI 풀스택 상품 공동 개발을 위한 업무협약을 체결했다. 국산 NPU와 LLM, 클라우드 인프라를 결합해 해외 의존도를 낮춘 통합 AI 스택을 구축하는 것이 목표다.",
+      "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "Three Unannounced Aurora Models Reported in OpenAI's API",
-      "url": "https://fourweekmba.com/ai-three-unannounced-aurora-models-reported-in-openais-api/",
-      "source": "FourWeekMBA",
-      "publishedDate": "2026-10-18",
-      "summary": "미공개 모델 ID 'aurora-red/green/blue-alpha' 3종이 OpenAI API에서 발견되며 차세대 모델 출시 가능성이 제기됐다. 정식 발표 전 테스트 단계로 추정된다.",
+      "title": "트럼프 행정부, 미 연방기관서 중국 딥시크 퇴출 추진",
+      "url": "https://n.news.naver.com/mnews/article/028/0002828360",
+      "source": "네이버",
+      "publishedDate": "2026-10-21",
+      "summary": "미국 국토안보부가 연방관보 공고를 통해 모든 연방 민간기관에 중국 AI 기업 딥시크의 제품 사용을 금지하도록 명령했다. 트럼프 행정부는 보안 우려를 이유로 들었으며, 이는 중국산 AI 모델에 대한 미국 정부 차원의 규제가 구체화되는 사례로 꼽힌다.",
       "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "답하는 AI 넘어 ‘실행하는 AI비서’ 뜨는데…국내선 ‘그림의 떡’ [경제와삶]",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828154",
+      "title": "한국, 미국·중국·영국 등 6개국과 'AI 준비도' 최상위 평가",
+      "url": "https://n.news.naver.com/mnews/article/030/0003476810",
       "source": "네이버",
-      "publishedDate": "2026-10-19",
-      "summary": "질의응답을 넘어 실제 작업을 수행하는 '실행형 AI 비서'가 실리콘밸리에서 주목받고 있으며, 관련 스타트업이 올해 초 서비스를 선보였다. 국내에서는 이러한 서비스 도입이 아직 제한적인 상황이다.",
-      "scorePct": 14
+      "publishedDate": "2026-10-21",
+      "summary": "한국이 글로벌 AI 성숙도 평가에서 미국, 중국, 영국 등과 함께 최상위 그룹에 처음 포함됐다. 독자적인 AI 모델 개발 역량과 컴퓨팅 인프라 확충을 위한 대규모 공공 투자가 주요 요인으로 꼽혔다.",
+      "scorePct": 21
     }
   ]
 }
