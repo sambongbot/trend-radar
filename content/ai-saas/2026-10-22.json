@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "오픈AI, 신약 개발 AI 스타트업 인수…바이오 사업 확장",
+    "url": "https://n.news.naver.com/mnews/article/003/0014269984",
+    "source": "네이버",
+    "publishedDate": "2026-10-22",
+    "summary": "오픈AI가 신약 후보 발굴부터 임상·개발 일정 관리까지 자동화하는 AI 스타트업 오케스트라 바이오를 인수하며 바이오 사업 영역으로 확장했다. 챗봇·에이전트 중심이던 사업 포트폴리오에 신약 개발 자동화라는 산업 특화 영역이 추가된 것이다. 생성형 AI 기업들이 고부가가치 전문 산업으로 영역을 넓히는 흐름을 보여주는 사례다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "JB금융, 업스테이지에 400억 투자…금융 AI 혁신 속도",
+    "url": "https://view.asiae.co.kr/article/2026102008501890555",
+    "source": "아시아경제",
+    "publishedDate": "2026-10-20",
+    "summary": "JB금융그룹이 국내 AI 기업 업스테이지에 시리즈 C-2 라운드로 400억원을 투자하며 지분 약 2%를 확보했다. 양사는 금융 특화 AI 에이전트를 공동 개발하고 임직원 업무 전반에 AI를 적용하는 협력을 추진한다. 전통 금융권이 자체 개발 대신 전문 AI 기업과의 전략적 투자·협업을 택한 사례다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "채널코퍼레이션, AI 전화 '보이스 알프' 정식 출시",
+    "url": "https://n.news.naver.com/mnews/article/008/0005429807",
+    "source": "네이버",
+    "publishedDate": "2026-10-22",
+    "summary": "채널톡 운영사가 고객에게 먼저 전화를 걸어 음성으로 상담을 수행하는 AI 전화 서비스 '보이스 알프'를 정식 출시했다. 기존 텍스트 기반 AI 상담을 음성 채널로 확장해 고객 응대 자동화 범위를 넓힌 것이 특징이다. 국내 CS 솔루션 기업들이 음성 AI 에이전트로 제품군을 확장하는 경쟁이 본격화되는 모습이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "Mach9 raises $34M after pivoting to AI CAD software",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-10-21",
+    "summary": "AI 기반 CAD 소프트웨어로 사업모델을 전환한 스타트업 Mach9가 퍼스트라운드캐피털·베선머벤처스 주도로 3400만달러 규모 시리즈A를 유치했다. 피벗 이후 빠르게 대형 투자를 확보했다는 점에서 수직 특화 AI 소프트웨어 시장에 대한 투자자 관심을 보여준다. 범용 AI 도구 경쟁이 치열해지면서 특정 산업 워크플로우에 특화한 AI SaaS가 투자 대안으로 부각되고 있다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "Google Public Sector Launches Gemini for Government Services",
+    "url": "https://www.googlecloudpresscorner.com/2026-10-20-Google-Public-Sector-Launches-Gemini-for-Government-Services",
+    "source": "Google Cloud Press Corner",
+    "publishedDate": "2026-10-20",
+    "summary": "구글 퍼블릭 섹터가 정부 서비스에 특화한 에이전틱 AI 오퍼링 '제미나이 포 거버먼트'를 출시했다. 행정 업무 자동화와 대민 서비스 지원을 목표로 하는 산업별 특화 AI 에이전트 전략의 일환이다. 빅테크들이 민간 기업을 넘어 공공 부문까지 에이전틱 AI 공급 영역을 넓히고 있음을 보여준다.",
+    "scorePct": 25
+  }
+]

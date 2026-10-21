@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-21",
-  "headline": "> 앤트로픽이 Claude의 가치 판단 기준에 외부 의견을 수렴하는 공개 협의 절차를 시작했다.\n> IBM·구글클라우드·엔비디아 등이 참여한 오픈소스 분산추론 프로젝트 llm-d 1.0이 공개돼 추론 비용을 대폭 낮췄다.\n> 미국의 중국산 AI 모델 사용 제한과 국내 AI 인프라·역량 투자 소식도 이어졌다.",
+  "date": "2026-10-22",
+  "headline": "> 앤트로픽은 클로드 코드 샌드박스 기능 확장과 단백질 설계 연구로 코딩·과학 양쪽에서 활용 폭을 넓혔다.\n> 벤치마크 리더보드들은 프런티어 모델 순위를 두고 엇갈린 결과를 내놓으며 평가 기준 논쟁이 이어졌다.\n> 인셉션의 확산 LLM과 깃허브 코파일럿의 대규모 모델 교체는 생성 구조와 코딩 어시스턴트 생태계가 빠르게 재편되고 있음을 보여준다.",
   "items": [
     {
       "rank": 1,
-      "title": "AI 추론 비용 최대 10분의 1로…오픈소스 'llm-d 1.0' 공개, 기업용 AI 대규모 운영 본격화",
-      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
-      "source": "인공지능신문(AI타임스kr)",
-      "publishedDate": "2026-10-20",
-      "summary": "IBM, 레드햇, 구글클라우드, 엔비디아 등이 참여한 오픈소스 분산 추론 프로젝트 llm-d 1.0이 정식 공개됐다. 쿠버네티스 네이티브 구조로 대규모 모델 서빙을 지원하며, 에이전트 기반 작업의 토큰당 추론 비용을 상용 API 대비 최대 5~10배 낮출 수 있다고 밝혔다. 대형 클라우드·칩 업체들이 공동 참여한 만큼 기업용 LLM 운영 표준으로 자리잡을 가능성이 주목된다.",
-      "scorePct": 64
+      "title": "LLM Meter — Week of Oct 19, 2026",
+      "url": "https://www.implicator.ai/llm-meter-week-of-oct-19-2026/",
+      "source": "Implicator.ai",
+      "publishedDate": "2026-10-19",
+      "summary": "여러 독립 리더보드가 이번 주 최고 성능 프런티어 모델이 어디인지를 두고 서로 엇갈린 결론을 내놓았다. 평가 기준과 벤치마크 설계에 따라 순위가 크게 달라지면서, 단일 리더보드만으로 모델 우열을 판단하기 어렵다는 점이 다시 부각됐다.",
+      "scorePct": 100
     },
     {
       "rank": 2,
-      "title": "Anthropic wants outside input on Claude's values. But who gets the final say?",
-      "url": "https://www.nbcnews.com/tech/innovation/anthropic-wants-input-claudes-values-gets-final-say-rcna603440",
-      "source": "NBC News",
-      "publishedDate": "2026-10-18",
-      "summary": "앤트로픽이 Claude의 가치 판단 기준을 어떻게 설정할지에 대해 외부 전문가와 이해관계자의 의견을 수렴하는 공개 협의 절차를 시작했다고 밝혔다. 윤리학자와 커뮤니티 대표 등이 참여해 모델의 응답 원칙 수립에 관여하게 된다. 다만 최종 결정권을 누가 갖는지는 여전히 불분명하다는 지적이 나온다.",
-      "scorePct": 43
+      "title": "GitHub Copilot Retires 6 Models for GPT-5.6",
+      "url": "https://shattered.io/github-copilot-retires-6-models-gpt-5-6-2026/",
+      "source": "Shattered.io",
+      "publishedDate": "2026-10-19",
+      "summary": "깃허브가 코파일럿에서 모델 6종을 한꺼번에 서비스 종료하고 GPT-5.6으로 대체하는 역대 최대 규모의 모델 교체를 단행했다. 코딩 어시스턴트 공급사들이 다중 모델 지원 부담을 줄이고 소수의 최신 모델로 노선을 정리하는 흐름을 보여준다.",
+      "scorePct": 86
     },
     {
       "rank": 3,
-      "title": "통합 AI 인프라 개발 위해 5社 손잡아",
-      "url": "https://hankyung.com/article/2026101914691",
-      "source": "한국경제",
-      "publishedDate": "2026-10-19",
-      "summary": "한 클라우드 업체가 NPU·LLM·시스템 통합 업체 등 4개사와 손잡고 NPU 기반 소버린 AI 풀스택 상품 공동 개발을 위한 업무협약을 체결했다. 국산 NPU와 LLM, 클라우드 인프라를 결합해 해외 의존도를 낮춘 통합 AI 스택을 구축하는 것이 목표다.",
-      "scorePct": 43
+      "title": "Claude Designs Protein Binders Against Scorpion Toxins",
+      "url": "https://www.technology.org/2026/10/21/claude-scorpion-toxin-protein-binders-anthropic/",
+      "source": "Technology.org",
+      "publishedDate": "2026-10-21",
+      "summary": "앤트로픽의 내부 연구용 클로드 모델이 전갈 독소에 대응하는 단백질 결합체 31만8484종을 자율적으로 설계해 실험으로 검증했다는 결과가 공개됐다. 신약 후보 물질 탐색처럼 고도의 전문성이 필요한 과학 분야에서도 LLM이 독립적으로 설계·검증 루프를 수행할 수 있음을 보여준 사례다.",
+      "scorePct": 57
     },
     {
       "rank": 4,
-      "title": "트럼프 행정부, 미 연방기관서 중국 딥시크 퇴출 추진",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828360",
-      "source": "네이버",
-      "publishedDate": "2026-10-21",
-      "summary": "미국 국토안보부가 연방관보 공고를 통해 모든 연방 민간기관에 중국 AI 기업 딥시크의 제품 사용을 금지하도록 명령했다. 트럼프 행정부는 보안 우려를 이유로 들었으며, 이는 중국산 AI 모델에 대한 미국 정부 차원의 규제가 구체화되는 사례로 꼽힌다.",
-      "scorePct": 29
+      "title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216483",
+      "source": "AI타임스",
+      "publishedDate": "2026-10-19",
+      "summary": "인셉션이 초당 1000토큰 이상을 생성하면서도 기존 주요 모델보다 높은 품질을 내세운 확산 대형언어모델(dLLM) '머큐리 3'를 공개했다. 토큰을 순차 생성하는 자기회귀 방식과 다른 확산 기반 생성 구조로 속도와 품질을 동시에 확보했다는 점이 주목된다.",
+      "scorePct": 50
     },
     {
       "rank": 5,
-      "title": "한국, 미국·중국·영국 등 6개국과 'AI 준비도' 최상위 평가",
-      "url": "https://n.news.naver.com/mnews/article/030/0003476810",
-      "source": "네이버",
-      "publishedDate": "2026-10-21",
-      "summary": "한국이 글로벌 AI 성숙도 평가에서 미국, 중국, 영국 등과 함께 최상위 그룹에 처음 포함됐다. 독자적인 AI 모델 개발 역량과 컴퓨팅 인프라 확충을 위한 대규모 공공 투자가 주요 요인으로 꼽혔다.",
-      "scorePct": 21
+      "title": "Claude Code 2.1.305: sandbox.allowNestedUserNamespaces Runs Chromium and Bypasses File Protection",
+      "url": "https://clauding.de/en/posts/claude-code-2-1-305/",
+      "source": "Clauding.de",
+      "publishedDate": "2026-10-20",
+      "summary": "클로드 코드 2.1.305 버전에 리눅스 네임스페이스 샌드박스 지원이 추가되며 'sandbox.allowNestedUserNamespaces' 옵션이 공개됐다. 이 옵션을 켜면 샌드박스 안에서 크로미움 실행이 가능해지지만, 동시에 파일 보호 메커니즘을 우회할 수 있다는 점도 함께 지적됐다. 보안과 기능 확장 사이의 trade-off를 보여주는 업데이트다.",
+      "scorePct": 36
     }
   ]
 }
