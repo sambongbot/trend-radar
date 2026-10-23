@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Duet is Anthropic's proactive AI agent",
+    "url": "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/",
+    "source": "9to5Google",
+    "publishedDate": "2026-10-21",
+    "summary": "앤트로픽이 사용자의 요청 없이도 먼저 정보를 전달하는 선제적 AI 에이전트 '클로드 듀엣'을 공개했다. 연결된 앱과 메시지를 종합해 매일 아침 짧은 브리핑을 보내주는 방식으로 작동하며, 현재는 대기자 명단을 받는 단계다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 2,
+    "title": "Google announces general availability of an Anthropic-managed deployment option for Claude models on Google Cloud",
+    "url": "https://www.newsquawk.com/headlines/google-goog-announces-general-availability-of-an-anthropic-managed-deployment-option-for-claude-models-on-google-cloud",
+    "source": "Newsquawk",
+    "publishedDate": "2026-10-22",
+    "summary": "앤트로픽이 직접 운영하는 클로드 모델의 구글 클라우드 배포 옵션이 정식 출시됐다. 기업 고객은 별도 관리 부담 없이 구글 클라우드 인프라 안에서 클로드 모델을 바로 도입할 수 있게 됐다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI Opens Decisions API to All, Chasing TypeSafe Jev",
+    "url": "https://aiweekly.co/alerts/openai-opens-decisions-api-to-all-chasing-typesafe-jev",
+    "source": "AI Weekly",
+    "publishedDate": "2026-10-22",
+    "summary": "오픈AI가 에이전트용 '디시전스 API'를 전체 고객에게 개방했다. 단일 의사결정 처리 지연시간을 기존 1~3초 수준에서 크게 단축한 것이 핵심 변화로 꼽힌다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Your OpenAI model IDs stop on 23 October, so map each one before then",
+    "url": "https://dev.to/davekurian/your-openai-model-ids-stop-on-23-october-so-map-each-one-before-then-58jd",
+    "source": "DEV Community",
+    "publishedDate": "2026-10-23",
+    "summary": "오픈AI가 o4-mini, gpt-image-1 등 구버전 모델 ID에 대한 서비스를 2026년 10월 23일부로 종료했다. 해당 모델을 호출하던 애플리케이션은 신규 모델 ID로 매핑을 마쳐야 오류 없이 서비스를 유지할 수 있다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "당근, AI 에이전트로 장애 추적 40분→2분…사내 AI에이전트 180개 돌파",
+    "url": "https://n.news.naver.com/mnews/article/018/0006395008",
+    "source": "네이버",
+    "publishedDate": "2026-10-23",
+    "summary": "한 국내 플랫폼 기업이 슬랙 기반 사내 AI 에이전트를 신입 직원처럼 교육해 실무에 투입한 결과, 서비스 장애 원인 추적 시간을 40분에서 2분으로 단축했다고 밝혔다. 이 기업이 사내에 구축한 AI 에이전트는 180개를 넘어선 것으로 전해졌다.",
+    "scorePct": 21
+  }
+]
