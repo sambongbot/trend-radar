@@ -1,50 +1,50 @@
 {
-  "date": "2026-10-24",
-  "headline": "> 기업 AI 전환은 '도입'에서 '성과 증명'의 단계로 넘어가며 거버넌스 역량이 승부처로 떠올랐다.\n> 대화형 에이전트, 탄소관리, 멀티플레이어 협업 등 다양한 영역에서 B2B AI SaaS 신제품이 잇따라 출시됐다.\n> 국내 플랫폼 기업의 해외 AI 스타트업 투자도 비서·음악 생성 등으로 영역을 넓히고 있다.",
+  "date": "2026-10-25",
+  "headline": "> 구글 클라우드가 에이전트 전용 격리 인프라를 내놓으며 클라우드 사업자 간 에이전트 플랫폼 경쟁이 본격화됐다.\n> 오픈AI는 1조2500억 달러 가치의 초대형 투자를 조율하고, AI 칩 스타트업 텐스토렌트는 15억 달러를 유치하며 자본 쏠림이 계속되고 있다.\n> 실행형 AI 비서와 임팩트 측정 자동화 등 실무 적용 사례도 꾸준히 늘고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "오후두시랩, ESG 친환경대전서 그린플로 탄소관리 4종 소개",
-      "url": "https://n.news.naver.com/mnews/article/030/0003478216",
-      "source": "네이버",
-      "publishedDate": "2026-10-24",
-      "summary": "AI 기반 탄소 데이터 솔루션 기업 오후두시랩이 기업·제품·소비·지역사회를 아우르는 탄소관리 서비스 4종 '그린플로'를 공개했다. ESG 규제 강화 흐름 속에서 AI를 활용한 탄소 데이터 관리 수요에 대응하는 B2B 솔루션이다.",
-      "scorePct": 25
+      "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+      "source": "AI타임스",
+      "publishedDate": "2026-10-23",
+      "summary": "구글 클라우드가 AGNTCon·MCPCon 행사에서 AI 에이전트마다 하드웨어 수준으로 격리된 마이크로 가상머신을 할당하는 '에이전트 컴퓨트 엔진'을 발표했다. 벤치마크에서 기존 방식 대비 보안성과 격리 수준을 높였다고 밝혔다. 대형 클라우드 사업자들이 에이전트 전용 인프라 상품을 내놓기 시작한 신호로 읽힌다.",
+      "scorePct": 63
     },
     {
       "rank": 2,
-      "title": "Introducing AgentSpot: From Chatbots to Multiplayer AI",
-      "url": "https://www.globenewswire.com/news-release/2026/10/22/3386300/0/en/introducing-agentspot-from-chatbots-to-multiplayer-ai.html",
-      "source": "GlobeNewswire",
-      "publishedDate": "2026-10-22",
-      "summary": "ThoughtSpot이 사람과 목표 기반 에이전트가 함께 협업하는 '멀티플레이어 AI' 플랫폼 AgentSpot을 출시했다. 단일 챗봇형 인터페이스를 넘어 여러 에이전트와 사용자가 동시에 작업하는 구조로 기업용 AI 활용 방식을 재정의하려는 시도다.",
+      "title": "AI chip startup Tenstorrent raises $1.5 billion in Series E",
+      "url": "https://evertiq.com/news/2026-10-23-ai-chip-startup-tenstorrent-raises-15-billion-in-series-e",
+      "source": "Evertiq",
+      "publishedDate": "2026-10-23",
+      "summary": "AI 칩 스타트업 텐스토렌트가 시리즈E 라운드에서 15억 달러를 유치하며 기업가치 62억 달러를 인정받았다. 엔비디아 중심의 AI 반도체 시장에 대안을 제시하려는 설계사에 대한 투자 심리가 여전히 뜨겁다는 점을 보여준다. 유치 자금은 차세대 AI 가속기 설계와 생산 역량 확대에 투입될 전망이다.",
       "scorePct": 25
     },
     {
       "rank": 3,
-      "title": "\"소통 넘어 비즈니스 창출\"…제로백데브, AI 에이전트 채팅 솔루션 확대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270242",
-      "source": "네이버",
-      "publishedDate": "2026-10-24",
-      "summary": "IT 서비스 개발기업 제로백데브가 자체 개발한 채팅 프레임워크 기반의 실시간 AI 에이전트 채팅 솔루션을 상용화했다. 기업용 커뮤니케이션과 비즈니스 창출을 동시에 지원하는 방향으로 서비스를 확대할 계획이다.",
+      "title": "\"오픈AI, 기업가치 1조2500억달러로 투자 유치⋯내주 확정 전망\"",
+      "url": "https://www.etoday.co.kr/news/view/2639361",
+      "source": "이투데이",
+      "publishedDate": "2026-10-22",
+      "summary": "오픈AI가 기업가치 1조2500억 달러를 목표로 300억 달러 규모의 신규 투자 유치를 막바지 조율 중이며, 이달 30일까지 투자자 확약을 마무리할 전망이다. 성사되면 민간 기업으로는 역대 최고 수준의 기업가치를 기록하게 된다. AI 업계 전반의 자본 쏠림이 한층 심화되고 있음을 보여주는 사례다.",
       "scorePct": 13
     },
     {
       "rank": 4,
-      "title": "네이버, 美 AI 유망주에 잇단 투자…메타 대항마부터 AI 작곡가까지",
-      "url": "https://www.hankyung.com/article/202610215021i",
-      "source": "한국경제",
-      "publishedDate": "2026-10-21",
-      "summary": "네이버가 기업가치 100억달러 규모의 미국 AI 비서 스타트업 '인스팅트'에 투자한 데 이어, AI 음악 생성 기업 '수노'에도 미국 VC 펀드를 통해 투자한 것으로 확인됐다. 국내 플랫폼 기업의 글로벌 AI 스타트업 투자가 비서·생성형 음악 등 다양한 영역으로 확대되는 모습이다.",
-      "scorePct": 13
+      "title": "“깜빡한 답장, 겹친 약속까지”…오픈AI 비서 ‘닷츠’ 써보니[잇:써봐]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395246",
+      "source": "네이버",
+      "publishedDate": "2026-10-24",
+      "summary": "오픈AI가 선보인 AI 비서 '닷츠'를 실제 사용해본 체험기로, 일정 조율과 메일 확인 등 번거로운 업무를 비서가 대신 처리하는 모습을 보여준다. 답장을 깜빡하거나 약속이 겹치는 등 실무에서 반복되는 비효율을 AI가 흡수하는 사례로 소개된다. '답하는 AI'에서 '실행하는 AI 비서'로 넘어가는 흐름을 보여준다.",
+      "scorePct": 0
     },
     {
       "rank": 5,
-      "title": "\"AI 성과 내는 기업 6%뿐\"… AWS가 밝힌 2027년 'AX 승자'의 조건",
-      "url": "https://n.news.naver.com/mnews/article/018/0006394605",
+      "title": "비영리·소셜벤처 임팩트 측정 자동화…마이오렌지, 팁스 선정",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431090",
       "source": "네이버",
-      "publishedDate": "2026-10-24",
-      "summary": "AWS는 AI 기술을 도입한 기업의 88%가 이를 채택했음에도 실제 사업적 성과로 연결시킨 곳은 6%에 불과하다고 밝혔다. 일회성 개념검증을 넘어 엔터프라이즈 거버넌스와 비용 관리 체계를 갖춰야 2027년 AI 전환 경쟁에서 앞설 수 있다는 진단이다.",
+      "publishedDate": "2026-10-25",
+      "summary": "비영리단체와 소셜벤처의 임팩트 측정을 자동화하는 임팩트테크 기업 마이오렌지가 중소벤처기업부의 팁스(TIPS) 프로그램에 선정됐다. 2022년 설립된 이 기업은 수작업에 의존하던 사회적 가치 측정 과정을 기술로 대체하는 것을 목표로 한다. 정부 매칭 투자를 발판으로 B2B 임팩트 측정 서비스 확장이 기대된다.",
       "scorePct": 0
     }
   ]

@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+    "source": "AI타임스",
+    "publishedDate": "2026-10-23",
+    "summary": "구글 클라우드가 AGNTCon·MCPCon 행사에서 AI 에이전트마다 하드웨어 수준으로 격리된 마이크로 가상머신을 할당하는 '에이전트 컴퓨트 엔진'을 발표했다. 벤치마크에서 기존 방식 대비 보안성과 격리 수준을 높였다고 밝혔다. 대형 클라우드 사업자들이 에이전트 전용 인프라 상품을 내놓기 시작한 신호로 읽힌다.",
+    "scorePct": 63
+  },
+  {
+    "rank": 2,
+    "title": "AI chip startup Tenstorrent raises $1.5 billion in Series E",
+    "url": "https://evertiq.com/news/2026-10-23-ai-chip-startup-tenstorrent-raises-15-billion-in-series-e",
+    "source": "Evertiq",
+    "publishedDate": "2026-10-23",
+    "summary": "AI 칩 스타트업 텐스토렌트가 시리즈E 라운드에서 15억 달러를 유치하며 기업가치 62억 달러를 인정받았다. 엔비디아 중심의 AI 반도체 시장에 대안을 제시하려는 설계사에 대한 투자 심리가 여전히 뜨겁다는 점을 보여준다. 유치 자금은 차세대 AI 가속기 설계와 생산 역량 확대에 투입될 전망이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 3,
+    "title": "\"오픈AI, 기업가치 1조2500억달러로 투자 유치⋯내주 확정 전망\"",
+    "url": "https://www.etoday.co.kr/news/view/2639361",
+    "source": "이투데이",
+    "publishedDate": "2026-10-22",
+    "summary": "오픈AI가 기업가치 1조2500억 달러를 목표로 300억 달러 규모의 신규 투자 유치를 막바지 조율 중이며, 이달 30일까지 투자자 확약을 마무리할 전망이다. 성사되면 민간 기업으로는 역대 최고 수준의 기업가치를 기록하게 된다. AI 업계 전반의 자본 쏠림이 한층 심화되고 있음을 보여주는 사례다.",
+    "scorePct": 13
+  },
+  {
+    "rank": 4,
+    "title": "“깜빡한 답장, 겹친 약속까지”…오픈AI 비서 ‘닷츠’ 써보니[잇:써봐]",
+    "url": "https://n.news.naver.com/mnews/article/018/0006395246",
+    "source": "네이버",
+    "publishedDate": "2026-10-24",
+    "summary": "오픈AI가 선보인 AI 비서 '닷츠'를 실제 사용해본 체험기로, 일정 조율과 메일 확인 등 번거로운 업무를 비서가 대신 처리하는 모습을 보여준다. 답장을 깜빡하거나 약속이 겹치는 등 실무에서 반복되는 비효율을 AI가 흡수하는 사례로 소개된다. '답하는 AI'에서 '실행하는 AI 비서'로 넘어가는 흐름을 보여준다.",
+    "scorePct": 0
+  },
+  {
+    "rank": 5,
+    "title": "비영리·소셜벤처 임팩트 측정 자동화…마이오렌지, 팁스 선정",
+    "url": "https://n.news.naver.com/mnews/article/008/0005431090",
+    "source": "네이버",
+    "publishedDate": "2026-10-25",
+    "summary": "비영리단체와 소셜벤처의 임팩트 측정을 자동화하는 임팩트테크 기업 마이오렌지가 중소벤처기업부의 팁스(TIPS) 프로그램에 선정됐다. 2022년 설립된 이 기업은 수작업에 의존하던 사회적 가치 측정 과정을 기술로 대체하는 것을 목표로 한다. 정부 매칭 투자를 발판으로 B2B 임팩트 측정 서비스 확장이 기대된다.",
+    "scorePct": 0
+  }
+]
