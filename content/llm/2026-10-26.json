@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
+    "url": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
+    "source": "Unite.AI",
+    "publishedDate": "2026-10-25",
+    "summary": "Anthropic은 Claude 계열 모델 다섯 종에서 오류율이 상승한 현상을 확인하고 원인 조사에 착수했다. 영향을 받은 모델에는 최근 출시된 버전이 포함돼 있어 해당 API를 쓰는 서비스에서 응답 실패나 지연이 발생할 수 있다. 신규 모델 출시 직후 안정성 문제가 불거진 사례로 받아들여진다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic updates Claude Security to continuously monitor code repositories",
+    "url": "https://digitaltoday.co.kr/en/view/119129/anthropic-updates-claude-security-to-continuously-monitor-code-repositories",
+    "source": "Digital Today",
+    "publishedDate": "2026-10-25",
+    "summary": "Anthropic이 보안 제품 'Claude Security'를 업데이트해 연동된 코드 저장소를 별도 수동 스캔 없이 상시 모니터링하도록 개선했다. 코드 변경이 발생할 때마다 자동으로 취약점을 탐지해 개발팀의 보안 대응 속도를 높이는 것이 핵심이다. AI 기반 코드 보안 도구가 사후 점검형에서 상시 감시형으로 전환되는 흐름을 보여준다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "챗GPT의 반격…9월 결제액 30% 급증",
+    "url": "https://n.news.naver.com/mnews/article/015/0005346221",
+    "source": "네이버",
+    "publishedDate": "2026-10-25",
+    "summary": "올해 3분기 국내 생성형 AI 결제 시장에서 챗GPT 결제액이 전월 대비 30% 급증하며 클로드를 빠르게 추격한 것으로 나타났다. 'GPT-6 아스트라' 공개가 결제 증가의 주요 요인으로 꼽힌다. 신규 모델 출시가 실제 유료 사용자 지표에 즉각 반영된 사례로 주목된다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "[기획] “뱅크런 일어날 수도”… 美 은행, AI 에이전트 계좌 차단 비상",
+    "url": "https://n.news.naver.com/mnews/article/029/0003055113",
+    "source": "네이버",
+    "publishedDate": "2026-10-25",
+    "summary": "미국 주요 은행들이 AI 에이전트의 무단 금융거래로 인한 시장 혼란 가능성에 대비해 에이전트 계좌 접근을 차단하는 등 보안 대책을 마련하고 나섰다. AI 에이전트가 실제 자금 이동 권한을 갖게 되면서 생길 수 있는 연쇄 리스크를 선제 차단하려는 조치다. 금융권이 자율 AI 에이전트 확산 속도에 맞춰 통제 체계를 서두르는 모습이다.",
+    "scorePct": 21
+  },
+  {
+    "rank": 5,
+    "title": "내 돈 주고 산 스마트TV인데, 광고 봐야해? AI로 싹 지웠다",
+    "url": "https://n.news.naver.com/mnews/article/015/0005346278",
+    "source": "네이버",
+    "publishedDate": "2026-10-26",
+    "summary": "한 개발자가 스마트TV에서 넷플릭스 실행 전 나오는 광고가 불편해 AI 코딩 도구 '클로드 코드'에 TV 모델명을 입력해 광고 제거 방법을 찾아낸 사례가 소개됐다. 전문 지식 없이도 AI 코딩 도구를 활용해 기기 설정이나 동작 방식을 분석·수정할 수 있음을 보여준 사례다. 일상적인 불편을 AI 코딩 어시스턴트로 직접 해결한 활용기로 화제가 됐다.",
+    "scorePct": 21
+  }
+]
