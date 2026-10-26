@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-26",
-  "headline": "> Anthropic이 Claude 모델 오류율 조사와 보안 기능 강화를 동시에 발표하며 안정성 이슈가 부각됐다.\n> 신규 모델 'GPT-6 아스트라' 출시가 국내 결제 지표를 즉각 흔들며 LLM 경쟁 구도가 빨라지고 있다.\n> 금융권은 AI 에이전트의 무단 거래를 차단하는 한편, 개발자들은 AI 코딩 도구로 일상 기기까지 손보는 활용 사례가 늘고 있다.",
+  "date": "2026-10-27",
+  "headline": "> Claude Opus 5.5가 SWE-bench Pro 리더보드 1위(89.9%)에 오르며 코딩 벤치마크 경쟁이 가열되고 있다.\n> 깃허브 유니버스 2026 개막과 오픈소스 에이전틱 코딩 모델 Nanbeige4.3-33B 공개로 AI 코딩 에이전트 생태계가 확장되는 흐름이다.\n> 한편 스웨덴 정부의 AI 도구 사용 제한과 OpenAI의 학습 데이터 정책 변화는 신뢰·안전 이슈가 새로운 변수로 떠오르고 있음을 보여준다.",
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-      "url": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
-      "source": "Unite.AI",
-      "publishedDate": "2026-10-25",
-      "summary": "Anthropic은 Claude 계열 모델 다섯 종에서 오류율이 상승한 현상을 확인하고 원인 조사에 착수했다. 영향을 받은 모델에는 최근 출시된 버전이 포함돼 있어 해당 API를 쓰는 서비스에서 응답 실패나 지연이 발생할 수 있다. 신규 모델 출시 직후 안정성 문제가 불거진 사례로 받아들여진다.",
+      "title": "Sweden's government blocks ChatGPT and Claude, keeps Copilot",
+      "url": "https://www.notebookcheck.net/Sweden-s-government-blocks-ChatGPT-and-Claude-keeps-Copilot.1433522.0.html",
+      "source": "Notebookcheck",
+      "publishedDate": "2026-10-26",
+      "summary": "스웨덴 정부기관이 10월 26일부터 직원용 컴퓨터에서 ChatGPT와 Claude 사용을 차단하고 마이크로소프트 코파일럿만 허용하기로 했다. 데이터 처리 및 정보보안 우려가 차단 배경으로 지목됐다.",
       "scorePct": 71
     },
     {
       "rank": 2,
-      "title": "Anthropic updates Claude Security to continuously monitor code repositories",
-      "url": "https://digitaltoday.co.kr/en/view/119129/anthropic-updates-claude-security-to-continuously-monitor-code-repositories",
-      "source": "Digital Today",
+      "title": "SWE-bench Pro Leaderboard: Claude Opus 5.5 Leads at 89.9%",
+      "url": "https://benchlm.ai/benchmarks/swe-bench-pro",
+      "source": "BenchLM",
       "publishedDate": "2026-10-25",
-      "summary": "Anthropic이 보안 제품 'Claude Security'를 업데이트해 연동된 코드 저장소를 별도 수동 스캔 없이 상시 모니터링하도록 개선했다. 코드 변경이 발생할 때마다 자동으로 취약점을 탐지해 개발팀의 보안 대응 속도를 높이는 것이 핵심이다. AI 기반 코드 보안 도구가 사후 점검형에서 상시 감시형으로 전환되는 흐름을 보여준다.",
-      "scorePct": 43
+      "summary": "벤치마크 플랫폼 BenchLM이 2026년 10월 25일 업데이트한 SWE-bench Pro 리더보드에서 Claude Opus 5.5가 89.9%의 검증 점수로 1위를 기록했다. 실제 소프트웨어 엔지니어링 작업 해결 능력을 평가하는 벤치마크로, 코딩 특화 모델 간 경쟁이 한층 치열해지고 있음을 보여준다.",
+      "scorePct": 71
     },
     {
       "rank": 3,
-      "title": "챗GPT의 반격…9월 결제액 30% 급증",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346221",
-      "source": "네이버",
+      "title": "Nanbeige Releases Nanbeige4.3-33B, an Open 33B Agentic Coding Model",
+      "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+      "source": "MarkTechPost",
       "publishedDate": "2026-10-25",
-      "summary": "올해 3분기 국내 생성형 AI 결제 시장에서 챗GPT 결제액이 전월 대비 30% 급증하며 클로드를 빠르게 추격한 것으로 나타났다. 'GPT-6 아스트라' 공개가 결제 증가의 주요 요인으로 꼽힌다. 신규 모델 출시가 실제 유료 사용자 지표에 즉각 반영된 사례로 주목된다.",
-      "scorePct": 29
+      "summary": "중국 Nanbeige LLM Lab이 330억 파라미터 규모의 오픈 에이전틱 코딩 모델 'Nanbeige4.3-33B'를 허깅페이스에 공개했다. 채용 플랫폼을 배경으로 한 연구팀이 개발했으며, 코딩 에이전트 작업에 특화된 성능을 내세운다.",
+      "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "[기획] “뱅크런 일어날 수도”… 美 은행, AI 에이전트 계좌 차단 비상",
-      "url": "https://n.news.naver.com/mnews/article/029/0003055113",
-      "source": "네이버",
-      "publishedDate": "2026-10-25",
-      "summary": "미국 주요 은행들이 AI 에이전트의 무단 금융거래로 인한 시장 혼란 가능성에 대비해 에이전트 계좌 접근을 차단하는 등 보안 대책을 마련하고 나섰다. AI 에이전트가 실제 자금 이동 권한을 갖게 되면서 생길 수 있는 연쇄 리스크를 선제 차단하려는 조치다. 금융권이 자율 AI 에이전트 확산 속도에 맞춰 통제 체계를 서두르는 모습이다.",
-      "scorePct": 21
+      "title": "OpenAI Cuts Live Internet Access During AI Training amid Fears of Rogue Agents",
+      "url": "https://www.tasnimnews.ir/en/news/2026/10/24/3730634/openai-cuts-live-internet-access-during-ai-training-amid-fears-of-rogue-agents/amp",
+      "source": "Tasnim News",
+      "publishedDate": "2026-10-24",
+      "summary": "OpenAI가 프런티어 모델 학습 시 실시간 인터넷 데이터 대신 캐시된 과거 데이터만 사용하는 쪽으로 방침을 바꿨다. 통제되지 않은 AI 에이전트가 생성한 콘텐츠가 학습 데이터에 섞여 들어가는 위험을 차단하기 위한 조치로 풀이된다.",
+      "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "내 돈 주고 산 스마트TV인데, 광고 봐야해? AI로 싹 지웠다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346278",
-      "source": "네이버",
+      "title": "깃허브 유니버스 2026 개최… 코딩 넘어 'AI 에이전트 협업' 조명",
+      "url": "https://www.ddaily.co.kr/page/view/2026102611291947884",
+      "source": "디지털데일리",
       "publishedDate": "2026-10-26",
-      "summary": "한 개발자가 스마트TV에서 넷플릭스 실행 전 나오는 광고가 불편해 AI 코딩 도구 '클로드 코드'에 TV 모델명을 입력해 광고 제거 방법을 찾아낸 사례가 소개됐다. 전문 지식 없이도 AI 코딩 도구를 활용해 기기 설정이나 동작 방식을 분석·수정할 수 있음을 보여준 사례다. 일상적인 불편을 AI 코딩 어시스턴트로 직접 해결한 활용기로 화제가 됐다.",
-      "scorePct": 21
+      "summary": "깃허브가 10월 28일부터 이틀간 미국 샌프란시스코에서 '깃허브 유니버스 2026'을 개최하며 '에이전트 시대, 모두 함께'를 주제로 사람과 AI 에이전트의 협업 방식을 조명한다. 코드 검증·보안, 기업 환경에서의 에이전트 활용 전략 등이 주요 세션으로 예고됐다.",
+      "scorePct": 29
     }
   ]
 }

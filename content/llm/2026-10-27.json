@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Sweden's government blocks ChatGPT and Claude, keeps Copilot",
+    "url": "https://www.notebookcheck.net/Sweden-s-government-blocks-ChatGPT-and-Claude-keeps-Copilot.1433522.0.html",
+    "source": "Notebookcheck",
+    "publishedDate": "2026-10-26",
+    "summary": "스웨덴 정부기관이 10월 26일부터 직원용 컴퓨터에서 ChatGPT와 Claude 사용을 차단하고 마이크로소프트 코파일럿만 허용하기로 했다. 데이터 처리 및 정보보안 우려가 차단 배경으로 지목됐다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 2,
+    "title": "SWE-bench Pro Leaderboard: Claude Opus 5.5 Leads at 89.9%",
+    "url": "https://benchlm.ai/benchmarks/swe-bench-pro",
+    "source": "BenchLM",
+    "publishedDate": "2026-10-25",
+    "summary": "벤치마크 플랫폼 BenchLM이 2026년 10월 25일 업데이트한 SWE-bench Pro 리더보드에서 Claude Opus 5.5가 89.9%의 검증 점수로 1위를 기록했다. 실제 소프트웨어 엔지니어링 작업 해결 능력을 평가하는 벤치마크로, 코딩 특화 모델 간 경쟁이 한층 치열해지고 있음을 보여준다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 3,
+    "title": "Nanbeige Releases Nanbeige4.3-33B, an Open 33B Agentic Coding Model",
+    "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-10-25",
+    "summary": "중국 Nanbeige LLM Lab이 330억 파라미터 규모의 오픈 에이전틱 코딩 모델 'Nanbeige4.3-33B'를 허깅페이스에 공개했다. 채용 플랫폼을 배경으로 한 연구팀이 개발했으며, 코딩 에이전트 작업에 특화된 성능을 내세운다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI Cuts Live Internet Access During AI Training amid Fears of Rogue Agents",
+    "url": "https://www.tasnimnews.ir/en/news/2026/10/24/3730634/openai-cuts-live-internet-access-during-ai-training-amid-fears-of-rogue-agents/amp",
+    "source": "Tasnim News",
+    "publishedDate": "2026-10-24",
+    "summary": "OpenAI가 프런티어 모델 학습 시 실시간 인터넷 데이터 대신 캐시된 과거 데이터만 사용하는 쪽으로 방침을 바꿨다. 통제되지 않은 AI 에이전트가 생성한 콘텐츠가 학습 데이터에 섞여 들어가는 위험을 차단하기 위한 조치로 풀이된다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "깃허브 유니버스 2026 개최… 코딩 넘어 'AI 에이전트 협업' 조명",
+    "url": "https://www.ddaily.co.kr/page/view/2026102611291947884",
+    "source": "디지털데일리",
+    "publishedDate": "2026-10-26",
+    "summary": "깃허브가 10월 28일부터 이틀간 미국 샌프란시스코에서 '깃허브 유니버스 2026'을 개최하며 '에이전트 시대, 모두 함께'를 주제로 사람과 AI 에이전트의 협업 방식을 조명한다. 코드 검증·보안, 기업 환경에서의 에이전트 활용 전략 등이 주요 세션으로 예고됐다.",
+    "scorePct": 29
+  }
+]
