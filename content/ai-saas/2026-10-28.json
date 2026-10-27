@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "베로소프트, 산업 시스템 연동 AI 플랫폼 'Verovia' 출시",
+    "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=478656",
+    "source": "스페셜타임스",
+    "publishedDate": "2026-10-26",
+    "summary": "베로소프트가 산업 장비와 기업용 애플리케이션, AI 에이전트를 하나로 연결해 업무 자동화를 지원하는 B2B 플랫폼 'Verovia'를 출시했다. Microsoft Entra ID 연동과 역할 기반 접근 제어 등 기업 환경에 맞춘 보안·관리 기능을 갖췄다.",
+    "scorePct": 75
+  },
+  {
+    "rank": 2,
+    "title": "Oracle AI World 2026: AI Trust and Lakehouse Updates",
+    "url": "https://www.channelinsider.com/infrastructure/oracle-ai-world-ai-trust-lakehouse-announcements/",
+    "source": "Channel Insider",
+    "publishedDate": "2026-10-26",
+    "summary": "오라클이 라스베이거스에서 열린 AI World 2026 콘퍼런스에서 신뢰 계층을 강화한 'Deep Trust AI' 아키텍처와 레이크하우스 업데이트를 공개했다. 기업 데이터 거버넌스와 AI 신뢰성을 동시에 확보하려는 엔터프라이즈 전략으로 풀이된다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 3,
+    "title": "AI 스타트업 10곳, 투자사 20곳 앞에서 IR…\"480억 유치 목표\"",
+    "url": "https://m.news.nate.com/view/20261027n22958",
+    "source": "네이트뉴스",
+    "publishedDate": "2026-10-27",
+    "summary": "AI 스타트업 10곳이 투자기관 20여 곳 앞에서 IR을 진행하며 480억원 규모의 투자 유치를 목표로 내걸었다. 현재까지 누적 유치액은 약 267억원으로, 초기 단계 AI 스타트업에 대한 투자 수요가 이어지고 있음을 보여준다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "AI 500개, 필요한 작업에 맞춰 골라 쓴다",
+    "url": "https://n.news.naver.com/mnews/article/009/0005754831",
+    "source": "네이버",
+    "publishedDate": "2026-10-27",
+    "summary": "KT가 500여개 AI 모델을 한곳에서 선택해 쓸 수 있는 B2B 플랫폼 '토큰팩토리'를 10월 30일 정식 출시한다. 작업 난이도에 따라 최적 모델을 자동 적용하고 토큰 사용량 기반 요금제와 약정 할인을 통해 비용을 최대 25%까지 절감할 수 있도록 설계됐다.",
+    "scorePct": 13
+  },
+  {
+    "rank": 5,
+    "title": "어도비, 英 히드로공항과 AI 협력 확대…승객 맞춤 서비스 제공",
+    "url": "https://n.news.naver.com/mnews/article/030/0003479339",
+    "source": "네이버",
+    "publishedDate": "2026-10-28",
+    "summary": "어도비가 영국 히드로공항과의 파트너십을 확대해 에이전틱 AI 기반 고객 경험 오케스트레이션 기술을 도입한다. 승객 개개인에 맞춘 맞춤형 서비스와 디지털 고객 경험 혁신을 목표로 한다.",
+    "scorePct": 0
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "통신요금 매기듯 AI 토큰 과금…KT, 500개 모델 연결한다",
+    "url": "https://n.news.naver.com/mnews/article/009/0005754793",
+    "source": "네이버",
+    "publishedDate": "2026-10-27",
+    "summary": "KT가 500개 이상의 AI 모델을 모아 토큰 사용량 기반으로 과금하는 통합 플랫폼 '토큰팩토리'를 출시했다. 프롬프트 압축과 모델 라우팅 기술로 비용을 최대 25%까지 절감할 수 있다는 점을 내세웠다. 우선 기업 고객을 대상으로 서비스를 시작하고 내년 3월 개인 이용자로 확대할 계획이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 2,
+    "title": "“AI가 청구서 읽고 회계 입력까지”…오픈AI, 가격 절반 낮춘 ‘GPT-6.1 테라’ 공개",
+    "url": "https://n.news.naver.com/mnews/article/016/0002714741",
+    "source": "네이버",
+    "publishedDate": "2026-10-28",
+    "summary": "오픈AI가 업무 자동화 성능을 높이고 표준 API 가격은 기존 대비 50% 낮춘 'GPT-6.1 테라'를 공개했다. 청구서 처리, 제안서 작성, 도면 해석 등 대량 업무 자동화를 지원하며 챗봇 서비스와 코딩 도구에도 적용된다. 시각적 추론과 컴퓨터 사용 능력이 강화된 점이 특징이다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "예측 불가 AI, 제품화는 어떡하나 …“운영계층 대상 평가·관측·통제가 핵심”",
+    "url": "https://n.news.naver.com/mnews/article/138/0002246167",
+    "source": "네이버",
+    "publishedDate": "2026-10-28",
+    "summary": "거대언어모델은 같은 질문에도 답이 달라지는 비결정론적 특성을 지녀, 이를 다루는 운영 계층의 평가·관측·통제 체계가 제품화의 핵심이라는 진단이 나왔다. 개념검증(PoC) 단계를 넘어 실제 서비스로 안착하려면 모델 자체보다 운영 인프라 구축이 더 중요하다는 지적이다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+    "source": "TechCrunch",
+    "publishedDate": "2026-10-26",
+    "summary": "앤트로픽이 IPO를 위한 S-1 공시에서 2026년 상반기 매출이 163억 달러로 전년 동기 대비 약 14배 늘었다고 밝혔다. 공시에는 기업 고객을 장기적으로 유지하기 위한 전략도 담겼다. 상장 절차가 본격화되면서 거대언어모델 업계의 수익 구조가 드러나고 있다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "Grok Bot Explained: Email, DMs, and 100+ Weekly Updates",
+    "url": "https://www.basenor.com/blogs/news/grok-bot-explained-email-dms-and-100-weekly-updates",
+    "source": "Basenor",
+    "publishedDate": "2026-10-26",
+    "summary": "xAI가 챗봇 그록에 매주 100개 이상의 기능과 수정 사항을 배포하고 있다고 밝혔다. 최신 업데이트로 그록은 이메일과 다이렉트 메시지 처리까지 지원하게 됐다. 빠른 반복 배포 속도가 다른 LLM 기업과의 경쟁에서 차별점으로 꼽힌다.",
+    "scorePct": 29
+  }
+]
