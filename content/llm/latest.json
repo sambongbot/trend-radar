@@ -1,50 +1,50 @@
 {
-  "date": "2026-10-28",
-  "headline": "> 앤트로픽이 IPO 공시로 매출 급성장을 공개한 가운데 오픈AI는 GPT-6.1 테라로 가격 인하 공세에 나섰다.\n> xAI는 주간 100개 이상 업데이트로 속도 경쟁을 벌이고, KT는 다중 모델 통합 플랫폼으로 토큰 과금 시장에 진입했다.\n> LLM의 비결정적 특성을 다루는 운영 계층 구축이 실제 제품화의 관건으로 부상하고 있다.",
+  "date": "2026-10-29",
+  "headline": "> Anthropic이 미국 공공부문 대상 Claude 공급을 확대하고 Claude Code 기능도 꾸준히 업데이트되고 있다.\n> Google DeepMind는 실시간 월드 시뮬레이션 모델 '지니 4'를 공개해 생성형 AI 적용 범위를 넓혔다.\n> 국내에서는 KT가 다중 LLM 통합 허브를 출시하는 등 AI 코딩·모델 활용 논의가 이어지고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "통신요금 매기듯 AI 토큰 과금…KT, 500개 모델 연결한다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005754793",
-      "source": "네이버",
-      "publishedDate": "2026-10-27",
-      "summary": "KT가 500개 이상의 AI 모델을 모아 토큰 사용량 기반으로 과금하는 통합 플랫폼 '토큰팩토리'를 출시했다. 프롬프트 압축과 모델 라우팅 기술로 비용을 최대 25%까지 절감할 수 있다는 점을 내세웠다. 우선 기업 고객을 대상으로 서비스를 시작하고 내년 3월 개인 이용자로 확대할 계획이다.",
-      "scorePct": 36
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "source": "Simon Willison's Weblog",
+      "publishedDate": "2026-10-28",
+      "summary": "한 개발 블로거가 2026년 10월을 AI 기반 게임 개발의 분기점으로 지목하며, Claude 등 최신 코딩 모델이 짧은 프롬프트만으로 동작하는 게임을 만들어내는 수준에 도달했다고 분석했다. 여러 모델의 코딩 능력을 비교하며 이런 흐름이 게임 제작 방식 자체를 바꿀 수 있다고 전망했다.",
+      "scorePct": 57
     },
     {
       "rank": 2,
-      "title": "“AI가 청구서 읽고 회계 입력까지”…오픈AI, 가격 절반 낮춘 ‘GPT-6.1 테라’ 공개",
-      "url": "https://n.news.naver.com/mnews/article/016/0002714741",
-      "source": "네이버",
-      "publishedDate": "2026-10-28",
-      "summary": "오픈AI가 업무 자동화 성능을 높이고 표준 API 가격은 기존 대비 50% 낮춘 'GPT-6.1 테라'를 공개했다. 청구서 처리, 제안서 작성, 도면 해석 등 대량 업무 자동화를 지원하며 챗봇 서비스와 코딩 도구에도 적용된다. 시각적 추론과 컴퓨터 사용 능력이 강화된 점이 특징이다.",
-      "scorePct": 29
+      "title": "Release Documentation Update - 2026-10-27 15:15",
+      "url": "https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20261027-1515",
+      "source": "Claude Code Docs Changelog (GitHub)",
+      "publishedDate": "2026-10-27",
+      "summary": "Claude Code의 공식 문서 변경사항을 자동으로 추적한 기록으로, 작업을 모니터링하는 도구와 서브에이전트 자동 압축 기능 등이 10월 중 추가됐다. 개발자가 사용하는 AI 코딩 에이전트 기능이 빠르게 확장되고 있음을 보여준다.",
+      "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "예측 불가 AI, 제품화는 어떡하나 …“운영계층 대상 평가·관측·통제가 핵심”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002246167",
-      "source": "네이버",
-      "publishedDate": "2026-10-28",
-      "summary": "거대언어모델은 같은 질문에도 답이 달라지는 비결정론적 특성을 지녀, 이를 다루는 운영 계층의 평가·관측·통제 체계가 제품화의 핵심이라는 진단이 나왔다. 개념검증(PoC) 단계를 넘어 실제 서비스로 안착하려면 모델 자체보다 운영 인프라 구축이 더 중요하다는 지적이다.",
-      "scorePct": 29
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind Blog",
+      "publishedDate": "2026-10-27",
+      "summary": "Google DeepMind가 사용자의 입력에 실시간으로 반응하는 인터랙티브 월드 시뮬레이션 모델 '지니 4'를 공식 발표했다. 텍스트 등 네이티브 멀티모달 입력을 받아 가상 환경을 즉석에서 생성하고 변형할 수 있는 것이 특징이다.",
+      "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
-      "source": "TechCrunch",
-      "publishedDate": "2026-10-26",
-      "summary": "앤트로픽이 IPO를 위한 S-1 공시에서 2026년 상반기 매출이 163억 달러로 전년 동기 대비 약 14배 늘었다고 밝혔다. 공시에는 기업 고객을 장기적으로 유지하기 위한 전략도 담겼다. 상장 절차가 본격화되면서 거대언어모델 업계의 수익 구조가 드러나고 있다.",
-      "scorePct": 29
+      "title": "KT, AI 모델 허브 '토큰팩토리' 공개 — 73종으로 10월 30일 출시, 오픈라우터 연계로 500종 이상 확대",
+      "url": "https://github.com/roomedia/ax-trend/issues/3561",
+      "source": "전자신문·매일경제 (GitHub 요약 추적)",
+      "publishedDate": "2026-10-27",
+      "summary": "KT가 다수의 LLM을 한곳에서 선택하고 관리할 수 있는 모델 허브 '토큰팩토리'를 공개했다. 출시 시점엔 70여 종의 모델을 지원하며, 외부 라우팅 서비스와 연계해 지원 모델을 500종 이상으로 늘릴 계획이다.",
+      "scorePct": 43
     },
     {
       "rank": 5,
-      "title": "Grok Bot Explained: Email, DMs, and 100+ Weekly Updates",
-      "url": "https://www.basenor.com/blogs/news/grok-bot-explained-email-dms-and-100-weekly-updates",
-      "source": "Basenor",
-      "publishedDate": "2026-10-26",
-      "summary": "xAI가 챗봇 그록에 매주 100개 이상의 기능과 수정 사항을 배포하고 있다고 밝혔다. 최신 업데이트로 그록은 이메일과 다이렉트 메시지 처리까지 지원하게 됐다. 빠른 반복 배포 속도가 다른 LLM 기업과의 경쟁에서 차별점으로 꼽힌다.",
+      "title": "Anthropic Expands Government Partnership, Offers 40% Discount on Claude",
+      "url": "https://www.citybiz.co/article/925349/anthropic-expands-government-partnership-offers-40-discount-on-claude/",
+      "source": "citybiz",
+      "publishedDate": "2026-10-28",
+      "summary": "Anthropic이 미국 연방·주·지방 정부 기관을 대상으로 한 공급 계약(OneGov)을 확대하며 Claude 이용료를 40% 할인하기로 했다. 공공부문의 LLM 도입 확산을 노린 가격 전략으로 풀이된다.",
       "scorePct": 29
     }
   ]

@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "The October inflection point for vibe game development",
+    "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-10-28",
+    "summary": "한 개발 블로거가 2026년 10월을 AI 기반 게임 개발의 분기점으로 지목하며, Claude 등 최신 코딩 모델이 짧은 프롬프트만으로 동작하는 게임을 만들어내는 수준에 도달했다고 분석했다. 여러 모델의 코딩 능력을 비교하며 이런 흐름이 게임 제작 방식 자체를 바꿀 수 있다고 전망했다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "Release Documentation Update - 2026-10-27 15:15",
+    "url": "https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20261027-1515",
+    "source": "Claude Code Docs Changelog (GitHub)",
+    "publishedDate": "2026-10-27",
+    "summary": "Claude Code의 공식 문서 변경사항을 자동으로 추적한 기록으로, 작업을 모니터링하는 도구와 서브에이전트 자동 압축 기능 등이 10월 중 추가됐다. 개발자가 사용하는 AI 코딩 에이전트 기능이 빠르게 확장되고 있음을 보여준다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "Genie 4: A new generation of world simulation",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "Google DeepMind Blog",
+    "publishedDate": "2026-10-27",
+    "summary": "Google DeepMind가 사용자의 입력에 실시간으로 반응하는 인터랙티브 월드 시뮬레이션 모델 '지니 4'를 공식 발표했다. 텍스트 등 네이티브 멀티모달 입력을 받아 가상 환경을 즉석에서 생성하고 변형할 수 있는 것이 특징이다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "KT, AI 모델 허브 '토큰팩토리' 공개 — 73종으로 10월 30일 출시, 오픈라우터 연계로 500종 이상 확대",
+    "url": "https://github.com/roomedia/ax-trend/issues/3561",
+    "source": "전자신문·매일경제 (GitHub 요약 추적)",
+    "publishedDate": "2026-10-27",
+    "summary": "KT가 다수의 LLM을 한곳에서 선택하고 관리할 수 있는 모델 허브 '토큰팩토리'를 공개했다. 출시 시점엔 70여 종의 모델을 지원하며, 외부 라우팅 서비스와 연계해 지원 모델을 500종 이상으로 늘릴 계획이다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic Expands Government Partnership, Offers 40% Discount on Claude",
+    "url": "https://www.citybiz.co/article/925349/anthropic-expands-government-partnership-offers-40-discount-on-claude/",
+    "source": "citybiz",
+    "publishedDate": "2026-10-28",
+    "summary": "Anthropic이 미국 연방·주·지방 정부 기관을 대상으로 한 공급 계약(OneGov)을 확대하며 Claude 이용료를 40% 할인하기로 했다. 공공부문의 LLM 도입 확산을 노린 가격 전략으로 풀이된다.",
+    "scorePct": 29
+  }
+]
