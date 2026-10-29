@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-29",
-  "headline": "> Anthropic이 미국 공공부문 대상 Claude 공급을 확대하고 Claude Code 기능도 꾸준히 업데이트되고 있다.\n> Google DeepMind는 실시간 월드 시뮬레이션 모델 '지니 4'를 공개해 생성형 AI 적용 범위를 넓혔다.\n> 국내에서는 KT가 다중 LLM 통합 허브를 출시하는 등 AI 코딩·모델 활용 논의가 이어지고 있다.",
+  "date": "2026-10-30",
+  "headline": "> Claude Code 사용량 버그 신고와 구글 Gemini 4 Carbon 공개로 플랫폼·모델 경쟁이 동시에 부각됐다.\n> 앤트로픽은 Claude for Legal 아티팩트 확장과 Enterprise 예산 관리 도구로 기업·전문직 적용을 넓히고 있다.\n> 역할 분담형 멀티 에이전트 조직 서비스(노마디안)도 등장하며 에이전트 기반 사업화가 확산되는 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "The October inflection point for vibe game development",
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "source": "Simon Willison's Weblog",
+      "title": "Claude Code usage limits run out in hours, users report a bug",
+      "url": "https://pasqualepillitteri.it/en/news/27751/claude-code-usage-limits-run-out-users-report-bug",
+      "source": "Pasquale Pillitteri",
       "publishedDate": "2026-10-28",
-      "summary": "한 개발 블로거가 2026년 10월을 AI 기반 게임 개발의 분기점으로 지목하며, Claude 등 최신 코딩 모델이 짧은 프롬프트만으로 동작하는 게임을 만들어내는 수준에 도달했다고 분석했다. 여러 모델의 코딩 능력을 비교하며 이런 흐름이 게임 제작 방식 자체를 바꿀 수 있다고 전망했다.",
+      "summary": "2026년 10월 중순부터 Claude Code 구독자들 사이에서 사용량 한도가 평소보다 훨씬 빠르게 소진된다는 신고가 이어지고 있다. 아직 공식적인 원인 규명이나 수정 조치는 확인되지 않았으며, 사용자들은 과금·호출 처리 로직에 의문을 제기하고 있다.",
       "scorePct": 57
     },
     {
       "rank": 2,
-      "title": "Release Documentation Update - 2026-10-27 15:15",
-      "url": "https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20261027-1515",
-      "source": "Claude Code Docs Changelog (GitHub)",
-      "publishedDate": "2026-10-27",
-      "summary": "Claude Code의 공식 문서 변경사항을 자동으로 추적한 기록으로, 작업을 모니터링하는 도구와 서브에이전트 자동 압축 기능 등이 10월 중 추가됐다. 개발자가 사용하는 AI 코딩 에이전트 기능이 빠르게 확장되고 있음을 보여준다.",
-      "scorePct": 50
+      "title": "US tech giant Google unveils Gemini 4 Carbon AI model",
+      "url": "https://www.anews.com.tr/tech/2026/10/28/us-tech-giant-google-unveils-gemini-4-carbon-ai-model",
+      "source": "aNews",
+      "publishedDate": "2026-10-28",
+      "summary": "구글이 2026년 10월 28일 차세대 모델 'Gemini 4 Carbon'을 공개했다. 회사 측은 이를 역대 가장 강력한 프런티어 모델로 소개했으며, 사이버 보안 방어 업무를 중심으로 단계적 배포가 시작됐다.",
+      "scorePct": 29
     },
     {
       "rank": 3,
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind Blog",
-      "publishedDate": "2026-10-27",
-      "summary": "Google DeepMind가 사용자의 입력에 실시간으로 반응하는 인터랙티브 월드 시뮬레이션 모델 '지니 4'를 공식 발표했다. 텍스트 등 네이티브 멀티모달 입력을 받아 가상 환경을 즉석에서 생성하고 변형할 수 있는 것이 특징이다.",
-      "scorePct": 43
+      "title": "Anthropic Launches Claude for Legal With Contract Review and Cite Check Tools",
+      "url": "https://unusualwhales.com/news/anthropic-claude-for-legal-launch",
+      "source": "Unusual Whales",
+      "publishedDate": "2026-10-28",
+      "summary": "앤트로픽이 지난 5월 출시한 'Claude for Legal'에 계약서 검토와 인용 검증(cite check)을 지원하는 아티팩트 갤러리를 새로 추가했다. 법률 업무에 특화된 60여 개 이상의 사전 제작 아티팩트가 포함돼 실무 적용 범위가 넓어졌다.",
+      "scorePct": 29
     },
     {
       "rank": 4,
-      "title": "KT, AI 모델 허브 '토큰팩토리' 공개 — 73종으로 10월 30일 출시, 오픈라우터 연계로 500종 이상 확대",
-      "url": "https://github.com/roomedia/ax-trend/issues/3561",
-      "source": "전자신문·매일경제 (GitHub 요약 추적)",
-      "publishedDate": "2026-10-27",
-      "summary": "KT가 다수의 LLM을 한곳에서 선택하고 관리할 수 있는 모델 허브 '토큰팩토리'를 공개했다. 출시 시점엔 70여 종의 모델을 지원하며, 외부 라우팅 서비스와 연계해 지원 모델을 500종 이상으로 늘릴 계획이다.",
-      "scorePct": 43
+      "title": "Anthropic gives Claude Enterprise teams shared budgets and AI usage reports",
+      "url": "https://superpowerdaily.com/posts/anthropic-gives-claude-enterprise-teams-shared-budgets-and-ai-usage-reports",
+      "source": "Superpower Daily",
+      "publishedDate": "2026-10-28",
+      "summary": "앤트로픽이 Claude Enterprise 팀을 위한 스마트 리포트, 인앱 설문, 그룹 공유 예산 기능을 정식 출시했다. 팀 단위로 월 사용 예산을 배분하면서도 개인별 지출 내역은 그대로 추적할 수 있다.",
+      "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "Anthropic Expands Government Partnership, Offers 40% Discount on Claude",
-      "url": "https://www.citybiz.co/article/925349/anthropic-expands-government-partnership-offers-40-discount-on-claude/",
-      "source": "citybiz",
-      "publishedDate": "2026-10-28",
-      "summary": "Anthropic이 미국 연방·주·지방 정부 기관을 대상으로 한 공급 계약(OneGov)을 확대하며 Claude 이용료를 40% 할인하기로 했다. 공공부문의 LLM 도입 확산을 노린 가격 전략으로 풀이된다.",
-      "scorePct": 29
+      "title": "‘AI 직원’으로 팀 꾸린다…한컴, 노마디안 앞세워 美 공략(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006398819",
+      "source": "네이버",
+      "publishedDate": "2026-10-30",
+      "summary": "한컴이 역할별 AI 에이전트로 팀을 구성해 마케팅부터 고객 지원까지 업무를 수행하는 'AI 직원' 체계 '노마디안'을 앞세워 미국 시장에 진출한다. 보고서 작성 등 실무 업무까지 에이전트가 분담하는 구조로 설계됐다.",
+      "scorePct": 14
     }
   ]
 }

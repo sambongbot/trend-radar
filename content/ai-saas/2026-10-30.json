@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "[이노베이션 솔루션 데이 2026] 플래티어, '엑스젠' 기반 AI 에이전트 운영 전략 발표",
+    "url": "https://n.news.naver.com/mnews/article/030/0003480270",
+    "source": "네이버",
+    "publishedDate": "2026-10-30",
+    "summary": "한 소프트웨어 기업이 행사에서 에이전틱 AI 플랫폼을 기반으로 AI 에이전트를 실제 업무에 안착시키는 운영 전략을 공개했다. 도입 자체보다 현업 적용과 운영 방법론에 초점을 맞춘 점이 특징이다.",
+    "scorePct": 88
+  },
+  {
+    "rank": 2,
+    "title": "위세아이텍, AI 플랫폼 앞세워 미국·중남미 공략…아이노션과 맞손",
+    "url": "https://n.news.naver.com/mnews/article/092/0002443023",
+    "source": "네이버",
+    "publishedDate": "2026-10-30",
+    "summary": "한 AI 소프트웨어 기업이 미국 기업시장과 중남미 공공시장을 겨냥해 해외 사업 확대에 나섰다. AI 데이터센터 기업과 전략적 협력을 맺고 머신러닝·AI 운영 플랫폼을 결합한 통합 서비스로 진출을 추진한다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 3,
+    "title": "엠로, GS칼텍스에 구매 자동화 AI 에이전트 구축",
+    "url": "https://www.fnnews.com/news/202610290946397163",
+    "source": "파이낸셜뉴스",
+    "publishedDate": "2026-10-29",
+    "summary": "AI 기반 공급망관리 소프트웨어 기업이 정유사의 구매 자동화 AI 에이전트 구축 프로젝트를 수주했다. 연간 2,700여 건에 달하는 소액 자재 구매 업무를 AI 에이전트가 자동 처리하도록 설계됐다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 4,
+    "title": "레드햇, '서밋 커넥트 2026' 개최…\"AI 인프라 주권 확보책 공유\"",
+    "url": "https://www.itdaily.kr/news/articleView.html?idxno=242465",
+    "source": "아이티데일리",
+    "publishedDate": "2026-10-27",
+    "summary": "한 오픈소스 기업이 컨퍼런스에서 AI 도입 확산에 따른 보안 위협 대응 전략과 인프라 현대화 방안을 공개했다. 특정 벤더에 종속되지 않는 오픈소스 기반 AI 인프라 주권 확보 방안이 핵심으로 제시됐다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 5,
+    "title": "Circuit Mind raises $25M for AI-powered electronics design",
+    "url": "https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design",
+    "source": "Axios",
+    "publishedDate": "2026-10-28",
+    "summary": "런던의 한 스타트업이 전자회로 설계를 자동화하는 AI 기술로 2,500만 달러를 유치했다. 투자사가 주도한 1,850만 달러 규모 시리즈A가 포함된 이번 투자는 AI 적용 범위가 하드웨어 설계 영역까지 확장되고 있음을 보여준다.",
+    "scorePct": 25
+  }
+]

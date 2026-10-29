@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code usage limits run out in hours, users report a bug",
+    "url": "https://pasqualepillitteri.it/en/news/27751/claude-code-usage-limits-run-out-users-report-bug",
+    "source": "Pasquale Pillitteri",
+    "publishedDate": "2026-10-28",
+    "summary": "2026년 10월 중순부터 Claude Code 구독자들 사이에서 사용량 한도가 평소보다 훨씬 빠르게 소진된다는 신고가 이어지고 있다. 아직 공식적인 원인 규명이나 수정 조치는 확인되지 않았으며, 사용자들은 과금·호출 처리 로직에 의문을 제기하고 있다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "US tech giant Google unveils Gemini 4 Carbon AI model",
+    "url": "https://www.anews.com.tr/tech/2026/10/28/us-tech-giant-google-unveils-gemini-4-carbon-ai-model",
+    "source": "aNews",
+    "publishedDate": "2026-10-28",
+    "summary": "구글이 2026년 10월 28일 차세대 모델 'Gemini 4 Carbon'을 공개했다. 회사 측은 이를 역대 가장 강력한 프런티어 모델로 소개했으며, 사이버 보안 방어 업무를 중심으로 단계적 배포가 시작됐다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic Launches Claude for Legal With Contract Review and Cite Check Tools",
+    "url": "https://unusualwhales.com/news/anthropic-claude-for-legal-launch",
+    "source": "Unusual Whales",
+    "publishedDate": "2026-10-28",
+    "summary": "앤트로픽이 지난 5월 출시한 'Claude for Legal'에 계약서 검토와 인용 검증(cite check)을 지원하는 아티팩트 갤러리를 새로 추가했다. 법률 업무에 특화된 60여 개 이상의 사전 제작 아티팩트가 포함돼 실무 적용 범위가 넓어졌다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic gives Claude Enterprise teams shared budgets and AI usage reports",
+    "url": "https://superpowerdaily.com/posts/anthropic-gives-claude-enterprise-teams-shared-budgets-and-ai-usage-reports",
+    "source": "Superpower Daily",
+    "publishedDate": "2026-10-28",
+    "summary": "앤트로픽이 Claude Enterprise 팀을 위한 스마트 리포트, 인앱 설문, 그룹 공유 예산 기능을 정식 출시했다. 팀 단위로 월 사용 예산을 배분하면서도 개인별 지출 내역은 그대로 추적할 수 있다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "‘AI 직원’으로 팀 꾸린다…한컴, 노마디안 앞세워 美 공략(종합)",
+    "url": "https://n.news.naver.com/mnews/article/018/0006398819",
+    "source": "네이버",
+    "publishedDate": "2026-10-30",
+    "summary": "한컴이 역할별 AI 에이전트로 팀을 구성해 마케팅부터 고객 지원까지 업무를 수행하는 'AI 직원' 체계 '노마디안'을 앞세워 미국 시장에 진출한다. 보고서 작성 등 실무 업무까지 에이전트가 분담하는 구조로 설계됐다.",
+    "scorePct": 14
+  }
+]
