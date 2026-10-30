@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-30",
-  "headline": "> Claude Code 사용량 버그 신고와 구글 Gemini 4 Carbon 공개로 플랫폼·모델 경쟁이 동시에 부각됐다.\n> 앤트로픽은 Claude for Legal 아티팩트 확장과 Enterprise 예산 관리 도구로 기업·전문직 적용을 넓히고 있다.\n> 역할 분담형 멀티 에이전트 조직 서비스(노마디안)도 등장하며 에이전트 기반 사업화가 확산되는 중이다.",
+  "date": "2026-10-31",
+  "headline": "> Claude Code 확장 프로그램을 통한 SSH 백도어 유포 사건이 AI 코딩 생태계의 공급망 보안 경각심을 높였다.\n> 깃허브 코파일럿 퓨전 정식 출시와 미니맥스의 에이전트 코딩 스킬 공개로 AI 코딩 어시스턴트 경쟁이 심화되고 있다.\n> 오픈AI는 프런티어 모델 정합성 감시 체계와 모델 스펙 개정으로 에이전트형 AI의 안전 기준을 재정비했다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Code usage limits run out in hours, users report a bug",
-      "url": "https://pasqualepillitteri.it/en/news/27751/claude-code-usage-limits-run-out-users-report-bug",
-      "source": "Pasquale Pillitteri",
+      "title": "GitHub Makes Copilot Fusion Generally Available at Universe 2026",
+      "url": "https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/",
+      "source": "Unite.AI",
       "publishedDate": "2026-10-28",
-      "summary": "2026년 10월 중순부터 Claude Code 구독자들 사이에서 사용량 한도가 평소보다 훨씬 빠르게 소진된다는 신고가 이어지고 있다. 아직 공식적인 원인 규명이나 수정 조치는 확인되지 않았으며, 사용자들은 과금·호출 처리 로직에 의문을 제기하고 있다.",
-      "scorePct": 57
+      "summary": "깃허브가 유니버스 2026에서 멀티모델 라우팅·오케스트레이션 시스템인 코파일럿 퓨전을 정식 출시했다. 여러 LLM을 작업 특성에 맞게 자동으로 선택·조합해 코딩 어시스턴트의 효율을 높이는 것이 핵심이다. 이는 단일 모델 의존에서 벗어나려는 업계 흐름을 보여준다.",
+      "scorePct": 86
     },
     {
       "rank": 2,
-      "title": "US tech giant Google unveils Gemini 4 Carbon AI model",
-      "url": "https://www.anews.com.tr/tech/2026/10/28/us-tech-giant-google-unveils-gemini-4-carbon-ai-model",
-      "source": "aNews",
-      "publishedDate": "2026-10-28",
-      "summary": "구글이 2026년 10월 28일 차세대 모델 'Gemini 4 Carbon'을 공개했다. 회사 측은 이를 역대 가장 강력한 프런티어 모델로 소개했으며, 사이버 보안 방어 업무를 중심으로 단계적 배포가 시작됐다.",
-      "scorePct": 29
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "source": "BleepingComputer",
+      "publishedDate": "2026-10-29",
+      "summary": "커서(Cursor)는 자사 확장 프로그램 마켓플레이스에서 유포된 앤트로픽 클로드 코드 확장 프로그램의 변조 버전(2.1.313)이 SSH 백도어를 심은 사실을 공개했다. 공급망 공격이 개발자가 신뢰하는 AI 코딩 도구 확장 생태계를 직접 노렸다는 점에서 파장이 크다. 이번 사건은 서드파티 확장 프로그램 검증 체계의 허점을 드러냈다.",
+      "scorePct": 71
     },
     {
       "rank": 3,
-      "title": "Anthropic Launches Claude for Legal With Contract Review and Cite Check Tools",
-      "url": "https://unusualwhales.com/news/anthropic-claude-for-legal-launch",
-      "source": "Unusual Whales",
+      "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+      "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+      "source": "MarkTechPost",
       "publishedDate": "2026-10-28",
-      "summary": "앤트로픽이 지난 5월 출시한 'Claude for Legal'에 계약서 검토와 인용 검증(cite check)을 지원하는 아티팩트 갤러리를 새로 추가했다. 법률 업무에 특화된 60여 개 이상의 사전 제작 아티팩트가 포함돼 실무 적용 범위가 넓어졌다.",
-      "scorePct": 29
+      "summary": "미니맥스가 자사 코딩팀이 실제로 사용하는 워크플로와 15개 에이전트 스킬을 담은 'MCode Stack'을 오픈소스로 공개했다. 이는 자체 모델 개발에 활용된 에이전틱 코딩 방법론을 외부에 투명하게 공개한 사례다. 개발자들은 이를 통해 실전 수준의 에이전트 코딩 워크플로를 참고할 수 있다.",
+      "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "Anthropic gives Claude Enterprise teams shared budgets and AI usage reports",
-      "url": "https://superpowerdaily.com/posts/anthropic-gives-claude-enterprise-teams-shared-budgets-and-ai-usage-reports",
-      "source": "Superpower Daily",
-      "publishedDate": "2026-10-28",
-      "summary": "앤트로픽이 Claude Enterprise 팀을 위한 스마트 리포트, 인앱 설문, 그룹 공유 예산 기능을 정식 출시했다. 팀 단위로 월 사용 예산을 배분하면서도 개인별 지출 내역은 그대로 추적할 수 있다.",
-      "scorePct": 29
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "publishedDate": "2026-10-29",
+      "summary": "오픈AI가 프런티어 모델의 정합성 이탈과 승인되지 않은 에이전트 행동을 탐지하기 위한 다층 모니터링 체계를 공개했다. 모델이 점점 자율적으로 작업을 수행하게 되면서 이상 행동을 조기에 포착하는 체계의 중요성이 커지고 있다. 이는 에이전트형 AI의 안전성 확보를 위한 업계 접근 방식을 보여준다.",
+      "scorePct": 43
     },
     {
       "rank": 5,
-      "title": "‘AI 직원’으로 팀 꾸린다…한컴, 노마디안 앞세워 美 공략(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006398819",
-      "source": "네이버",
-      "publishedDate": "2026-10-30",
-      "summary": "한컴이 역할별 AI 에이전트로 팀을 구성해 마케팅부터 고객 지원까지 업무를 수행하는 'AI 직원' 체계 '노마디안'을 앞세워 미국 시장에 진출한다. 보고서 작성 등 실무 업무까지 에이전트가 분담하는 구조로 설계됐다.",
-      "scorePct": 14
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec/",
+      "source": "OpenAI",
+      "publishedDate": "2026-10-29",
+      "summary": "오픈AI가 모델 스펙을 개정해 충실성과 안전성 등 5가지 핵심 가치를 중심으로 가이드라인을 재구성했다. 이는 모델이 복잡하거나 상충하는 지시 상황에서 어떻게 행동해야 하는지 기준을 명확히 하려는 시도다. 개발자와 연구자에게는 모델 동작을 예측하고 프롬프트를 설계하는 데 참고 기준이 된다.",
+      "scorePct": 29
     }
   ]
 }

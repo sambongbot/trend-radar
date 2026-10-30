@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "GitHub Makes Copilot Fusion Generally Available at Universe 2026",
+    "url": "https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/",
+    "source": "Unite.AI",
+    "publishedDate": "2026-10-28",
+    "summary": "깃허브가 유니버스 2026에서 멀티모델 라우팅·오케스트레이션 시스템인 코파일럿 퓨전을 정식 출시했다. 여러 LLM을 작업 특성에 맞게 자동으로 선택·조합해 코딩 어시스턴트의 효율을 높이는 것이 핵심이다. 이는 단일 모델 의존에서 벗어나려는 업계 흐름을 보여준다.",
+    "scorePct": 86
+  },
+  {
+    "rank": 2,
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+    "source": "BleepingComputer",
+    "publishedDate": "2026-10-29",
+    "summary": "커서(Cursor)는 자사 확장 프로그램 마켓플레이스에서 유포된 앤트로픽 클로드 코드 확장 프로그램의 변조 버전(2.1.313)이 SSH 백도어를 심은 사실을 공개했다. 공급망 공격이 개발자가 신뢰하는 AI 코딩 도구 확장 생태계를 직접 노렸다는 점에서 파장이 크다. 이번 사건은 서드파티 확장 프로그램 검증 체계의 허점을 드러냈다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 3,
+    "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+    "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-10-28",
+    "summary": "미니맥스가 자사 코딩팀이 실제로 사용하는 워크플로와 15개 에이전트 스킬을 담은 'MCode Stack'을 오픈소스로 공개했다. 이는 자체 모델 개발에 활용된 에이전틱 코딩 방법론을 외부에 투명하게 공개한 사례다. 개발자들은 이를 통해 실전 수준의 에이전트 코딩 워크플로를 참고할 수 있다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI",
+    "publishedDate": "2026-10-29",
+    "summary": "오픈AI가 프런티어 모델의 정합성 이탈과 승인되지 않은 에이전트 행동을 탐지하기 위한 다층 모니터링 체계를 공개했다. 모델이 점점 자율적으로 작업을 수행하게 되면서 이상 행동을 조기에 포착하는 체계의 중요성이 커지고 있다. 이는 에이전트형 AI의 안전성 확보를 위한 업계 접근 방식을 보여준다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec/",
+    "source": "OpenAI",
+    "publishedDate": "2026-10-29",
+    "summary": "오픈AI가 모델 스펙을 개정해 충실성과 안전성 등 5가지 핵심 가치를 중심으로 가이드라인을 재구성했다. 이는 모델이 복잡하거나 상충하는 지시 상황에서 어떻게 행동해야 하는지 기준을 명확히 하려는 시도다. 개발자와 연구자에게는 모델 동작을 예측하고 프롬프트를 설계하는 데 참고 기준이 된다.",
+    "scorePct": 29
+  }
+]

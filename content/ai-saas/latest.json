@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-30",
-  "headline": "> 국내 기업들이 AI 에이전트를 반복 업무 자동화에 실제 투입하는 사례가 늘고 있다.\n> 국내 AI 소프트웨어 기업들은 해외 기업·공공 시장 공략을 위한 협력을 확대하고 있다.\n> 전자설계 등 전문 영역까지 AI 스타트업 투자가 이어지며 적용 범위가 넓어지고 있다.",
+  "date": "2026-10-31",
+  "headline": "> 엔터프라이즈 AI 에이전트를 둘러싼 투자와 플랫폼 경쟁이 동시에 가속화하고 있다.\n> 버티컬 특화 AI 스타트업으로 초기 투자가 몰리는 흐름이 뚜렷하다.\n> 대형 금융·테크 기업들은 외부 AI 스타트업 발굴과 업무 자동화 파트너십 확대에 나섰다.",
   "items": [
     {
       "rank": 1,
-      "title": "[이노베이션 솔루션 데이 2026] 플래티어, '엑스젠' 기반 AI 에이전트 운영 전략 발표",
-      "url": "https://n.news.naver.com/mnews/article/030/0003480270",
-      "source": "네이버",
-      "publishedDate": "2026-10-30",
-      "summary": "한 소프트웨어 기업이 행사에서 에이전틱 AI 플랫폼을 기반으로 AI 에이전트를 실제 업무에 안착시키는 운영 전략을 공개했다. 도입 자체보다 현업 적용과 운영 방법론에 초점을 맞춘 점이 특징이다.",
-      "scorePct": 88
+      "title": "Enterprise AI Startup QwikBuild Raises $2.3 Mn in Pre-seed Funding",
+      "url": "https://entrackr.com/snippets/ai-enterprise-startup-qwikbuild-raises-23-mn-in-pre-seed-round-12760872",
+      "source": "Entrackr",
+      "publishedDate": "2026-10-28",
+      "summary": "뱅갈루루 기반 엔터프라이즈 AI 스타트업 QwikBuild가 Globalway 주도로 230만 달러 프리시드 투자를 유치했다. SAP·세일즈포스 등 기존 업무 플랫폼에 AI 에이전트를 결합해 기업 워크플로우를 자동화하는 것이 핵심 전략이다. 초기 단계임에도 구체적인 통합 전략을 갖춘 점이 눈에 띈다.",
+      "scorePct": 100
     },
     {
       "rank": 2,
-      "title": "위세아이텍, AI 플랫폼 앞세워 미국·중남미 공략…아이노션과 맞손",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443023",
-      "source": "네이버",
-      "publishedDate": "2026-10-30",
-      "summary": "한 AI 소프트웨어 기업이 미국 기업시장과 중남미 공공시장을 겨냥해 해외 사업 확대에 나섰다. AI 데이터센터 기업과 전략적 협력을 맺고 머신러닝·AI 운영 플랫폼을 결합한 통합 서비스로 진출을 추진한다.",
+      "title": "Yesterday's Marketing Technology & AI News: October 29, 2026",
+      "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-october-29-2026/",
+      "source": "The Agile Brand Guide",
+      "publishedDate": "2026-10-29",
+      "summary": "Canto가 디지털자산관리(DAM) 플랫폼에 AI 비서 'Global Assistant'를 출시했고, ClicData는 중견기업 데이터를 AI 어시스턴트에 연결하는 MCP 서버를 내놓는 등 마케팅 기술 업계 전반에서 AI 기능 탑재가 이어지고 있다. 개별 SaaS 벤더들이 기존 제품에 생성형 AI 비서와 커넥터를 빠르게 접목하는 흐름을 보여준다.",
       "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "엠로, GS칼텍스에 구매 자동화 AI 에이전트 구축",
-      "url": "https://www.fnnews.com/news/202610290946397163",
-      "source": "파이낸셜뉴스",
-      "publishedDate": "2026-10-29",
-      "summary": "AI 기반 공급망관리 소프트웨어 기업이 정유사의 구매 자동화 AI 에이전트 구축 프로젝트를 수주했다. 연간 2,700여 건에 달하는 소액 자재 구매 업무를 AI 에이전트가 자동 처리하도록 설계됐다.",
-      "scorePct": 50
-    },
-    {
-      "rank": 4,
-      "title": "레드햇, '서밋 커넥트 2026' 개최…\"AI 인프라 주권 확보책 공유\"",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=242465",
-      "source": "아이티데일리",
-      "publishedDate": "2026-10-27",
-      "summary": "한 오픈소스 기업이 컨퍼런스에서 AI 도입 확산에 따른 보안 위협 대응 전략과 인프라 현대화 방안을 공개했다. 특정 벤더에 종속되지 않는 오픈소스 기반 AI 인프라 주권 확보 방안이 핵심으로 제시됐다.",
+      "title": "구글·서비스나우, 기업용 AI 주도권 잡는다…업무 자동화 시장 공략 속도",
+      "url": "https://zdnet.co.kr/view/?no=20261028093407",
+      "source": "ZDNet Korea",
+      "publishedDate": "2026-10-28",
+      "summary": "구글 클라우드와 서비스나우가 '제미나이 엔터프라이즈'와 산업별 업무 시스템을 연동하는 파트너십 확대 계획을 발표했다. 직원이 여러 시스템을 오가지 않고 하나의 AI 인터페이스에서 업무를 처리할 수 있게 하는 것이 목표다. 기업용 업무 자동화 시장을 둘러싼 빅테크 간 경쟁이 한층 치열해지고 있다.",
       "scorePct": 38
     },
     {
-      "rank": 5,
-      "title": "Circuit Mind raises $25M for AI-powered electronics design",
-      "url": "https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design",
-      "source": "Axios",
-      "publishedDate": "2026-10-28",
-      "summary": "런던의 한 스타트업이 전자회로 설계를 자동화하는 AI 기술로 2,500만 달러를 유치했다. 투자사가 주도한 1,850만 달러 규모 시리즈A가 포함된 이번 투자는 AI 적용 범위가 하드웨어 설계 영역까지 확장되고 있음을 보여준다.",
+      "rank": 4,
+      "title": "삼성금융, AI 핀테크 스타트업 4곳 선정… CES 참가 지원",
+      "url": "https://view.asiae.co.kr/article/2026102910391983353",
+      "source": "아시아경제",
+      "publishedDate": "2026-10-29",
+      "summary": "삼성금융네트웍스와 삼성벤처투자가 '2026 삼성금융 C-Lab Outside' 최종발표회에서 크랩스·텔레픽스·이노밧·퀀팃 등 AI 핀테크 스타트업 4곳을 최우수로 선정하고 CES 참가를 지원하기로 했다. 대형 금융그룹이 외부 AI 스타트업 발굴과 글로벌 진출 지원에 적극 나서는 사례다.",
       "scorePct": 25
+    },
+    {
+      "rank": 5,
+      "title": "Startup Funding News Today, October 29, 2026: Braid, Casap, FuriosaAI, Upwind, Foundry Robotics, Plato & More",
+      "url": "https://techstartups.com/2026/10/29/startup-funding-news-today-october-29-2026-braid-casap-furiosaai-upwind-foundry-robotics-plato-more/",
+      "source": "Tech Startups",
+      "publishedDate": "2026-10-29",
+      "summary": "Broccoli AI가 배관·전기·HVAC 등 현장 계약업체를 겨냥한 버티컬 AI 서비스 확장을 위해 3,000만 달러를 유치했고, Plato Technologies는 기업용 AI 에이전트 훈련 시뮬레이션 분야에서 투자를 받았다. 특정 산업군에 특화된 AI 서비스와 에이전트 훈련 인프라로 투자가 몰리는 모습이다.",
+      "scorePct": 13
     }
   ]
 }
