@@ -1,15 +1,6 @@
 [
   {
     "rank": 1,
-    "title": "Claude Code May 23 Update: Background Sessions Improvements and /code-review Command",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "source": "Anthropic Claude Code Changelog",
-    "publishedDate": "2026-05-23",
-    "summary": "Claude Code 2.1.302 버전이 공개되며 클라이언트 측에서 자동 모델을 선택하는 기능과 유휴 시간 코드 압축 제어, Vim 괄호 매칭 등 편집 기능이 추가됐다. 개발자 워크플로우의 세부 편의성을 높이는 업데이트다.",
-    "scorePct": 36
-  },
-  {
-    "rank": 2,
     "title": "[AI is] 코딩부터 보안까지…구글의 실무형AI '제미나이4 아르곤'",
     "url": "https://n.news.naver.com/mnews/article/293/0000091725",
     "source": "네이버",
@@ -18,7 +9,7 @@
     "scorePct": 36
   },
   {
-    "rank": 3,
+    "rank": 2,
     "title": "Cloud Agent Canvases and Environment Improvements",
     "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
     "source": "Cursor Changelog",
@@ -27,7 +18,7 @@
     "scorePct": 29
   },
   {
-    "rank": 4,
+    "rank": 3,
     "title": "Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
     "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations",
     "source": "The Quantum Insider",
@@ -36,7 +27,7 @@
     "scorePct": 29
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "DeepSeek V4.1 Flash 1017: Terminal-Bench 31.2 to 42.3",
     "url": "https://www.explainx.ai/blog/deepseek-v4-1-flash-1017-open-weights-mit-terminal-bench-4-42-benchmarks-pricing-2026",
     "source": "ExplainX.ai",

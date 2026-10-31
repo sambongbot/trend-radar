@@ -1,51 +1,51 @@
 {
-  "date": "2026-10-31",
-  "headline": "> Claude Code 확장 프로그램을 통한 SSH 백도어 유포 사건이 AI 코딩 생태계의 공급망 보안 경각심을 높였다.\n> 깃허브 코파일럿 퓨전 정식 출시와 미니맥스의 에이전트 코딩 스킬 공개로 AI 코딩 어시스턴트 경쟁이 심화되고 있다.\n> 오픈AI는 프런티어 모델 정합성 감시 체계와 모델 스펙 개정으로 에이전트형 AI의 안전 기준을 재정비했다.",
+  "date": "2026-11-01",
+  "headline": "> 앤트로픽이 클로드 사용 제한을 완화하는 동시에 Claude Code 보안 리스크 사례도 부각됐다.\n> 딥시크·문샷 등 후발주자는 증류 타깃을 오픈AI 쪽으로 옮기며 추격을 이어간다.\n> 구글·앤트로픽 등 주요 기업들은 AI 학습용 크롤링 옵트아웃 표준에 합의하며 데이터 사용 규범을 정비하고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "GitHub Makes Copilot Fusion Generally Available at Universe 2026",
-      "url": "https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/",
-      "source": "Unite.AI",
-      "publishedDate": "2026-10-28",
-      "summary": "깃허브가 유니버스 2026에서 멀티모델 라우팅·오케스트레이션 시스템인 코파일럿 퓨전을 정식 출시했다. 여러 LLM을 작업 특성에 맞게 자동으로 선택·조합해 코딩 어시스턴트의 효율을 높이는 것이 핵심이다. 이는 단일 모델 의존에서 벗어나려는 업계 흐름을 보여준다.",
-      "scorePct": 86
+      "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+      "source": "AI타임스",
+      "publishedDate": "2026-10-31",
+      "summary": "앤트로픽이 클로드 모델 출력에 대한 방어 조치를 강화하자 중국의 딥시크와 문샷 AI가 오픈AI 'GPT-6 아스트라'의 출력 데이터를 집중적으로 증류하는 쪽으로 전략을 옮긴 것으로 나타났다. 두 회사는 이를 바탕으로 자사 모델을 업데이트하고 있다. 선두 모델의 방어 조치가 후발주자의 증류 타깃을 바꾸는 업계 역학을 보여준다.",
+      "scorePct": 43
     },
     {
       "rank": 2,
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "source": "BleepingComputer",
-      "publishedDate": "2026-10-29",
-      "summary": "커서(Cursor)는 자사 확장 프로그램 마켓플레이스에서 유포된 앤트로픽 클로드 코드 확장 프로그램의 변조 버전(2.1.313)이 SSH 백도어를 심은 사실을 공개했다. 공급망 공격이 개발자가 신뢰하는 AI 코딩 도구 확장 생태계를 직접 노렸다는 점에서 파장이 크다. 이번 사건은 서드파티 확장 프로그램 검증 체계의 허점을 드러냈다.",
-      "scorePct": 71
+      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+      "source": "SiliconANGLE",
+      "publishedDate": "2026-10-30",
+      "summary": "구글, 오픈AI, 마이크로소프트, 앤트로픽 등 주요 AI 기업들이 웹사이트가 AI 학습용 데이터 수집을 거부할 수 있는 통합 옵트아웃 토큰 표준('__usage_ai-training')을 지원하기로 했다. 그동안 기업마다 제각각이던 크롤러 차단 방식이 하나의 표준으로 정리될 전망이다. 콘텐츠 제공자와 모델 개발사 간 데이터 사용 분쟁을 줄이는 계기가 될 수 있다.",
+      "scorePct": 43
     },
     {
       "rank": 3,
-      "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
-      "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
-      "source": "MarkTechPost",
-      "publishedDate": "2026-10-28",
-      "summary": "미니맥스가 자사 코딩팀이 실제로 사용하는 워크플로와 15개 에이전트 스킬을 담은 'MCode Stack'을 오픈소스로 공개했다. 이는 자체 모델 개발에 활용된 에이전틱 코딩 방법론을 외부에 투명하게 공개한 사례다. 개발자들은 이를 통해 실전 수준의 에이전트 코딩 워크플로를 참고할 수 있다.",
-      "scorePct": 43
+      "title": "Claude Code May 23 Update: Background Sessions Improvements and /code-review Command",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source": "Anthropic Claude Code Changelog",
+      "publishedDate": "2026-05-23",
+      "summary": "앤트로픽이 Claude Code v2.1.316을 배포하며 CLAUDE_CODE_SUBAGENT_EFFORT 환경변수를 새로 도입했다. 이를 통해 서브에이전트의 추론 노력(작업 강도) 수준을 세밀하게 조정할 수 있게 됐다. 멀티 에이전트 워크플로우를 구성하는 개발자에게 세부 제어권을 넓혀주는 업데이트다.",
+      "scorePct": 36
     },
     {
       "rank": 4,
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
+      "title": "AI Coding Agent Inside a Secure Pentagon System: A Defense Contractor's Dangerous Two-Month Failure",
+      "url": "https://www.progressiverobot.com/2026/10/29/ai-coding-agent-pentagon-system/",
+      "source": "Progressive Robot",
       "publishedDate": "2026-10-29",
-      "summary": "오픈AI가 프런티어 모델의 정합성 이탈과 승인되지 않은 에이전트 행동을 탐지하기 위한 다층 모니터링 체계를 공개했다. 모델이 점점 자율적으로 작업을 수행하게 되면서 이상 행동을 조기에 포착하는 체계의 중요성이 커지고 있다. 이는 에이전트형 AI의 안전성 확보를 위한 업계 접근 방식을 보여준다.",
-      "scorePct": 43
+      "summary": "한 방산 기업 직원이 미 국방부 폐쇄망 시스템에 개인 Claude Code 계정을 연결해 사용한 사실이 뒤늦게 드러났다. 해당 연동은 약 2개월간 발견되지 않고 방치된 것으로 보도됐다. AI 코딩 에이전트를 기업·공공기관에 도입하는 과정에서 계정 거버넌스와 접근 통제의 허점을 드러낸 사례다.",
+      "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec/",
-      "source": "OpenAI",
-      "publishedDate": "2026-10-29",
-      "summary": "오픈AI가 모델 스펙을 개정해 충실성과 안전성 등 5가지 핵심 가치를 중심으로 가이드라인을 재구성했다. 이는 모델이 복잡하거나 상충하는 지시 상황에서 어떻게 행동해야 하는지 기준을 명확히 하려는 시도다. 개발자와 연구자에게는 모델 동작을 예측하고 프롬프트를 설계하는 데 참고 기준이 된다.",
-      "scorePct": 29
+      "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400663",
+      "source": "네이버",
+      "publishedDate": "2026-10-31",
+      "summary": "앤트로픽이 월 200달러 클로드 최고가 요금제(Max)의 5시간 단위 사용 제한을 폐지했다. 주간 총사용량 한도는 그대로 유지되지만, 남은 한도 내에서는 끊김 없이 장시간 연속 작업이 가능해졌다. 장시간 코딩 세션을 운영하는 개발자들의 실질적인 사용성 제약이 완화된 조치다.",
+      "scorePct": 21
     }
   ]
 }
