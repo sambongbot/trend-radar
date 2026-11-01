@@ -1,50 +1,50 @@
 {
-  "date": "2026-11-01",
-  "headline": "> 앤트로픽이 클로드 사용 제한을 완화하는 동시에 Claude Code 보안 리스크 사례도 부각됐다.\n> 딥시크·문샷 등 후발주자는 증류 타깃을 오픈AI 쪽으로 옮기며 추격을 이어간다.\n> 구글·앤트로픽 등 주요 기업들은 AI 학습용 크롤링 옵트아웃 표준에 합의하며 데이터 사용 규범을 정비하고 있다.",
+  "date": "2026-11-02",
+  "headline": "> Claude Code가 서브에이전트별 추론 강도 설정을 지원하며 에이전트 운영 정교화가 이어졌다.\n> 구글은 보안 특화 프런티어 모델 'Gemini 4 Carbon'을 공개하며 전문 영역 경쟁에 나섰다.\n> 모델 성능 경쟁을 넘어 에이전트 운영·협업 체계가 오늘의 핵심 화두로 떠올랐다.",
   "items": [
     {
       "rank": 1,
-      "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
-      "source": "AI타임스",
+      "title": "Key Updates in Claude Code v2.1.316 - Effort Specification for Subagents and Deprecation of Opus 4.8 Fast Mode",
+      "url": "https://dev.classmethod.jp/en/articles/20261031-cc-updates-v2-1-316/",
+      "source": "Developers.IO (Classmethod)",
       "publishedDate": "2026-10-31",
-      "summary": "앤트로픽이 클로드 모델 출력에 대한 방어 조치를 강화하자 중국의 딥시크와 문샷 AI가 오픈AI 'GPT-6 아스트라'의 출력 데이터를 집중적으로 증류하는 쪽으로 전략을 옮긴 것으로 나타났다. 두 회사는 이를 바탕으로 자사 모델을 업데이트하고 있다. 선두 모델의 방어 조치가 후발주자의 증류 타깃을 바꾸는 업계 역학을 보여준다.",
-      "scorePct": 43
+      "summary": "Anthropic이 Claude Code v2.1.316을 출시해 서브에이전트마다 추론 강도를 개별 지정할 수 있는 CLAUDE_CODE_SUBAGENT_EFFORT 환경변수를 추가했다. 동시에 기존 Opus 4.8 패스트 모드는 지원이 종료됐다.",
+      "scorePct": 57
     },
     {
       "rank": 2,
-      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
-      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-      "source": "SiliconANGLE",
-      "publishedDate": "2026-10-30",
-      "summary": "구글, 오픈AI, 마이크로소프트, 앤트로픽 등 주요 AI 기업들이 웹사이트가 AI 학습용 데이터 수집을 거부할 수 있는 통합 옵트아웃 토큰 표준('__usage_ai-training')을 지원하기로 했다. 그동안 기업마다 제각각이던 크롤러 차단 방식이 하나의 표준으로 정리될 전망이다. 콘텐츠 제공자와 모델 개발사 간 데이터 사용 분쟁을 줄이는 계기가 될 수 있다.",
-      "scorePct": 43
+      "title": "Release v3.42.0 · openai/openai-python",
+      "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
+      "source": "GitHub (openai-python)",
+      "publishedDate": "2026-10-31",
+      "summary": "OpenAI가 Python SDK v3.42.0을 공개해 에이전트 세션 리뷰 기능과 도구 설정 옵션, 컨텍스트 압축 구성 기능을 새롭게 지원한다. 장기 실행 에이전트를 운영하는 개발자들이 세션 상태와 컨텍스트 사용량을 더 세밀하게 관리할 수 있게 됐다.",
+      "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "Claude Code May 23 Update: Background Sessions Improvements and /code-review Command",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "source": "Anthropic Claude Code Changelog",
-      "publishedDate": "2026-05-23",
-      "summary": "앤트로픽이 Claude Code v2.1.316을 배포하며 CLAUDE_CODE_SUBAGENT_EFFORT 환경변수를 새로 도입했다. 이를 통해 서브에이전트의 추론 노력(작업 강도) 수준을 세밀하게 조정할 수 있게 됐다. 멀티 에이전트 워크플로우를 구성하는 개발자에게 세부 제어권을 넓혀주는 업데이트다.",
-      "scorePct": 36
+      "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+      "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+      "source": "PC Gamer",
+      "publishedDate": "2026-10-31",
+      "summary": "Anthropic이 Claude Opus 5.5의 시스템 프롬프트에 기존 게임을 그대로 재현하는 요청을 피하도록 지시하는 규칙을 추가했다. 최근 몇 주간 Steam에 AI가 생성한 저품질 게임 복제물이 쏟아진 데 따른 조치로 풀이된다.",
+      "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "AI Coding Agent Inside a Secure Pentagon System: A Defense Contractor's Dangerous Two-Month Failure",
-      "url": "https://www.progressiverobot.com/2026/10/29/ai-coding-agent-pentagon-system/",
-      "source": "Progressive Robot",
-      "publishedDate": "2026-10-29",
-      "summary": "한 방산 기업 직원이 미 국방부 폐쇄망 시스템에 개인 Claude Code 계정을 연결해 사용한 사실이 뒤늦게 드러났다. 해당 연동은 약 2개월간 발견되지 않고 방치된 것으로 보도됐다. AI 코딩 에이전트를 기업·공공기관에 도입하는 과정에서 계정 거버넌스와 접근 통제의 허점을 드러낸 사례다.",
+      "title": "Gemini 4 Carbon Is Google's New Frontier Model, Starting With Cyber Defenders",
+      "url": "https://techmymoney.com/2026/11/01/gemini-4-carbon-google-frontier-model-cyber-defenders/",
+      "source": "TechMyMoney",
+      "publishedDate": "2026-11-01",
+      "summary": "구글이 사이버 보안과 장기추론 과제에서 최고 성능을 보이는 차세대 프런티어 모델 'Gemini 4 Carbon'을 공개했다. 사이버 방어 영역을 시작으로 순차적으로 활용 범위를 넓혀갈 계획이다.",
       "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400663",
-      "source": "네이버",
-      "publishedDate": "2026-10-31",
-      "summary": "앤트로픽이 월 200달러 클로드 최고가 요금제(Max)의 5시간 단위 사용 제한을 폐지했다. 주간 총사용량 한도는 그대로 유지되지만, 남은 한도 내에서는 끊김 없이 장시간 연속 작업이 가능해졌다. 장시간 코딩 세션을 운영하는 개발자들의 실질적인 사용성 제약이 완화된 조치다.",
+      "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+      "source": "AI타임스",
+      "publishedDate": "2026-11-01",
+      "summary": "구글 딥마인드 연구진이 AI 발전 단계를 4단계로 구분하며, 개별 능력이 뛰어난 '초고역량 AI'보다 대규모로 협력하는 '초협력 AI' 단계가 경제 구조와 고용·임금에 더 큰 영향을 미칠 것이라 분석했다. 에이전트 간 협업 방식이 향후 AI 경제의 핵심 변수로 지목됐다.",
       "scorePct": 21
     }
   ]
