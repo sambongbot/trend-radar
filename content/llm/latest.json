@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-02",
-  "headline": "> Claude Code가 서브에이전트별 추론 강도 설정을 지원하며 에이전트 운영 정교화가 이어졌다.\n> 구글은 보안 특화 프런티어 모델 'Gemini 4 Carbon'을 공개하며 전문 영역 경쟁에 나섰다.\n> 모델 성능 경쟁을 넘어 에이전트 운영·협업 체계가 오늘의 핵심 화두로 떠올랐다.",
+  "date": "2026-11-03",
+  "headline": "> 앤트로픽이 클로드 요금제를 개편하고 API 제한을 완화해 개발자 편의를 넓혔다.\n> 딥시크가 자율형 코딩 에이전트를 오픈소스로 공개하며 코딩 에이전트 경쟁이 격화되는 한편, 금융권은 보안을 이유로 AI 코딩 도구 사용을 제한하기 시작했다.\n> 메타의 개인용 에이전트 확산과 오픈AI의 사용량 한도 완화 등 소비자용 AI 에이전트 대중화도 빠르게 진행 중이다.",
   "items": [
     {
       "rank": 1,
-      "title": "Key Updates in Claude Code v2.1.316 - Effort Specification for Subagents and Deprecation of Opus 4.8 Fast Mode",
-      "url": "https://dev.classmethod.jp/en/articles/20261031-cc-updates-v2-1-316/",
-      "source": "Developers.IO (Classmethod)",
-      "publishedDate": "2026-10-31",
-      "summary": "Anthropic이 Claude Code v2.1.316을 출시해 서브에이전트마다 추론 강도를 개별 지정할 수 있는 CLAUDE_CODE_SUBAGENT_EFFORT 환경변수를 추가했다. 동시에 기존 Opus 4.8 패스트 모드는 지원이 종료됐다.",
-      "scorePct": 57
+      "title": "Goldman Restricts Traders And Bankers From Using Some AI Tools",
+      "url": "https://www.fa-mag.com/news/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-89026.html",
+      "source": "Financial Advisor Magazine",
+      "publishedDate": "2026-11-02",
+      "summary": "한 글로벌 투자은행이 트레이더와 뱅커들의 고급 AI 코딩 도구 사용을 제한하기로 했다. 제한 대상에는 앤트로픽의 Claude Code를 포함한 자율성 높은 코딩 에이전트가 포함돼 있으며, 민감한 내부 데이터 접근에 대한 보안 우려가 배경으로 꼽힌다.",
+      "scorePct": 71
     },
     {
       "rank": 2,
-      "title": "Release v3.42.0 · openai/openai-python",
-      "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
-      "source": "GitHub (openai-python)",
-      "publishedDate": "2026-10-31",
-      "summary": "OpenAI가 Python SDK v3.42.0을 공개해 에이전트 세션 리뷰 기능과 도구 설정 옵션, 컨텍스트 압축 구성 기능을 새롭게 지원한다. 장기 실행 에이전트를 운영하는 개발자들이 세션 상태와 컨텍스트 사용량을 더 세밀하게 관리할 수 있게 됐다.",
-      "scorePct": 50
+      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "source": "Bloomberg",
+      "publishedDate": "2026-11-01",
+      "summary": "딥시크가 사용자 호출 없이도 스스로 문제를 해결하는 자율형 코딩 에이전트 프로토타입 'Super-Agent'를 공개하고 오픈소스로 풀었다. 앤트로픽, 오픈AI, 깃허브 등이 경쟁하는 자율 코딩 에이전트 시장에 본격 진입했다는 평가다.",
+      "scorePct": 57
     },
     {
       "rank": 3,
-      "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-      "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
-      "source": "PC Gamer",
-      "publishedDate": "2026-10-31",
-      "summary": "Anthropic이 Claude Opus 5.5의 시스템 프롬프트에 기존 게임을 그대로 재현하는 요청을 피하도록 지시하는 규칙을 추가했다. 최근 몇 주간 Steam에 AI가 생성한 저품질 게임 복제물이 쏟아진 데 따른 조치로 풀이된다.",
+      "title": "OpenAI doubles ChatGPT usage limits after user backlash",
+      "url": "https://techbriefly.com/2026/11/02/openai-doubles-chatgpt-usage-limits-after-user-backlash/",
+      "source": "TechBriefly",
+      "publishedDate": "2026-11-02",
+      "summary": "오픈AI가 사용자 반발 이후 챗GPT 유료 플랜의 Work·Codex 사용량 한도를 두 배로 늘렸다. Pro 100·200·500 플랜과 비즈니스 플랜 이용자가 적용 대상이다.",
       "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "Gemini 4 Carbon Is Google's New Frontier Model, Starting With Cyber Defenders",
-      "url": "https://techmymoney.com/2026/11/01/gemini-4-carbon-google-frontier-model-cyber-defenders/",
-      "source": "TechMyMoney",
-      "publishedDate": "2026-11-01",
-      "summary": "구글이 사이버 보안과 장기추론 과제에서 최고 성능을 보이는 차세대 프런티어 모델 'Gemini 4 Carbon'을 공개했다. 사이버 방어 영역을 시작으로 순차적으로 활용 범위를 넓혀갈 계획이다.",
-      "scorePct": 29
+      "title": "심상찮은 메타 '뮤즈'… \"챗GPT 이후 가장 성공적 AI 될것\"",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056698",
+      "source": "네이버",
+      "publishedDate": "2026-11-02",
+      "summary": "메타의 개인용 AI 에이전트 '뮤즈'가 미국 등지에서 빠르게 확산하며 챗GPT 이후 가장 성공적인 AI 애플리케이션이 될 수 있다는 평가가 나온다. 일상 업무와 개인화 서비스를 결합한 에이전트형 경험이 확산의 배경으로 꼽힌다.",
+      "scorePct": 36
     },
     {
       "rank": 5,
-      "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
-      "source": "AI타임스",
-      "publishedDate": "2026-11-01",
-      "summary": "구글 딥마인드 연구진이 AI 발전 단계를 4단계로 구분하며, 개별 능력이 뛰어난 '초고역량 AI'보다 대규모로 협력하는 '초협력 AI' 단계가 경제 구조와 고용·임금에 더 큰 영향을 미칠 것이라 분석했다. 에이전트 간 협업 방식이 향후 AI 경제의 핵심 변수로 지목됐다.",
-      "scorePct": 21
+      "title": "AI・クラウド アップデートまとめ（2026/11/02）：ChatGPT 契約者向け API クレジット、Claude の Max/Ultra 改称、Claude API 128 MB 化",
+      "url": "https://qiita.com/hathibei7/items/a16eb49d5531d844e8b0",
+      "source": "Qiita",
+      "publishedDate": "2026-11-02",
+      "summary": "앤트로픽이 10월 30일 클로드 구독 요금제 'Max 5x'와 'Max 20x'를 각각 'Max'와 'Ultra'로 개편했다. 동시에 클로드 API의 요청 본문 최대 크기를 128MB로 확대해 대용량 입력 처리가 한층 수월해졌다.",
+      "scorePct": 29
     }
   ]
 }

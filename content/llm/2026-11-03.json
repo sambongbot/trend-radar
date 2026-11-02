@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Goldman Restricts Traders And Bankers From Using Some AI Tools",
+    "url": "https://www.fa-mag.com/news/goldman-restricts-traders-and-bankers-from-using-some-ai-tools-89026.html",
+    "source": "Financial Advisor Magazine",
+    "publishedDate": "2026-11-02",
+    "summary": "한 글로벌 투자은행이 트레이더와 뱅커들의 고급 AI 코딩 도구 사용을 제한하기로 했다. 제한 대상에는 앤트로픽의 Claude Code를 포함한 자율성 높은 코딩 에이전트가 포함돼 있으며, 민감한 내부 데이터 접근에 대한 보안 우려가 배경으로 꼽힌다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 2,
+    "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+    "source": "Bloomberg",
+    "publishedDate": "2026-11-01",
+    "summary": "딥시크가 사용자 호출 없이도 스스로 문제를 해결하는 자율형 코딩 에이전트 프로토타입 'Super-Agent'를 공개하고 오픈소스로 풀었다. 앤트로픽, 오픈AI, 깃허브 등이 경쟁하는 자율 코딩 에이전트 시장에 본격 진입했다는 평가다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI doubles ChatGPT usage limits after user backlash",
+    "url": "https://techbriefly.com/2026/11/02/openai-doubles-chatgpt-usage-limits-after-user-backlash/",
+    "source": "TechBriefly",
+    "publishedDate": "2026-11-02",
+    "summary": "오픈AI가 사용자 반발 이후 챗GPT 유료 플랜의 Work·Codex 사용량 한도를 두 배로 늘렸다. Pro 100·200·500 플랜과 비즈니스 플랜 이용자가 적용 대상이다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "심상찮은 메타 '뮤즈'… \"챗GPT 이후 가장 성공적 AI 될것\"",
+    "url": "https://n.news.naver.com/mnews/article/029/0003056698",
+    "source": "네이버",
+    "publishedDate": "2026-11-02",
+    "summary": "메타의 개인용 AI 에이전트 '뮤즈'가 미국 등지에서 빠르게 확산하며 챗GPT 이후 가장 성공적인 AI 애플리케이션이 될 수 있다는 평가가 나온다. 일상 업무와 개인화 서비스를 결합한 에이전트형 경험이 확산의 배경으로 꼽힌다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "AI・クラウド アップデートまとめ（2026/11/02）：ChatGPT 契約者向け API クレジット、Claude の Max/Ultra 改称、Claude API 128 MB 化",
+    "url": "https://qiita.com/hathibei7/items/a16eb49d5531d844e8b0",
+    "source": "Qiita",
+    "publishedDate": "2026-11-02",
+    "summary": "앤트로픽이 10월 30일 클로드 구독 요금제 'Max 5x'와 'Max 20x'를 각각 'Max'와 'Ultra'로 개편했다. 동시에 클로드 API의 요청 본문 최대 크기를 128MB로 확대해 대용량 입력 처리가 한층 수월해졌다.",
+    "scorePct": 29
+  }
+]

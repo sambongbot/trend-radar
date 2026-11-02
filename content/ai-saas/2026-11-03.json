@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "“기술개발부터 시장 확산까지”…클라비, 지식재산 경영으로 과기부 장관 표창",
+    "url": "https://n.news.naver.com/mnews/article/138/0002246949",
+    "source": "네이버",
+    "publishedDate": "2026-11-03",
+    "summary": "생성형 AI 운영 플랫폼을 운영하는 AI 기업이 핵심기술 개발과 지식재산 확보 성과를 인정받아 정부 포상을 받았다. 기술개발부터 시장 확산까지 이어지는 지식재산 경영 전략이 실제 사업화 성과로 연결됐다는 평가다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 2,
+    "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216914",
+    "source": "AI타임스",
+    "publishedDate": "2026-11-02",
+    "summary": "생성 AI와 AI 에이전트가 기업이 정한 정책과 권한 범위 안에서만 작동하도록 통제하는 'AI 가드레일' 솔루션 시장에 국내 보안 기업들이 속속 진입하고 있다. 기업의 AI 에이전트 도입이 늘면서 오작동과 권한 남용을 막는 통제 계층에 대한 수요가 함께 커지는 모습이다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "제논, 피지컬 AI 세미나서 돌봄·제조 등 상용화 사례 공개",
+    "url": "https://n.news.naver.com/mnews/article/030/0003481312",
+    "source": "네이버",
+    "publishedDate": "2026-11-03",
+    "summary": "AI 기업이 피지컬 AI 세미나를 열고 돌봄·제조·도슨트 분야에서의 상용화 사례를 주요 기업 관계자들에게 공개했다. 생성형 AI를 넘어 물리 환경에서 작동하는 AI 적용 사례가 구체적인 산업 현장 단위로 확산되고 있음을 보여준다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "전문가 AI 프로필 연결하는 슈퍼미, 268억 원 투자 유치",
+    "url": "https://zdnet.co.kr/view/?no=20261102211716",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-11-02",
+    "summary": "전문가의 지식을 바탕으로 AI 프로필을 운영하는 스타트업이 2,000만 달러(약 268억 원) 규모의 투자를 유치했다. 벤처캐피털이 주도한 이번 투자는 전문지식을 AI로 연결하는 서비스 모델에 대한 시장의 기대를 보여준다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "Dataline Raises $10.6M to Give AI Agents Data They Can Trust",
+    "url": "https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html",
+    "source": "GlobeNewswire",
+    "publishedDate": "2026-10-31",
+    "summary": "AI 에이전트가 신뢰할 수 있는 데이터를 활용하도록 돕는 스타트업이 1,060만 달러 규모의 투자를 유치했다. 데이터 품질과 신뢰성 확보가 AI 에이전트 상용화의 핵심 과제로 떠오르고 있음을 보여주는 투자다.",
+    "scorePct": 25
+  }
+]
