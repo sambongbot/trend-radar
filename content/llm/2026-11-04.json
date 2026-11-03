@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains",
+    "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+    "source": "SemiAnalysis",
+    "publishedDate": "2026-11-02",
+    "summary": "세미애널리시스가 11개 전문 분야·206개 과제로 구성된 새 벤치마크 'GDPx'를 공개해 프런티어 모델의 실무 역량을 측정했다. 클로드를 비롯한 주요 모델들의 분야별 성능 격차를 보여주는 결과가 포함됐다. 범용 벤치마크 포화 논란 속에서 전문 직무 역량에 초점을 맞춘 평가 체계라는 점이 특징이다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-11-02",
+    "summary": "앤트로픽이 수정된 S-1 상장 신고서에서 자사 모델이 스스로 더 뛰어난 후속 모델을 만들어내는 '재귀적 자기개선(RSI)' 역량 기준에 임박했다고 밝혔다. 내부 추정치에 따르면 해당 역량 도달 시점이 멀지 않았다는 것으로, AI 안전성 논의에서 중요한 이정표로 거론돼 왔다. 상장 신고서라는 공식 문서를 통해 이례적으로 구체적인 역량 전망을 공개했다는 점에서 주목된다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "Claude adds public beta for message threads to cut agent latency",
+    "url": "https://blockchain.news/news/claude-public-beta-message-threads-cut-agent-latency",
+    "source": "Blockchain.News",
+    "publishedDate": "2026-11-02",
+    "summary": "앤트로픽이 클로드 메시지 API에 '메시지 스레드' 공개 베타를 출시해 에이전트가 여러 작업을 동시에 처리하고 지연 시간을 줄일 수 있게 됐다. 기존 순차 처리로 발생하던 대기 시간을 스레드 단위 병렬 처리로 단축하는 구조다. 에이전트 기반 애플리케이션을 운영하는 개발자들에게 직접적인 성능 개선으로 이어질 전망이다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "Release: llm 0.37",
+    "url": "https://simonwillison.net/2026/Nov/2/llm/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-11-02",
+    "summary": "사이먼 윌리슨이 자신의 LLM CLI 도구 겸 파이썬 라이브러리의 0.37 버전을 공개했다. 임베딩 지원 등 새 기능이 추가돼 다양한 모델 제공자를 명령줄에서 손쉽게 다루는 개발자 도구로서 기능이 확장됐다. 오픈소스 커뮤니티 중심으로 빠르게 업데이트되는 LLM 툴링 생태계의 단면을 보여준다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "미소스 5.5·GPT-6.2 아스트라 잇달아 포착…최첨단 모델 출시설",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216894",
+    "source": "AI타임스",
+    "publishedDate": "2026-11-01",
+    "summary": "외부 모니터링을 통해 앤트로픽 웹사이트 HTML에서 '클로드 미소스 5.5'라는 모델명이 여러 차례 발견됐고, 비슷한 시기 오픈AI 코덱스 사용 기록에서도 차세대 모델 관련 단서가 포착됐다. 두 회사의 차세대 플래그십 모델 출시가 임박했음을 시사하는 정황으로 풀이된다. 공식 발표 전 코드 흔적을 통한 모델 유출은 업계에서 반복되는 패턴이다.",
+    "scorePct": 29
+  }
+]
