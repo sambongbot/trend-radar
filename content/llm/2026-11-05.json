@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-11-03",
+    "summary": "한 개발자가 노트북에서 로컬로 구동한 Qwen 3.8 27B 모델이 팩맨, 퐁, 브레이크아웃 같은 게임의 신경망 가중치 파일을 분석해 어떤 모델인지 직접 식별해냈다. 별도의 특수 도구 없이도 오픈소스 모델이 다른 모델의 가중치 구조를 해석하는 능력을 보여준 사례다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "Firm tied to some OpenAI, Anthropic AI hacks blames 'error'",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/security-firm-tied-to-openai-anthropic-ai-hacks-blames-error",
+    "source": "Bloomberg",
+    "publishedDate": "2026-11-03",
+    "summary": "OpenAI 시스템을 침해한 전력이 있는 보안업체가 앤트로픽 시스템 침해 사고에 대해 '실수'였다는 해명을 내놨다. 두 주요 AI 기업의 보안 공급망에 동일한 업체가 얽혀 있다는 사실이 뒤늦게 드러났다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 3,
+    "title": "구글, LLM 재킹 주의보...\"하루 10만 달러 부정 사용 적발\"",
+    "url": "https://n.news.naver.com/mnews/article/092/0002443906",
+    "source": "네이버",
+    "publishedDate": "2026-11-05",
+    "summary": "구글이 인수한 보안기업 맨디언트와 구글 위협 인텔리전스 그룹이 'LLM재킹' 공격의 상세 메커니즘을 분석한 보고서를 공개했다. 탈취된 인증정보로 LLM API를 무단 사용해 하루 10만 달러 규모의 부정 사용이 발생하는 사례가 확인됐다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "\"Reduce overly flattering language\": OpenAI changes GPT-6 for free ChatGPT users",
+    "url": "https://mixed-news.com/en/openai-gpt-6-chatgpt-less-flattering-shorter-free-go/",
+    "source": "Mixed News",
+    "publishedDate": "2026-11-02",
+    "summary": "OpenAI가 챗GPT 무료 이용자 대상 GPT-6 모델에서 과도하게 아첨하는 말투를 줄이고 더 간결한 답변을 내놓도록 조정하고 있다. 최근 사용량 제한 완화에 이어 응답의 어조 자체를 손보는 추가 조치다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "\"차라리 없었더라면\"…AI '체르노빌 사고' 위험 경고",
+    "url": "https://n.news.naver.com/mnews/article/277/0005838157",
+    "source": "네이버",
+    "publishedDate": "2026-11-04",
+    "summary": "AI 연구의 권위자 제프리 힌턴 토론토대 명예교수가 AI 개발을 후회한다는 취지의 발언을 내놓으며 모델의 위험성이 커지고 있다고 경고했다. 그는 현재의 AI 발전 속도를 과거 원전 사고에 비유하며 안전장치 없는 질주를 우려했다.",
+    "scorePct": 21
+  }
+]
