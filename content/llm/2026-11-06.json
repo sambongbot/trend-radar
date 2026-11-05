@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Meta acquires AI coding startup Conductor",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-11-04",
+    "summary": "메타가 URL 기반으로 소프트웨어 프로젝트를 즉시 구동할 수 있게 해주는 AI 코딩 스타트업 컨덕터(Conductor)를 인수했다. 빅테크 기업들이 자체 AI 코딩 에이전트 역량을 내재화하려는 흐름의 연장선으로 해석된다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 2,
+    "title": "Claude Code's product lead Cat Wu leaves Anthropic to join OpenAI",
+    "url": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
+    "source": "TheNextWeb",
+    "publishedDate": "2026-11-03",
+    "summary": "2년간 클로드 코드 제품을 이끌어온 캣 우(Cat Wu)가 앤트로픽을 떠나 오픈AI의 핵심 제품 조직을 이끌기 위해 합류한다. 최근 2주 새 클로드 코드 팀의 핵심 인력 이탈이 이어지며 조직 안정성에 대한 우려가 제기되고 있다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 3,
+    "title": "Keeping Claude running apparently requires nearly a trillion dollars",
+    "url": "https://boingboing.net/2026/11/03/anthropic-895-billion-compute-commitments.html",
+    "source": "Boing Boing",
+    "publishedDate": "2026-11-03",
+    "summary": "앤트로픽이 컴퓨트와 인프라에 묶인 약 8,954억 달러 규모의 지출 공약을 공시했다. 프런티어 LLM을 지속적으로 운영하고 확장하는 데 필요한 비용 규모가 막대하다는 점이 드러났다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "[11월4일] \"글·코드 넘어 영상까지\"…LLM이 영상 제작 도구로 진화한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216981",
+    "source": "AI타임스",
+    "publishedDate": "2026-11-04",
+    "summary": "대형언어모델이 텍스트와 코드 작성을 넘어 영상 제작 도구로 영역을 넓히고 있다는 분석이 나왔다. 픽셀을 직접 생성하는 기존 영상 생성 AI와 달리, LLM은 영상을 그리는 프로그램 자체를 작성하는 방식으로 접근한다는 점이 특징이다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "챗GPT 이용자 1900만 육박·클로드 200만 돌파…국산 AI는 고전",
+    "url": "https://www.mt.co.kr/tech/2026/11/03/2026110308565176532",
+    "source": "머니투데이",
+    "publishedDate": "2026-11-03",
+    "summary": "10월 국내 모바일 앱 시장에서 챗GPT 월간 이용자가 1,900만 명에 육박했고 클로드도 월간 이용자 209만 명을 돌파해 전월 대비 22.6% 증가했다. 반면 국산 AI 서비스들은 상대적으로 고전하는 것으로 나타났다.",
+    "scorePct": 29
+  }
+]
