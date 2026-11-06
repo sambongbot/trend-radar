@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "AI모델 구독 않고 골라쓰는 시대 열렸다",
+    "url": "https://n.news.naver.com/mnews/article/015/0005351238",
+    "source": "네이버",
+    "publishedDate": "2026-11-06",
+    "summary": "여러 AI 모델을 한곳에 모아 실제 사용량만큼만 과금하는 서비스 시장이 커지고 있다. 문서 작성과 코딩 등 용도별로 서로 다른 모델을 구독료 부담 없이 골라 쓸 수 있는 구조다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 2,
+    "title": "에이아이비즈, 시리즈 A 투자 유치로 'AI 제조 에이전트' 강화",
+    "url": "https://www.mt.co.kr/industry/2026/11/05/2026110514212620554",
+    "source": "머니투데이",
+    "publishedDate": "2026-11-05",
+    "summary": "제조 공정 이상 탐지와 원인 분석을 수행하는 AI 에이전트 플랫폼 'DutchBoy'를 개발하는 스타트업이 시리즈A 투자를 유치했다. 제조업 특화 AI 에이전트에 대한 투자 수요를 보여준다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "Perplexity Launches Always-on AI Agents For Work",
+    "url": "https://dataconomy.com/2026/11/06/perplexity-launches-always-on-ai-agents-for-work/",
+    "source": "Dataconomy",
+    "publishedDate": "2026-11-06",
+    "summary": "퍼플렉시티가 기업용으로 24시간 상시 가동되는 AI 에이전트 제품군 '팀메이트'를 출시했다. 사람의 개입 없이도 지속적으로 업무를 수행하도록 설계돼 기업의 반복 업무 자동화를 겨냥한다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "카카오, AI 에이전트 서비스 출격...\"2028년 AI 사업 손익분기점 달성\"",
+    "url": "https://www.newspim.com/news/view/20261105000523",
+    "source": "뉴스핌",
+    "publishedDate": "2026-11-05",
+    "summary": "카카오가 카카오톡을 기반으로 사용자의 요청을 이해하고 실제 작업까지 수행하는 AI 에이전트 서비스를 다음 달 파일럿으로 선보인다. 회사는 2028년까지 AI 사업의 손익분기점 달성을 목표로 제시했다.",
+    "scorePct": 13
+  },
+  {
+    "rank": 5,
+    "title": "CJ올리브네트웍스 매출 증가 46% 책임진 '스마트스페이스 AX'",
+    "url": "https://n.news.naver.com/mnews/article/293/0000092861",
+    "source": "네이버",
+    "publishedDate": "2026-11-06",
+    "summary": "한 IT서비스 기업의 3분기 매출 성장분 중 46%를 인공지능전환(AX) 기반 스마트스페이스 사업이 견인했다. 전체 매출 비중은 8%에 불과하지만 성장 기여도는 가장 컸다.",
+    "scorePct": 0
+  }
+]

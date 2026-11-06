@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "비드래프트 AI '다윈' 글로벌 벤치마크 2위…\"복잡한 추론 문제 특화\"",
+    "url": "https://www.ddaily.co.kr/page/view/2026110611525431091",
+    "source": "디지털데일리",
+    "publishedDate": "2026-11-06",
+    "summary": "비드래프트가 공개한 오픈웨이트 추론 모델 '다윈(Darwin)-180B-RSI'가 중국 평가기관 슈퍼클루의 11월 종합 평가에서 수학·과학 추론 부문 73.68점으로 글로벌 2위에 올랐다. 오픈웨이트 모델이 폐쇄형 최상위 모델과 근접한 추론 성능을 보여준 사례로 평가된다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-11-05",
+    "summary": "OpenAI가 보안 연구에 특화된 모델 'GPT-6 Cyber'를 정식 출시했다. 자사 프리페어드니스 프레임워크 기준 최고 수준인 'Critical' 등급 평가를 받을 만큼 사이버 보안 분야에 특화된 역량을 갖췄다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 3,
+    "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+    "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+    "source": "MacRumors",
+    "publishedDate": "2026-11-05",
+    "summary": "앤트로픽이 클로드에 은행·카드 계좌를 연동해 지출과 자산 현황을 관리할 수 있는 '퍼스널 파이낸스' 기능을 추가했다. 대화형 AI가 민감한 금융 데이터에 직접 접근하는 영역까지 활용 범위를 넓힌 사례다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "METR Says Anthropic's AI Development Pace Has Doubled",
+    "url": "https://dataconomy.com/2026/11/06/metr-says-anthropics-ai-development-pace-has-doubled/",
+    "source": "Dataconomy",
+    "publishedDate": "2026-11-06",
+    "summary": "독립 평가기관 METR이 앤트로픽의 AI 역량 개발 속도가 기존 대비 약 두 배로 빨라졌다는 평가 결과를 공개했다. AI 발전 속도 자체가 외부 기관에 의해 정량적으로 측정·발표된 사례로 주목받는다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "Anthropic built an inspection layer that lets enterprises block sensitive data before it reaches Claude",
+    "url": "https://thenextweb.com/news/anthropic-inference-hooks-dlp-claude-enterprise",
+    "source": "TheNextWeb",
+    "publishedDate": "2026-11-05",
+    "summary": "앤트로픽이 클로드 엔터프라이즈에 민감 데이터가 모델에 도달하기 전 이를 걸러내는 인스펙션(검사) 레이어를 새로 도입했다. 기업이 자체 정책에 따라 특정 데이터를 사전 차단할 수 있게 해 기업용 AI 도입의 보안 장벽을 낮추려는 조치로 풀이된다.",
+    "scorePct": 29
+  }
+]

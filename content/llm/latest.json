@@ -1,50 +1,50 @@
 {
-  "date": "2026-11-06",
-  "headline": "> 앤트로픽의 핵심 인력 이탈과 9천억 달러대 컴퓨트 투자 공시가 겹치며 클로드 생태계의 체력과 리스크가 동시에 부각됐다.\n> 메타의 AI 코딩 스타트업 인수로 빅테크의 코딩 에이전트 내재화 경쟁이 한층 가열되고 있다.\n> LLM이 영상 제작 도구로 영역을 넓히는 가운데 한국에서도 챗GPT·클로드 실사용자가 급증하며 확산세가 뚜렷해지고 있다.",
+  "date": "2026-11-07",
+  "headline": "> 앤트로픽은 클로드의 금융 데이터 연동 기능과 기업용 보안 검사 레이어를 함께 선보이며 개인·기업 양쪽에서 영역을 넓혔다.\n> 독립 평가기관 METR은 앤트로픽의 AI 역량 향상 속도가 두 배로 빨라졌다는 평가를 내놓았다.\n> OpenAI는 보안 특화 모델 GPT-6 Cyber를, 비드래프트는 벤치마크 2위권 오픈웨이트 추론 모델을 공개하며 모델 경쟁이 한층 세분화되는 모습이다.",
   "items": [
     {
       "rank": 1,
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-11-04",
-      "summary": "메타가 URL 기반으로 소프트웨어 프로젝트를 즉시 구동할 수 있게 해주는 AI 코딩 스타트업 컨덕터(Conductor)를 인수했다. 빅테크 기업들이 자체 AI 코딩 에이전트 역량을 내재화하려는 흐름의 연장선으로 해석된다.",
-      "scorePct": 71
+      "title": "비드래프트 AI '다윈' 글로벌 벤치마크 2위…\"복잡한 추론 문제 특화\"",
+      "url": "https://www.ddaily.co.kr/page/view/2026110611525431091",
+      "source": "디지털데일리",
+      "publishedDate": "2026-11-06",
+      "summary": "비드래프트가 공개한 오픈웨이트 추론 모델 '다윈(Darwin)-180B-RSI'가 중국 평가기관 슈퍼클루의 11월 종합 평가에서 수학·과학 추론 부문 73.68점으로 글로벌 2위에 올랐다. 오픈웨이트 모델이 폐쇄형 최상위 모델과 근접한 추론 성능을 보여준 사례로 평가된다.",
+      "scorePct": 100
     },
     {
       "rank": 2,
-      "title": "Claude Code's product lead Cat Wu leaves Anthropic to join OpenAI",
-      "url": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
-      "source": "TheNextWeb",
-      "publishedDate": "2026-11-03",
-      "summary": "2년간 클로드 코드 제품을 이끌어온 캣 우(Cat Wu)가 앤트로픽을 떠나 오픈AI의 핵심 제품 조직을 이끌기 위해 합류한다. 최근 2주 새 클로드 코드 팀의 핵심 인력 이탈이 이어지며 조직 안정성에 대한 우려가 제기되고 있다.",
-      "scorePct": 71
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-11-05",
+      "summary": "OpenAI가 보안 연구에 특화된 모델 'GPT-6 Cyber'를 정식 출시했다. 자사 프리페어드니스 프레임워크 기준 최고 수준인 'Critical' 등급 평가를 받을 만큼 사이버 보안 분야에 특화된 역량을 갖췄다.",
+      "scorePct": 57
     },
     {
       "rank": 3,
-      "title": "Keeping Claude running apparently requires nearly a trillion dollars",
-      "url": "https://boingboing.net/2026/11/03/anthropic-895-billion-compute-commitments.html",
-      "source": "Boing Boing",
-      "publishedDate": "2026-11-03",
-      "summary": "앤트로픽이 컴퓨트와 인프라에 묶인 약 8,954억 달러 규모의 지출 공약을 공시했다. 프런티어 LLM을 지속적으로 운영하고 확장하는 데 필요한 비용 규모가 막대하다는 점이 드러났다.",
+      "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+      "source": "MacRumors",
+      "publishedDate": "2026-11-05",
+      "summary": "앤트로픽이 클로드에 은행·카드 계좌를 연동해 지출과 자산 현황을 관리할 수 있는 '퍼스널 파이낸스' 기능을 추가했다. 대화형 AI가 민감한 금융 데이터에 직접 접근하는 영역까지 활용 범위를 넓힌 사례다.",
       "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "[11월4일] \"글·코드 넘어 영상까지\"…LLM이 영상 제작 도구로 진화한다",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216981",
-      "source": "AI타임스",
-      "publishedDate": "2026-11-04",
-      "summary": "대형언어모델이 텍스트와 코드 작성을 넘어 영상 제작 도구로 영역을 넓히고 있다는 분석이 나왔다. 픽셀을 직접 생성하는 기존 영상 생성 AI와 달리, LLM은 영상을 그리는 프로그램 자체를 작성하는 방식으로 접근한다는 점이 특징이다.",
-      "scorePct": 29
+      "title": "METR Says Anthropic's AI Development Pace Has Doubled",
+      "url": "https://dataconomy.com/2026/11/06/metr-says-anthropics-ai-development-pace-has-doubled/",
+      "source": "Dataconomy",
+      "publishedDate": "2026-11-06",
+      "summary": "독립 평가기관 METR이 앤트로픽의 AI 역량 개발 속도가 기존 대비 약 두 배로 빨라졌다는 평가 결과를 공개했다. AI 발전 속도 자체가 외부 기관에 의해 정량적으로 측정·발표된 사례로 주목받는다.",
+      "scorePct": 43
     },
     {
       "rank": 5,
-      "title": "챗GPT 이용자 1900만 육박·클로드 200만 돌파…국산 AI는 고전",
-      "url": "https://www.mt.co.kr/tech/2026/11/03/2026110308565176532",
-      "source": "머니투데이",
-      "publishedDate": "2026-11-03",
-      "summary": "10월 국내 모바일 앱 시장에서 챗GPT 월간 이용자가 1,900만 명에 육박했고 클로드도 월간 이용자 209만 명을 돌파해 전월 대비 22.6% 증가했다. 반면 국산 AI 서비스들은 상대적으로 고전하는 것으로 나타났다.",
+      "title": "Anthropic built an inspection layer that lets enterprises block sensitive data before it reaches Claude",
+      "url": "https://thenextweb.com/news/anthropic-inference-hooks-dlp-claude-enterprise",
+      "source": "TheNextWeb",
+      "publishedDate": "2026-11-05",
+      "summary": "앤트로픽이 클로드 엔터프라이즈에 민감 데이터가 모델에 도달하기 전 이를 걸러내는 인스펙션(검사) 레이어를 새로 도입했다. 기업이 자체 정책에 따라 특정 데이터를 사전 차단할 수 있게 해 기업용 AI 도입의 보안 장벽을 낮추려는 조치로 풀이된다.",
       "scorePct": 29
     }
   ]
