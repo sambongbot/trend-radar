@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-07",
-  "headline": "> 앤트로픽은 클로드의 금융 데이터 연동 기능과 기업용 보안 검사 레이어를 함께 선보이며 개인·기업 양쪽에서 영역을 넓혔다.\n> 독립 평가기관 METR은 앤트로픽의 AI 역량 향상 속도가 두 배로 빨라졌다는 평가를 내놓았다.\n> OpenAI는 보안 특화 모델 GPT-6 Cyber를, 비드래프트는 벤치마크 2위권 오픈웨이트 추론 모델을 공개하며 모델 경쟁이 한층 세분화되는 모습이다.",
+  "date": "2026-11-08",
+  "headline": "> 클로드 코드가 백그라운드 작업 처리를 강화하며 에이전트형 개발 도구 경쟁이 이어졌다.\n> 오픈AI는 '치명적' 등급의 사이버보안 전문 모델을 공개하며 AI 안전성 논의에 불을 지폈다.\n> 구글 제미나이 옴니 정식 출시와 오픈 웨이트 모델 공개로 모델 경쟁 구도가 한층 넓어졌다.",
   "items": [
     {
       "rank": 1,
-      "title": "비드래프트 AI '다윈' 글로벌 벤치마크 2위…\"복잡한 추론 문제 특화\"",
-      "url": "https://www.ddaily.co.kr/page/view/2026110611525431091",
-      "source": "디지털데일리",
-      "publishedDate": "2026-11-06",
-      "summary": "비드래프트가 공개한 오픈웨이트 추론 모델 '다윈(Darwin)-180B-RSI'가 중국 평가기관 슈퍼클루의 11월 종합 평가에서 수학·과학 추론 부문 73.68점으로 글로벌 2위에 올랐다. 오픈웨이트 모델이 폐쇄형 최상위 모델과 근접한 추론 성능을 보여준 사례로 평가된다.",
-      "scorePct": 100
+      "title": "LLM News, November 7, 2026: Kimi K3.1 Pro Weights, GPT-6 Cyber",
+      "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026",
+      "source": "benchlm.ai",
+      "publishedDate": "2026-11-07",
+      "summary": "대형언어모델의 가중치가 오픈 웨이트 형태로 공개돼 개발자들이 자유롭게 내려받아 활용할 수 있게 됐다. 같은 시기 사이버보안 특화 모델의 등장도 함께 조명되며 모델 공개 경쟁이 한층 가열되는 모습이다.",
+      "scorePct": 86
     },
     {
       "rank": 2,
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-11-05",
-      "summary": "OpenAI가 보안 연구에 특화된 모델 'GPT-6 Cyber'를 정식 출시했다. 자사 프리페어드니스 프레임워크 기준 최고 수준인 'Critical' 등급 평가를 받을 만큼 사이버 보안 분야에 특화된 역량을 갖췄다.",
-      "scorePct": 57
+      "title": "Claude Code 2.1.319 — MCP tasks run in the background",
+      "url": "https://ai-tldr.dev/releases/anthropic-claude-code-2-1-319/",
+      "source": "ai-tldr.dev",
+      "publishedDate": "2026-11-06",
+      "summary": "최신 버전의 AI 코딩 도구에서 MCP 도구 호출 작업이 자동으로 백그라운드 실행으로 전환돼 긴 작업 중에도 에이전트 응답 지연이 줄었다. 권한 거부 목록 등 세부 제어 기능도 함께 추가됐다.",
+      "scorePct": 64
     },
     {
       "rank": 3,
-      "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
-      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
-      "source": "MacRumors",
+      "title": "GPT-6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "source": "OpenAI",
       "publishedDate": "2026-11-05",
-      "summary": "앤트로픽이 클로드에 은행·카드 계좌를 연동해 지출과 자산 현황을 관리할 수 있는 '퍼스널 파이낸스' 기능을 추가했다. 대화형 AI가 민감한 금융 데이터에 직접 접근하는 영역까지 활용 범위를 넓힌 사례다.",
+      "summary": "사이버보안에 특화된 신규 대형언어모델이 공개됐다. 이 모델은 프리페어드니스 프레임워크에서 최고 위험 등급인 '치명적(Critical)'으로 평가될 만큼 공격·방어 양쪽에서 강력한 성능을 보였으며, 실제 오픈소스 소프트웨어에서 다수의 보안 취약점을 찾아내는 성과도 보고됐다.",
       "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "METR Says Anthropic's AI Development Pace Has Doubled",
-      "url": "https://dataconomy.com/2026/11/06/metr-says-anthropics-ai-development-pace-has-doubled/",
-      "source": "Dataconomy",
-      "publishedDate": "2026-11-06",
-      "summary": "독립 평가기관 METR이 앤트로픽의 AI 역량 개발 속도가 기존 대비 약 두 배로 빨라졌다는 평가 결과를 공개했다. AI 발전 속도 자체가 외부 기관에 의해 정량적으로 측정·발표된 사례로 주목받는다.",
+      "title": "Google's Gemini Omni 1.2 Flash Reaches General Availability",
+      "url": "https://www.unite.ai/googles-gemini-omni-1-2-flash-reaches-general-availability/",
+      "source": "Unite.AI",
+      "publishedDate": "2026-11-05",
+      "summary": "멀티모달 생성 모델이 정식 출시 단계에 들어섰다. 네이티브 동영상 클립 길이가 15초로 늘고 다중 턴 대화형 편집 기능이 추가되는 등 영상 생성·편집 성능이 한층 강화됐다.",
       "scorePct": 43
     },
     {
       "rank": 5,
-      "title": "Anthropic built an inspection layer that lets enterprises block sensitive data before it reaches Claude",
-      "url": "https://thenextweb.com/news/anthropic-inference-hooks-dlp-claude-enterprise",
-      "source": "TheNextWeb",
-      "publishedDate": "2026-11-05",
-      "summary": "앤트로픽이 클로드 엔터프라이즈에 민감 데이터가 모델에 도달하기 전 이를 걸러내는 인스펙션(검사) 레이어를 새로 도입했다. 기업이 자체 정책에 따라 특정 데이터를 사전 차단할 수 있게 해 기업용 AI 도입의 보안 장벽을 낮추려는 조치로 풀이된다.",
-      "scorePct": 29
+      "title": "Cursor Release 3.11: side chats, agent transcript search, simplified project pickers",
+      "url": "https://cursor.com/changelog",
+      "source": "Cursor Changelog",
+      "publishedDate": "2026-07-10",
+      "summary": "AI 코딩 도구에서 에디터 안에서 바로 동작하는 웹 앱을 빌드하고 링크로 공유할 수 있는 기능이 추가됐다. 코드 작성부터 배포까지 한 흐름에서 처리할 수 있게 되면서 AI 코딩 어시스턴트의 활용 범위가 넓어지고 있다.",
+      "scorePct": 0
     }
   ]
 }
