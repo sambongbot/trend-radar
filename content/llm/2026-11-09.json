@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "This week in Claude Code, Codex and Gemini CLI (week of November 8, 2026)",
+    "url": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-8-2026-485k",
+    "source": "DEV Community",
+    "publishedDate": "2026-11-07",
+    "summary": "AI 코딩 어시스턴트 3대 도구인 Claude Code, Codex, Gemini CLI의 11월 둘째 주 업데이트를 정리한 주간 동향 기사다. Claude Code는 2.1.317~2.1.319 버전에서 로그인 만료 알림 개선과 일부 자동 모드 기능 정리가 이뤄졌다. 세 도구를 나란히 비교할 수 있어 코딩 에이전트 생태계의 경쟁 구도를 파악하기 좋다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "\"사용자 취향보단 AI 멋대로\"… LLM 상품 추천 ‘쏠림’ 심하다",
+    "url": "https://n.news.naver.com/mnews/article/029/0003057733",
+    "source": "네이버",
+    "publishedDate": "2026-11-09",
+    "summary": "대형언어모델을 상품·콘텐츠 추천에 활용하는 연구가 늘고 있지만, 사용자의 과거 상호작용으로 생성한 취향 프로필이 실제 선호보다 모델 자체의 편향을 강하게 반영해 추천 결과가 특정 항목에 쏠리는 현상이 확인됐다. 개인화를 내세운 LLM 기반 추천 시스템의 신뢰성에 의문을 제기하는 연구다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "Claude Code's \"Don't Ask Again\" File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "source": "The Hacker News",
+    "publishedDate": "2026-11-07",
+    "summary": "보안 업체 조사 결과, Claude Code의 '예, 다시 묻지 않음' 옵션으로 저장된 승인 이력 파일이 GitHub 공개 저장소 1,122곳에서 발견됐으며 비밀번호와 API 키 등 민감 정보가 그대로 노출돼 있었다. 편의 기능이 의도치 않은 보안 사고로 이어질 수 있음을 보여주는 사례다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Claude Animated Shorts: Remotion + Three.js Skill for Agent-Built Story Shorts",
+    "url": "https://www.explainx.ai/blog/claude-animated-shorts-remotion-threejs-agent-skill-github-trending-guide-2026",
+    "source": "ExplainX",
+    "publishedDate": "2026-11-08",
+    "summary": "Remotion과 Three.js를 결합한 새 Claude Code 스킬 'Claude Animated Shorts'가 공개돼 에이전트가 55~70초 분량의 세로형 스토리 숏폼 영상을 자동으로 제작할 수 있게 됐다. 코딩 에이전트가 텍스트·코드 영역을 넘어 영상 제작 도구로 확장되는 흐름을 보여준다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "카카오, AI 판단 돕는 ‘카나나-2-v-디사이드’ 선봬",
+    "url": "https://n.news.naver.com/mnews/article/021/0002831160",
+    "source": "네이버",
+    "publishedDate": "2026-11-09",
+    "summary": "카카오가 AI 에이전트의 업무 판단을 빠르고 효율적으로 지원하는 특화 모델 '카나나-2-v-디사이드'를 공개했다. 범용 대형모델이 아니라 의사결정 보조에 특화된 경량 모델을 선보였다는 점이 특징이다.",
+    "scorePct": 21
+  }
+]
