@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": "Anthropic",
+    "publishedDate": "2026-11-09",
+    "summary": "앤트로픽이 차세대 모델 클로드 페이블(Fable) 5.2와 제한적 접근 모델인 클로드 미토스(Mythos) 5.2를 공개했다. 두 모델 모두 최대 100만 토큰의 컨텍스트 윈도우를 지원해 장문 처리 능력을 크게 끌어올렸다. 미토스 5.2는 현재 일부 사용자에게만 제한적으로 제공된다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-11-10",
+    "summary": "메타 슈퍼인텔리전스 랩스가 에이전트 작업에 특화된 경량 AI 모델 '뮤즈 엠버(Muse Ember)'를 공개했다. 적은 연산 자원으로도 에이전틱 워크로드를 처리할 수 있도록 설계되어 온디바이스·저비용 배포에 유리하다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "Grok 4.8 in RL After a 57-Day Wait as xAI Dumps JAX for C++",
+    "url": "https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp/",
+    "source": "FourWeekMBA",
+    "publishedDate": "2026-11-10",
+    "summary": "xAI가 57일의 공백 끝에 그록(Grok) 4.8을 강화학습 단계에 진입시켰다고 밝혔다. 기존 JAX 기반 학습 스택을 버리고 강화학습 및 추론 스택 전체를 C/C++로 새로 작성한 것으로 알려졌다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "앤트로픽, 과학 난제 해결하는 AI 공개…블랙홀 문제도 풀었다",
+    "url": "https://n.news.naver.com/mnews/article/008/0005439246",
+    "source": "네이버",
+    "publishedDate": "2026-11-10",
+    "summary": "앤트로픽이 복잡한 과학 연구와 소프트웨어 개발 작업을 수행할 수 있는 신형 AI 모델을 공개하며, 이 모델이 블랙홀 관련 미해결 물리학 난제 2건을 해결했다고 밝혔다. 이는 LLM이 단순 텍스트 생성을 넘어 실제 연구 보조 도구로 활용될 수 있음을 보여주는 사례로 평가된다.",
+    "scorePct": 21
+  },
+  {
+    "rank": 5,
+    "title": "엔비디아 긴 문맥 논문, 대화 요약으로 줄여도 에이전트 성능 거의 유지",
+    "url": "https://zdnet.co.kr/view/?no=20261110210319",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-11-10",
+    "summary": "엔비디아 연구진이 H100 환경에서 큐원3 코더 넥스트 모델의 컨텍스트 길이를 256K에서 16K로 줄였을 때 초당 토큰 생성 처리량이 약 7배 증가했다는 실험 결과를 공개했다. 대화 기록을 요약하거나 필요한 부분만 읽는 방식으로도 에이전트 성능이 거의 유지됐다는 점이 핵심이다.",
+    "scorePct": 21
+  }
+]

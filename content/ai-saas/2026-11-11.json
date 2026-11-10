@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "엔비디아, 업스테이지 등 국내 AI 스타트업 4사 투자한다",
+    "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611090176",
+    "source": "한국경제TV",
+    "publishedDate": "2026-11-09",
+    "summary": "엔비디아가 과학기술정보통신부와 함께 서울에서 AI 스타트업 파트너십 포럼을 열고 포인트투테크놀로지, 업스테이지, 모티프테크놀로지스, 리얼월드 등 국내 AI 스타트업 4곳에 대한 투자를 추진한다고 밝혔다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "레드햇, ‘오픈시프트 5’ 출시…AI로 클라우드 장애 원인 분석",
+    "url": "https://n.news.naver.com/mnews/article/018/0006407807",
+    "source": "네이버",
+    "publishedDate": "2026-11-11",
+    "summary": "레드햇이 AI 에이전트로 클라우드 운영 문제를 분석하고 업데이트 위험을 사전 점검하는 신규 플랫폼 '오픈시프트 5'를 출시했다. 가상머신, 컨테이너, AI 워크로드를 하나의 플랫폼에서 관리할 수 있도록 설계됐다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "“새 GPU 안 사도 된다”…노타, 초거대 AI 경량화",
+    "url": "https://n.news.naver.com/mnews/article/018/0006407813",
+    "source": "네이버",
+    "publishedDate": "2026-11-11",
+    "summary": "AI 스타트업 노타가 초거대 AI 모델을 경량화해 상대적으로 저렴한 GPU에서도 실행할 수 있도록 하는 기술을 선보였다. 최신 고사양 GPU를 새로 확보하지 않고도 기존 인프라 활용도를 높일 수 있다는 설명이다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 4,
+    "title": "퀄컴-코라, 脫윈도 시동…스냅드래곤 기반 'AI 네이티브 OS' 첫선",
+    "url": "https://n.news.naver.com/mnews/article/030/0003484283",
+    "source": "네이버",
+    "publishedDate": "2026-11-11",
+    "summary": "퀄컴 테크놀로지스가 스타트업 코라시스템즈와 약 1년간 공동 엔지니어링을 거쳐 스냅드래곤 기반의 AI 네이티브 데스크톱 운영체제를 공개했다. 에이전틱 AI 실행을 염두에 두고 설계된 것이 특징이다.",
+    "scorePct": 13
+  },
+  {
+    "rank": 5,
+    "title": "에임인텔리전스, AI 접근 권한·행동 함께 통제한다",
+    "url": "https://n.news.naver.com/mnews/article/018/0006407810",
+    "source": "네이버",
+    "publishedDate": "2026-11-11",
+    "summary": "AI 보안 기업 에임인텔리전스가 직원들이 사용하는 AI 에이전트의 접근 권한과 업무 수행 내용을 함께 통제하는 방안을 제시했다. 실행환경 격리와 자체 정책 검증을 결합한 방식이다.",
+    "scorePct": 13
+  }
+]
