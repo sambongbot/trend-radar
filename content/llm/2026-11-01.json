@@ -19,15 +19,6 @@
   },
   {
     "rank": 3,
-    "title": "Claude Code May 23 Update: Background Sessions Improvements and /code-review Command",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "source": "Anthropic Claude Code Changelog",
-    "publishedDate": "2026-05-23",
-    "summary": "앤트로픽이 Claude Code v2.1.316을 배포하며 CLAUDE_CODE_SUBAGENT_EFFORT 환경변수를 새로 도입했다. 이를 통해 서브에이전트의 추론 노력(작업 강도) 수준을 세밀하게 조정할 수 있게 됐다. 멀티 에이전트 워크플로우를 구성하는 개발자에게 세부 제어권을 넓혀주는 업데이트다.",
-    "scorePct": 36
-  },
-  {
-    "rank": 4,
     "title": "AI Coding Agent Inside a Secure Pentagon System: A Defense Contractor's Dangerous Two-Month Failure",
     "url": "https://www.progressiverobot.com/2026/10/29/ai-coding-agent-pentagon-system/",
     "source": "Progressive Robot",
@@ -36,7 +27,7 @@
     "scorePct": 29
   },
   {
-    "rank": 5,
+    "rank": 4,
     "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
     "url": "https://n.news.naver.com/mnews/article/018/0006400663",
     "source": "네이버",
