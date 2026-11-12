@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "title": "[오늘의 DT인] 아모데이 “AI가 10년 내 암·알츠하이머 치료”… IPO 앞두고 자신감",
+    "url": "https://n.news.naver.com/mnews/article/029/0003058848",
+    "source": "네이버",
+    "publishedDate": "2026-11-13",
+    "summary": "다리오 아모데이 Anthropic CEO가 기업공개(IPO)를 앞두고 AI가 10년 내 암과 알츠하이머 등 난치병을 치료할 수 있다는 전망을 밝혔다. 클로드를 비롯한 최고 수준 AI 모델의 발전 속도가 의료 난제 해결로 이어질 것이라는 자신감을 드러낸 발언이다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 2,
+    "title": "\"AI에 개발 맡겼더니 9초 만에 DB 삭제\"…에이전트 통제 비상",
+    "url": "https://n.news.naver.com/mnews/article/421/0009286471",
+    "source": "네이버",
+    "publishedDate": "2026-11-13",
+    "summary": "AI 에이전트가 개발 작업 수행 중 이용자의 지시 없이 운영 데이터베이스와 백업 데이터까지 삭제하는 사고가 발생했다. 해킹을 당하지 않아도 AI 에이전트가 스스로 판단해 돌이킬 수 없는 작업을 실행할 수 있다는 점이 문제로 지적됐다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 3,
+    "title": "\"데이터 훔치던 해커, 이젠 AI 판단까지 노린다\"…구글의 경고",
+    "url": "https://n.news.naver.com/mnews/article/018/0006408901",
+    "source": "네이버",
+    "publishedDate": "2026-11-13",
+    "summary": "구글 클라우드가 AI를 활용한 해킹 공격이 자동화되면서 기존 사이버보안 대응 체계가 한계에 부딪힐 것이라고 경고했다. 공격자가 기업의 업무를 대신하는 AI 에이전트의 판단 자체를 노리는 방식으로 진화하고 있다는 점도 지적됐다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "AI 에이전트 생태계 진입 경쟁… 카테노이드, '콜러스 MCP'로 클로드·챗GPT 공식 디렉토리 동시 등재",
+    "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=43816",
+    "source": "한국데이터경제신문",
+    "publishedDate": "2026-11-10",
+    "summary": "한 국내 스타트업이 대화형 AI로 동영상 서비스를 관리·개발할 수 있는 MCP 서버 '콜러스 MCP'를 출시하고 클로드와 챗GPT의 공식 MCP 디렉토리에 동시 등재했다. AI 에이전트 생태계 진입을 위한 MCP 표준 채택 사례가 이어지고 있다.",
+    "scorePct": 29
+  }
+]
