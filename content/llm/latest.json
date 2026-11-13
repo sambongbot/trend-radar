@@ -1,42 +1,51 @@
 {
-  "date": "2026-11-13",
-  "headline": "> Anthropic CEO가 IPO를 앞두고 AI의 장기 잠재력에 대한 자신감을 재확인했다.\n> AI 에이전트에 시스템 권한을 맡기는 사례가 늘면서 통제 실패와 보안 위협 경고가 동시에 나왔다.\n> MCP 표준이 여러 AI 플랫폼의 공식 디렉토리로 확산되며 에이전트 생태계 기반을 넓히고 있다.",
+  "date": "2026-11-14",
+  "headline": "> Claude 인증 장애와 Cursor의 OpenAI 모델 공급 중단이 AI 개발 도구의 가용성·종속성 리스크를 동시에 드러냈다.\n> 구글은 경량·고속 모델 Gemini 4 Hydrogen을 공개하며 속도 중심 모델 경쟁에 다시 불을 지폈다.\n> TSMC의 OpenAI·Anthropic 동시 투자 승인은 반도체 공급망과 LLM 개발사 간 자본 결속이 한 단계 깊어졌음을 보여준다.",
   "items": [
     {
       "rank": 1,
-      "title": "[오늘의 DT인] 아모데이 “AI가 10년 내 암·알츠하이머 치료”… IPO 앞두고 자신감",
-      "url": "https://n.news.naver.com/mnews/article/029/0003058848",
-      "source": "네이버",
+      "title": "Claude Down Nov 13: Auth Outage Hits Code + Web",
+      "url": "https://explainx.ai/blog/claude-authentication-outage-claude-ai-code-november-13-2026",
+      "source": "ExplainX",
       "publishedDate": "2026-11-13",
-      "summary": "다리오 아모데이 Anthropic CEO가 기업공개(IPO)를 앞두고 AI가 10년 내 암과 알츠하이머 등 난치병을 치료할 수 있다는 전망을 밝혔다. 클로드를 비롯한 최고 수준 AI 모델의 발전 속도가 의료 난제 해결로 이어질 것이라는 자신감을 드러낸 발언이다.",
-      "scorePct": 36
+      "summary": "Anthropic은 11월 13일 claude.ai, Claude Code, API 플랫폼 전반에서 인증 오류로 로그인과 서비스 이용이 막히는 장애를 공식 인정했다. 장애는 수 시간 이어지며 개발 환경에서 해당 코딩 도구에 의존하던 작업 전반에 차질을 빚었다.",
+      "scorePct": 71
     },
     {
       "rank": 2,
-      "title": "\"AI에 개발 맡겼더니 9초 만에 DB 삭제\"…에이전트 통제 비상",
-      "url": "https://n.news.naver.com/mnews/article/421/0009286471",
-      "source": "네이버",
-      "publishedDate": "2026-11-13",
-      "summary": "AI 에이전트가 개발 작업 수행 중 이용자의 지시 없이 운영 데이터베이스와 백업 데이터까지 삭제하는 사고가 발생했다. 해킹을 당하지 않아도 AI 에이전트가 스스로 판단해 돌이킬 수 없는 작업을 실행할 수 있다는 점이 문제로 지적됐다.",
-      "scorePct": 29
+      "title": "OpenAI Models in Cursor: What Happens Nov 12",
+      "url": "https://zentor.ai/blog/cursor-openai-models-not-available",
+      "source": "Zentor.ai",
+      "publishedDate": "2026-11-12",
+      "summary": "AI 코딩 에디터 Cursor 측은 2026년 11월 12일부로 OpenAI 모델 공급이 중단될 예정이라는 통보를 받았다고 밝혔다. 특정 모델 제공사에 의존하던 코딩 어시스턴트가 갑작스러운 공급 변화에 노출될 수 있음을 보여준 사례다.",
+      "scorePct": 57
     },
     {
       "rank": 3,
-      "title": "\"데이터 훔치던 해커, 이젠 AI 판단까지 노린다\"…구글의 경고",
-      "url": "https://n.news.naver.com/mnews/article/018/0006408901",
-      "source": "네이버",
-      "publishedDate": "2026-11-13",
-      "summary": "구글 클라우드가 AI를 활용한 해킹 공격이 자동화되면서 기존 사이버보안 대응 체계가 한계에 부딪힐 것이라고 경고했다. 공격자가 기업의 업무를 대신하는 AI 에이전트의 판단 자체를 노리는 방식으로 진화하고 있다는 점도 지적됐다.",
-      "scorePct": 29
+      "title": "Google Launches Gemini 4 Hydrogen AI Model",
+      "url": "https://thetechnologyexpress.com/google-launches-gemini-4-hydrogen-ai-model/",
+      "source": "The Technology Express",
+      "publishedDate": "2026-11-12",
+      "summary": "구글이 속도에 초점을 맞춘 신규 모델 Gemini 4 Hydrogen을 공개했다. 기존 Gemini 3.8 Flash의 후속작으로 과제 처리 속도와 효율성을 끌어올린 경량·고속 모델로 포지셔닝됐다.",
+      "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "AI 에이전트 생태계 진입 경쟁… 카테노이드, '콜러스 MCP'로 클로드·챗GPT 공식 디렉토리 동시 등재",
-      "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=43816",
-      "source": "한국데이터경제신문",
-      "publishedDate": "2026-11-10",
-      "summary": "한 국내 스타트업이 대화형 AI로 동영상 서비스를 관리·개발할 수 있는 MCP 서버 '콜러스 MCP'를 출시하고 클로드와 챗GPT의 공식 MCP 디렉토리에 동시 등재했다. AI 에이전트 생태계 진입을 위한 MCP 표준 채택 사례가 이어지고 있다.",
+      "title": "TSMC approves up to $1 billion in OpenAI and Anthropic investments",
+      "url": "https://technode.global/2026/11/11/tsmc-openai-anthropic-investments/",
+      "source": "TechNode Global",
+      "publishedDate": "2026-11-11",
+      "summary": "TSMC 이사회가 OpenAI와 Anthropic에 대해 최대 10억 달러 규모의 투자를 승인했다. 파운드리 기업이 주요 LLM 개발사들과의 관계를 자본 참여 단계까지 강화하는 행보로 풀이된다.",
       "scorePct": 29
+    },
+    {
+      "rank": 5,
+      "title": "Browse tools.simonwillison.net by tag",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "source": "Simon Willison's Weblog",
+      "publishedDate": "2026-11-11",
+      "summary": "한 개발자가 Claude Fable 5.2 크레딧을 활용해 그동안 축적한 244개의 바이브 코딩 도구 모음을 태그별로 분석·정리한 사례를 공개했다. 최신 Claude 모델을 이용해 개인 코드 자산의 메타데이터 정리를 자동화한 실용적 활용 예시다.",
+      "scorePct": 14
     }
   ]
 }
