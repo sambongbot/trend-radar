@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "[옴니사 원 도쿄 2026] 옴니사, AI 에이전트 통제 솔루션 '엘라라' 내년 출시",
+    "url": "https://n.news.naver.com/mnews/article/030/0003485543",
+    "source": "네이버",
+    "publishedDate": "2026-11-15",
+    "summary": "AI 에이전트의 업무 실행을 사전에 통제하는 솔루션이 내년 상반기 정식 출시를 앞두고 있다. 한국 시장에는 데이터와 운영을 국내에서 전담 처리하는 버전이 별도로 제공될 예정이다. 기업들이 AI 에이전트를 업무에 도입하면서도 통제력을 잃지 않으려는 수요가 커지는 흐름을 보여준다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "이스라엘 JVP \"AI 모델 대신 보안·특화AI에 투자 집중\"",
+    "url": "https://n.news.naver.com/mnews/article/092/0002445292",
+    "source": "네이버",
+    "publishedDate": "2026-11-14",
+    "summary": "한 벤처캐피털이 거대언어모델 개발사 대신 보안·특화 AI 분야에 투자를 집중하고 있다고 밝혔다. 범용 모델 경쟁이 치열해지는 가운데 특정 문제 해결에 최적화된 AI 기업이 더 안정적인 투자처라는 판단이다. 투자 전략의 차별화를 모색하는 벤처캐피털의 흐름을 보여준다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "“AI 비서가 검색부터 결제까지”…대응책 찾으려 머리 맞댄 유통업계",
+    "url": "https://n.news.naver.com/mnews/article/022/0004175123",
+    "source": "네이버",
+    "publishedDate": "2026-11-15",
+    "summary": "AI가 검색부터 결제까지 소비자 구매 과정을 대신 수행하는 에이전틱 커머스가 확산하면서 유통업계가 공동 대응에 나섰다. 업계 단체를 중심으로 대응 방안을 논의하는 자리가 마련됐다. 플랫폼 중심 거래 구조가 AI 에이전트 중심으로 재편될 가능성에 대한 업계의 경계감이 반영된 움직임이다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 4,
+    "title": "네이버벤처스 참여 용접 AI 패스로보틱스, 3억 달러 시리즈E 투자유치",
+    "url": "https://wowtale.net/2026/11/14/268034/",
+    "source": "와우테일(WOWTALE)",
+    "publishedDate": "2026-11-14",
+    "summary": "용접 자동화에 특화한 AI 스타트업이 3억 달러 규모의 시리즈E 투자를 유치했다. 이번 라운드에는 국내 벤처캐피털도 참여해 제조 현장 특화 AI 기술에 대한 투자 관심을 보여줬다. 범용 모델이 아닌 산업 현장 특화 AI에 대규모 자금이 몰리는 사례로 꼽힌다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 5,
+    "title": "WhiteMatter Raises $20 Million in Series A Funding",
+    "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+    "source": "SecurityWeek",
+    "publishedDate": "2026-11-14",
+    "summary": "AI 보안 스타트업이 2,000만 달러 규모의 시리즈A 투자를 유치했다. 이 자금은 기업들이 AI 시스템 도입 과정에서 겪는 보안 위험을 관리하는 데 쓰일 예정이다. AI 도입이 확산되면서 관련 보안 수요도 함께 커지고 있음을 보여주는 사례다.",
+    "scorePct": 25
+  }
+]
