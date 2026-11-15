@@ -1,51 +1,15 @@
 {
-  "date": "2026-11-15",
-  "headline": "> AI 에이전트가 결제·예약 등 실제 행동을 대신 수행하는 기능이 잇따라 공개되며 자율 업무 범위도 확장되는 추세다.\n> Claude Code는 보안 패치를 포함한 정기 업데이트를 내놨고, Cursor는 외부 서비스발 키 유출로 보안사고를 겪었다.\n> AI 코딩 어시스턴트 생태계의 기능 확장과 보안 리스크가 동시에 부각된 하루다.",
+  "date": "2026-11-16",
+  "headline": "> 오늘은 LLM 전용 기사가 드물어 선별 가능한 기사가 1건에 그쳤다.\n> Claude Code가 v2.1.321·v2.1.325로 권한·샌드박스 버그와 zstd 디코딩 보안 취약점을 수정했다.\n> Codex·Gemini CLI 등 경쟁 코딩 어시스턴트의 이번 주 변경사항도 함께 정리됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "Cursor Traces Breach to Access Key Exposed by Fireworks AI",
-      "url": "https://www.unite.ai/cursor-traces-breach-to-access-key-exposed-by-fireworks-ai/",
-      "source": "Unite.AI",
-      "publishedDate": "2026-11-13",
-      "summary": "Cursor는 Fireworks AI에서 노출된 Cursor 발급 액세스 키를 공격자가 탈취해 코드를 복사해간 침해 사고를 공개했다. AI 코딩 도구와 연동된 외부 인프라 서비스의 키 관리 허점이 원인으로 지목됐다.",
-      "scorePct": 71
-    },
-    {
-      "rank": 2,
-      "title": "Release v2.1.325 · anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
-      "source": "GitHub (anthropics/claude-code)",
-      "publishedDate": "2026-11-13",
-      "summary": "Claude Code v2.1.325가 zstd 압축 응답 디코딩 관련 보안 취약점을 수정하고 권한·디폴트 설정의 안전성을 강화했다. 정기 릴리스 형태의 보안·안정성 개선 업데이트다.",
-      "scorePct": 64
-    },
-    {
-      "rank": 3,
-      "title": "OpenAI launches ChatGPT Wallet, letting AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "source": "TechCrunch",
-      "publishedDate": "2026-11-13",
-      "summary": "오픈AI가 AI 에이전트('dots')가 이용자를 대신해 구매를 결정하고 결제까지 수행하는 '챗GPT 월렛' 기능을 공개했다. 올해 초 선보인 인스턴트 체크아웃 기능의 확장판이다.",
-      "scorePct": 43
-    },
-    {
-      "rank": 4,
-      "title": "\"주말에 갈 식당 찾아서 예약해줘\" 말했더니…'놀라운 결과' [정지은의 테크킥]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353808",
-      "source": "네이버",
-      "publishedDate": "2026-11-14",
-      "summary": "국내 플랫폼들이 이용자의 의도를 파악해 예약 등 실제 행동까지 대신 수행하는 AI 에이전트 기능을 선보이고 있다. 단순 상품 추천을 넘어 작업 완결까지 처리하는 방향으로 서비스가 진화하고 있다.",
-      "scorePct": 21
-    },
-    {
-      "rank": 5,
-      "title": "“AI비서 자율업무, 몇 주 단위까지 확대될 것”…문샷 프로젝트 책임자 밝혀",
-      "url": "https://n.news.naver.com/mnews/article/009/0005763760",
-      "source": "네이버",
+      "title": "This week in Claude Code, Codex and Gemini CLI (week of November 15, 2026)",
+      "url": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026-4pmm",
+      "source": "DEV Community",
       "publishedDate": "2026-11-15",
-      "summary": "한 AI 기업의 자율 에이전트 프로젝트 책임자가 현재 4~8시간 수준인 AI 비서의 자율 업무 처리 단위가 내년 초에는 며칠에서 몇 주 단위로 확대될 것이라고 밝혔다. 장시간 자율 수행 능력이 에이전트 발전의 핵심 지표로 거론됐다.",
-      "scorePct": 21
+      "summary": "이번 주 Claude Code, Codex, Gemini CLI의 변경사항을 정리한 주간 리캡으로, Claude Code v2.1.321과 v2.1.325가 권한·샌드박스 버그를 고치고 zstd 디코딩 관련 보안 취약점을 수정했다고 전했다. 세 가지 주요 AI 코딩 어시스턴트의 최신 동향을 한 번에 비교할 수 있는 형식이다.",
+      "scorePct": 57
     }
   ]
 }

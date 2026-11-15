@@ -1,0 +1,11 @@
+[
+  {
+    "rank": 1,
+    "title": "This week in Claude Code, Codex and Gemini CLI (week of November 15, 2026)",
+    "url": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-15-2026-4pmm",
+    "source": "DEV Community",
+    "publishedDate": "2026-11-15",
+    "summary": "이번 주 Claude Code, Codex, Gemini CLI의 변경사항을 정리한 주간 리캡으로, Claude Code v2.1.321과 v2.1.325가 권한·샌드박스 버그를 고치고 zstd 디코딩 관련 보안 취약점을 수정했다고 전했다. 세 가지 주요 AI 코딩 어시스턴트의 최신 동향을 한 번에 비교할 수 있는 형식이다.",
+    "scorePct": 57
+  }
+]
