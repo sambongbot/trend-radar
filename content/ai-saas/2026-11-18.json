@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "최예진 교수, 엔비디아 등에서 1500억 유치…'자기개선 AI' 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217481",
+    "source": "AI타임스",
+    "publishedDate": "2026-11-17",
+    "summary": "스탠퍼드대 교수 출신 연구자 두 명이 공동 창업한 AI 스타트업이 설립 5개월 만에 멘로벤처스 주도로 엔비디아, 시스코, 스노우플레이크 등이 참여한 약 1500억원 규모의 투자를 유치했다. 이 회사는 스스로 성능을 개선하는 '자기개선 AI' 기술 개발을 목표로 한다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 2,
+    "title": "SAS “내년은 AI 성과의 해…기업 내 책임·신뢰 중요해진다”",
+    "url": "https://n.news.naver.com/mnews/article/030/0003486798",
+    "source": "네이버",
+    "publishedDate": "2026-11-18",
+    "summary": "한 글로벌 분석 소프트웨어 기업이 내년에는 기업 업무 전반에 AI 에이전트 도입이 확산되며 책임 소재, 투자 성과, 의사결정 신뢰성이 핵심 과제로 부상할 것이라고 전망했다. 단순 업무 지원을 넘어 AI가 실제 의사결정과 실행을 맡는 형태로 진화하면서 기업 내 거버넌스 체계 마련이 시급해질 것으로 내다봤다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 3,
+    "title": "\"AI에이전트로 실무역량 평가\"...블루필, 사업 영역 확대",
+    "url": "https://n.news.naver.com/mnews/article/092/0002445750",
+    "source": "네이버",
+    "publishedDate": "2026-11-18",
+    "summary": "AI 에이전트 기반 소프트웨어 개발 및 AX 컨설팅 사업을 하는 한 기업이 실무 역량을 평가하는 신규 플랫폼을 출시하며 사업 영역을 확대했다. 이 플랫폼은 AI 에이전트를 활용해 개발자 등의 실무 역량을 직접 평가하는 방식을 택했다.",
+    "scorePct": 38
+  },
+  {
+    "rank": 4,
+    "title": "자율시스템 공간지능 SE3, 3천만 달러 시리즈A 투자유치",
+    "url": "https://wowtale.net/2026/11/17/268217/",
+    "source": "와우테일",
+    "publishedDate": "2026-11-17",
+    "summary": "자율주행 로봇 등에 필요한 공간지능(Spatial AI) 기술을 개발하는 스타트업이 약 440억원 규모의 시리즈A 투자를 유치했다. 공간 인지 능력을 갖춘 자율 시스템 수요 증가와 맞물려 관련 투자가 이어지고 있다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "Midmarket AI is not enterprise AI at a smaller scale",
+    "url": "https://venturebeat.com/orchestration/midmarket-ai-is-not-enterprise-ai-at-a-smaller-scale",
+    "source": "VentureBeat",
+    "publishedDate": "2026-11-16",
+    "summary": "한 업계 분석에서는 연 매출 5억~50억 달러 규모의 중견기업이 대기업의 엔터프라이즈 AI 전략을 그대로 축소 적용해서는 성과를 내기 어렵다고 지적했다. 예산과 인력 제약이 큰 중견기업에는 처음부터 별도의 AI 도입 전략이 필요하다는 분석이다.",
+    "scorePct": 25
+  }
+]

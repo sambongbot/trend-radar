@@ -1,50 +1,50 @@
 {
-  "date": "2026-11-17",
-  "headline": "> 알리바바 큐원4-맥스가 100만 토큰 컨텍스트로 공개되며 장문 처리 경쟁에 가세했고, 국내 오픈소스 LLM '다윈'은 국제 추론 벤치마크에서 1위에 올랐다.\n> 랭체인은 기업가치 30억 달러로 3억 달러를 유치하며 에이전트 운영 플랫폼으로 영역을 넓혔다.\n> 금융권에서는 폐쇄망 AI 코딩 에이전트와 에이전트 수행 과정 검증 플랫폼이 잇따라 공개되며 실무 적용이 구체화되고 있다.",
+  "date": "2026-11-18",
+  "headline": "> 알리바바 Qwen4-Max·텐센트 Hy4 Flash가 초대형·저비용 모델 경쟁을 이어갔다\n> GitHub Copilot의 Claude 모델 지원 종료로 코딩 어시스턴트 생태계가 재편되고 있다\n> Claude Agent SDK 업데이트와 업스테이지·코히어 협력이 에이전트·소버린 AI 확산을 뒷받침한다",
   "items": [
     {
       "rank": 1,
-      "title": "신한은행, AI 답변 넘어 업무 수행 과정까지 검증",
-      "url": "https://www.fnnews.com/news/202611161400551053",
-      "source": "파이낸셜뉴스",
+      "title": "GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/",
+      "source": "GitHub Blog",
       "publishedDate": "2026-11-16",
-      "summary": "한 시중은행이 국제 AI 학회에서 은행 업무 특화 LLM 평가 벤치마크와 AI 에이전트의 업무 수행 과정을 검증하는 플랫폼을 공개했다. 단순 답변 정확도를 넘어 에이전트가 거치는 추론·실행 과정 자체를 평가 대상으로 삼았다는 점이 특징이다.",
-      "scorePct": 50
+      "summary": "GitHub가 대부분의 Copilot 경험에서 Claude Opus 4.8, Claude Opus 5, GPT-5.6 Terra 모델 지원을 종료했다. 해당 모델을 사용하던 개발자는 대체 모델로 전환이 필요하다.",
+      "scorePct": 86
     },
     {
       "rank": 2,
-      "title": "비드래프트, LLM '다윈' SuperCLUE 11월 평가서 수학·과학 추론 오픈소스 부문 1위",
-      "url": "https://n.news.naver.com/mnews/article/015/0005354153",
-      "source": "네이버",
-      "publishedDate": "2026-11-17",
-      "summary": "국내 스타트업이 개발한 거대언어모델 '다윈'이 중국 평가기관 SuperCLUE의 11월 평가에서 수학·과학 추론 오픈소스 부문 1위를 차지했다. 오픈소스 모델 간 추론 성능 경쟁이 국가·기업 경계를 넘어 치열해지고 있음을 보여주는 사례다.",
-      "scorePct": 43
+      "title": "Claude Agent SDK Python 0.2.183",
+      "url": "https://freedom.tech/posts/2026-11-16-claude-agent-sdk-python-0-2-183/",
+      "source": "freedom.tech",
+      "publishedDate": "2026-11-16",
+      "summary": "Claude Agent SDK가 Python 0.2.183, TypeScript 0.3.326으로 각각 업데이트되며 관련 문서가 보강되었다. 에이전트 개발에 필요한 기능과 가이드가 지속적으로 확충되고 있다.",
+      "scorePct": 57
     },
     {
       "rank": 3,
-      "title": "노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217457",
-      "source": "AI타임스",
-      "publishedDate": "2026-11-16",
-      "summary": "금융권 특화 온프레미스 AI 코딩 에이전트에 모델 경량화와 추론·서빙 최적화 기술이 적용됐다. 동일한 GPU 환경에서 분당 처리 요청 수를 최대 95% 끌어올려, 보안이 중요한 폐쇄망 환경에서도 AI 코딩 에이전트 도입이 가능함을 보여줬다.",
+      "title": "Tencent Launches Low-cost Hy4 Flash AI Model For Office Work",
+      "url": "https://dataconomy.com/2026/11/17/tencent-launches-low-cost-hy4-flash-ai-model-for-office-work/",
+      "source": "Dataconomy",
+      "publishedDate": "2026-11-17",
+      "summary": "텐센트가 오피스 업무용으로 저비용 멀티모달 모델 Hy4 Flash를 출시했다. 100만 토큰 컨텍스트 윈도우를 지원하며 비용 효율성을 강점으로 내세웠다.",
       "scorePct": 43
     },
     {
       "rank": 4,
-      "title": "랭체인, AI 에이전트 관리 사업 확대…기업가치 30억 달러 평가",
-      "url": "https://n.news.naver.com/mnews/article/092/0002445412",
+      "title": "업스테이지 ‘솔라’ 모델, 加 코히어 ‘노스’ 플랫폼에 탑재",
+      "url": "https://n.news.naver.com/mnews/article/029/0003059710",
       "source": "네이버",
-      "publishedDate": "2026-11-17",
-      "summary": "AI 에이전트 개발·관리 프레임워크 랭체인이 기업가치 30억 달러를 인정받으며 3억 달러 규모 투자를 유치했다. 오픈소스 개발 도구에서 출발해 기업용 에이전트 실행·운영 플랫폼으로 사업을 확장하는 전략이 투자 시장에서도 검증된 셈이다.",
-      "scorePct": 29
+      "publishedDate": "2026-11-18",
+      "summary": "업스테이지가 캐나다 AI 기업 코히어와 전략적 파트너십을 맺고 자사 LLM '솔라'를 코히어의 기업용 플랫폼 '노스'에 탑재한다. 양사는 소버린 AI 모델 개발과 기업용 AI 공동 사업도 함께 추진한다.",
+      "scorePct": 36
     },
     {
       "rank": 5,
-      "title": "Qwen4-Max: Features, Benchmarks, and Pricing",
-      "url": "https://www.datacamp.com/blog/qwen4-max",
-      "source": "DataCamp",
+      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+      "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+      "source": "MarkTechPost",
       "publishedDate": "2026-11-16",
-      "summary": "알리바바가 LLM '큐원4-맥스'를 정식 출시하며 최대 100만 토큰의 컨텍스트 윈도우를 지원한다고 밝혔다. API 요금제와 벤치마크 성능이 함께 공개되면서 장문 문서·대규모 코드베이스 처리가 필요한 실무 적용에서 비교 대상으로 떠올랐다.",
+      "summary": "알리바바가 2.4조 파라미터 규모의 MoE 모델 Qwen4-Max를 공개했다. 활성 파라미터 710억, 컨텍스트 100만 토큰에 네이티브 비전 기능을 지원하며 QwenCloud 등 자사 플랫폼 전반에 탑재됐다.",
       "scorePct": 29
     }
   ]

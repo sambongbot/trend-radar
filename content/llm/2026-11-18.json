@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "GitHub Copilot models deprecated on November 16, 2026",
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/",
+    "source": "GitHub Blog",
+    "publishedDate": "2026-11-16",
+    "summary": "GitHub가 대부분의 Copilot 경험에서 Claude Opus 4.8, Claude Opus 5, GPT-5.6 Terra 모델 지원을 종료했다. 해당 모델을 사용하던 개발자는 대체 모델로 전환이 필요하다.",
+    "scorePct": 86
+  },
+  {
+    "rank": 2,
+    "title": "Claude Agent SDK Python 0.2.183",
+    "url": "https://freedom.tech/posts/2026-11-16-claude-agent-sdk-python-0-2-183/",
+    "source": "freedom.tech",
+    "publishedDate": "2026-11-16",
+    "summary": "Claude Agent SDK가 Python 0.2.183, TypeScript 0.3.326으로 각각 업데이트되며 관련 문서가 보강되었다. 에이전트 개발에 필요한 기능과 가이드가 지속적으로 확충되고 있다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 3,
+    "title": "Tencent Launches Low-cost Hy4 Flash AI Model For Office Work",
+    "url": "https://dataconomy.com/2026/11/17/tencent-launches-low-cost-hy4-flash-ai-model-for-office-work/",
+    "source": "Dataconomy",
+    "publishedDate": "2026-11-17",
+    "summary": "텐센트가 오피스 업무용으로 저비용 멀티모달 모델 Hy4 Flash를 출시했다. 100만 토큰 컨텍스트 윈도우를 지원하며 비용 효율성을 강점으로 내세웠다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "업스테이지 ‘솔라’ 모델, 加 코히어 ‘노스’ 플랫폼에 탑재",
+    "url": "https://n.news.naver.com/mnews/article/029/0003059710",
+    "source": "네이버",
+    "publishedDate": "2026-11-18",
+    "summary": "업스테이지가 캐나다 AI 기업 코히어와 전략적 파트너십을 맺고 자사 LLM '솔라'를 코히어의 기업용 플랫폼 '노스'에 탑재한다. 양사는 소버린 AI 모델 개발과 기업용 AI 공동 사업도 함께 추진한다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 5,
+    "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+    "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+    "source": "MarkTechPost",
+    "publishedDate": "2026-11-16",
+    "summary": "알리바바가 2.4조 파라미터 규모의 MoE 모델 Qwen4-Max를 공개했다. 활성 파라미터 710억, 컨텍스트 100만 토큰에 네이티브 비전 기능을 지원하며 QwenCloud 등 자사 플랫폼 전반에 탑재됐다.",
+    "scorePct": 29
+  }
+]
