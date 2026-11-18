@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-18",
-  "headline": "> 알리바바 Qwen4-Max·텐센트 Hy4 Flash가 초대형·저비용 모델 경쟁을 이어갔다\n> GitHub Copilot의 Claude 모델 지원 종료로 코딩 어시스턴트 생태계가 재편되고 있다\n> Claude Agent SDK 업데이트와 업스테이지·코히어 협력이 에이전트·소버린 AI 확산을 뒷받침한다",
+  "date": "2026-11-19",
+  "headline": "> OpenAI가 GPT-6.2 Astra·Sol을 출시하며 Claude 대비 성능 우위 탈환을 주장, 모델 경쟁이 매주 단위로 뒤바뀌고 있다.\n> OVHcloud가 첫 오픈소스 LLM 'Olala'를 공개하며 유럽발 오픈소스 모델 공급 다변화가 이어진다.\n> DeepSeek는 무료 API 사용을 제한해 수익화에 나섰고, 코딩 에이전트 보안과 모델 효율화 논의도 함께 부상했다.",
   "items": [
     {
       "rank": 1,
-      "title": "GitHub Copilot models deprecated on November 16, 2026",
-      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/",
-      "source": "GitHub Blog",
-      "publishedDate": "2026-11-16",
-      "summary": "GitHub가 대부분의 Copilot 경험에서 Claude Opus 4.8, Claude Opus 5, GPT-5.6 Terra 모델 지원을 종료했다. 해당 모델을 사용하던 개발자는 대체 모델로 전환이 필요하다.",
-      "scorePct": 86
+      "title": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2",
+      "url": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/",
+      "source": "9to5Google",
+      "publishedDate": "2026-11-17",
+      "summary": "OpenAI가 2026년 11월 17일 GPT-6.2 Astra와 Sol을 출시했다. Astra는 복잡한 다단계 전문 작업에서 강점을 보이며, 일주일 전 공개된 Claude Fable 5.2로부터 성능 우위를 되찾으려는 목적으로 평가된다.",
+      "scorePct": 71
     },
     {
       "rank": 2,
-      "title": "Claude Agent SDK Python 0.2.183",
-      "url": "https://freedom.tech/posts/2026-11-16-claude-agent-sdk-python-0-2-183/",
-      "source": "freedom.tech",
-      "publishedDate": "2026-11-16",
-      "summary": "Claude Agent SDK가 Python 0.2.183, TypeScript 0.3.326으로 각각 업데이트되며 관련 문서가 보강되었다. 에이전트 개발에 필요한 기능과 가이드가 지속적으로 확충되고 있다.",
+      "title": "External sandboxes for coding agents",
+      "url": "https://blog.primeradiant.com/external-sandboxes-for-coding-agents/",
+      "source": "Prime Radiant Blog",
+      "publishedDate": "2026-11-17",
+      "summary": "코딩 에이전트를 위한 새로운 '외부 샌드박스 패턴'이 제안됐다. 에이전트 자체는 개발자 로컬 환경에서 계속 실행하되, 실제 코드 실행만 외부 격리 환경으로 분리해 보안성과 로컬 컨텍스트 유지를 동시에 확보하는 방식이다.",
       "scorePct": 57
     },
     {
       "rank": 3,
-      "title": "Tencent Launches Low-cost Hy4 Flash AI Model For Office Work",
-      "url": "https://dataconomy.com/2026/11/17/tencent-launches-low-cost-hy4-flash-ai-model-for-office-work/",
-      "source": "Dataconomy",
+      "title": "OVHcloud Introduces Olala Mini 7A1B as Its First Open-Source LLM",
+      "url": "https://www.unite.ai/ovhcloud-introduces-olala-mini-7a1b-as-its-first-open-source-llm/",
+      "source": "Unite.AI",
       "publishedDate": "2026-11-17",
-      "summary": "텐센트가 오피스 업무용으로 저비용 멀티모달 모델 Hy4 Flash를 출시했다. 100만 토큰 컨텍스트 윈도우를 지원하며 비용 효율성을 강점으로 내세웠다.",
-      "scorePct": 43
+      "summary": "OVHcloud가 자사 최초의 오픈소스 LLM 패밀리 'Olala'를 공개했다. 첫 모델은 경량 버전인 Olala Mini 7A1B로, 유럽 클라우드 사업자가 직접 오픈소스 모델 개발에 뛰어든 사례다.",
+      "scorePct": 29
     },
     {
       "rank": 4,
-      "title": "업스테이지 ‘솔라’ 모델, 加 코히어 ‘노스’ 플랫폼에 탑재",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059710",
-      "source": "네이버",
-      "publishedDate": "2026-11-18",
-      "summary": "업스테이지가 캐나다 AI 기업 코히어와 전략적 파트너십을 맺고 자사 LLM '솔라'를 코히어의 기업용 플랫폼 '노스'에 탑재한다. 양사는 소버린 AI 모델 개발과 기업용 AI 공동 사업도 함께 추진한다.",
-      "scorePct": 36
+      "title": "DeepSeek Limits Free API Usage, Directs Heavy Users to Paid Plans",
+      "url": "https://www.kucoin.com/news/flash/deepseek-restricts-free-api-usage-guides-heavy-users-to-paid-plans",
+      "source": "KuCoin News",
+      "publishedDate": "2026-11-17",
+      "summary": "DeepSeek가 2026년 11월 17일부로 무료 API 사용에 입력 글자 수 제한 등 제약을 걸고, 사용량이 많은 이용자를 유료 플랜으로 유도하기 시작했다. 그동안 저비용 모델로 시장 점유율을 넓혀온 DeepSeek의 수익화 전환 신호로 해석된다.",
+      "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
-      "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
-      "source": "MarkTechPost",
-      "publishedDate": "2026-11-16",
-      "summary": "알리바바가 2.4조 파라미터 규모의 MoE 모델 Qwen4-Max를 공개했다. 활성 파라미터 710억, 컨텍스트 100만 토큰에 네이티브 비전 기능을 지원하며 QwenCloud 등 자사 플랫폼 전반에 탑재됐다.",
-      "scorePct": 29
+      "title": "GPU 효율 높이고 AI 모델 다이어트…비용 확 줄인다 [테크언커버드]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683657",
+      "source": "네이버",
+      "publishedDate": "2026-11-18",
+      "summary": "AI 모델의 GPU 비용을 줄이기 위한 경량화·효율화 기법이 다이어트에 비유되며 소개됐다. 단순히 모델 크기를 줄이는 데 그치지 않고 기본 성능 저하 없이 비용을 절감하는 균형이 핵심 과제로 제시된다.",
+      "scorePct": 21
     }
   ]
 }
