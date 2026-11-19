@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Claude Code 2.1.328: auto mode for Opus 4.6 and Sonnet 4.6 on Bedrock, Foundry and friends",
+    "url": "https://clauding.de/en/posts/claude-code-2-1-328-auto-mode-drittanbieter/",
+    "source": "Clauding.de",
+    "publishedDate": "2026-11-19",
+    "summary": "클로드 코드 2.1.328 업데이트로 Opus 4.6과 Sonnet 4.6 모델의 자동 모드가 아마존 베드락, 구글 클라우드, 마이크로소프트 파운드리 등 서드파티 호스팅 환경까지 확장됐다. 이제 어떤 플랫폼에서 호스팅하든 동일한 자동 모델 선택 기능을 쓸 수 있다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 2,
+    "title": "Anthropic Adds Code Mode To Claude Code For Chained JavaScript Tool Calls",
+    "url": "https://dataconomy.com/2026/11/19/anthropic-adds-code-mode-to-claude-code-for-chained/",
+    "source": "Dataconomy",
+    "publishedDate": "2026-11-19",
+    "summary": "클로드 코드에 실험적 기능인 코드 모드가 추가돼, 모델이 자연어 대신 자바스크립트 코드를 작성해 여러 도구 호출을 한 번에 연결할 수 있게 됐다. 복잡한 다단계 작업을 더 적은 왕복으로 처리할 수 있어 실행 효율과 정확도 개선이 기대된다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 3,
+    "title": "구글, AI 에이전트 특화 '제미나이4 네온' 출시… 작업 비용 32% 절감",
+    "url": "https://n.news.naver.com/mnews/article/138/0002249275",
+    "source": "네이버",
+    "publishedDate": "2026-11-20",
+    "summary": "구글이 코딩과 기업 업무 등 복잡한 작업에 특화된 신규 모델 제미나이4 네온을 공개했다. 기존 모델 대비 작업 비용을 약 32% 절감하면서도 경쟁 모델과 맞먹는 성능을 갖췄다는 평가가 나온다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 4,
+    "title": "Claude Data Turns On for Enterprise Plans November 19",
+    "url": "https://www.beri.net/article/claude-data-default-on-november-19-sheets-whiteboards-beta-claude-meetings-google-meet-interactive-connectors-enterprise-admin-controls",
+    "source": "Beri.net",
+    "publishedDate": "2026-11-19",
+    "summary": "클로드 데이터(옛 클로드 대시보드) 기능이 11월 19일부터 클로드 엔터프라이즈 플랜에 기본으로 켜진다. 시트, 화이트보드, 베타 단계의 클로드 미팅 등이 포함되며 구글 미트 연동과 관리자 통제 기능도 함께 제공된다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 5,
+    "title": "Release Documentation Update - Claude Code changelog (2026-11-17)",
+    "url": "https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20261117-1510",
+    "source": "GitHub (claude-code-docs-changelog)",
+    "publishedDate": "2026-11-17",
+    "summary": "클로드 코드 2.1.327 업데이트에 `claude mcp add-json` 명령이 추가돼, MCP 서버의 JSON 설정을 명령줄에서 바로 읽어 등록할 수 있게 됐다. 기존에 별도 파일 편집이 필요했던 설정 과정이 한 줄 명령으로 단순화됐다.",
+    "scorePct": 36
+  }
+]
