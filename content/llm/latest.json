@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-20",
-  "headline": "> 구글이 제미나이4 네온으로 비용 대비 성능 경쟁에 불을 지폈다.\n> 앤트로픽은 클로드 코드에 코드 모드와 멀티클라우드 자동 모드를 더해 에이전트형 개발 도구를 고도화했다.\n> 클로드 데이터의 엔터프라이즈 기본 적용 등 업무용 AI 통합도 가속화되고 있다.",
+  "date": "2026-11-21",
+  "headline": "> 구글 제미나이4 네온 출시와 맥(Mac) 에이전트 기능 확장으로 AI 에이전트 경쟁이 가속화되고 있다.\n> 오픈AI의 차세대 모델 GPT-6.2 Astra는 성능 향상과 함께 안전성 우려도 함께 커지는 모습이다.\n> 해외 모델의 추론 능력이 국내 수능 문제까지 정복하고, 전력 인프라 규제 완화가 모델 확장을 뒷받침하고 있다.",
   "items": [
     {
       "rank": 1,
-      "title": "Claude Code 2.1.328: auto mode for Opus 4.6 and Sonnet 4.6 on Bedrock, Foundry and friends",
-      "url": "https://clauding.de/en/posts/claude-code-2-1-328-auto-mode-drittanbieter/",
-      "source": "Clauding.de",
-      "publishedDate": "2026-11-19",
-      "summary": "클로드 코드 2.1.328 업데이트로 Opus 4.6과 Sonnet 4.6 모델의 자동 모드가 아마존 베드락, 구글 클라우드, 마이크로소프트 파운드리 등 서드파티 호스팅 환경까지 확장됐다. 이제 어떤 플랫폼에서 호스팅하든 동일한 자동 모델 선택 기능을 쓸 수 있다.",
-      "scorePct": 57
+      "title": "Release: llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison's Weblog",
+      "publishedDate": "2026-11-18",
+      "summary": "커맨드라인 LLM 도구 llm의 플러그인 llm-gemini가 0.38 버전으로 업데이트되며 구글의 신규 모델 제미나이4 네온 지원이 추가됐다. 여러 LLM 제공사 모델을 통일된 인터페이스로 다루는 오픈소스 생태계의 신모델 대응 속도를 보여준다.",
+      "scorePct": 43
     },
     {
       "rank": 2,
-      "title": "Anthropic Adds Code Mode To Claude Code For Chained JavaScript Tool Calls",
-      "url": "https://dataconomy.com/2026/11/19/anthropic-adds-code-mode-to-claude-code-for-chained/",
-      "source": "Dataconomy",
-      "publishedDate": "2026-11-19",
-      "summary": "클로드 코드에 실험적 기능인 코드 모드가 추가돼, 모델이 자연어 대신 자바스크립트 코드를 작성해 여러 도구 호출을 한 번에 연결할 수 있게 됐다. 복잡한 다단계 작업을 더 적은 왕복으로 처리할 수 있어 실행 효율과 정확도 개선이 기대된다.",
-      "scorePct": 57
+      "title": "GPT·제미나이 수능 최고점 터졌다…韓 AI 수능 점수는?",
+      "url": "https://n.news.naver.com/mnews/article/277/0005845813",
+      "source": "네이버",
+      "publishedDate": "2026-11-21",
+      "summary": "오픈AI와 구글 딥마인드의 최신 모델이 대학수학능력시험 문제에서 만점에 가까운 성적을 기록한 것으로 나타났다. 반면 국내 LLM 모델들은 상대적으로 낮은 점수를 받아 격차가 드러났다. 표준화된 추론 시험에서 해외 모델의 우위가 구체적 수치로 확인된 사례다.",
+      "scorePct": 36
     },
     {
       "rank": 3,
-      "title": "구글, AI 에이전트 특화 '제미나이4 네온' 출시… 작업 비용 32% 절감",
-      "url": "https://n.news.naver.com/mnews/article/138/0002249275",
-      "source": "네이버",
-      "publishedDate": "2026-11-20",
-      "summary": "구글이 코딩과 기업 업무 등 복잡한 작업에 특화된 신규 모델 제미나이4 네온을 공개했다. 기존 모델 대비 작업 비용을 약 32% 절감하면서도 경쟁 모델과 맞먹는 성능을 갖췄다는 평가가 나온다.",
-      "scorePct": 43
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-11-19",
+      "summary": "구글이 제미나이에 맥 환경에서 파일 정리, 양식 작성 등 실제 작업을 대신 수행하는 에이전트 기능을 추가했다. 사용자의 화면과 파일 시스템에 직접 접근해 작업을 처리하는 컴퓨터 사용형 에이전트 방식이다. 데스크톱 운영체제 수준의 자동화로 AI 에이전트 경쟁이 확장되고 있다.",
+      "scorePct": 29
     },
     {
       "rank": 4,
-      "title": "Claude Data Turns On for Enterprise Plans November 19",
-      "url": "https://www.beri.net/article/claude-data-default-on-november-19-sheets-whiteboards-beta-claude-meetings-google-meet-interactive-connectors-enterprise-admin-controls",
-      "source": "Beri.net",
-      "publishedDate": "2026-11-19",
-      "summary": "클로드 데이터(옛 클로드 대시보드) 기능이 11월 19일부터 클로드 엔터프라이즈 플랜에 기본으로 켜진다. 시트, 화이트보드, 베타 단계의 클로드 미팅 등이 포함되며 구글 미트 연동과 관리자 통제 기능도 함께 제공된다.",
-      "scorePct": 43
+      "title": "OpenAI's pre-release GPT-6.2 Astra was easier to jailbreak than its predecessor, UK government testers found",
+      "url": "https://venturebeat.com/security/openais-pre-release-gpt-6-2-astra-was-easier-to-jailbreak-than-its-predecessor-uk-government-testers-found",
+      "source": "VentureBeat",
+      "publishedDate": "2026-11-18",
+      "summary": "영국 AI안전연구소가 출시 전 GPT-6.2 Astra를 대상으로 범용 탈옥 공격을 시도한 결과, 이전 버전보다 더 쉽게 안전장치를 우회할 수 있었던 것으로 나타났다. 모델 성능이 향상될수록 안전 정렬 작업의 난이도도 함께 커지고 있음을 시사한다.",
+      "scorePct": 29
     },
     {
       "rank": 5,
-      "title": "Release Documentation Update - Claude Code changelog (2026-11-17)",
-      "url": "https://github.com/fornewid/claude-code-docs-changelog/releases/tag/doc-update-20261117-1510",
-      "source": "GitHub (claude-code-docs-changelog)",
-      "publishedDate": "2026-11-17",
-      "summary": "클로드 코드 2.1.327 업데이트에 `claude mcp add-json` 명령이 추가돼, MCP 서버의 JSON 설정을 명령줄에서 바로 읽어 등록할 수 있게 됐다. 기존에 별도 파일 편집이 필요했던 설정 과정이 한 줄 명령으로 단순화됐다.",
-      "scorePct": 36
+      "title": "AI데이터센터 도입 규제 확 푼다…비수도권 50㎿ 이하는 전평 ‘면제’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684354",
+      "source": "네이버",
+      "publishedDate": "2026-11-21",
+      "summary": "정부가 비수도권에 들어서는 중소형 AI 데이터센터에 대해 전력계통영향평가를 면제하고 패스트트랙 인허가를 도입하기로 했다. 대형 언어모델 학습·서비스에 필요한 컴퓨팅 인프라 확충 속도를 높이려는 조치다. 전력 공급이 모델 확장의 핵심 제약으로 떠오른 가운데 나온 정책 대응이다.",
+      "scorePct": 14
     }
   ]
 }

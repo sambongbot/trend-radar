@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Release: llm-gemini 0.38",
+    "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-11-18",
+    "summary": "커맨드라인 LLM 도구 llm의 플러그인 llm-gemini가 0.38 버전으로 업데이트되며 구글의 신규 모델 제미나이4 네온 지원이 추가됐다. 여러 LLM 제공사 모델을 통일된 인터페이스로 다루는 오픈소스 생태계의 신모델 대응 속도를 보여준다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 2,
+    "title": "GPT·제미나이 수능 최고점 터졌다…韓 AI 수능 점수는?",
+    "url": "https://n.news.naver.com/mnews/article/277/0005845813",
+    "source": "네이버",
+    "publishedDate": "2026-11-21",
+    "summary": "오픈AI와 구글 딥마인드의 최신 모델이 대학수학능력시험 문제에서 만점에 가까운 성적을 기록한 것으로 나타났다. 반면 국내 LLM 모델들은 상대적으로 낮은 점수를 받아 격차가 드러났다. 표준화된 추론 시험에서 해외 모델의 우위가 구체적 수치로 확인된 사례다.",
+    "scorePct": 36
+  },
+  {
+    "rank": 3,
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "source": "TechCrunch",
+    "publishedDate": "2026-11-19",
+    "summary": "구글이 제미나이에 맥 환경에서 파일 정리, 양식 작성 등 실제 작업을 대신 수행하는 에이전트 기능을 추가했다. 사용자의 화면과 파일 시스템에 직접 접근해 작업을 처리하는 컴퓨터 사용형 에이전트 방식이다. 데스크톱 운영체제 수준의 자동화로 AI 에이전트 경쟁이 확장되고 있다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "OpenAI's pre-release GPT-6.2 Astra was easier to jailbreak than its predecessor, UK government testers found",
+    "url": "https://venturebeat.com/security/openais-pre-release-gpt-6-2-astra-was-easier-to-jailbreak-than-its-predecessor-uk-government-testers-found",
+    "source": "VentureBeat",
+    "publishedDate": "2026-11-18",
+    "summary": "영국 AI안전연구소가 출시 전 GPT-6.2 Astra를 대상으로 범용 탈옥 공격을 시도한 결과, 이전 버전보다 더 쉽게 안전장치를 우회할 수 있었던 것으로 나타났다. 모델 성능이 향상될수록 안전 정렬 작업의 난이도도 함께 커지고 있음을 시사한다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "AI데이터센터 도입 규제 확 푼다…비수도권 50㎿ 이하는 전평 ‘면제’",
+    "url": "https://n.news.naver.com/mnews/article/011/0004684354",
+    "source": "네이버",
+    "publishedDate": "2026-11-21",
+    "summary": "정부가 비수도권에 들어서는 중소형 AI 데이터센터에 대해 전력계통영향평가를 면제하고 패스트트랙 인허가를 도입하기로 했다. 대형 언어모델 학습·서비스에 필요한 컴퓨팅 인프라 확충 속도를 높이려는 조치다. 전력 공급이 모델 확장의 핵심 제약으로 떠오른 가운데 나온 정책 대응이다.",
+    "scorePct": 14
+  }
+]
