@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-24",
-  "headline": "> 네이버·카카오가 12월 AI 에이전트 출시를 예고하며 플랫폼 경쟁이 본격화됐다.\n> 기업용 AI는 R&D·회의록·제조 현장 등 실무 영역으로 빠르게 침투하고 있다.\n> 국내 AI 인프라 소프트웨어의 해외 수출 사례도 등장했다.",
+  "date": "2026-11-25",
+  "headline": "> 고객서비스·데이터 플랫폼 AI 기업들의 조 단위 투자 유치가 잇따르며 자본이 집중되고 있다.\n> 국내에서는 챗GPT 엔터프라이즈 파트너십과 공공분야 AI SaaS 도입 사례가 늘며 실무 적용이 확산되고 있다.\n> 투자 열기와 실용화가 동시에 진행되며 AI SaaS 생태계가 빠르게 재편되는 모습이다.",
   "items": [
     {
       "rank": 1,
-      "title": "네이버·카카오, AI 에이전트 내달 출격…API·CUA 병행해 안전성 강화",
-      "url": "https://www.etnews.com/20261123000279",
-      "source": "전자신문",
-      "publishedDate": "2026-11-23",
-      "summary": "네이버와 카카오가 12월 중 API 기반 통합 AI 에이전트와 컴퓨터 사용 에이전트(CUA)를 병행하는 방식으로 서비스를 출시한다. 내부 서비스는 API로 직접 연동하고 외부 제휴 서비스는 CUA 방식으로 처리해 안전성을 강화하는 투트랙 전략이다.",
-      "scorePct": 38
+      "title": "모노플로우, 오픈AI '챗GPT 엔터프라이즈' 등록 파트너 선정",
+      "url": "https://n.news.naver.com/mnews/article/030/0003489258",
+      "source": "네이버",
+      "publishedDate": "2026-11-25",
+      "summary": "AI 솔루션 기업이 오픈AI의 기업용 서비스 '챗GPT 엔터프라이즈'의 등록 파트너로 선정됐다. 국내 대기업을 대상으로 생성형 AI 도입 컨설팅과 구축을 지원할 수 있는 공식 자격을 확보했다.",
+      "scorePct": 63
     },
     {
       "rank": 2,
-      "title": "애니파이브, 'AI 인텔리전스 센터' 개소…지식재산·R&D·제조 AI 통합 플랫폼 구축",
-      "url": "https://n.news.naver.com/mnews/article/030/0003488792",
+      "title": "[공공 클라우드 도입 촉진사업] 데이터드리븐 '클리포' “교사 평가 업무 지원”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003489302",
       "source": "네이버",
-      "publishedDate": "2026-11-24",
-      "summary": "한 기업이 지식재산·연구개발·제조 데이터를 AI 에이전트와 연결하는 통합 플랫폼 'AI 인텔리전스 센터'를 열고, MCP 기반 도구 '씽캣 MCP'를 공개했다. 특허·기술 데이터부터 사업화까지 전 과정을 자동화하는 구조로, 기업 R&D 워크플로우에 AI 에이전트를 결합하려는 시도다.",
-      "scorePct": 25
+      "publishedDate": "2026-11-25",
+      "summary": "AI 기반 평가 지원 솔루션이 전국 1400여개 학교에 도입되며 교사의 평가 업무 부담을 덜어주고 있다. 평가계획 수립부터 학생 평가까지 전 과정을 지원하는 공공분야 AI SaaS 활용 사례로 꼽힌다.",
+      "scorePct": 50
     },
     {
       "rank": 3,
-      "title": "래블업, 美 기업 인사이트에 AI 인프라 플랫폼 공급한다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003488775",
-      "source": "네이버",
+      "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217747",
+      "source": "AI타임스",
       "publishedDate": "2026-11-24",
-      "summary": "AI 인프라 스타트업이 미국 IT 기업과 협력해 현지 기업용 AI 인프라 운영 플랫폼을 공급하기로 했다. 국내 AI 인프라 소프트웨어가 해외 엔터프라이즈 시장에 직접 수출되는 사례다.",
-      "scorePct": 25
+      "summary": "오픈AI 이사회 의장 브렛 테일러가 이끄는 고객 서비스 AI 에이전트 기업이 기업가치 300억달러를 기준으로 17억5000만달러 규모 투자를 유치했다. 6개월 만에 기업가치가 두 배로 뛰며 고객 응대 자동화 시장의 성장세를 보여줬다.",
+      "scorePct": 50
     },
     {
       "rank": 4,
-      "title": "클라이언트 발언 받아적어 줘…미팅 잦은 기업, 회의록 작성 AI에 맡긴다",
-      "url": "https://www.hankyung.com/article/2026112333291",
-      "source": "한국경제",
-      "publishedDate": "2026-11-23",
-      "summary": "회의록 자동 작성 AI 서비스 도입 기업이 300곳을 넘어섰다. 카카오, 크래프톤, 쏘카 등 주요 기업이 실제 업무에 사용 중이라는 점에서 생성형 AI 기반 업무 자동화 도구가 기업 현장에 정착하는 단계에 들어섰음을 보여준다.",
+      "title": "알리바바 출신 린쥔양의 프래그마틱 랩스, 50억 달러 가치로 투자유치…3개월 만에 2.5배",
+      "url": "https://wowtale.net/2026/11/24/268553/",
+      "source": "와우테일",
+      "publishedDate": "2026-11-24",
+      "summary": "알리바바 출신 창업자가 세운 생성형 AI 스타트업이 50억달러 기업가치로 신규 투자를 유치했다. 지난 8월 20억달러였던 기업가치가 3개월 만에 2.5배로 뛰며 빠른 성장세를 보였다.",
       "scorePct": 25
     },
     {
       "rank": 5,
-      "title": "현대차 로봇 1400대 관리하는 K 소프트웨어",
-      "url": "https://www.hankyung.com/article/2026112350541",
-      "source": "한국경제",
+      "title": "Databricks Valuation Nears $225 Billion in New Funding Talks",
+      "url": "https://globetv.app/news/databricks-valuation-nears-225-billion-in-new-funding-talks-6b0100d6177ef",
+      "source": "GlobeTV",
       "publishedDate": "2026-11-23",
-      "summary": "산업용 AI 스타트업의 기술이 자동차 제조사의 국내외 공장 5곳, 로봇 1400대 이상을 관리하는 수준까지 적용 범위를 넓혔다. 제조 현장의 대규모 로봇 운영에 AI가 실질적으로 투입된 사례다.",
-      "scorePct": 13
+      "summary": "데이터·AI 플랫폼 기업 데이터브릭스가 약 2250억달러 기업가치로 신규 투자 유치를 추진 중인 것으로 알려졌다. 데이터 인프라와 AI를 결합한 플랫폼에 대한 시장 기대가 여전히 높다는 점을 보여준다.",
+      "scorePct": 25
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-24",
-  "headline": "> 빅테크 AI 투자가 모델 성능 경쟁에서 연산 효율·에이전트 역량 확보로 무게중심을 옮기고 있다.\n> AI 에이전트가 실제 업무를 대신하는 단계에 들어서며 법적 지위·보안 신뢰성 과제가 함께 부각되고 있다.\n> 음성 AI와 에이전트 신뢰성 검증 플랫폼 등 LLM 실무 적용 사례가 구체화되는 중이다.",
+  "date": "2026-11-25",
+  "headline": "> 앤트로픽이 클로드로 작성한 수학 증명 논문을 인간 검증 없이 공개하며 AI 추론 신뢰성 논쟁이 불붙었다.\n> 앤트로픽은 코드 리뷰·수정·승인을 자동화하는 '클로드 십'을 출시해 AI 코딩 어시스턴트 경쟁이 한 단계 더 나아갔다.\n> AI 에이전트의 실무 확산과 함께 토큰 사용량 중심 평가의 한계, 악성 AI 활용 위험까지 동시에 부각됐다.",
   "items": [
     {
       "rank": 1,
-      "title": "\"실패기록 끝없이 검증 … AI 에이전트 업무능력 끌어올릴것\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005767695",
-      "source": "네이버",
-      "publishedDate": "2026-11-24",
-      "summary": "한 AI 스타트업이 LLM 등장 이전부터 이어온 추론 연구를 바탕으로, 에이전트의 실패 사례를 지속적으로 검증해 업무 수행 능력을 끌어올리는 통합 플랫폼을 선보였다. 개발·운영·개선을 하나로 묶은 접근이 특징이다.",
+      "title": "Anthropic Posts Claude's VP ≠ VNP Proof, With No Human Verification",
+      "url": "https://www.tradingview.com/news/binance_news:44de072a6094b:0-anthropic-posts-claude-s-vp-vnp-proof-with-no-human-verification/",
+      "source": "TradingView News",
+      "publishedDate": "2026-11-23",
+      "summary": "앤트로픽이 자사 GitHub 저장소에 클로드가 작성한 70쪽 분량의 VP≠VNP 증명 논문을 공개했다. 이 논문은 별도의 인간 검증 없이 게시되어 AI가 생성한 수학적 증명의 신뢰성과 검증 방식에 대한 논쟁을 불러일으켰다. 증명의 정합성 여부를 둘러싼 독립적인 검토 요구도 이어지고 있다.",
       "scorePct": 43
     },
     {
       "rank": 2,
-      "title": "연산 효율·에이전트로 옮겨간 빅테크 ‘AI 쇼핑’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001886919",
-      "source": "네이버",
-      "publishedDate": "2026-11-24",
-      "summary": "한 빅테크 기업이 이스라엘계 AI 스타트업을 약 10조원에 인수하는 협상을 진행 중인 것으로 알려졌다. 모델 자체 개발 경쟁에 집중하던 흐름이 연산 효율과 에이전트 기술 확보로 이동하는 모습을 보여준다.",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch",
+      "publishedDate": "2026-11-23",
+      "summary": "코드 리뷰부터 수정, 승인까지 자동화하는 새 에이전트 도구 '클로드 십'이 출시됐다. 세 개의 에이전트가 번들로 제공되어 실패한 CI 체크, 머지 충돌, 리뷰어 피드백 대응 등을 자동으로 처리한다. 개발 워크플로우에서 반복적인 PR 관리 작업을 AI가 대신 수행하는 방향으로 한 걸음 더 나아간 사례로 평가된다.",
       "scorePct": 29
     },
     {
       "rank": 3,
-      "title": "이통3사·네이버, AI 에이전트의 고객센터 대리 상담 '제동'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016459228",
+      "title": "“AX 성공, 개발자 영입보다 현업 직원 참여가 먼저”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005768418",
       "source": "네이버",
-      "publishedDate": "2026-11-23",
-      "summary": "통신사와 포털 업계가 AI 에이전트를 통한 고객센터 대리 상담 서비스를 추진하다 제동이 걸렸다. 본인 확인의 어려움과 AI 에이전트의 법적 대리인 지위 불명확성, 반복 질문 등 기술적 한계가 원인으로 지목됐다.",
+      "publishedDate": "2026-11-24",
+      "summary": "기업의 AI 전환 성공 사례를 다룬 리뷰에서 외부 용역보다 현업 직원이 직접 AI 도입을 주도하는 방식이 더 효과적이라는 분석이 나왔다. 단순 토큰 사용량이 아니라 실제 업무 성과를 기준으로 AI 활용을 평가해야 한다는 지적도 함께 제기됐다. 업무 영역과 실행 역량에 따라 AI 도입 효과의 편차가 크다는 점이 강조됐다.",
       "scorePct": 21
     },
     {
       "rank": 4,
-      "title": "\"데이터 훔치던 해커, 기업 의사결정까지 조종한다\"…글로벌 보안업계 한목소리",
-      "url": "https://n.news.naver.com/mnews/article/138/0002249600",
+      "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+      "url": "https://n.news.naver.com/mnews/article/092/0002446751",
       "source": "네이버",
       "publishedDate": "2026-11-24",
-      "summary": "글로벌 보안 업계에서 사이버 공격의 목적이 단순 데이터 탈취에서 기업 내부 AI 에이전트를 장악해 의사결정 자체를 조종하는 방향으로 이동하고 있다는 경고가 이어지고 있다. 정상 권한을 가진 AI 에이전트가 새로운 공격 표면이 되고 있다는 지적이다.",
+      "summary": "AI 에이전트 서비스 '피클'이 검색, 예약, 고객센터 문의 등을 이용자 대신 처리하며 이용 규모가 빠르게 늘고 있다. 외부 AI 에이전트가 플랫폼을 거치지 않고 이용자 접점을 대신 차지하면서 국내 주요 플랫폼 기업들은 어디까지 접근을 허용할지 고민에 들어갔다. 에이전트가 서비스를 직접 대행하는 구조가 기존 플랫폼 생태계와 충돌할 수 있음을 보여주는 사례다.",
       "scorePct": 21
     },
     {
       "rank": 5,
-      "title": "\"공구리·오함마\"도 실시간 통역…오픈AI 음성 AI의 진화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006414210",
+      "title": "\"공격코드 무제한 생성\"…신종 AI 해킹 장터 '고질라AI' 주의보",
+      "url": "https://n.news.naver.com/mnews/article/138/0002249760",
       "source": "네이버",
-      "publishedDate": "2026-11-24",
-      "summary": "한 AI 기업이 자사 음성 AI 기술의 실시간 통역·번역 활용 사례를 기업 현장에서 소개했다. 전문 용어나 방언이 섞인 구어체까지 실시간으로 처리할 수 있는 수준으로 발전했다는 점이 강조됐다.",
-      "scorePct": 14
+      "publishedDate": "2026-11-25",
+      "summary": "악성 AI 서비스를 거래하고 취약점 공격 코드를 자동 생성할 수 있는 새로운 플랫폼 '고질라AI'가 등장해 보안 업계에 경고가 나왔다. 기존 단일 보안 솔루션으로는 대응에 한계가 있어 플랫폼 차원의 방어 체계가 필요하다는 지적이 제기됐다. 생성형 AI가 악용되어 공격 진입장벽을 낮추는 사례가 늘고 있다는 점도 함께 지적됐다.",
+      "scorePct": 21
     }
   ]
 }
