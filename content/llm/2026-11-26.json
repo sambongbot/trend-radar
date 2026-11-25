@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Anthropic lets MCP servers ship skills to Claude",
+    "url": "https://www.ventureatlas.org/news/2026-11-24-anthropic-mcp-skills",
+    "source": "Venture Atlas",
+    "publishedDate": "2026-11-24",
+    "summary": "Anthropic이 Claude와 Claude Code에 'MCP 서버 기반 스킬 배포' 기능을 퍼블릭 베타로 공개했다. 이를 통해 MCP 서버 개발자는 단계별 작업 가이드를 스킬 형태로 Claude에 직접 제공할 수 있게 됐다. 단순 툴 호출을 넘어선 에이전트 확장 방식으로 평가된다.",
+    "scorePct": 79
+  },
+  {
+    "rank": 2,
+    "title": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "source": "Simon Willison's Weblog",
+    "publishedDate": "2026-11-24",
+    "summary": "개발자 사이먼 윌리슨이 AI Engineer Code Summit 기조연설에서 지난 1년간 LLM 분야의 세 가지 변곡점을 짚었다. 모델 성능과 에이전트 활용, 생태계 구조 변화를 아우르는 분석이다. 현업 실무자 시각에서 업계 흐름을 정리한 드문 종합 분석으로 평가된다.",
+    "scorePct": 71
+  },
+  {
+    "rank": 3,
+    "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+    "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+    "source": "MacRumors",
+    "publishedDate": "2026-11-23",
+    "summary": "오픈AI가 대화형 상호작용에 최적화한 GPT-6.2 Sol 모델을 챗GPT의 '채팅' 탭에 순차 적용하기 시작했다. Plus·Pro·Business·Enterprise 등 주요 유료 티어부터 적용 대상이다. 용도별로 모델을 세분화하는 오픈AI의 최근 전략을 보여주는 사례다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 4,
+    "title": "Release 1.0.116-1 · github/copilot-cli",
+    "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.116-1",
+    "source": "GitHub Copilot CLI Releases",
+    "publishedDate": "2026-11-24",
+    "summary": "깃허브 코파일럿 CLI 1.0.116 버전이 공개돼 MCP 연결 가이드, 프롬프트 취소, 세션 관리 기능이 개선됐다. 터미널 기반 AI 코딩 어시스턴트의 사용성을 다듬는 업데이트다. 커맨드라인 환경에서의 에이전트형 코딩 경험 개선이 이어지고 있다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 5,
+    "title": "Claude Fable 5.2 cost three times as much as Opus 5.5 for nearly the same results in a VentureBeat bug-fixing test",
+    "url": "https://venturebeat.com/orchestration/claude-fable-5-2-cost-three-times-as-much-as-opus-5-5-for-nearly-the-same-results-in-a-venturebeat-bug-fixing-test",
+    "source": "VentureBeat",
+    "publishedDate": "2026-11-24",
+    "summary": "벤처비트가 8,400줄 규모의 실제 코드베이스에 결함을 심어 여러 모델의 버그 수정 능력을 비교 테스트했다. 그 결과 클로드 페이블 5.2는 오퍼스 5.5와 비슷한 성과를 내면서도 비용은 약 3배 더 든 것으로 나타났다. 모델 선택에서 성능뿐 아니라 비용 효율성이 핵심 변수임을 보여주는 사례다.",
+    "scorePct": 43
+  }
+]
