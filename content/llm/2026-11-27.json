@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
+    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+    "source": "TestingCatalog",
+    "publishedDate": "2026-11-24",
+    "summary": "앤트로픽이 클로드 앱 내 일부 이용자를 대상으로 차세대 모델 Opus 5.6을 스텔스 라우팅 방식으로 테스트하고 있는 정황이 포착됐다. 아직 공식 발표 전이지만 초기 사용자들은 추론 품질과 응답 속도 개선을 보고하고 있다.",
+    "scorePct": 100
+  },
+  {
+    "rank": 2,
+    "title": "Release v0.26.0 · openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.26.0",
+    "source": "GitHub",
+    "publishedDate": "2026-11-24",
+    "summary": "오픈AI의 파이썬 에이전트 SDK가 0.26.0으로 업데이트되며 도커 스토리지 마운트와 실시간 트레이싱 관련 호환성이 깨지는 변경을 포함했다. 에이전트 프레임워크를 사용 중인 개발자는 마이그레이션 검토가 필요하다.",
+    "scorePct": 64
+  },
+  {
+    "rank": 3,
+    "title": "Anthropic Lets Users Install Claude Artifacts as Apps",
+    "url": "https://wisevoter.com/world/us/2026/11/26/anthropic-claude-artifacts-install-desktop-apps",
+    "source": "Wisevoter",
+    "publishedDate": "2026-11-26",
+    "summary": "앤트로픽이 베타 기능으로 클로드에서 만든 아티팩트를 맥과 윈도우용 독립 실행형 앱으로 설치할 수 있도록 지원한다. 챗봇 안에 머물던 산출물이 데스크톱 애플리케이션 형태로 확장되는 변화다.",
+    "scorePct": 57
+  },
+  {
+    "rank": 4,
+    "title": "“AI 모델 공개했지만 한국은 쓰지 마라”…中 바이두가 던진 AI 주권 경고",
+    "url": "https://n.news.naver.com/mnews/article/018/0006416050",
+    "source": "네이버",
+    "publishedDate": "2026-11-27",
+    "summary": "중국 바이두가 최신 AI 모델의 가중치를 공개하면서 한국·유럽연합·영국은 사용 허가 대상에서 제외한 것으로 확인됐다. 오픈소스 모델 공개가 지정학적 통제 수단으로 활용되는 모습이다.",
+    "scorePct": 21
+  },
+  {
+    "rank": 5,
+    "title": "日 사카나AI, 300억 매개변수 추론 모델 '나마즈 스몰' 공개",
+    "url": "https://zdnet.co.kr/view/?no=20261126144229",
+    "source": "ZDNet Korea",
+    "publishedDate": "2026-11-26",
+    "summary": "일본 사카나AI가 300억 파라미터 규모의 추론 특화 모델 '나마즈 스몰'을 공개했다. 자체 측정 기준으로 4배 큰 엔비디아 모델의 평균 성능을 웃돈다고 밝혔다.",
+    "scorePct": 21
+  }
+]

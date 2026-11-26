@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "데이터 작업을 에이전트가 운영…자이퍼, 5,300만 달러 투자유치",
+    "url": "https://wowtale.net/2026/11/25/268659/",
+    "source": "와우테일",
+    "publishedDate": "2026-11-25",
+    "summary": "AI 에이전트가 데이터 작업 전반을 직접 운영하는 플랫폼 자이퍼가 시드와 시리즈A에 걸쳐 총 5,300만 달러를 유치했다. 리소스 할당과 스케줄링을 자동화해 기업의 데이터 운영 비용을 절감하는 것이 핵심이다.",
+    "scorePct": 75
+  },
+  {
+    "rank": 2,
+    "title": "인사 업무도 AI가 자동으로…워크데이, 기업용 AI 고도화",
+    "url": "https://n.news.naver.com/mnews/article/014/0005610331",
+    "source": "네이버",
+    "publishedDate": "2026-11-27",
+    "summary": "워크데이가 기업용 AI 플랫폼에 에이전트를 전면 도입해 인사·IT 업무 자동화를 강화했다. 단순 질의응답을 넘어 휴가 신청, 경비 승인 등 실제 업무 처리까지 에이전트가 수행하도록 범위를 넓혔다.",
+    "scorePct": 63
+  },
+  {
+    "rank": 3,
+    "title": "위고페어 \"브랜드 보호, 대시보드에서 대화로\"",
+    "url": "https://view.asiae.co.kr/article/2026112610531062064",
+    "source": "아시아경제",
+    "publishedDate": "2026-11-26",
+    "summary": "AI 기반 브랜드 보호 기업 위고페어가 MCP 서버를 공개해 대화형 AI 서비스에서 바로 위조품 단속 업무를 지시할 수 있게 했다. 대시보드 대신 자연어 명령으로 작업을 처리하는 방식으로, 유럽·일본 등 해외 시장 공략에도 나선다.",
+    "scorePct": 50
+  },
+  {
+    "rank": 4,
+    "title": "[단독]'모두의 AI' 내달 15일 출격",
+    "url": "https://n.news.naver.com/mnews/article/014/0005610460",
+    "source": "네이버",
+    "publishedDate": "2026-11-26",
+    "summary": "정부 주도 대국민 AI 서비스 '모두의 AI'가 다음 달 15일 정식 서비스를 시작한다. 통신 3사가 각자 독자 브랜드로 서비스를 운영하는 구조이며, 이용자 보호를 위한 안전장치도 함께 강화된다.",
+    "scorePct": 25
+  },
+  {
+    "rank": 5,
+    "title": "Cloudflare Launches Automatic Website Search for AI Agents",
+    "url": "https://www.unite.ai/cloudflare-launches-automatic-website-search-for-ai-agents/",
+    "source": "Unite.AI",
+    "publishedDate": "2026-11-25",
+    "summary": "클라우드플레어가 모든 고객에게 'Search for Agents' 기능을 제공해, AI 에이전트가 웹사이트 콘텐츠를 자동으로 색인하고 검색할 수 있도록 지원한다. 별도 설정 없이 대시보드 토글만으로 적용되며, 에이전트 친화적 웹 인프라 경쟁에 합류했다.",
+    "scorePct": 25
+  }
+]
