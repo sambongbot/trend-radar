@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-27",
-  "headline": "> AI 에이전트가 기업 운영의 실무 영역으로 빠르게 침투하며 투자도 뒤따르고 있다.\n> 데이터 운영·인사·보안 등 B2B 핵심 업무에 에이전트를 내장하는 신제품이 잇따라 나왔다.\n> 국내에서는 통신 3사·카카오가 공동 추진하는 국민 AI 에이전트 서비스가 한 달 앞으로 다가왔다.",
+  "date": "2026-11-28",
+  "headline": "> AI 에이전트 인프라에 5억 달러 규모 글로벌 투자가 몰리며 시장 재편 신호가 뚜렷해졌다\n> 서비스나우 등 대형 SaaS 기업은 에이전틱 AI를 위험탐지·후속조치 핵심 기능으로 편입하고 있다\n> 국내에서는 제조·교육 등 버티컬 특화 AI 스타트업 투자와 온디바이스 AI 제품 출시가 이어졌다",
   "items": [
     {
       "rank": 1,
-      "title": "데이터 작업을 에이전트가 운영…자이퍼, 5,300만 달러 투자유치",
-      "url": "https://wowtale.net/2026/11/25/268659/",
-      "source": "와우테일",
-      "publishedDate": "2026-11-25",
-      "summary": "AI 에이전트가 데이터 작업 전반을 직접 운영하는 플랫폼 자이퍼가 시드와 시리즈A에 걸쳐 총 5,300만 달러를 유치했다. 리소스 할당과 스케줄링을 자동화해 기업의 데이터 운영 비용을 절감하는 것이 핵심이다.",
-      "scorePct": 75
-    },
-    {
-      "rank": 2,
-      "title": "인사 업무도 AI가 자동으로…워크데이, 기업용 AI 고도화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610331",
-      "source": "네이버",
-      "publishedDate": "2026-11-27",
-      "summary": "워크데이가 기업용 AI 플랫폼에 에이전트를 전면 도입해 인사·IT 업무 자동화를 강화했다. 단순 질의응답을 넘어 휴가 신청, 경비 승인 등 실제 업무 처리까지 에이전트가 수행하도록 범위를 넓혔다.",
-      "scorePct": 63
-    },
-    {
-      "rank": 3,
-      "title": "위고페어 \"브랜드 보호, 대시보드에서 대화로\"",
-      "url": "https://view.asiae.co.kr/article/2026112610531062064",
-      "source": "아시아경제",
+      "title": "'식품제조 산업 특화 AX' 엔크레더블, 카카오벤처스·더벤처스서 시드 투자 유치",
+      "url": "https://core.asiae.co.kr/article/2026112608283353403",
+      "source": "아시아경제 CORE",
       "publishedDate": "2026-11-26",
-      "summary": "AI 기반 브랜드 보호 기업 위고페어가 MCP 서버를 공개해 대화형 AI 서비스에서 바로 위조품 단속 업무를 지시할 수 있게 했다. 대시보드 대신 자연어 명령으로 작업을 처리하는 방식으로, 유럽·일본 등 해외 시장 공략에도 나선다.",
+      "summary": "식품제조 산업에 특화한 자동화 스타트업이 시드 투자를 유치했다. 이 기업의 에이전틱 AI 기반 자율제조운영시스템은 식품공장 운영 전반을 자동화하는 데 초점을 맞춘다.",
       "scorePct": 50
     },
     {
-      "rank": 4,
-      "title": "[단독]'모두의 AI' 내달 15일 출격",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610460",
+      "rank": 2,
+      "title": "기업 위험 탐지부터 후속 조치까지 AI로…서비스나우, 에이전틱 신기능 공개",
+      "url": "https://n.news.naver.com/mnews/article/092/0002447296",
       "source": "네이버",
-      "publishedDate": "2026-11-26",
-      "summary": "정부 주도 대국민 AI 서비스 '모두의 AI'가 다음 달 15일 정식 서비스를 시작한다. 통신 3사가 각자 독자 브랜드로 서비스를 운영하는 구조이며, 이용자 보호를 위한 안전장치도 함께 강화된다.",
+      "publishedDate": "2026-11-28",
+      "summary": "한 글로벌 엔터프라이즈 SaaS 기업이 AI 에이전트를 활용해 기업의 보안 정책과 규정 준수 여부를 실시간으로 점검하는 기능을 통합 위험 관리 솔루션에 추가했다. 위험 탐지부터 후속 조치까지 전 과정을 에이전트가 자동으로 수행하도록 설계됐다.",
+      "scorePct": 38
+    },
+    {
+      "rank": 3,
+      "title": "클라우드 없이 내 PC서 AI 돌린다…래블업, 'AI:GO 2.0' 출시",
+      "url": "https://n.news.naver.com/mnews/article/092/0002447273",
+      "source": "네이버",
+      "publishedDate": "2026-11-28",
+      "summary": "한 AI 인프라 스타트업이 외부 클라우드 없이 개인 PC에서 AI 모델과 에이전트를 실행할 수 있는 로컬 데스크톱 애플리케이션 신버전을 출시했다. 클라우드 비용과 데이터 유출 우려를 동시에 줄일 수 있다는 점이 강점으로 꼽힌다.",
+      "scorePct": 38
+    },
+    {
+      "rank": 4,
+      "title": "Four Startups Raise $515 Million for AI Agent Tools",
+      "url": "https://wisevoter.com/world/2026/11/25/startups-raise-515m-ai-agent-infrastructure",
+      "source": "Wisevoter",
+      "publishedDate": "2026-11-25",
+      "summary": "AI 에이전트 인프라를 구축하는 스타트업 4곳이 합계 5억 1,500만 달러 규모의 투자를 유치했다. 이들 기업은 에이전트의 실행과 운영을 지원하는 기반 기술 개발에 주력하고 있다. 대규모 자금이 에이전트 인프라 영역에 집중되며 시장 재편 가능성을 시사한다.",
       "scorePct": 25
     },
     {
       "rank": 5,
-      "title": "Cloudflare Launches Automatic Website Search for AI Agents",
-      "url": "https://www.unite.ai/cloudflare-launches-automatic-website-search-for-ai-agents/",
-      "source": "Unite.AI",
-      "publishedDate": "2026-11-25",
-      "summary": "클라우드플레어가 모든 고객에게 'Search for Agents' 기능을 제공해, AI 에이전트가 웹사이트 콘텐츠를 자동으로 색인하고 검색할 수 있도록 지원한다. 별도 설정 없이 대시보드 토글만으로 적용되며, 에이전트 친화적 웹 인프라 경쟁에 합류했다.",
-      "scorePct": 25
+      "title": "AI 강의 운영 플랫폼 '마이일타', 비디씨엑셀러레이터 시드 투자 유치",
+      "url": "https://supple.kr/news/cmwyn5z0cb2bqkwp8vys35itd",
+      "source": "서플",
+      "publishedDate": "2026-11-27",
+      "summary": "AI 강의 운영 플랫폼이 시드 투자를 유치했다. 이 플랫폼은 지난해 말 출시 이후 대규모 유료 마케팅 없이 3,000명 이상의 강사 회원을 확보했다.",
+      "scorePct": 13
     }
   ]
 }

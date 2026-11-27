@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "title": "Cursor Surged 9.1 Points: AI Recommendation Shift Nov 2026",
+    "url": "https://claw.mobile/blog/cursor-recommendation-surge-november-2026",
+    "source": "Claw Mobile",
+    "publishedDate": "2026-11-25",
+    "summary": "AI 코딩 툴 추천 설문에서 Cursor의 추천율이 지난 9월 72.7%에서 11월 81.8%로 9.1%포인트 상승한 것으로 나타났다. 개발자들 사이에서 AI 코딩 어시스턴트에 대한 선호가 특정 툴로 빠르게 쏠리고 있음을 보여준다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 2,
+    "title": "Mozilla Partners With Mistral AI for Firefox",
+    "url": "https://wisevoter.com/world/2026/11/27/mozilla-mistral-ai-firefox-smart-window",
+    "source": "Wisevoter",
+    "publishedDate": "2026-11-27",
+    "summary": "모질라가 미스트랄과 파트너십을 맺고 파이어폭스의 신기능 '스마트 윈도우'에 미스트랄 스몰4를 추천 모델로 탑재한다고 발표했다. 브라우저 단에 유럽산 오픈 LLM이 기본 통합되는 사례로 주목된다.",
+    "scorePct": 43
+  },
+  {
+    "rank": 3,
+    "title": "Z.ai Launches GLM-5.4, Its First Loop Transformer",
+    "url": "https://www.technology.org/2026/11/25/zhipu-glm-5-4-loop-transformer-vision-1m-context/",
+    "source": "Technology.org",
+    "publishedDate": "2026-11-25",
+    "summary": "즈푸(Z.ai)가 새로운 아키텍처인 '루프 트랜스포머'를 적용한 GLM-5.4를 공개했다. 비전 기능과 100만 토큰 컨텍스트를 지원하며 코딩 플랜 구독을 통해 제공된다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 4,
+    "title": "Anthropic migrated its Messages API from Python to Rust, cutting CPU usage by 70%",
+    "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/",
+    "source": "The Neuron",
+    "publishedDate": "2026-11-27",
+    "summary": "Anthropic가 핵심 Messages API를 파이썬에서 러스트로 무중단 전환해 CPU 사용량을 70% 절감했다고 밝혔다. 대규모 트래픽을 처리하는 LLM 서비스에서 인프라 효율화가 비용과 응답 속도에 직접적인 영향을 미친다는 점을 보여주는 사례다.",
+    "scorePct": 29
+  },
+  {
+    "rank": 5,
+    "title": "석유공사·국립암센터, AI 신뢰성 검증 요구…공공시장 수주 기준 바뀐다",
+    "url": "https://n.news.naver.com/mnews/article/018/0006416725",
+    "source": "네이버",
+    "publishedDate": "2026-11-27",
+    "summary": "국내 공공기관들이 AI 사업자 선정 시 모델 성능뿐 아니라 안전성·신뢰성 입증을 요구하는 방향으로 수주 기준을 바꾸고 있다. 공공시장에 AI 모델을 공급하려는 기업들은 이제 신뢰성 검증 체계를 갖춰야 하는 부담을 안게 됐다.",
+    "scorePct": 14
+  }
+]
